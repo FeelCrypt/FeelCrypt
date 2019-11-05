@@ -1,0 +1,990 @@
+title,score,id,url,comms_num,created,body,timestamp
+"Evidence that the mods of /r/Bitcoin may have been involved with the hacking and vote manipulation ""attack"" on /r/Bitcoin.",8583,7eil12,https://www.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/,1163,1511306758.0,"
+While running the Censorship Notifier Bot, we generally try to stay out of any specific situations regarding any subreddits we monitor. But the very nature of the CNBot requires it to collect and store large amounts of data, and requires us to be aware of normal trends within a subreddit to ensure the bot is running correctly. Specifically, the bot needs to know exactly what was on the site at a specific time, and when things disappear from the site. This data positions us to diligently analyze events and check real data as we go. When we first began looking at the massive downvoting attack as shown in [BashCo's previously stickied thread](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling) last week, the first thing we noticed was that both of the bot-voted comments ( [Image of #1](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/-/dpto887/?depth=1), link [to #2](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/-/dptpngb/?depth=1) ) would normally trigger our censorship notifier detection. Both ""censoring"" and ""censorship"" are trigger words we have found triggering automatic removal, something we later confirmed again. This would imply that either the comments were explicitly approved by the moderators at that time, or our understanding of the subreddit's policies needed updating. We began to dig into the data available, and those findings lead us to the conclusion that we must publish what we had found. **Note:** All times are in UTC; Some references are moved to the end of the document, tagged as [REF-1], [REF-2], etc.
+
+
+# Overview
+
+
+We'll start out by giving a rough picture of the events that transpired. The bots which were downvoting comments and posts on /r/Bitcoin and upvoting posts on /r/btc began their attack on 11/14/2017 at around 18:00 utc. A similar unusual pattern of voting appeared on /r/btc around the same time the day before, though less dramatically. The bots seemed to be [pushing people to buy Bitcoin Cash](https://np.reddit.com/r/btc/comments/7cp4v0/buy_bitcoin_cash_right_now_youre_gonna_regret_it/) in such a blatant way that it even left a [bad taste in the mouths of Bitcoin Cash supporters](https://np.reddit.com/r/btc/comments/7cp4v0/buy_bitcoin_cash_right_now_youre_gonna_regret_it/dprled0/). Both the attack the day before and the /r/Bitcoin bot voting attack on 11/14/2017 ended before or around 22:00 utc [REF-3]. The bots attacking /r/Bitcoin upvoted posts complaining about high fees and downvoted about 30 other /r/Bitcoin posts. At the same time they upvoted posts on /r/btc. We identified 65 comments downvoted by bots in /r/Bitcoin and 2 upvoted. The conclusions appeared to indicate that the bots were promoting Bitcoin Cash and /r/btc and harming /r/Bitcoin.
+
+
+# Suspicious comment #1
+
+
+We began investigating into the comments that caught our eye at first, referred to as [[CU-1]](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dpto05x/?depth=1) and [[CU-2]](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/-/dptpngb/?depth=1) for short. [CU-1]'s [content can be seen](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/-/dpto887/?depth=1) here as it originally looked. Immediately we noticed the next oddity - How were people able to see votes in /r/Bitcoin to discuss voting in the first place? /r/Bitcoin has blocked votes [from being visible](http://archive.is/kigsu) on comments during discussion for years. When did that change? We found that it changed right before [CU-1] was posted. BashCo stickied a comment stating they would ""[pull back the curtains](http://np.reddit.com/r/Bitcoin/comments/7cyj7o/-/dptn609?depth=1)"" at 20:49, and archive.org confirmed that scores became visible between [20:32 utc](https://archive.is/VcYfO) and [20:50 utc](http://archive.is/uh8fs). That, oddly enough, was just 13 minutes before [CU-1] was posted at 21:02:25.
+
+
+We have determined that [CU-1] was indeed blocked by /r/Bitcoin's automoderator rules as we expected. The [screenshot taken](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/-/dpto887/?depth=1) by /r/Bitcoin moderator StopAndDecrypt clearly shows this, as the [""moderator approved"" checkmark is present](https://imgur.com/pXkH7Jv). We also tested automoderator rules with an aged account with karma and confirmed that ""censors"" and ""censoring"" were both blocked [REF-1]. Note that the poster, darwin2500 (under control of hacker, please don't ping them; they aren't a Bitcoiner) could not have been an ""approved submitter"" - they seem to have only had [one comment](https://np.reddit.com/r/Bitcoin/comments/75vjl0/btc_breaks_5000/doa16nz/) in /r/Bitcoin before the hacking. So why was the comment manually approved? We are not aware of any other approved or allowed comments that blatantly reference censorship like that in the last several months. The obvious answer is that after ""pulling back the curtain"" and making votes visible, the /r/Bitcoin mods wanted to give people an opportunity to see this voting manipulation in action.
+
+
+Except this idea did not hold up. We found 10 similar comments from the same time period which were not approved or were explicitly removed unlike [CU-1]. Some of these were uncannily similar to the original comment. For example [this one](https://np.reddit.com/r/noncensored_bitcoin/comments/7cyuxo/uncensoredrbitcoin_i_just_got_257_downvotes_in_8/dptum4o/) was submitted 8 minutes after [CU-1] and never approved. Another [here supported neither subreddit](https://np.reddit.com/r/noncensored_bitcoin/comments/7cyuxo/uncensoredrbitcoin_i_just_got_257_downvotes_in_8/dpuc7bx/) and was blocked at 21:48 and never approved. [This one accused](https://np.reddit.com/r/noncensored_bitcoin/comments/7cyuxo/uncensoredrbitcoin_i_just_got_257_downvotes_in_8/dptu3ps/) /r/Bitcoin mods of being paid by Blockstream and was manually removed at ~22:35. A fourth [was identical to](https://np.reddit.com/r/noncensored_bitcoin/comments/7cyuxo/uncensoredrbitcoin_i_just_got_257_downvotes_in_8/dptzspb/) [CU-2] and blocked at 00:12 and never approved. The same account of [CU-1] submitted [a second comment](https://np.reddit.com/r/noncensored_bitcoin/comments/7cyuxo/uncensoredrbitcoin_i_just_got_257_downvotes_in_8/dptot0v/) 5 minutes after [CU-1] and was blocked and not approved. The other 5 things blocked or removed around the same time were: [[1]](https://np.reddit.com/r/noncensored_bitcoin/comments/7cyhia/uncensoredrbitcoin_attack_continues_on_bitcoin/dptlkwu/) [[2]](https://np.reddit.com/r/noncensored_bitcoin/comments/7cyr0g/uncensoredrbitcoin_21_hours_still_zero/dptnvih/) [[3]](https://np.reddit.com/r/noncensored_bitcoin/comments/7cynma/uncensoredrbitcoin_bitcoin_cash_blocktimes_are/) [[4]](https://np.reddit.com/r/noncensored_bitcoin/comments/7cyr0g/uncensoredrbitcoin_21_hours_still_zero/dptukye/) [[5]](https://np.reddit.com/r/noncensored_bitcoin/comments/7cyhia/uncensoredrbitcoin_attack_continues_on_bitcoin/dptwe4b/). The existence or absence of most of these comments around the claimed time can be verified independently of the censorship_notifier, see [REF-2]
+
+
+But the why wasn't the only oddity. [CU-1] was submitted, approved, upvoted, and screenshotted all in less than 180 seconds, as shown by [its screenshot](https://i.imgur.com/X75XhJG.png) (""2 minutes"" rounds down on Reddit). That is an extremely short time for an automoderated comment to be approved based on what we have observed and in checking other subreddits open modlogs on approvals. Perhaps the moderators were very snappy about approving comments within this particular thread? Once again, this idea did not hold up. [This comment](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/-/dptocyw) appears to have been manually approved as it wasn't seen [until the third scan](https://imgur.com/Y52ER6o) after its supposed creation, ~11 minutes of delay. Perhaps only when the comment was a direct reply to BashCo? Still no - [Here's a comment](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/-/dptpcw4) that was a direct reply to BashCo, but [didn't show up in scans](https://imgur.com/GMYw9fK) for 45 minutes. Here specifically the our data can be independently checked - [This snapshot](https://archive.is/88aXe) does not show the comment, but [this one](https://archive.is/MDa7O) does.
+
+
+Despite all the comments being blocked or removed as normal that we found, what we did not find was any other examples of anti-r/Bitcoin comments approved or allowed ***except the comments the bots upvoted***. Three snapshots([[1]](https://archive.is/nngZQ) [[2]](http://archive.is/APpsJ) [[3]](https://archive.is/88aXe)) of the thread in question show no other strongly anti-r/Bitcoin comments present except [CU-1] and [CU-2]; Why did the moderators specifically allow [CU-1] and [CU-2] and nothing else? Perhaps they wanted to reveal the voting patterns, but then why only those comments? Further, by the time of [CU-1], the bot had not upvoted any comments at all. Why would the moderators assume that particular comment and *no others* would be upvoted, a mere 13 minutes after they ""pulled back the curtain?""
+
+
+In addition to the data we're referenced, our claims about the moderation of [CU-1] can be verified by either the admins or any current moderators of /r/Bitcoin, as moderator log events cannot be deleted. If anyone sends us an image of the moderator who approved this comment(preferably with full HH:MM:SS timestamp!) we will add the image to this post and keep their identity anonymous.
+
+
+# How did the bots pick targets?
+
+
+The next thing we investigated was the behavior of the bots during the ""attack"". How many posts and comments did they downvote? How many did they upvote? What did they pick and were there any obvious correlations? We initially identified only two posts inside /r/Bitcoin that were upvoted by the bots - Both being posts about long delays on the OP's transaction confirmations. The [first post](https://np.reddit.com/r/Bitcoin/comments/7cwpme/transaction_still_not_confirmed/) was removed by moderators but otherwise no one seemed to notice the sudden upvotes. The [second post upvoted](https://np.reddit.com/r/Bitcoin/comments/7cy430/21_hours_still_zero_confirmations/) on the other hand had [users commenting](https://np.reddit.com/r/Bitcoin/comments/7cy430/21_hours_still_zero_confirmations/dptiws5/) on the upvotes within 8 minutes of it being posted and had several comments downvoted within it by the bots. Generally (but not always) the targets of the bots got 200-250 votes, either up or down [REF-3]. Even before the moderators of /r/Bitcoin revealed comment scores, users were [commenting on the obviousness](https://np.reddit.com/r/Bitcoin/comments/7cy430/21_hours_still_zero_confirmations/dptiws5/) of the downvotes (edits). We found images from hacked users which showed what posts the bots chose to upvote and downvote, which further helped us identify as many of the posts as possible [REF-4] [REF-5].
+
+
+The comments upvoted, too, were specifically chosen. Both comments upvoted were ones [attacking /r/Bitcoin over censorship](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/-/dpto887/?depth=1), and without [any subtlety](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/-/dptpngb/?depth=1). Both comments were in the primary stickied thread with most of the comment downvotes. We quickly determined that the account that posted [CU-1] was under the control of the hacker, something [other users](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dptpdno/) also concluded. [CU-2] was posted by a clear /r/Bitcoin supporter based on history. Both comments used words that /r/Bitcoin's automod rules normally silently block [REF-1]. Other comments that subtly denigrated the subreddit's policies were noticed by the bot - but were [***downvoted*** *instead of upvoted*](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dptnx5a).  Why?
+
+
+The comments and posts chosen for downvoting were all over the place. Many of the comments chosen for downvoting seems to have been simply ""because they were there in the thread"" - For example [every single comment visible](https://archive.is/nngZQ) in before 20:50 was downvoted. BashCo was targeted more than any other user(8 comments), but the bot generally didn't seem to focus on specific users. The vast majority of comments downvoted(54/65) happened in the stickied post, with 6 more happening in the [second upvoted](https://np.reddit.com/r/Bitcoin/comments/7cy430/21_hours_still_zero_confirmations/) post. The remaining 5 comments downvoted were scattered across 4 different posts [REF-3]. The bot specifically went after comments and posts talking about downvotes, the accounts hack, or the attack itself [REF-5] but they also downvoted [neutral posts](https://np.reddit.com/r/Bitcoin/comments/7cxek6/billionaire_investor_novogratz_institutional/). The voting seemed to come almost exclusively in waves targeting one thing at a time, which made the bot votes obvious to anyone who was looking for them - which people were, since many posts targeted [were about](https://np.reddit.com/r/Bitcoin/comments/7cy92u/my_votes_are_being_manipulated/) the downvotes.
+
+
+We also noticed that an extremely high number of /r/Bitcoin and /r/btc users were reporting that they themselves were hacked and part of the bot attack. We identified [35 such users](https://pastebin.com/ADN7Qg0E), but the highest number of votes seen on a single thing indicate between 250-300 accounts involved with the attack. Over 10% of the hacked users were Bitcoiners, what are the chances of that? Well, Reddit has (very) roughly 50 million accounts, and the CN database indicates that about ~50k are regular or semi-regular /r/Bitcoin and /r/btc users, which is 1/1000th. 35 / 300 of hacked users being regular Bitcoin users and feeling the need to post about it is > 1/10th. Whoever was running this bot seems to have intentionally chosen Bitcoin users - It seems like they **wanted** the hacked users to see the results of the hack.
+
+
+The result of all of this was that many many people commented on the blatantness of the voting, with [many of them](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dpugpdb/) suspicious as to why anyone [would do such](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dptvqr7/?depth=1) a blatant attack. More examples: [[1]](https://np.reddit.com/r/btc/comments/7d4sj8/false_flags_vote_manipulation_and_trolls/dpv22ps/) [[2]](https://np.reddit.com/r/noncensored_bitcoin/comments/7cyuxo/uncensoredrbitcoin_i_just_got_257_downvotes_in_8/dpu00fs/) [[3]](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dpuec87/) [[4]](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dpttuzs/?depth=2) [[5]](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dptsq0q/) [[6]](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dpu5c49/) [[7]](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dptpbxn/) [[8]](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dptnh2d/) [[9]](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dpv2dbj/).  Amidst all of this there was one exception so subtle that we almost missed it - There were two posts voted on that ran completely contrary to the rest of the behavior of the bot. The first image showed upvotes on [a pro-/r/Bitcoin](https://np.reddit.com/r/Bitcoin/comments/7cnihn) post [""PSA: Attack on Bitcoin""](https://i.imgur.com/ES2AV5br.png) thread and a downvote for the anti-/r/Bitcoin [""awkward meme orgy""](https://i.imgur.com/qPPebBv.png) /r/btc [thread](https://np.reddit.com/r/btc/comments/7cntb5/since_you_cannot_debate_anything_without_getting/). At first we thought maybe this was a legitimate vote by [this user](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dpu3uqc/?context=2) mixed in with bot votes, but archive.org showed us that indeed that /r/btc thread got [a sudden wave](http://archive.is/nfkeQ) of downvotes in [less than 23 minutes](http://archive.is/Gsrjj). Perhaps the bot forgot which side it was pushing for? But both changes were subtle and not noticed by any users as far as we can tell.
+
+
+The final thing the bot did as far as we have identified was to upvote [CU-2], and then the attack seems to have stopped suddenly. That comment [wasn't upvoted](https://archive.is/88aXe) until [21:55 - 22:05](https://archive.is/fkmqN). So what about that comment? Why was that the only comment not under its own control upvoted, and why did the attack stop suddenly afterwards?
+
+
+# Suspicious comment #2
+
+
+The CN database gave us some hints. Both the [CU-2] and [this comment](https://np.reddit.com/r/noncensored_bitcoin/comments/7cyuxo/uncensoredrbitcoin_i_just_got_257_downvotes_in_8/dptot0v/) were deleted by the user, likely when they took back control over their hacked account. [CU-1] was deleted at 21:23 +/- 1 minute, ~21 minutes after creation [REF-6], and not present [in that snapshot](http://archive.is/APpsJ). The votebot operator probably didn't expect this to happen so quickly. After that deletion there [was no obvious](http://archive.is/APpsJ) comment showing their upvotes on the thread, and there were no obvious choices to choose from. It seems that they wanted a comment that wouldn't vanish, so not a hacked account, and also that they preferred a comment that could ultimately be used to make /r/btc look guilty.
+
+
+[4n4n4's comment [CU-2]](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/-/dptpngb/?depth=1) provided exactly this, and it was posted to the thread ~5 minutes after [CU-1] was deleted - at 21:28. [CU-2] was never blocked by automoderator, it was picked up in the next CN scan ~1 minute later... Seemingly because 4n4n4 is an approved submitter. They have a long history of pro-/r/Bitcoin comments; we [archived 5 pages](https://archive.is/kyvg5) of comments. The moderators left the comment in place and the bot didn't touch it [for at least](https://archive.is/88aXe) 27 minutes. With the similarities listed above, [CU-2] made the ideal next target for the bot's upvoting. Almost immediately after it did so, 4n4n4 screenshotted, [archived,](https://archive.is/fkmqN) and edited the comment. And then the bot's voting attack instantly ceased as far as we can tell [REF-3] [REF-5].
+
+
+But 4n4n4 was not a hacked account. So who is 4n4n4?
+
+
+# So who posted that?
+
+
+We have a surprisingly large amount of evidence indicating that 4n4n4 is /u/nullc, the CTO of Blockstream.
+
+
+The biggest indicator we found is that nullc has the very frequent pattern-- of writing--his sentences with [two dashes](https://imgur.com/A2wz071) separating words. This by itself is somewhat rare, though we confirmed that he uses it [more times than anyone else](https://imgur.com/JPNZPZy) in the CN database, the [much more unusual](https://np.reddit.com/r/Bitcoin/comments/79ih3o/just_visited_rbtc_wtf/dp2e8oa/) habit is using two dashes [with no spaces](https://imgur.com/awD5FhU) on [either side](https://archive.is/MEB6T). The CN database [stored 860,000 comments](https://imgur.com/FQhpjuW) for us to compare with, and very quickly confirmed the similarities between the two. His history is littered with examples, but we also used the [bitcoin-dev email list](https://imgur.com/9wEcp0a) to confirm [the unusual](https://imgur.com/LXIPpoO) habit. [Like 4n4n4](https://np.reddit.com/r/Bitcoin/comments/79ih3o/just_visited_rbtc_wtf/dp2e8oa/), nullc also has examples of using [this--specific](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-May/007880.html) pattern twice in one sentence, which was extremely rare in our searches.
+
+
+But there were many more things we noticed. We found [several examples](https://archive.is/wcNiD) of 4n4n4 picking up [nullc's conversations](http://archive.is/fvQvQ) and [continuing them](http://archive.is/MZ5Og ). One such case was 4n4n4's [third comment ever](https://archive.is/FS6Rx). 4n4n4 also [referenced](http://archive.is/ejiP7) many of [nullc's writings](http://archive.is/x7R3i) and [posts](http://archive.is/tEuWa). 4n4n4 referenced [this code change](http://archive.is/5u2pu) that [originated from](https://github.com/bitcoin/bitcoin/pull/10618) nullc [multiple times](http://archive.is/eMHWw). 4n4n4's [CU-2] comment edit used the words [""rbtc playbook,""](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/-/dptpngb/?depth=1) something our database confirmed was [extremely rare](https://imgur.com/Q1CRUop) but is a saying [nullc likes](http://archive.is/51TUB).
+
+
+And that was just the beginning:
+
+
+1. Very knowledgable [about](http://archive.is/ko1Dy) Bitcoin Core [development](http://archive.is/h0YxO) & the history of the [scaling conflict](http://archive.is/OvI92).
+
+2. 4n4n4 picked up a thread [after many replies](https://archive.is/LSxtA) by nullc arguing that [low fees and empty mempools](http://archive.is/0IWd0) are actually a **problem**.
+
+3. Just [like nullc](http://archive.is/wyIrj), 4n4n4 [liked BIP148](http://archive.is/3NoZS) but did not ""support"" or ""endorse"" it.
+
+4. Seems [to know](http://archive.is/js5Dn) an awful lot [about nullc's](http://archive.is/zsVgt) life.
+
+5. Used the phrase [""Bitcoin's creator""](https://archive.is/aNZ55), a major nullc trait [previously documented](http://archive.is/WZu3d)
+
+6. [Talks](http://archive.is/X8bYI) about [nullc](http://archive.is/8jVLw). A [lot.](http://archive.is/IEv42)
+
+7. [Somehow knows](http://archive.is/YtmVT) who is [working on what](http://archive.is/2qfrJ) within Blockstream.
+
+8. And even responded [directly to nullc](http://archive.is/THgKp) in support of a claim nullc had made [multiple times within that thread](http://archive.is/RvE9O)
+
+
+
+# Conclusions
+
+
+After the massive amount of research we put into this, we believe that at least one moderator of /r/Bitcoin must have been either aware of the bot's plans (and allowed it to place blame on others), or have executed the attack themselves. This is most likely the moderator who immediately approved the [CU-1] comment. Other moderators may or may not have been involved. Meaning, yes, we believe that a moderator of /r/Bitcoin either directed or was complicit in the hacking of many of their own Bitcoin Reddit user accounts.
+
+
+We believe that it is likely that /u/4n4n4 aka /u/nullc was also aware of or involved in this attack based upon the suspicious timing and similarities of [CU-2]. A Core Developer of /u/nullc's experience would certainly have the technical abilities to pull off such an attack, but that is true of many others on both sides of the debate as well. Some users reported that the IP addresses the bots logged in from were vultr instances and that vultr 1) requires tracable payment methods like credit cards, and 2) takes an aggressive stance against abuse of their systems, so perhaps more information can come to light about this yet.
+
+
+We encourage the Reddit admins to carefully review our claims and to validate them. If our claims here are true, surely some type of strong action is warranted. Please note that we have tried to make sure all of our links are archived, but they were archived under the www.reddit.com domain and **not** the np.reddit.com domain.
+
+
+For any people who found this post helpful and want to tip us, **please** donate your tips to archive.is and archive.org (not us). Without those two amazing services none of this research would be possible.
+
+---
+---
+
+# References
+
+
+[REF-1] - Exact steps to confirm automoderator rules, on a aged account with comment karma: Before http://archive.is/ngxZk -> direct copy of [CU-1] (blocked) http://archive.is/yq52B (showing) http://archive.is/qPJTo -> ""censoring"" (removed) http://archive.is/geSvJ (showing) http://archive.is/muQzT -> ""censors"" (removed) http://archive.is/neMwe (showing) http://archive.is/2OLal -> After (showing) http://archive.is/LdZMb userpage: http://archive.is/SwCQ2.
+
+
+[REF-2] - Links of userpages showing comments removed and subreddits showing missing: [[1a]](https://archive.is/Ns2pw) [[1b]](https://archive.is/9Mm2Y) [[2a]](https://archive.is/1gPGH) [[2b]](https://archive.is/7wNKR) [[3a]](https://archive.is/Zstgz) [[3b]](https://archive.is/1Qwmj) [[4a]](https://archive.is/wX7qo) [[4b]](https://archive.is/fF46A) [[5a]](https://archive.is/Ns2pw) [[5b]](https://archive.is/XTEws) [[6a]](https://archive.is/AYRKi) [[6b shows missing]](https://archive.is/tO30V). These additional archive.org links show several of these items missing (or visible) at the snapshot time: [[1]](http://archive.is/APpsJ) [[2]](https://archive.is/tO30V) [[3]](http://archive.is/ShH66) [[4]](https://archive.is/88aXe) [[5]](https://archive.is/tNJY8)
+
+
+[REF-3] - Data dump of [all comments posted around](https://pastebin.com/CARLA5Uv) the time of the event, with notes. CSV format.
+
+
+[REF-4] - Images from hacked users: [[1]](https://imgur.com/a/ok4R8) [[2]](https://imgur.com/a/m7ImJ) [[3]](https://imgur.com/a/m5zjS) [[4]](https://imgur.com/a/l00tz) [[5]](https://imgur.com/gallery/5ghxz) [[6]](https://i.imgur.com/ES2AV5br.png) [[7]](https://i.imgur.com/qPPebBv.png)
+
+
+[REF-5] - Final vote tallies for [all posts up to 24 hours prior](https://pastebin.com/WAnMGryV) to the event's end, with notes. CSV format.
+
+
+[REF-6] - [Records from](https://imgur.com/v1Imzug) the CN database regarding when darwin2500's comment was deleted. ""minutesAlive"" is incremented every time the item is seen and starts from the first_seen_live
+",2017-11-22 00:25:58
+The idiocracy of r/bitcoin,7767,7opi7w,https://i.imgur.com/I2Rt4fQ.gifv,749,1515341951.0,,2018-01-07 17:19:11
+"As of today, Steam will no longer support Bitcoin as a payment method",6985,7hzklb,https://twitter.com/SteamDB/status/938459631449493504,1170,1512610164.0,,2017-12-07 02:29:24
+"Buy, sell, send and receive Bitcoin Cash on Coinbase",5326,7kxfor,https://blog.coinbase.com/buy-sell-send-and-receive-bitcoin-cash-on-coinbase-65f1b2c7214b,1001,1513757045.0,,2017-12-20 09:04:05
+"r/bitcoin mods removed top post: ""The rich don't need Bitcoin. The poor do""",4809,7dzqhm,https://i.redd.it/ecye6mgwnwyz.png,498,1511114549.0,,2017-11-19 19:02:29
+Guess who controls over half a billion Tethers across 3 exchanges—over 73% of USDT currently in circulation.,4755,7ih0hd,https://www.reddit.com/r/btc/comments/7ih0hd/guess_who_controls_over_half_a_billion_tethers/,620,1512787506.0,"**EDIT 5:** I feel the need to re-state that **there's always the possibility that we're all severely misunderstanding** what's going on here. ***Which is actually my hope, as I've already stated.*** I want to emphasize that I am just some guy. I get things wrong and I make mistakes. Knowing this, please don't take this post as the gospel truth. I am not an authority. In such a case that we are indeed severely misunderstanding things, I would also hope that Bitfinex/Tether could explain what all this is about, so we can all chillax.
+
+**EDIT 4:** Apparently this is making some waves. I realize there are people who will see this that are new to cryptocurrency. A fairly general understanding/background on Bitfinex, Tether, and the history of cryptocurrency exchange scandals would be useful. (i.e. Mt. Gox - which fraudulently made off with millions of dollars worth of BTC after artificially inflating its price at the expense of thousands of users) As this post is already extremely lengthy, I'll try and sum up the basics before getting started (skip to below this section if you are already familiar):
+
+&nbsp;
+
+First off, I'm not the first person to look into this. And it's hardly new info. For example, Bitfinex'ed ([medium](https://medium.com/@bitfinexed), [twitter](https://twitter.com/bitfinexed)) has been onto this situation for quite some time now, and it's worth checking out if you want to keep learning.
+
+&nbsp;
+
+1. I've previously [posted](https://www.reddit.com/r/btc/comments/7e2drk/do_tethers_legal_terms_seriously_outline_the/) on the interrelatedness of Bitfinex and Tether. Worth a read if you don't know how they're connected.  
+
+2. Bitfinex is a cryptocurrency exchange with a dark past involving multiple run-ins with trading laws and regulations, problems with banks and multiple hacks resulting in the loss of millions of dollars worth of BTC.  
+
+3. Tether (USDT) is a fairly new development. Its first address came into existence in 2014. What it claims to be is a cryptocurrency backed 1:1 with the USD. So for every Tether, there is supposedly $1 backing it. Thus the name, ""Tether."" Problem is, there is no evidence of this. The requirements to buy Tether involve extensive verification hoops, that make it pretty much defeat the purpose of cryptocurrency.
+
+4. The primary difference between Tether and virtually *every other cryptocurrency in existence* is that it does ***not have to be mined into existence.*** It can simply be ""typed"" into existence through a keyboard. Go ahead, type a number on your keyboard. $100,000,000? No problem. Done. 
+
+5. Because of this, and after seeing hundreds of millions of Tether being typed into existence to the tune of over 800 million, most of which is being used on exchanges, it has come to the attention of the cryptocurrency community as a whole, that Tether may not be such a great thing for Bitcoin - or any other cryptocurrency. We've found that it is being ""created"" freely, without any proof of its required $USD reserves.
+
+&nbsp;
+
+Tether has the equivalent power of the Federal Reserve. That alone, is ***absolutely insane.*** You can see why these factors combine to create a somewhat stormy horizon for cryptocurrency as a whole.  
+
+**All I aim to do in this post is to outline who owns the majority of Tether (USDT), where it's located, how much of BTC's daily trading volume it makes up, and how I came to those conclusions.** Anything beyond that, like implications or predictions about price, manipulation, BTC being propped up by Tether, etc. or any kind of conspiracy, I steer clear from. The information below is, to the best of my knowledge, purely factual information, not theoretical.
+
+----
+
+**Start here if already familiar.**
+-
+
+&nbsp;
+
+This is going to sound crazy. But the wallets don’t lie, and I’ll break it all down below *(as if summoning hundreds of millions of dollars worth of fake money out of thin air to spend on real crypto-currency wasn't crazy-sounding enough)*. I know this is long, but it's worth reading if you have the time. TL;DR at the bottom. 
+
+&nbsp;
+
+First, I need to outline which addresses are which. All the following addresses were at one time, or are currently on Tether's ""[Rich List](https://wallet.tether.to/richlist)."" And as we'll get to below, belong to Bitfinex:  
+
+**Tether Printer:** [3MbYQMMmSkC3AgWkj9FMo5LsPTW1zBTwXL](http://omniexplorer.info/lookupadd.aspx?address=3MbYQMMmSkC3AgWkj9FMo5LsPTW1zBTwXL)  
+**Tether Treasury:** [3BbDtxBSjgfTRxaBUgR2JACWRukLKtZdiQ](http://omniexplorer.info/lookupadd.aspx?address=3BbDtxBSjgfTRxaBUgR2JACWRukLKtZdiQ)  
+**Bitfinex-A:** [1KYiKJEfdJtap9QX2v9BXJMpz2SfU4pgZw](http://omniexplorer.info/lookupadd.aspx?address=1KYiKJEfdJtap9QX2v9BXJMpz2SfU4pgZw)  
+**unknown/Bitfinex-B:** [1AA6iP6hrZfYiacfzb3VS5JoyKeZZBEYRW](http://omniexplorer.info/lookupadd.aspx?address=1AA6iP6hrZfYiacfzb3VS5JoyKeZZBEYRW)  
+**Bittrex:** [1DUb2YYbQA1jjaNYzVXLZ7ZioEhLXtbUru](http://omniexplorer.info/lookupadd.aspx?address=1DUb2YYbQA1jjaNYzVXLZ7ZioEhLXtbUru)  
+**Poloniex-A:** [1Po1oWkD2LmodfkBYiAktwh76vkF93LKnh](http://omniexplorer.info/lookupadd.aspx?address=1Po1oWkD2LmodfkBYiAktwh76vkF93LKnh)  
+**Poloniex-B:** [1Co1dhYDeF76DQyEyj4B5JdXF9J7TtfWWE](http://omniexplorer.info/lookupadd.aspx?address=1Co1dhYDeF76DQyEyj4B5JdXF9J7TtfWWE)  
+
+&nbsp;
+
+As some of you know, I’ve been investigating the web of transactions and addresses from OmnExplorer for the last several days/weeks. It has become more interesting the deeper I dig: Tether, ***through Bitfinex*** (their own partner, arguably owned by the same company) is sending hundreds of millions of USDT to Bittrex and Poloniex accounts. This would be normal if it weren’t for the fact that all these accounts appear to be under control of Tether & Bitfinex directly.
+
+&nbsp;
+
+**From Tether to Bitfinex to Bittrex**
+-
+
+I discovered this when I realized Bitfinex doesn’t have any USDT trading [volume](https://coinmarketcap.com/currencies/tether/#markets), nor is USDT offered for any trading pairs on Bitfinex, despite Bitfinex being the only Associate of Tether listed in its legal terms. “So what, Pepto?” Well this is *weird* for several reasons:
+
+&nbsp;
+
+1. **Bitfinex is listed as the only partner of Tether** in Tether’s legal terms. You’d think the ***only exchange*** partnered with Tether, and indemnified in its legal terms, would be offering USDT in its trading pairs, no? Why isn’t USDT offered on Bitfinex? After all, they are heavy users of it.  
+
+2. **Bitfinex-A has been the [recipient](http://omniexplorer.info/lookuptx.aspx?txid=0bf949bf09c6e02555a6b07e527cc2810b8c7a68cace83d5378bd46c3f064123) of hundreds of millions of USDT,** directly from the Tether Printer and Treasury.  
+
+3. **Bitfinex-A has spent the majority** ***(hundreds of millions in ~half-million to million increments)*** **of its USDT** by [sending](http://omniexplorer.info/lookuptx.aspx?txid=6e143b4b8770bddf1c8118ba0b42ef5b600bea925bc826b8f3cda7ca2d6c87a3) it to an ***unknown address*** which ***exclusively*** [sends](http://omniexplorer.info/lookuptx.aspx?txid=bcb0f12cbadc5d6deefd1675f8f42e035851406eec6fc54f4ab2328f96fa9b1f) USDT to **Bittrex.**  
+
+4. **Bitfinex-A and Bittrex are currently top 3 on Tether's ""Rich List.""** They currently hold ~386million USDT across both addresses.  
+
+&nbsp;
+
+Think about these points. The *only one* who can be in control of this ***unknown address*** is Bitfinex. Here's why: **1)** Bitfinex does not offer or trade USDT. Tell me what random soul out there is *privately* selling hundreds of millions of USDT worth of goods or services directly to Bitfinex, only to send their USDT revenue to Bittrex? Who in their right mind would sell anything in exchange for Tether? **2)** It’s not Bittrex, because they would have received it from the Treasury if they had directly bought it from Tether for use in their trading pairs, the only place besides an exchange where you can get it. *But besides offering it as a trading pair, what exchange would ever directly trade hard cash for a digital token whose terms of service explicitly outline its worthlessness?*
+
+&nbsp;
+
+It is because of these points that we can safely deduce that this unknown address is owned by Bitfinex. So we’re going to label this unknown address “Bitfinex-B” for future reference. Next. If Bitfinex-B is sending USDT ***exclusively*** to the Bittrex address on Tether’s “Rich List” immediately after receiving USDT from Bitfinex-A, who is the owner of the Bittrex address?
+
+&nbsp;
+
+Do we need to ask why Bittrex would ever exchange cash, goods or services with Bitfinex for USDT again? It's pretty clear at this point that the ""Rich List"" Bittrex address belongs to Bitfinex as well. Alright, so in case we're lost, so far, the flow of USDT looks like this:  
+
+Tether Printer >> Tether Treasury >> Bitfinex-A >> Bitfinex-B >> Bittrex  
+
+&nbsp;
+
+**From Poloniex to Bitfinex to Bittrex**
+-
+
+But wait, there’s more. Bitfinex-B also occasionally [*receives*](http://omniexplorer.info/lookuptx.aspx?txid=c26d37e37d20886be59aab6988e28fe7396154be4fe35da9a275d3a9beeacea0) several hundred thousand USDT from one of the “Rich List” Poloniex addresses (Poloniex-A). Poloniex-A also [sends](http://omniexplorer.info/lookuptx.aspx?txid=53cd8758586d625bc40b1e2001b80bb5f8304b95cbf6d550b5a7bf1208389174) tens of millions of USDT to the [second](http://omniexplorer.info/lookupadd.aspx?address=1Co1dhYDeF76DQyEyj4B5JdXF9J7TtfWWE) Poloniex “Rich List” address, (Poloniex-B) and visa/versa.  
+
+Poloniex-A >> Bitfinex-B + Poloniex-B  
+Poloniex-B >> Poloniex-A
+
+&nbsp;
+
+Now, if Bitfinex-B is receiving occasional USDT from Poloniex-A (as we outlined above), then who is sending USDT from the Poloniex-A? Let’s look at a few major hints:  
+
+&nbsp;
+
+1. Poloniex-A [has sent](http://omniexplorer.info/lookuptx.aspx?txid=acd6ff77da25c9a292fd93464f7425ae45c95d03c1a81144aea8cd0dbd1a8255) a tiny amount of USDT **directly to the Tether Printer** once before.  
+2. What reason would Poloniex-A have to send USDT to Bitfinex-B unless it were a withdrawal from a Poloniex account? Remember, Bitfinex doesn’t buy USDT, they distribute and spend it as Tether Associates.  
+3. Whenever Poloniex-A sends USDT to Bitfinex-B, the same amount is then sent from Bitfinex-B to the Bittrex ""Rich List"" address. Yes, the same Bittrex account we determined belongs to Bitfinex.  
+
+&nbsp;
+
+Here's the updated flow:  
+Poloniex-A >> Bitfinex-B >> Bittrex  
+Poloniex-A >> Poloniex-B  
+Poloniex-B >> Poloniex-A  
+
+
+They're all intertwined. 
+
+&nbsp;
+
+**From Poloniex to Bitfinex to Bittrex to Second Poloniex**
+-
+
+Considering these things, Bitfinex is the likely owner of not only Bitfinex-B and Bittrex, but also Poloniex-A. If it’s true that Bitfinex owns Poloniex-A and the Bittrex address, then Bitfinex may own ***both*** Poloniex addresses on the “Rich List” (Poloniex-A + Poloniex-B) Why? Consider these points:  
+
+&nbsp;
+
+1. Poloniex-A sent a total of ~180 million USDT to Poloniex-B up to November 28th 2017. It's just sitting there, with the occasional return spend back to Poloniex-A (the one Bitfinex owns).  
+2. Poloniex-B had also received an insignificant amount of USDT (~100 test transaction) ***[directly from](http://omniexplorer.info/lookuptx.aspx?txid=3f826d6df1ced2e6b41d9fe50e57ef7e62476a10beecaf92b09f63993a10f0d5) the Bitfinex-owned Bittrex address***.  
+3. Poloniex-A has sent hundreds of thousands of USDT to Bitfinex-B.  
+
+&nbsp;
+
+Here's the once-more updated flow:  
+Poloniex-A >> Bitfinex-B >> Bittrex >> Poloniex-B >> Poloniex-A   
+Poloniex-A >> Poloniex-B  
+
+&nbsp;
+
+So we have Poloniex-B, an address receiving 10's of millions of USDT from: Poloniex-A & Bittrex - both owned by Bitfinex. And only ever sending USDT back to Poloniex-A (owned by Bitfinex). Who do you think owns Poloniex-B?
+
+&nbsp;
+
+Unfortunately, the history only goes back 20 pages on OmnExplorer. So I can't confirm which address that initial ~180million USDT came from after it left the Treasury, before arriving in Poloniex-A.
+
+&nbsp;
+
+**Tether & Bitfinex Afraid of Their Own Coin?**
+-
+
+So, here's what's insane to me: **1. Bitfinex holds USDT on their exchange, yet doesn’t offer USDT in any of their trading pairs.** That's insane to me because Bitfinex is the only Associate of Tether in Tether's legal terms. If they do offer USDT, they're calling it USD which is sketchy as hell. **2. Instead, they pass their massive USDT balance on to exchanges that *do* offer USDT in their trading pairs.** Namely, Bittrex and Poloniex. Clearly, *someone* is trading USDT on these exchanges, as [CoinMarketCap](https://coinmarketcap.com/currencies/tether/#markets) displays. 
+
+&nbsp;
+
+**In summing up the USDT flow:**
+
+Printer >> Treasury >> Bitfinex-A >> Bitfinex-B >> Bittrex >> Poloniex-B >> Poloniex-A  
+Poloniex-A >> USDT Printer + Bitfinex-B + Poloniex-B  
+
+&nbsp;
+
+This rabbit hole is a lot deeper than the big toe I've stuck into it with this post, which only covers 4 addresses on Tether's ""Rich List."" Would you be willing to bet that most, if not all, addresses on the Rich List belong to Tether & Bitfinex? I won't say that's the case *(how could I?)*, but I will say that it wouldn't surprise me.
+
+&nbsp;
+
+Currently, the Tether ""Rich List"" accounts for ~644,000,000 (~76%) of the ~844,000,000 total USDT in circulation. There is 100,000,000 USDT that the Rich List doesn't display, probably the rest of the Tether being used in ""regular-person"" trading accounts in Huobi, OKEx, etc. Even if Tether & Bitfinex do not own all the addresses on the Rich List, if we only consider the ones we've already covered that they do likely own, that's still ~623,000,000 USDT (~74%) of the total ~844,000,000.  
+
+&nbsp;
+
+Tether & Bitfinex currently control at least 70% of USDT's circulation, and it's ***all on cryptocurrency exchanges.*** Taking this one step further, looking at the daily volume of USDT ($1.7 billion at the time of this writing), and adding up the total 24hr BTC/USDT volume across the major exchanges (Bittrex, Poloniex, Huobi, OKEx, Binance, HitBTC), which totals $1.12 billion at the time of this writing, we can see that the majority (~66%) of daily USDT trading volume is going into BTC.  
+
+&nbsp;
+
+***Think about who owns most of that USDT, as we already outlined above.***
+
+&nbsp;
+
+At BTC's current 24 hour trading volume of over $18billion, USDT makes up about 6% of BTC's trading volume.
+
+&nbsp;
+
+What about Bitfinex? They are, after all, ***the number one highest volume trader of BTC/USD.*** My only hope is that they aren't trading BTC/USDT under ""BTC/USD"" (I realize it is difficult to both deposit and withdraw at Bitfinex with USD). If they are, there is a ton of data that CoinMarketCap.com would currently not be able to display properly. We'd see USDT's daily trading volume increase by over $2.3billion. Combined with the current daily USDT volume of $1.7billion, we'd see its volume reach to over $4billion, the majority of which is on Bitfinex.
+
+&nbsp;
+
+Consequently, we would also see the daily BTC/USDT volume increase to over $3billion, which would make up about 17% of BTC's daily trading volume.
+
+&nbsp;
+
+I don't quite have the confidence yet to directly say what this means. Only that the facts I've laid out above do concern me. Thanks for reading, please feel free to contribute, debate, prove me wrong, etc. As most things I investigate, I'll be happy and relieved to be wrong about any and all of the above. :)  
+
+&nbsp;
+
+**EDIT 6:** We have some *potential* rebuttals for this situation. See the comment [here](https://www.reddit.com/r/btc/comments/7ih0hd/guess_who_controls_over_half_a_billion_tethers/dqz4knq/). There are still questions I have, and I'm not yet convinced but I appreciate this response. Feel free to contribute to the discussion.
+
+----
+
+&nbsp;
+
+**TL;DR** - Tether *(Tether Limited / Tether Holdings Limited)*, in partnership with Bitfinex *(BFXNA Inc. / iFinex Inc.)* is the sole user and trader of USDT across at least 3 major crypto exchanges (Bitfinex, Bittrex, Poloniex), controlling over 73% of USDT in circulation--623,000,000 of the total 844,000,000. While ~66% of USDT daily trade volume is on the BTC/USDT pair, USDT also happens to make up between 6% & 17% or more of daily BTC trading volume.  
+
+To boil it down: USDT was created by Tether, for Tether.
+
+----
+
+&nbsp;
+
+I welcome debate, and any further information that may prove me wrong. Yes, I want to be wrong on this. I hope I am wrong on this because it is insane to me that the company ~~printing~~ typing hundreds of millions of dollars worth of fake money out of thin air is the same company that controls the majority of that fake money, where it *primarily exists on cryptocurrency exchanges.*  
+
+&nbsp;
+
+**This kind of power was previously only wielded by the Federal Reserve!** Print money >> send to exchange >> buy assets >> rinse, repeat. Anyone familiar with the 2007-2009 financial crisis is well-aware of the bail-outs. Trillions were printed out of thin air to prop up the US economy. Am I saying BTC is being propped up by Tether? ***I haven't gotten that far yet.*** Is 6% to 17%+ of daily BTC trading volume enough to move its price? ***I don't know.*** And I emphasize this: 
+
+This post wasn't about BTC being--or not being--propped up by Tether. ***It's purely about fake money being used to buy legitimate valuable cryptocurrencies, which can be turned into USD or used to purchase real goods and services.***
+
+&nbsp;
+
+**EDIT 1: Bonus for anyone wanting to continue researching.** This address ([16tg2RJuEPtZooy18Wxn2me2RhUdC94N7r](http://omniexplorer.info/lookupadd.aspx?address=16tg2RJuEPtZooy18Wxn2me2RhUdC94N7r)) is under the label, ""Quarantined"" on the Tether ""Rich List."" It currently holds ~30million Tether, ***all received*** from this address ([31okFF1rUu8jjPEVuajycTRBp82Nteo4Mv](http://omniexplorer.info/lookupadd.aspx?address=31okFF1rUu8jjPEVuajycTRBp82Nteo4Mv)) towards the end of November. I'm interested because this ""31okFF"" address is one of the only other addresses receiving Tether from the Treasury. 
+
+&nbsp;
+
+**EDIT 2:** ***Incidentally, the Treasury hasn't sent Tether since November 19th. Is there a new Treasury?*** All we have to do to figure that out is go to the Printing address. Sure enough, it has been sending **hundreds of millions of Tether** to this new address ([1NTMakcgVwQpMdGxRQnFKyb3G1FAJysSfz](http://omniexplorer.info/lookupadd.aspx?address=1NTMakcgVwQpMdGxRQnFKyb3G1FAJysSfz)) since November 26th. This is the *only other address the printer has sent USDT to besides the original Treasury.*  **The patterns yet remain the same. After hitting the Treasury, USDT flows straight to Bitfinex-A.**  
+
+&nbsp;
+
+**EDIT 3:** From u/imaginary_username *(thank you for your efforts)* 
+
+>A few things to add:  
+
+>1. Tether ""Treasury"" moved after the ""hack"" to [1NTMakcgVwQpMdGxRQnFKyb3G1FAJysSfz](http://omniexplorer.info/lookupadd.aspx?address=1NTMakcgVwQpMdGxRQnFKyb3G1FAJysSfz).  
+
+>2. [1MZAayfFJ9Kki2csoYjFVRKHFFSkdoMLtX](http://omniexplorer.info/lookupadd.aspx?address=1MZAayfFJ9Kki2csoYjFVRKHFFSkdoMLtX) is the ""recycling"" address that flows Poloniex USDT back to Bitfinex. 
+ 1MZAayfFJ9Kki2csoYjFVRKHFFSkdoMLtX doesn't just recycle Polo USDT, it also recycles Bittrex.  
+
+>2. [15KXxPi4zAY5pLD8yvzZALXyCYhcqmuKuv](http://omniexplorer.info/lookupadd.aspx?address=15KXxPi4zAY5pLD8yvzZALXyCYhcqmuKuv) is another address that flows exclusively from finex to Bittrex.  
+
+>3. [1DdrGZDomf5tSWbxPYwZyDP6Zx5vFapPCx](http://omniexplorer.info/lookupadd.aspx?address=1DdrGZDomf5tSWbxPYwZyDP6Zx5vFapPCx) is ""Bitfinex flush"" that exclusively bounces a shitload of USDT back and forth between itself and Bitfinex-A.  
+
+>4. [1J1dCYzS5EerUuJCJ6iJYVPytCMVLXrgM9](http://omniexplorer.info/lookupadd.aspx?address=1J1dCYzS5EerUuJCJ6iJYVPytCMVLXrgM9&page=3) is an interesting one. It's been very active in shuttling Tethers from finex/Bittrex to Polo almost exclusively during the last few Tether prints and just recently did another one, but it's building up its stash again. Watch its movement and it can be rewarding.  
+
+-------
+
+&nbsp;
+
+**EDIT 5:** Due to the increasing attention of this post, I feel the need to re-state that there's always the possibility that we're all severely misunderstanding what's going on here. ***Which is actually my hope, as I've already stated.*** I want to emphasize that I am just some guy. I get things wrong and I make mistakes. Knowing this, please don't take this post as the gospel truth. I am not an authority. In such a case that we are indeed severely misunderstanding things, I would also hope that Bitfinex/Tether could explain what all this is about, so we can all chillax.  
+
+That said, the information in this post is presented to the best of my knowledge with the best of my ability, and it is only an opinion, which may be an erroneous one. I am not offering advice, nor do I intend for this post to be construed as advice. I make no accusations against Tether/Bitfinex regarding crimes. Anything that appears to be suggestive of crimes is not intended as an accusation, defamation or slander. All suggestions (whether criminal or benign) in this post are purely hypothetical and may not be relied upon to make sound financial or legal decisions. (Bitfinex, if you're reading this, instead of suing me or issuing a cease and desist, please clear the air for us all, so we can rest easy).
+
+&nbsp;
+
+^^^edit: ^^^formatting",2017-12-09 03:45:06
+"Average Bitcoin transaction fee is now above five dollars. 80% of the world population lives on less than $10 a day. So much for ""banking the unbanked.""",3413,6gek0z,https://www.reddit.com/r/btc/comments/6gek0z/average_bitcoin_transaction_fee_is_now_above_five/,460,1497118799.0,"80% of Bitcoin's potential user base, and the group that stands to benefit the most from global financial inclusion, are now priced out of using Bitcoin.  Very sad that it's come to this.
+
+**edit:** since this post is trending on /r/all, I'll share some background info for the new people here:
+
+1. Former Bitcoin developers Jeff Garzik and Gavin Andresen explain what the group of coders who call themselves ""Bitcoin Core"" are doing: https://medium.com/@jgarzik/bitcoin-is-being-hot-wired-for-settlement-a5beb1df223a
+
+2. Another former Bitcoin developer, Mike Hearn, explains how the Bitcoin project was hijacked: https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
+
+3. One of the key methods used to hijack the Bitcoin project is the egregious censorship of the /r/bitcoin subreddit: https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43 Reddit admins know and choose to do nothing. Just yesterday I had my post censored for linking *to the Bitcoin whitepaper* in /r/bitcoin: https://www.reddit.com/r/btc/comments/6g67gw/censorship_apparently_you_arent_even_allowed_to/
+
+The vast majority of old-school bitcoin users still believe that Bitcoin should be affordable, fast, and available to everyone. Bitcoin development was captured by a bank-funded corporation called Blockstream who literally believe that the more expensive and difficult to transact Bitcoin is, the more valuable it will be (because they apparently think that cost and difficulty of use are the defining characteristics of gold). Just a couple of days ago the CEO of Blockstream re-affirmed that he thinks even $100 transaction fees on Bitcoin are acceptable: https://www.reddit.com/r/btc/comments/6fybcy/adam_back_reaffirms_that_he_thinks_100/
+
+This subreddit, /r/btc, is where most of us old timers hang out since we are now mostly banned and censored from posting on /r/bitcoin. That subreddit has become a massive tool for pulling the wool over the eyes of new users and organizing coordinated character assasinations against any prominent individual who speaks out against their status quo. It was revealed that the Blockstream/Core group of developers even have secret chat groups alongside the moderators of /r/bitcoin for coordinating their trolling campaigns in: https://telegra.ph/Inside-the-Dragons-Den-Bitcoin-Cores-Troll-Army-04-07",2017-06-10 20:19:59
+Latest projections show BTC will break the time space continuum,3291,7i7qch,https://i.redd.it/jnq98mfs4j201.jpg,144,1512694057.0,,2017-12-08 01:47:37
+Two biggest Bitcoin subs according to their counterparts (posted on both subs),3136,6rjzqz,https://i.redd.it/lkxqrbydnpdz.png,227,1501876809.0,,2017-08-04 22:00:09
+rBitcoin logic: Cashing out? You should kill yourself instead,2915,7mbote,https://imgur.com/Fo8rZQi,557,1514364922.0,,2017-12-27 09:55:22
+"Tor Project: ""Due to the current state of the Bitcoin market, our payment processor, Bitpay, will not allow us to accept donations of less than 100 USD. However, we can also accept donations, including smaller donations, through Bitcoin Cash. Send us a tip with @tipprbot on Twitter!""",2593,7lqlgj,https://www.torproject.org/donate/donate-options.html.en,187,1514087180.0,,2017-12-24 04:46:20
+"Graffiti in Paris ""R.I.P Banking System"" (@thisisludo)",2419,7xbyix,https://i.redd.it/a889ul8881g01.jpg,110,1518579152.0,,2018-02-14 04:32:32
+If it’s inaccessible to the poor it’s neither radical nor revolutionary.,2384,7owwoi,https://i.redd.it/sztrnwf9os801.jpg,331,1515424613.0,,2018-01-08 16:16:53
+Legacy Bitcoin tries to buy a cup of coffee,2309,7pf9et,https://i.redd.it/pzazijg837901.png,498,1515615996.0,,2018-01-10 21:26:36
+My favorite response to the Coinbase BCH launch.,2100,7l10a4,https://i.imgur.com/C0AvlKw.jpg,267,1513800623.0,,2017-12-20 21:10:23
+This.... this did not age well.,2043,7mkyjy,https://media.coindesk.com/uploads/2014/11/WU-bitcoin-spoof-630x324.jpg,321,1514471459.0,,2017-12-28 15:30:59
+PSA: It's faster and cheaper to get the private key delivered by FEDEX than making transactions on the Bitcoin network,2019,7lfyrf,https://www.reddit.com/r/btc/comments/7lfyrf/psa_its_faster_and_cheaper_to_get_the_private_key/,246,1513956870.0,,2017-12-22 16:34:30
+Bought my first bitcoin for $6 in 2011. Sold my last bitcoin for $6227 in 2017. Bitcoin has been taken over by people who do not share my values. Bitcoin Cash is the vision I signed up for in 2011. The possibility of financial freedom for everyone.,2011,7cd0bp,https://twitter.com/ryanxcharles/status/929430451667767302,362,1510485108.0,,2017-11-12 12:11:48
+Crypto explained to GoT fans,1981,7krx5j,https://i.redd.it/iwdj7qd77u401.png,312,1513699709.0,,2017-12-19 17:08:29
+South Koreans sign petition (100k signatures) to reject ban proposal and 30k signatures asking to FIRE the Justice Minister and the Finance Minister for market manipulation. Crypto is winning!!,1859,7puy5a,https://twitter.com/iamjosephyoung/status/951710054868135936,116,1515769524.0,,2018-01-12 16:05:24
+Lamborghini bitcoin crash troll,1841,7uvbjm,https://i.imgur.com/dxMN9SV.jpg,161,1517641007.0,,2018-02-03 07:56:47
+"Update on my missing USD 34,000 with CEX.io",1770,7qsndd,https://www.reddit.com/r/btc/comments/7qsndd/update_on_my_missing_usd_34000_with_cexio/,150,1516141812.0,"[Original thread](https://np.reddit.com/r/btc/comments/7oy07j/is_cexio_insolvent_my_experience/)
+
+So since my last post, cex.io has [promised to give me a reply](https://np.reddit.com/r/btc/comments/7oy07j/is_cexio_insolvent_my_experience/dsfb7hy/), failed to do so, and [threaten to slow down the process for posting about their failure](https://www.facebook.com/CEX.IO/posts/1306904292743771). There is no reason why posting on social media will ""slow down the process"" unless their social media team is also doing the bank transfer as well. This is nothing more than a thinly veiled attempt in threatening me with delaying my payment if I expose their practices further. 
+
+CEX.io also replied to a wrong ticket of mine (the said ticket issue was already resolved long ago). Long story short, CEX.io has not yet to reply me on my bank transfer of USD 34000+.
+
+Now since CEX.io refused to talk to me, I have since sent a statutory demand letter by registered post to them pursuant to England and Wales's laws. This is the first step to CEX.io insolvency proceedings. **If you would like to be included in the coming legal suit to recover your monies, you need to send a statutory demand to CEX.io and then contact me with all the details.**
+
+I have also contacted the UK police and US Financial Crime Enforcement Network, Department of the Treasury. Further I will also be contacting the press (including coindesk, BBC, amongst others) to ensure everyone hears about the errant practices of this company. This is building up to be Mt. Gox 2.0 and I am sure the press will be happy to hear about it.
+
+u/CEX_IO, ticket 543006, as stipulated in my demand note, the amount is now USD 35,235.36, after accounting for interests of 8% (England and Wales statutory interest rate). 
+
+EDIT: fixed link for Original Thread",2018-01-16 23:30:12
+"BitPay Will Process Payments on Multiple Blockchains, Starting with Bitcoin Cash",1730,7k2cu8,https://blog.bitpay.com/multiple-blockchains/,317,1513398369.0,,2017-12-16 05:26:09
+This Guy Is Going Around Reddit Giving People Gifts of BCH Can We Get An Appreciation Post For Him?,1727,7lybxy,https://i.redd.it/awfkoed0ky501.jpg,1846,1514188278.0,,2017-12-25 08:51:18
+Open discussion on r/Bitcoin,1686,8ameo2,https://i.redd.it/15b0pswrwkq01.jpg,79,1523176089.0,,2018-04-08 10:28:09
+Bitcoin is a bubble...,1684,7z3hui,https://i.redd.it/dvcdsxk1fih01.png,154,1519223123.0,,2018-02-21 15:25:23
+"Saw a post asking Theymos where the donated 6900 BTC is disappear before my very eyes. I am now convinced - there is obvious censorship and manipulation in /r/bitcoin. Thanks for opening up my eyes, guys.",1570,7cw54z,https://gyazo.com/4c62ea20ab12511b8645a8c02ce31586,296,1510700570.0,,2017-11-15 00:02:50
+Both /r/btc and /r/bitcoin are terrible subreddits,1559,78a1t9,https://www.reddit.com/r/btc/comments/78a1t9/both_rbtc_and_rbitcoin_are_terrible_subreddits/,351,1508814579.0,"I do not have any Bitcoin Cash or BTC, but have been subscribed to both channels for a while now. It seems both of you are unaware how terrible both subreddits are. You are both attacking each other continuously and it is terrible for both communities I think. EVERY day I have to read how the other coin is bad and your coin is the best. Do you really think this is the best way to attract new users or investors of your coin? I just had to write this because enough was enough and I think many lurkers agree this environment is just extremely poisonous to be in. Both of you are in the wrong not just the other. Grow up and focus on achieving your goals instead of badmouthing each other, we are all in this together anyway, to transition towards a society run on blockchain technology. I will also post this exact thread in the other subreddit. Hope this makes you all realize how outsiders perceive you.
+
+&nbsp;
+
+
+**Double Edit** I deleted the link to /r/bitcoin because the whole post is leaning towards 'look how they are censoring you and we are not censoring you, at least you can speak here' mentality. This was NOT the goal of this post. Ok fine they censored. The point is WHO CARES. Your identity is not tied to that of /r/bitcoin or what they do. If you have your own philosophy and vision you should not even care about this. Stop making everything a competition and just focus on improving this subreddit and yourself. This is how you attract new people and investors and show that you provide value for society. Obviously, this will not change in a few days but I hope this will allow the mindset of the subreddit as a whole to change their attitude. 
+
+&nbsp;
+
+
+**Triple Edit** I am not even sure it was actually censored since many people also came here from /r/bitcoin (just some perspective on things)",2017-10-24 05:09:39
+Man buys coffee with Bitcoin in 2017,1489,7ez93l,https://v.redd.it/tomvg4fqupzz,309,1511467935.0,,2017-11-23 21:12:15
+"WARNING: Brutal scam. Guy buys a Ledger Nano wallet on Ebay, and it steals all his cryptocurrency ($34,000, which is his life's savings).",1480,7ofrqf,https://www.reddit.com/r/btc/comments/7ofrqf/warning_brutal_scam_guy_buys_a_ledger_nano_wallet/,516,1515228161.0,"Here is his post:
+
+- https://np.reddit.com/r/ledgerwallet/comments/7obot7/all_my_cryptocurrency_stolen/  
+
+Here's where we find out how he was scammed.  The scam Ledger Nano (bought on Ebay) came with a ""scratch off"" paper, to reveal the seed words.  With a real Ledger Nano, the seed words are generated by the device.
+
+- https://np.reddit.com/r/ledgerwallet/comments/7obot7/all_my_cryptocurrency_stolen/ds8khhw/  
+
+Some other people have come across the same scam:
+
+- https://np.reddit.com/r/ledgerwallet/comments/7i12x5/latest_ledger_nano_s/  
+
+- https://np.reddit.com/r/ledgerwallet/comments/7i12x5/latest_ledger_nano_s/dqvdulw/
+
+Picture of the fake ""scratch off"" paper with seed words.
+
+- https://imgur.com/DsICkge 
+
+Pictures of the scam instructions:
+
+- https://imgur.com/a/pw9L0 
+
+Brutal scam.",2018-01-06 09:42:41
+"You have $100 worth of BTC. So you purchase an item for $66, but have to pay a $17 fee. Now you have $17 worth of Bitcoin left, but it costs $17 more to move it. So $66 item effectively cost you $100. #Thanks BlockStream",1420,7iyyti,https://www.reddit.com/r/btc/comments/7iyyti/you_have_100_worth_of_btc_so_you_purchase_an_item/,432,1512987739.0,,2017-12-11 11:22:19
+Bitcoin.org finally updates sites to remove false claims,1392,7scgqn,http://imgur.com/uA4VTYr,201,1516716835.0,,2018-01-23 15:13:55
+"I'm not a fan of Bitcoin Cash for the record, but good god is the /r/bitcoin subreddit fucking garbage",1388,7lhie4,https://www.reddit.com/r/btc/comments/7lhie4/im_not_a_fan_of_bitcoin_cash_for_the_record_but/,524,1513979159.0,"Out of the 25 posts on the front-page:
+
+* 23 of them are pure price discussion; HODL memes, ""don't panic"" threads, ""Bitcoin is on sale everyone"" etc.
+* 2 of them are segwit related
+* 0 of them are about the ever decreasing utility of bitcoin as a currency and/or mempool issues
+
+When did the whole Bitcoin commulity become so greedy and obsessed with who can horde the most coins and pat itself on the back about never using the things.
+
+> Bitcoin is the currency of the Internet
+
+No it isn't, nor is the ""value store"" of the internet. When you lose 15% is just over a day you're not a value store and when it costs $50+ to make a $1 transaction you're not a fucking currency either.
+
+Has everyone forgotten about how exciting it was to buy pizzas with our shitty little internet points that no one in the real world cared about? Bitcoin core is dead. It's LinkedIn-tier investor trash.",2017-12-22 22:45:59
+segwit2x canceled,1383,7bmp4u,https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-November/000685.html,1426,1510189737.0,,2017-11-09 02:08:57
+BTC has crossed 9000 USD,1375,7fkrk6,https://www.reddit.com/r/btc/comments/7fkrk6/btc_has_crossed_9000_usd/,458,1511701104.0,"Next stop, 10000! ",2017-11-26 13:58:24
+You can now store a year's worth of continuously full 8MB blocks for the cost of a single BTC transaction,1375,7l9468,https://m.newegg.com/products/9SIA5AD4TR8861,385,1513887628.0,,2017-12-21 21:20:28
+An appeal to the thief that stole my cryptocurrency,1366,7poga6,https://www.reddit.com/r/btc/comments/7poga6/an_appeal_to_the_thief_that_stole_my/,283,1515709957.0,"I see that you have had a change of heart and have returned my cryptocurrency back to my scam Ledger, and I see now you are trying to make things right, but if you are reading this I need you to do one more thing. The Ledger was reset so I try to recover the seed using the scam 24 word recovery card that was included with the Ledger (https://imgur.com/DsICkge), but the seed on this recovery card is not the same seed that was preinstalled on my Ledger when I purchased it, hence I cannot access the cryptocurrency you returned back to me. Can you please please do one of the follow things - Send me the 24 word seed that were originally on the Ledger so I can access that account, you can private message me here in Reddit 
+
+I know you are trying to make amends and to end all this, but as long as you are the only one to have access to this seed (account) and I cannot access it, it is still classed as stolen and as such still looking at a 5 - 7 year Jail sentence, but this can all be avoided if you just send me the seed or send the currency to my new wallets. You have made the first step in returning the currency now please make the next and last step to allow me access to it, then all this will be over.
+
+Please can everybody spread the word and again please do not send me donations.",2018-01-11 23:32:37
+Dear Reddit Admins: We need to talk about /r/Bitcoin,1339,7eoxt7,https://www.reddit.com/r/btc/comments/7eoxt7/dear_reddit_admins_we_need_to_talk_about_rbitcoin/,279,1511361910.0,"We know you are well aware of the censorship problem on /r/Bitcoin, because it's been brought to your attention many times. 
+
+I've messaged the admins several times over the past year and a half. I even replied to [a standing offer by Reddit admins](https://www.reddit.com/r/ModSupport/comments/4vnwsz/my_standing_offer/) /u/AchievementUnlockd and /u/Chtorr offering to discuss the issues facing various communities on Reddit. Although I'm not a mod, I did make the offer to put them in touch with the moderator team of /r/btc. My messages have always been ignored.
+
+Coinbase CEO Brian Armstrong has even confronted Reddit CEO Steve Huffman about the issue directly, in a July 2016 conversation ([video](https://youtu.be/0Fe6HbNdbrA?t=673)). 
+
+>**Steve Huffman:** ""Our feeling is, we want people to be able to express themselves. [...] Where we can confidently draw the line is, are you affecting other people in a negative way? First starting on Reddit, and then the world in general.""
+
+#
+
+>**Brian Armstrong:** ""Have you ever thought about doing things like elections for moderators?""
+
+>**Huffman:** ""There are a lot of product decisions that we've made over the years, that we didn't consider at the time the long-term ramifications of them. The moderator hierarchy situation is one of them. We're often in these situations where we see these communities, we see moderators behaving in a way that we wouldn't behave if we were running it, and that kind of go against our inclination to let things play out and generally be open. And we've seen that on the /r/bitcoin community, I don't disagree with you at all. **But we also try to put ourselves in a position right now, our opinion is we generally try to stay hands off unless they are breaking other site-wide rules.**""
+
+/u/spez: The silence from the Reddit admins on this major issue plaguing the Bitcoin community has been deafening. 
+
+You say you want people to be able to express themselves, yet you tolerate an *insane* amount of censorship and discussion manipulation on a very large subreddit dedicated to a topic that is very much part of the public zeitgeist right now. The censorship goes *far beyond* simple curation and deep into straight-up ""thoughtcrime"" territory. By now, at LEAST thousands of users have been banned from the subreddit for the sole offense of questioning the moderators decisions or having a difference of opinion with them. Bannable offenses include asking why the fees on the Bitcoin network are so high right now, or stating the obvious that high fees are undesirable. You can't even type the word ""censorship"" in their subreddit, because that word is one of many on their ""forbidden words"" list ([you can't make this shit up](https://www.reddit.com/r/btc/comments/5vr7ij/partial_list_of_words_that_automod_removes_from/)). 
+
+You say you want to stay hands-off unless site-wide rules are being broken, or if the subreddit is being used to harm people. Yet you tolerate the /r/bitcoin moderators' [blatant CSS manipulation](https://www.reddit.com/r/bitcoin_uncensored/comments/3id1al/moderators_of_rbitcoin_changed_the_stylesheets/) [[image](https://i.imgur.com/C0GdTJS.png)], circulation of ""enemies"" lists (https://archive.is/er916) featuring prominent Bitcoin figures they don't like, frequent character assassination campaigns against people or companies they don't like, and actively organizing vote brigades to do things like flood the app of a company they don't like with 1-star reviews calling it a scam ([1](http://archive.is/X4HQb), [2](http://archive.is/RdhDj), [3](http://archive.is/ZyzIR), [4](
+http://archive.is/nxMYO), [5](http://archive.is/YEovN)).
+
+It's pretty clear that the /r/Bitcoin subreddit is in violation of multiple of your stated principles, yet you continually ignore it. Does [this](https://imgur.com/a/vK169) look like a healthy community to you? How about [this](https://i.imgur.com/C8PyBB5.png)? 
+
+When /r/Bitcoin right-hand censor /u/BashCo made his hysterical (and we now know falsified) [post](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/) about the attack perpetrated by /r/Bitcoin mods and certain members of Bitcoin Core, Reddit admin /u/sodypop showed up in no time to apologize and communicate with the community. Have the Reddit admins *ever* addressed the /r/btc community, which has a lot of legitimate grievances about the censorship on /r/bitcoin?
+
+/r/Bitcoin head moderator /u/theymos [once wrote](https://www.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/): 
+
+>If 90% of /r/Bitcoin users find these policies to be intolerable, then I want these 90% of /r/Bitcoin users to leave. Both /r/Bitcoin and these people will be happier for it. I do not want these people to make threads breaking the rules, demanding change, asking for upvotes, making personal attacks against moderators, etc. Without some real argument, you're not going to convince anyone with any brains -- you're just wasting your time and ours. The temporary rules against blocksize and moderation discussion are in part designed to encourage people who should leave /r/Bitcoin to actually do so so that /r/Bitcoin can get back to the business of discussing Bitcoin news in peace.
+
+Theymos has previously [stolen millions of dollars of donated funds](https://cointelegraph.com/news/controversy-over-bitcoin-forum-funds-involves-greg-maxwell-warren-togami-theymos-and-blockstream) and funneled them to his buddies, never delivering on the software he was supposedly paying for to be developed. 
+
+We also know that at least one /r/Bitcoin moderator, /u/BashCo, is involved in coordinated trolling attacks and character assassinations through his involvement in Bitcoin Core's [""Dragon's Den"" propaganda group](https://telegra.ph/Inside-the-Dragons-Den-Bitcoin-Cores-Troll-Army-04-07).
+
+I can't imagine you haven't seen these articles by now, but the history of the censorship on /r/bitcoin has been well documented:
+
+* [A (brief and incomplete) history of censorship in /r/Bitcoin](https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43)
+* [/r/bitcoin Censorship, Revisited](https://medium.com/@johnblocke/r-bitcoin-censorship-revisited-58d5b1bdcd64)
+
+Are these the kinds of people you want representing such a large and prominent subreddit on your site? 
+
+The question I'd like to ask the Reddit admins: **Do you define a community by its moderators, or by its members?** For all the talking about ""community"" you guys do, you certainly don't seem to have a problem with the massive disruption of the huge open source Bitcoin community that has been largely driven by moderation policies of /r/Bitcoin. 
+
+While I respect Reddit’s stated position to allow communities to manage themselves as they see fit, the Bitcoin community is much larger than /u/theymos. His actions, including blacklisting entire companies and deleting posts that speak favorably of certain software proposals, have been the leading factor in driving a wedge through the $136 billion dollar open-source digital currency project that is Bitcoin. For years /r/Bitcoin was the central hub of discussion for the Bitcoin community, but today this divide has created an air of toxicity and all out civil war within our industry.
+
+I understand that Reddit chooses to defend free speech, but allowing /u/theymos and his team to remain moderators of the 430,000 member strong community /r/Bitcoin has the opposite effect and contributes to the stifling of free and open discussion.
+
+I propose implementing open moderation logs and replacing the /r/Bitcoin moderation team with a team of neutral third-party moderators who can be counted on to uphold the responsibilities of moderating such a large and important community.
+
+I'm probably talking to a brick wall here, as continuing to ignore this elephant in the room would be perfectly in line with all of your past behavior. I hope you prove me wrong, admins.",2017-11-22 15:45:10
+"Blockchair.com: ""There have been some suggestions to alter the whitepaper hosted on bitcoin.org. We believe that editing an academic paper and rewriting the Bitcoin history in order to accommodate someone's business interests is downright unacceptable.""",1338,7jghan,https://blockchair.com/bitcoin/whitepaper/,145,1513165018.0,,2017-12-13 12:36:58
+Today I graduated from /r/Bitcoin University with distinction.,1331,841ygc,https://i.redd.it/unu8hxqo1hl01.png,232,1520949910.0,,2018-03-13 15:05:10
+"WSJ: ""[bitcoin core] fees have reached an average cost of about $30 per transaction. That makes bitcoin virtually unusable for all but very large transactions. The Bitcoin Cash crowd is just trying to offer a solution to that problem.""",1301,7m2gb8,https://www.wsj.com/articles/bitcoin-cash-litecoin-ether-oh-my-whats-with-all-the-bitcoin-clones-1514037600?reflink=e2twmkts,338,1514251650.0,,2017-12-26 02:27:30
+"Government: ""Cryptocurrencies are too risky."" Also government: ""Buy lottery tickets.""",1295,7vctu9,https://www.reddit.com/r/btc/comments/7vctu9/government_cryptocurrencies_are_too_risky_also/,139,1517839565.0,"The difference? The government receives 20% of every dollar spent on lottery tickets, and almost nothing from people buying cryptocurrencies.",2018-02-05 15:06:05
+"I signed a 1.27 USD fee transaction 3 weeks ago. It confirmed today. 34,085 minutes later. That's the ""Internet of Money"" provided by Bitcoin Core.",1289,7nfv4r,https://www.reddit.com/r/btc/comments/7nfv4r/i_signed_a_127_usd_fee_transaction_3_weeks_ago_it/,280,1514852061.0,,2018-01-02 01:14:21
+I am the guy that lost £25000 due to Ledger scam (not $34000 life savings),1287,7ojvca,https://www.reddit.com/r/btc/comments/7ojvca/i_am_the_guy_that_lost_25000_due_to_ledger_scam/,573,1515281850.0,"I purchase a Ledger from Ebay, from a reputable seller. The Ledger was new and sealed, it did not look in anyway that it had be compromised. I used the Ledger wallet for 4 weeks, buying XRP, Dash. LiteCoin and Bitcoin totally original investment of £7000, over the space of 4 weeks that £8000 grow to £25000 due to the increase in all the coins values, then on yesterday when I check my Ledger I found that all the coins had been transferred out of my accounts on the 4th January. I later discovered after speaking to a number of people including Ledger that my Ledger had been compromised, someone had already put the seed words into it then insert a very legit looking seed recovery card (https://imgur.com/DsICkge) with a scratch off panel, I really thought the seed recovery card was legit.  This has been a huge blow to me, have not had anything to eat or sleep since I discovered the lost of all my coins. I have never fallen for any Scams, and this is the first time. I am really hoping this does not happen to anyone else.",2018-01-07 00:37:30
+I just bought 50 Bitcoin (BCH) ATM machines for a bit under half a million dollars. Thanks to our purchase the manufacturer has agreed to roll out BCH support to their existing 1000+ machines world wide! -- Roger Ver,1272,7x5opq,https://twitter.com/rogerkver/status/963214514392129536,521,1518512771.0,,2018-02-13 10:06:11
+"""The rich don't need Bitcoin. The poor do. I already can transfer millions instantly. The poor cannot even send their money slowly right now. It can be $40 for someone without a bank account in the Philippines to send remittance to their family when they earn a $100 a month. That is disgusting.""",1273,7dv508,https://www.reddit.com/r/btc/comments/7dv508/the_rich_dont_need_bitcoin_the_poor_do_i_already/,311,1511062332.0,"From 1hr9mins:
+https://vimeo.com/242870813
+
+I don't care if you think Craig Wright is a scammer or a fraud. Just watching this video, you can tell his motivation for working on Bitcoin (Cash) is on point. 
+
+[The old Bitcoin is back. You can feel it.](https://www.reddit.com/r/btc/comments/7dtbew/bitcoin_cash_a_reflection_on_how_far_weve_come/)
+",2017-11-19 04:32:12
+r/bitcoin 299 days ago,1250,7e8ke5,https://i.imgur.com/QYrtkjZ.jpg,252,1511210160.0,,2017-11-20 21:36:00
+BCH right now,1240,7q18tb,https://i.redd.it/ocxl9owhhq901.png,81,1515833973.0,,2018-01-13 09:59:33
+Friendly reminder that the LiteCoin ($36) founder sold 100% of his coins as it ran up to $300 while wearing a HODL shirt for video interviews.,1211,9zegun,https://i.redd.it/765flc1o5wz11.jpg,285,1542925218.0,,2018-11-22 23:20:18
+No spend,1186,8erz1e,https://i.redd.it/75va2bnol0u01.jpg,84,1524673407.0,,2018-04-25 18:23:27
+Bitcoin Cash sub 1000$ again..,1174,7dbm3n,https://www.reddit.com/r/btc/comments/7dbm3n/bitcoin_cash_sub_1000_again/,1113,1510857802.0,"I don't want to spread discontent, and I still believe that in the long run BCH's *may* overtake BTC's market cap.
+
+But let's face some (in my opinion) facts:
+
+-falling so much and so hard, without following BTC's ups and downs is a negative sign. Most cryptos that exchange for fiat mostly (such as eth and etc) tend to be more stable in price, even if BTC's go up they fall a bit. We've fallen more than 30 % in the last 24 hours both in btc and fiat conversion.
+
+-it's hard to argue with people calling BCH a pump and dump when it has been pumped and dumped to levels never seen in crypto. BCH trade volume was what, 4 billions usd saturday alone..?
+
+-Some people put giant buy walls on BCH. Yet I don't see them buying..Seems more of a psychological than financial support..
+
+-While Bitcoin Cash solves some of BTC's problems..It's still dependent on expensive asic equipment to be part of the network..A network that rely basically on one single ASIC provider. and the few chinese farms that have a low enough electricity.
+
+I don't want to spread FUD, but what are the next moves...?
+
+I can already feel the downvotes while I'm writing this and the usual copy pasterino of ""then sell, cheaper BCH for me lololol"", ""it's gonna take BTC in the long run"", ecc. But BTC's close to ATH again..Sure, I agree with whoever calls it a get-rich-quick scheme, it has absolutely no potential, but is BCH really the better alternative? Don't we have better coins in the top 30, more technologically developed just less popular..?
+
+I really don't like what's happening. I converted most of my BTCs to BCH. But the people promoting BCH are obviously not. I won't cry if BCH crashes, I already made lots of money with cryptos with low investment, and I'm diversified enough to be able to take even a huge hit in what I have spent in it.
+
+But it seems more and more obvious that the fact that Bitcoin Cash, even if solving some of Bitcoin's problems, does not provide what Bitcoin really is: the most solid financial investment in cryptos.
+
+Nobody cares if fees and transactions are too high..That's not Bitcoin's use from a long time, and we all know it.
+
+I'd still like to hear some opinions and a constructive discussion.",2017-11-16 19:43:22
+"Okay, this Ripple shit is ridiculous. We need to educate people before we have PayPal 2.0 at the top of all the *actual* cryptocurrencies.",1167,7mykhw,https://www.reddit.com/r/btc/comments/7mykhw/okay_this_ripple_shit_is_ridiculous_we_need_to/,847,1514625598.0,"I have to admit, I did not see this coming. But it makes kind of sense, splinter the Bitcoin community into BTC vs. BCH while you work on your banker coin and in the most opportune moment when the winner is not clear and both are weakened, swoosh into first place and declare yourself the best ""cryptocurrency"".
+
+We seriously need to educate people of what this ""coin"" is as I notice even people in here (myself included) do not have the complete picture, let alone an average Joe and Jane looking at CMC.
+
+So from what I can gather, these are the problems with Ripple:
+
+ - no blockchain, therefore it's not even a cryptocurrency. It's a network of trusted nodes (?) (who selects those trusted nodes and how?) exchanging IOU notes (Edit: yup, it's essentially a network of trusted servers, not a cryptocurrency!)
+ - huge premine of 70% of XRP tokens which are slowly unlocked (what is the schedule and when does it end?)
+ - the actual Ripple product not using XRP tokens (is this so? I've seen conflicting information on this) Edit: It uses XRP as ""anti-spam"" and as a native ""in-between"" value token.
+ - centralized (to what degree? Can Ripple confiscate/print tokens, revoke your ""account"", censor transactions? What can they actually do?)
+ - what is the security and risks of Ripple?
+ - more? Please add more information in the comments, with verifiable sources if possible
+
+Please link people capable of making an article/video about Ripple here, using the resources that we pool together.
+
+Edit:
+
+Ripple implemented this nifty feature called ""***Balance Freeze***"" which allows gateways (nodes essentially) to freeze your funds (enough said?) they already even [used this ""feature"" to freeze ~$million dollars](https://cointelegraph.com/news/ripple-directs-bitstamp-to-freeze-funds-of-former-co-founder-jed-mccaleb)
+
+Edit2:
+
+So, so much for ""settled in seconds"" and immutability, they can also ""simply ask the gateways to freeze or even **reverse the funds**"".
+
+Also:
+
+> Ripple introduced two different methods for the “freeze protocol extension.” The first method is known as the “global freeze” and allows gateways to **freeze all of their issued funds**. The second allows the gateways to **freeze funds of a particular user**, while the frozen funds are sent back to the gateway.
+
+Edit3:
+
+It also requires **verified user identification** in order to use the network",2017-12-30 10:19:58
+"Pineapple Fund Update: Homes in Haiti, Education for Girls, and a $1100 tx fee on bitcoin :(",1164,7lnu9w,https://www.reddit.com/r/btc/comments/7lnu9w/pineapple_fund_update_homes_in_haiti_education/,253,1514050843.0,"Hi all!
+
+In the spirit of maintaining neutrality among all bitcoin communities, I'm making this update of the [Pineapple Fund](https://pineapplefund.org/) in /r/btc.
+
+In the past two weeks, the Pineapple Fund has received thousands of applications from amazing charities, and made a small number of large contributions:
+
+* $1 million to charity: water, a charity I have been supporting personally for years. We're allocating half of our donation to support the operations of charity: water, enabling them to keep their 100% model.
+* $1 million to Mona Foundation, a charity supporting the education of women and girls in a mission to alleviate global poverty
+* $1 million to New Story, an innovative model for directly funding homes in impoverished communities, helping families break the cycle of living in survival mode.
+
+**EDIT:** also $1 million to Internet Archive and Pencils of Promise, and $100k to Green Steps Tennessee.
+
+I've done interviews and have been covered by [Hacker Noon](https://hackernoon.com/meet-the-founder-who-pledged-5-057-btc-86m-to-charity-688685e922f6) and [Bitcoin Magazine](https://bitcoinmagazine.com/articles/meet-pine-bitcoin-philanthropist-who-set-85-million-pineapple-fund/). Give these a read if you'd like to know more about our fund!
+ 
+Applications are closing soon, so if you're a non-profit, please apply ASAP! I've been going through the applications in a preliminary stage, however we haven't reached out to any charities yet. I'm looking to close applications and finish reviewing every application, so we can get back to the ones we shortlist!
+
+-----
+
+Bitcoin transaction fee rant time. Skip if you'd like to ignore!
+
+In other news, we've had some hiccups with bitcoin core payment processing. [One transaction](https://blockchain.info/tx/31a66852ce1eec8c9d6a00c7eca5c27b2649214bad9d6564a335380510e0052d), in which we used SegWit and paid an effective fee rate of 298 satoshi per byte, did not confirm for **4 days** and counting. At time of sending, 298 sat/b looked like it would confirm within a hour or two.
+
+Since this created a series of unconfirmed transactions, we had to do something drastic: use Child-Pays-For-Parent with a very significant fee. We made a [minimal transaction](http://blockchain.info/tx/383df366610e6ef924bf043067ca507302c74556afe32f8810d712ea5650c6e0) with a size of just 215 bytes, and paid 0.0794 BTC ($1,100 USD at time of sending) in order to expedite confirmation of all of our previous transactions.
+
+This did work, but we just had to spend more than a thousand dollars, money that we would love to rather donate to charities.  It has been clear to us that the current bitcoin network is completely incapable of functioning as a payment processing network, not just for ""cups of coffees"" but even for multi-million dollar transactions, and we are using SegWit.
+
+We have sold the bitcoin cash in our addresses originally for BTC due to the wider acceptance and BitPay / Coinbase support. However, given the present network failure, we're looking to convert some of our funds to Bitcoin Cash, and encourage charities to accept Bitcoin Cash.
+
+Given that the Pineapple Fund has been a one person project with a busy life, I'd like to spend as little time micromanging the bitcoin network as possible. To BitPay and Coinbase, please support Bitcoin Cash as soon as you can. This isn't working.",2017-12-23 18:40:43
+Bitcoin Cash - Life's a BCH!,1158,7uhy0o,https://i.redd.it/4nzysvukzkd01.jpg,227,1517510932.0,,2018-02-01 19:48:52
+Explanation of BTC crash...,1161,7vgj26,https://gfycat.com/ConcernedZestyGrayfox,106,1517882073.0,,2018-02-06 02:54:33
+Blockchain.info now fully support Bitcoin Cash!,1150,7jqrun,https://i.redd.it/l2oyqqof7v301.png,102,1513276050.0,,2017-12-14 19:27:30
+Just a quick reminder why Bitcoin was invented in the first place. This used to be preaching to the choir. But these days I am not so sure.,1123,6rr6uo,https://www.reddit.com/r/btc/comments/6rr6uo/just_a_quick_reminder_why_bitcoin_was_invented_in/,231,1501959644.0,"*	People used to pay each other in gold and silver. Difficult to transport. Difficult to divide.
+*	Paper money was invented. A claim to gold in a bank vault. Easier to transport and divide.
+*	Banks gave out more paper money than they had gold in the vault. They ran “fractional reserves”. A real money maker. But every now and then, banks collapsed because of runs on the bank.
+*	Central banking was invented. Central banks would be lenders of last resort. Runs on the bank were thus mitigated by banks guaranteeing each other’s deposits through a central bank. The risk of a bank run was not lowered. Its frequency was diminished and its impact was increased. After all, banks remained basically insolvent in this fractional reserve scheme.
+*	Banks would still get in trouble. But now, if one bank got in sufficient trouble, they would all be in trouble at the same time. Governments would have to step in to save them. 
+*	All ties between the financial system and gold were severed in 1971 when Nixon decided that the USD would no longer be exchangeable for a fixed amount of gold. This exacerbated the problem, because there was now effectively no limit anymore on the amount of paper money that banks could create. 
+*	From this moment on, all money was created as credit. Money ceased to be supported by an asset. When you take out a loan, money is created and lent to you. Banks expect this freshly minted money to be returned to them with interest. Sure, banks need to keep adequate reserves. But these reserves basically consist of the same credit-based money. And reserves are much lower than the loans they make. 
+*	This led to an explosion in the money supply. The Federal Reserve stopped reporting M3 in 2006. But the ECB currently reports a yearly increase in the supply of the euro of about 5%.
+*	This leads to a yearly increase in prices. The price increase is somewhat lower than the increase in the money supply. This is because of increased productivity. Society gets better at producing stuff cheaper all the time. So, in absence of money creation you would expect prices to drop every year. That they don’t is the effect of money creation.
+*	What remains is an inflation rate in the 2% range.
+*	Banks have discovered that they can siphon off all the productivity increase + 2% every year, without people complaining too much. They accomplish this currently by increasing the money supply by 5% per year, getting this money returned to them at an interest.
+*	Apart from this insidious tax on society, banks take society hostage every couple of years. In case of a financial crisis, banks need bailouts or the system will collapse.
+*	Apart from these problems, banks and governments are now striving to do away with cash. This would mean that no two free men would be able to exchange money without intermediation by a bank. If you believe that to transact with others is a fundamental right, this should scare you.
+*	The absence of sound money was at the root of the problem. We were force-fed paper money because there were no good alternatives. Gold and silver remain difficult to use.
+*	When it was tried to launch a private currency backed by precious metals (Liberty dollar), this initiative was shut down because it undermined the U.S. currency system. Apparently, a currency alternative could only thrive if “nobody” launched it and if they was no central point of failure. 
+*	What was needed was a peer-to-peer electronic cash system. This was what Satoshi Nakamoto described in 2009. It was a response to all the problems described above. That is why he labeled the genesis block with the text: “03/Jan/2009 Chancellor on brink of second bailout for banks.”. Bitcoin was meant to be an alternative to our current financial system.
+
+So, if you find yourself religiously checking some cryptocurrency’s price, or bogged down in discussions about the “one true bitcoin”, or constantly asking what currency to buy, please at least remember that we have bigger fish to fry.
+
+We are here to fix the financial system.
+
+Edit: thanks for the gold!
+
+",2017-08-05 21:00:44
+Honest Opinion: I hate both subs,1118,7mh1wm,https://www.reddit.com/r/btc/comments/7mh1wm/honest_opinion_i_hate_both_subs/,284,1514430638.0,"(Gonna post this on both r/btc and r/Bitcoin and yes it ~~may~~ did get deleted on r/bitcoin, i get it)
+
+I used to only look at r/Bitcoin until BCH forked off, then I began frequenting both while thinking r/btc was stupid. I began to dislike r/btc more and more as time went on as it seemed to be a place where the narrative was ""Post about being done with core/how fees were high/how BCH is the real bitcoin/spam places and put posters all over saying BCH is bestcoin""
+
+Every day r/btc seemed the same to me, posts about BTC sucking and BCH being the best, so I never found any value here. However recently I've become extremely turned off by r/bitcoin as well. It seems like no one understands what BCH is and just thinks of it as a ""devil coin by the evil roger ver who has power over everything BCH and will dump it all eventually""
+
+r/bitcoin silences opposing views, pushing all BCH supporters over to r/btc, causing r/btc to become an echo chamber for BCH while forcing r/bitcoin to become an echo chamber for BTC
+
+Its ridiculous and very much reminds me of politics where the left and right think of each other as stupid.
+
+I think both subs are doing a discredit to crypto and are just harmful. I hold both coins and will continue to do so.
+
+Just needed to put this out there",2017-12-28 04:10:38
+I am stepping down as a moderator of r/btc and exiting the bitcoin community and entering the Ethereum community.,1115,61sim7,https://www.reddit.com/r/btc/comments/61sim7/i_am_stepping_down_as_a_moderator_of_rbtc_and/,479,1490654327.0,"I am stepping down as a moderator of r/btc and exiting the bitcoin community. Thank you all for fighting until the end. I know I am going to get a lot of hate from pretty much everyone for this post, but I felt the need to post it anyway. 
+
+#Why Give Up?
+
+I think bitcoin is past the point of no return. There are a number of different routes that bitcoin could take this year, and as far as I can see, they all end up at the same destination; failure. I know I am going to get a lot of flack for this post, and I understand that. I have witnessed bitcoin being announced “dead” many many times throughout its history and I absolutely could be wrong, but almost every one of their predictions were based on a lack of understanding of bitcoin. I don’t feel my prediction is has a lack of understanding. If I am wrong, then I feel it will be through sheer luck that bitcoin survives. I was a bitcoin early adopter in 2011 and have invested far more time into bitcoin than is reasonable. I truly hope bitcoin does survive, but what I think will happen is not predicated on what I want to happen.
+
+#How might bitcoin fall?
+
+#The Past
+
+I am not going to go through everything that has lead us up to this point. Many of your are well aware of what has brought us here. Bitcoin up until the beginning of 2014 was an unparalleled success. For those of you who weren’t around at the time, there was a huge amount of excitement in the community at all times. It felt like every month there was some announcement that had a positive impact on bitcoin. A new major company offering bitcoin payments, a bitcoin company offering a new service, a new piece of software being added to clients to make them more useful. Bitcoin was making continual progress and the community was unified. Compare the situation back then to day. We have now had 2 years of stagnation, and in many cases degradation of the network. 
+
+
+#The Present
+
+The network is now slow and expensive (and getting slower and more expensive), companies have been leaving bitcoin at an exponential rate. No new major companies have adopted bitcoin and there are no signs of this changing in the future. The community is irreparably divided and is at war with itself. Development has stalled. 
+
+Where bitcoin has stalled, other cryptocurrencies have been making enormous ground. Bitcoin does not exist in a vacuum. It has competition. Other cryptocurrencies already offer significantly more advance features than bitcoin. The only thing bitcoin has left over other cryptocurrencies is it’s network effect. The inertia of network effect is truly enormous. Bitcoin has been coasting on it for 2 years now. Technology develops rapidly though, and many people are always looking for the next big thing. Investors want to make money and developers want to work on the most advance and growing technology. There has been very little investment into new bitcoin specific companies over the past 2 years. The only new bitcoin company I know of that has received significant investment in the past two years is Blockstream. There has been a very large amount of investment into blockchain companies in general though. The money is there, it’s just not going into bitcoin.
+
+Ethereum has now reached close to 1/3 of bitcoin’s market cap and there is no sign that it is going to let up any time soon. The ethereum community is a breath of fresh air compared to the current bitcoin community and it feels very nostalgic there. It feels very much like the bitcoin community did 3-4 years ago. They have showed that they are not afraid of using hard forks to upgrade the protocol. They have a leader who is intelligent, pragmatic and good at communicating and IMO who is likely to get the network through the early volatile years. The community showed that they value pragmatism and reality over ideology when they stopped a theft of a large percentage of the currency supply and did so without having any adverse affects on anyone other than the thief. They also achieved this while under attack from r/bitcoin. They have been working with major organisations and companies to promote and forward the use of the network and they listen to the users of the network to find out what problems they have and which features they want, and then work towards satisfying the needs of their users. The developers of the network have known large holdings of the currency, which means conflicts of interest are less likely to arise and protocol development can directly correlate increased returns for the developer’s investment.
+
+#The Future
+
+There are a number of possibilities, but I believe all end with very similar outcomes.
+
+#Scenario 1 - BU/EC gains 75% of the network hash rate
+
+If BU gains 75% of the network hash rate, a hard fork will become likely (although not certain). Core and their supporters will start to try and burn down the network. All communication channels will overflow with FUD (some real, some fake). Core supporters with large bitcoin holdings will start dumping them on the market in ways that will cause the most damage to price. Core will start recommending at the very minimum a difficulty readjustment and quite likely also a POW change. Price will fall extremely far as speculators adjust their risk exposure and wait out the storm, traders will short the market to make as much money as possible during the fall, and core supporters try to get the BTC price to go as low as possible on the BU/EC side of the fork and BU/EC supporters try to get the price to BCC price to go as low as possible. Whatever the price is before the fork is certain, I think it is likely to reach 50% of that between the time a fork becomes certain and when the fork actually happens. After the fork happens the price could go down to literally any level. While this is happening, the Ethereum market cap is going to overtake bitcoin even if the Ethereum price does not increase (which it will). Bitcoin will not survive this. The moment Ethereum overtakes bitcoin as the biggest cryptocurrency, everyone will find out. It will be posted in articles in every technology news website on the internet. Once the casual bitcoin holders/users find out (hint most do not even pay attention to what is going on in bitcoin) they will quickly panic and either sell to fiat, or sell into Ethereum to speculate. Mining will almost instantly become unprofitable at that point. Monumentally unprofitable in fact. The payout of 12.5 per block will not even slightly cover the cost of electricity and because miners have no direct control over the price of bitcoin they will be absolutely powerless to do anything other than mine at a loss for a very long period of time. If bitcoin price drops to $100, which IMO is very conservative, then it is likely that 90% of the miners will have to turn their hardware off. This means that the difficulty adjustment periods will increase by a factor of 10 to 20 weeks. These miners that are left will need to mine at a huge loss for up to 20 weeks, or hope that somehow the price recovers. I don’t think even the biggest miners could survive that. Further difficulty reset hard forks will be proposed and it will be chaos.
+
+While all of this is happening, Ethereum is likely to be running fine and price will likely be rising significantly as money from bitcoin pours into it.
+
+#Scenario 2 - BU/EC never gains 75% of the network hash rate
+
+In this scenario there will be absolutely stalemate. Core will not be able to implement Segwit and therefore will not be able to change bitcoin into a settlement network, but also the transaction throughput will not be increased through larger blocks. The debate will have become so vitriolic that no further progress can be made within bitcoin. Bitcoin simply will not scale on OR off-chain. In this scenario the end is not so violent like in scenario 1 but then end result is the same. Ethereum (and other cryptocurrencies in general) will continue to gain market share throughout the year as Bitcoin remains stuck in stalemate. The bitcoin price continues decreasing and the Ethereum price keeps on increasing until Ethereum overtakes bitcoin. Once the flip happens, it will accelerate significantly as people realise what is happening. The end result is the same as the later part of scenario 1.
+
+#Scenario 3 - BU/EC lose most/all of the network hash rate
+
+In this scenario Core manages to get Segwit accepted by the network. Most people in r/btc simply leave bitcoin for good. Fees will remain high and transaction throughput low. Core will not increase the block size limit until after LN has been proven to work and users have been forced/coerced into using it. LN is not anywhere near ready for production and it is likely to take at least 2 more years until it is released and working and another year or two until it is fully implemented into wallets, and then another year until businesses are able to understand and use it in their backend. I.e. in an ideal world where everything works as intended in this theoretical system it will take 4-5 years until bitcoin has similar properties to what it had 2 years ago. This obviously ignores the fact that there has been no analysis on whether this would even work on an economic level, let alone a technological level.
+
+As transaction fees rise users and business will be pushed into using other cryptocurrencies and fiat and at some point bitcoin’s network effect will be overcome by Ethereum’s. This scenario is essentially the same as scenario 3, but there maybe some initial price pump when Segwit activates and people enjoy and end to the debate. This will likely be short lived though.
+
+#What is most likely to happen (IMO)
+
+If BU/EC is to continue to gain further market share of the hash rate and reach the 75% requirement that many parties have suggested. It is likely to take at least a couple more months of deliberations. For this to happen, a number of large pools will need to switch over. Bitfury has stated that they will not support BU and are mining Segwit and have even started mining UASF blocks. HaoBTC is still sticking to the HK agreement (which literally no one else is) and will not be running anything other than Core. This means it is really down to F2Pool and some of the smaller Pools. F2Pool has stated that it will stop signalling for classic and there is no indication that it will start signalling for anything other than Core (not segwit), and has stated that he thinks BU is dead.
+
+This suggests that the most likely scenario is scenario 2. BU/EC will not activate, but nor will Segwit. There are some things that may or may not happen in this scenario. For example it seems that Core are willing to do a UASF to push Segwit through under the pretence that any of the miners that are not mining Segwit are illegitimate as they are against the “consensus”. This will force the miners into making some kind of decision either way. Many are likely to side with Core but I think a significant portion will side with BU initially. A number of different things could happen in this scenario depending on the ratio of hash power on each side of the split. If the split is mostly equal, I expect that two coins will survive for some amount of time. What happens with bitcoin from that point I have no idea. If BU/EC gains the most hash power then the debate will rage on as the BU/EC will refuse to attack the minority chain out of moral reasons. What happens with bitcoin from that point I have no idea. If Core gains the majority share then the BU minority chain will be attacked by some of the majority miners. Core and their supporters do not have any moral objections against this kind of attack. The minority BU miners will then switch back to Core and it will likely play out like in scenario 3.
+
+#So this is BU’s fault for forcing a hard fork?
+
+No, this is Core’s fault by making a hard fork dangerous by telling everyone a hard fork is dangerous for the past two years and blocking every conceivable compromise. They have petrified the bitcoin community and convinced them that any kind of hard fork for any reason that does not come from them is dangerous. They have done this to hold onto the power they should not even have in the first place. They have become the self appointed kings of bitcoin. They have achieved this by threatening to burn down the network instead of making a compromise, and by attacking anyone who threatens to take this power away from them. Unfortunately, when Gavin stepped down, he handed to keys to the bitcoin house to the wolves and once they are inside, it seems it is not possible to get them out again. The only way to make them totally irrelevant is to exit and let them be kings of nothing.
+
+#Why did you even become a mod in the first place?
+
+I have known bitcoin was on a negative trajectory for quite some time but I felt that one last push to save it was worth my effort. I wanted to help r/btc be the best bitcoin subreddit to overcome some of the damage that r/bitcoin has done to the community. IMO r/btc *is* the best bitcoin subreddit, but it is far from perfect. I feel very strongly that the moderation of r/btc is a microcosm of the situation in the bitcoin community in general. I feel there is far too much weight put on idealogical decision making rather pragmatism and realism. The moderation policies of r/btc are ‘hands-off’ to a point I think is actually detrimental to the sub and to bitcoin. The issue is that, trolls overwhelm the sub and cause constant controversy. They act like a fire under the community and purposely rile everyone up. There is a reason for this. r/bitcoin was controlled mostly through censorship. Censorship alone was enough to create an echo chamber. They do not have control of the r/btc moderation team (well actually they managed to get two mods on here who have since left/been removed) so they must turn it into an echo-chamber by other means. They have achieved this by making sure every single post has comments from trolls that try to rile up the community. This makes the r/btc community have more tunnel vision as they/we try to insulate ourselves from the trolls. The problem is that it means that the community becomes highly idealogical and focused on only one goal.
+
+IMO it is a failure of this sub to not remove comments from trolls. This is pretty much a standard policy across the whole of reddit and the only reasons for not employing it are idealogical. Removing trolling is not the same as banning specific ideas or topics being genuinely discussed. Not doing so just makes r/btc a frustrating place to try and discuss things. It also means that any actual discussions outside the block size debate get very little traction as everyone gets dragged into the angry posts.
+
+I should be clear though, the other mods of this sub are great and absolutely want what is best for bitcoin. 
+
+#Isn’t this all just FUD
+
+I am not writing this to sway anyone. This is what I genuinely think will happen, but of course I could be wrong about every single prediction. It saddens me enormously to write this. The current trajectory for Bitcoin is down and the the trajectory for Ethereum and other cryptocurrencies is up. There will likely be people who say “but Ethereum doesn’t have any uses cases”, my argument to that is; what use-cases does bitcoin have right now that could not immediately be adopted by Ethereum today? There will also be people who say “but if bitcoin dies then all other cryptocurrencies will die with it, because how could anyone trust their money if it might just disappear”? My argument to that is; all cryptocurrencies are still in their infancy, even bitcoin. The writing has been on the wall for Bitcoin for quite some time. I do think there will likely be one ‘great’ cryptocurrency, but until that cryptocurrency is adopted by the masses, that title is still available. If the title of ‘biggest cryptocurrency’ can be taken then it was likely never meant to have it very long anyway. If/When a cryptocurrency manages to achieve mass adoption then it will have hundreds of millions of people, companies, organisations and even countries defending it. At that point the entire system will be working towards it’s success. At that point, the current moral ambivalence towards attacking a minority chain will be seen as ridiculous. After mass adoption of a cryptocurrency (for example Ethereum) has occurred, grandma’s will be writing to their local MP in support of the cyberwar against the Ethereum competitor ‘Othereum’. That is **decentralisation**. Huge numbers of diverse entities working to defend it. This will never happen on a network as limited as bitcoin’s is. In fact bitcoin is actively losing allies.
+
+#TL/DR
+
+I’m out. Ethereum is likely to take over this year as bitcoin becomes myspace. This may happen very rapidly. I hope I am wrong.
+
+#Disclosure:
+
+I hold both Bitcoin and Ethereum. I have held a number of different cryptocurrencies over the years, but my holdings were almost always 90-100% bitcoin until recently.",2017-03-28 00:38:47
+478559 (BCH) was mined!,1098,6qy4df,https://www.reddit.com/r/btc/comments/6qy4df/478559_bch_was_mined/,609,1501640082.0,,2017-08-02 04:14:42
+On /r/bitcoin right now.,1087,6vbrt6,http://i.imgur.com/CvbE7oH.png,236,1503444606.0,,2017-08-23 01:30:06
+"BREAKING NEWS: South Korean Government confirms NO CRYPTO BAN. What they will do is to enforce regulations, anti money laundering task force, anti market manipulation, the usual stuff.",1085,7qix0z,https://twitter.com/iamjosephyoung/status/952841672144044032,51,1516041474.0,,2018-01-15 19:37:54
+"Mark Cuban: ""It’s going to be very difficult for [BTC] to be a currency when the time and expense of doing a transaction is 100 times what you can do over a Visa or MasterCard, right?”",1078,7gpqfd,https://finance.yahoo.com/news/mark-cuban-bitcoin-collectible-currency-152121444.html,306,1512105774.0,,2017-12-01 06:22:54
+"Over $10,000!!!",1074,7g9dd5,https://i.redd.it/3lml6xknht001.png,281,1511947732.0,,2017-11-29 10:28:52
+More adoption. Bought Amazon Gift Card with Bitcoin Cash at Cryptonize.it . Works perfect. Took 3 seconds to confirm. Received the two 25$ gift card within 5 minutes. Bitcoin Cash fee 0.01$ No fee was added by the shop. http://cryptonize.it/,1061,7nm630,https://imgur.com/3i9ZRkF,132,1514925206.0,,2018-01-02 21:33:26
+"Coinbase Launches PayPal-Like Service for Paying Merchants with BCH, ETH, LTC & BTC",1050,7wnf9c,https://www.trustnodes.com/2018/02/10/coinbase-launches-paypal-like-plugging-ethereum-bitcoin-bitcoin-cash-litecoin/,182,1518318264.0,,2018-02-11 04:04:24
+Ripple is a funding scheme to help the banks fight Bitcoin. XRP is not Ripple. Banks have no interest in buying your XRP,1039,7o73vr,https://youtu.be/jpCWCm4KbiM,417,1515139548.0,,2018-01-05 09:05:48
+"Satoshi Nakamoto in 2008: Visa processes 100 million transactions per day. That many transactions would take 100GB of bandwidth. If the network were to get that big, it would take years, and by then, sending 2 HD movies over the Internet would probably not seem like a big deal.",1028,7lvie2,https://www.reddit.com/r/btc/comments/7lvie2/satoshi_nakamoto_in_2008_visa_processes_100/,312,1514156263.0,"Full mail:
+
+>Long before the network gets anywhere near as large as that, it would be safe 
+for users to use Simplified Payment Verification (section 8) to check for 
+double spending, which only requires having the chain of block headers, or 
+about 12KB per day.  Only people trying to create new coins would need to run 
+network nodes.  At first, most users would run network nodes, but as the 
+network grows beyond a certain point, it would be left more and more to 
+specialists with server farms of specialized hardware.  A server farm would 
+only need to have one node on the network and the rest of the LAN connects with 
+that one node.
+
+>The bandwidth might not be as prohibitive as you think.  A typical transaction 
+would be about 400 bytes (ECC is nicely compact).  Each transaction has to be 
+broadcast twice, so lets say 1KB per transaction.  Visa processed 37 billion 
+transactions in FY2008, or an average of 100 million transactions per day.  
+That many transactions would take 100GB of bandwidth, or the size of 12 DVD or 
+2 HD quality movies, or about $18 worth of bandwidth at current prices.
+
+>If the network were to get that big, it would take several years, and by then, sending 2 HD movies over the Internet would probably not seem like a big deal. 
+
+>Satoshi Nakamoto
+
+https://www.mail-archive.com/cryptography@metzdowd.com/msg09964.html
+
+Satoshi expected that overtime not everyone would run full nodes, he expected specialized much much bigger blocks and need for dedicated servers. No segwit, no side-chains, off-chains, 2chains, up chains or lightning chains. Just simply bigger blocks.
+
+I'm not even that big into bitcoin myself, I just cannot believe how utterly brainwashed the other side is that they think that myriad of side chains runned by ""totally not banks"" for network to be functional at all is somehow more decentralized than upgrading hardware and bandwidth every decade or so (which keeps getting faster and cheaper). 
+
+I wonder how many of them actually believe this and how many simply cannot admit they were wrong/mislead. If your side has nothing but price memes and conspiracy theories to blame everyone from CIA to North  Korea, you already lost.",2017-12-24 23:57:43
+On major exchanges going down during flash crashes...,1030,7gg5qt,https://i.redd.it/ts2jymopzy001.jpg,156,1512014336.0,,2017-11-30 04:58:56
+Fiat throwin’ shade,1024,94oh8t,https://i.redd.it/wz7427a3o6e11.jpg,43,1533463819.0,,2018-08-05 12:10:19
+Hi I'm the moderator of r/bitcoinforks and r/bitcoin mods tried to take over my subreddit,1023,8rz0uy,https://www.reddit.com/r/btc/comments/8rz0uy/hi_im_the_moderator_of_rbitcoinforks_and_rbitcoin/,341,1529352778.0,"Hey Everyone,
+
+I am a long time bitcoiner, and a while back I started my own subreddit: r/bitcoinforks. Since then I wanted to let the forum organically grow as I knew more forks were going to happen. Furthermore, Ive been slowly researching each bitcoin fork so I can add some more robust data to the forum over time.
+
+Well it just so happens **one of the most vocal moderators of** r/bitcoin (will only abbreviate his name, others have tried too) **tried to take over my forum** by putting in a request with Reddit's main moderation team. The claim is that I was squatting, my name is supposedly a parody, and that the forum was inactive. Coincidently these multiple requests written by the mod 'S&D,' took place at the same time r/CryptoCurrency had seen some moderation changes.
+
+I am here to tell you these cultists will not take my forum without a fight like they have done by monopolizing every bitcoin forum they can capture. r/bitcoin mods isn't it enough you guys monopolize bitcointalk, the wiki, [Bitcoin.org](https://Bitcoin.org), and a vast amount of domains and groups? Theymos is in charge of every group I just mentioned. Another r/bitcoin mod is in charge of the largest Facebook group and Google Plus group. Telegram groups have been taken over by this monopoly as well. Don't believe me search for the Telegram group @resolutions and see for yourself. The mods are all connected and they are same. Remember that [Bitcoin.com](https://Bitcoin.com) lawsuit Telegram group? Funnily enough it is now the BTCC channel run by Trigz and the Clashic developer. **ENOUGH IS ENOUGH. We need to expose this further**.
+
+We need to fight back against this monopolizing force by continuously showing the world how they are attempting to take over everything they can, and continue exposing their lies and censorship.
+
+I am inviting everyone here to Bitcoin Forks to post about any bitcoin fork in existence. I am a bitcoin cash fan I won't deny that, you can see this from my profile, and it is my favorite fork alongside bitcoin private. My subreddit is open for discussions and all are welcome without censorship.",2018-06-18 22:12:58
+When you bought in December,1013,7vky4d,https://v.redd.it/0gp95uf9tie01,89,1517920894.0,,2018-02-06 13:41:34
+Tweet of The Year .... 👌,1016,a66z4q,https://i.redd.it/ed5p5fk95a421.jpg,134,1544837992.0,,2018-12-15 02:39:52
+Gavin Andresen on Twitter: Bitcoin Cash is what I started working on in 2010: a store of value AND means of exchange.,1009,7c94ze,https://twitter.com/gavinandresen/status/929377620000681984,210,1510444740.0,,2017-11-12 00:59:00
+"Censored! Youtube removes Roger Ver's video on ""The effects of Censorship and Propaganda upon Bitcoin""",1007,82uvll,https://i.redd.it/pafvu2fexgk01.png,293,1520512625.0,,2018-03-08 13:37:05
+The irony!!!,998,80doke,https://i.redd.it/8x5ene5qpki01.png,106,1519686729.0,,2018-02-27 00:12:09
+ATTN: Bitcoin Cash added to Coinbase API (EXTREMELY BULLISH),972,7kfzbi,https://i.redd.it/3auknh7ggj401.jpg,288,1513569664.0,,2017-12-18 05:01:04
+"I'm Roger Ver, CEO of Bitcoin.com and world's first investor in Bitcoin startups. AMA",969,7klo1n,https://www.reddit.com/r/btc/comments/7klo1n/im_roger_ver_ceo_of_bitcoincom_and_worlds_first/,903,1513637652.0,"Due to the censorship supporting core trolls loving to intentionally take things out of context to twist them around to mean something completely different than what they actually do,  this AMA will work a little bit differently than most.  Anyone is welcome to post their questions below, and I will be answering them live on video via youtube.  The video stream will begin at 10AM EST, but feel feel free to post your questions now. 
+Here is the [LIVE STREAM](http://youtu.be/UoSuwEgrshU), and remember:
+
+**[/r/Bitcoin is completely censored](https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43)**, so a real AMA wouldn't even be possible there.",2017-12-18 23:54:12
+"Enough is enough. Reddit admins, I'm calling you out. Tell the community why you support censorship, attacks, brigading, malicious misinformation, character attacks, etc.",969,7ejdo4,https://www.reddit.com/r/btc/comments/7ejdo4/enough_is_enough_reddit_admins_im_calling_you_out/,213,1511313153.0,"Reddit is supposed to be a platform for communities, to share information and ideas, and to discuss projects freely.
+
+You, as administrators, have a duty to your users to at least ensure that subreddits for well-known communities aren't corrupted by those who seek to damage said community, and to ensure that information isn't heavily censored to favor a particular narrative in a community that should encompass a number of projects. This is especially important for huge **emerging** communities such as Bitcoin, that the people in charge of these communities aren't allowed to continue behaving in a way that goes against Reddit's core values.
+
+You have done great work to rid the platform of hate speech and witch-hunting, now focus on the toxic deception and psychological manipulation that has been going on for over two years, progressively getting worse as it's ignored by those who can step in and fix it.
+
+_____
+
+[Against the wishes of the community](https://np.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/?st=ja9rolh6&sh=81f81fc1), the /r/Bitcoin sub was hijacked and turned into a cesspool of censorship that breaks nearly every modiquette rule that Reddit has:
+
+**Please don't:**
+
+>Remove content based on your opinion.
+
+As you can see from the link above, despite immense community backlash, censorship was enacted to do exactly this. It was an opinion shared mainly by a few of the devs who later became known to be on the Blockstream payroll (these are just the 'officially' paid ones)
+
+>Hide reddit ads or purposely mislead users with custom CSS.
+
+The CSS is coded so that when they silently remove your posts (normally auto-removed from a large list of banned words that show any kind of support for non-Segwit stuff), it hides the comment to everyone else as if it was never there. (You can check this by making comments yourself and checking in Incognito mode)
+
+Another [misleading CSS edit](https://www.reddit.com/r/btc/comments/44umxm/i_have_to_say_theymoss_72000_character_70_kb_css/?st=ja9s0cqw&sh=4f402cb4) by theymos that was caught, and again you can see people speaking out against around 1 year ago, when that was still permitted.
+
+>Act unilaterally when making major revisions to rules, sidebars, or stylesheets.
+
+Literally, against all community consensus, and against outcries of the majority of the thread, strict censorship was instigated into the rules of /r/Bitcoin that were never lifted.
+
+The vote numbers were hidden for a long time which allowed the moderators to re-sort content, having the most down-voted ones appear at the top. This was only changed recently during the ridiculously obvious ""vote brigading"" false flag that they used to pin blame on /r/btc - with /u/sodypop wading in to back up the comments that something 'was going on' but refusing to engage with any posts on /r/btc that asked for information on how this blatant attack happened to 'slip through' Reddit's complex anti-vote-manipulation algorithms. Now we have some evidence that /r/bitcoin themselves were [likely involved in the attack](https://www.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/?st=ja9tug4w&sh=5c2e7da6).
+
+The CSS was changed to hide 'silently removed' comments from threads, so the amount of censorship that goes on isn't immediately apparent.
+
+>Take moderation positions in communities where your profession, employment, or biases could pose a direct conflict of interest to the neutral and user driven nature of reddit.
+
+Some members of the moderation team are on the payroll of Blockstream, which the CEO Adam Back has publicly stated fully intends to use Bitcoin in order to make profit by [selling off side-chains](http://www.trustnodes.com/2017/10/26/blockstreams-business-plan-revealed-profit-transaction-fees). If that's not a conflict of interest, then what is?
+
+Here is /u/theymos stating that he will use all [available platforms](https://np.reddit.com/r/btc/comments/3z0pkq/theymos_caught_redhanded_why_he_censors_all_the/?st=ja9swemv&sh=512a85b4) to hurt any other version of Bitcoin (in this case XT, but clearly has used them to sew seeds of uncertainty against both the S2X upgrade and Bitcoin Cash)
+
+>Encourage or ""feed"" trolls—just ignore them.
+
+They don't just encourage or 'feed' them, they give them moderator positions. Just look at the comment history of any of the 'latest' moderators.
+
+Long-time moderator /u/BashCo constantly [attacks](https://np.reddit.com/r/Bitcoin/comments/7dbkxg/calling_bitcoin_cash_the_real_bitcoin_is/dpwyei8/?st=ja9uxagm&sh=e90a8cf9) Roger Ver and is dedicated to the psychological manipulation tactic of calling Bitcoin Cash ""[BCash](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dpve88j/?st=ja9uzx0x&sh=81bc5010)""  (along with some other exemplary reading in the rest of that thread).
+
+New moderator /u/StopAndDecrypt is trying to redirect users asking about Bitcoin Cash to a [subreddit that he controls.](https://np.reddit.com/r/Bitcoin/comments/7dq5n9/tired_of_bcc_trying_to_take_away_from_btc/dpzpr2f/?st=ja9v5060&sh=9f364e66) which is misleading again, as he shows he is [not a supporter](https://np.reddit.com/r/CryptoCurrency/comments/7dd43h/bch_has_a_problem_clashic_is_alive_replays/dpwvd6e/?st=ja9v8eaw&sh=f6121b09) of Bitcoin Cash. He also claims people to be ['outright scammers'](https://np.reddit.com/r/Bitcoin/comments/7clu01/future_plans_for_bitcoin/dprns2q/?st=ja9vae5o&sh=b8315518) who support Bitcoin Cash.
+
+Here's /u/coinjaf claiming that [Bitcoin.com is a 'scam site'](https://np.reddit.com/r/tifu/comments/7e9eqj/tifu_by_giving_away_20_bitcoins_killmeplease/dq3o57h/?st=ja9vhcxk&sh=d27f9ef5) and that Roger Ver is a scammer.
+
+>Ban users from subreddits in which they have not broken any rules.
+
+There's [hundreds of examples](https://www.reddit.com/r/noncensored_bitcoin/) of people being banned for asking questions, or simply providing facts that dispute the core narrative.
+
+>Interfere with other subreddits or their moderation.
+
+We constantly have members spewing shit over here, that much we accept.
+
+What I do not accept is that /r/bitcoin Private Message users asking about Bitcoin Cash, and then [maliciously redirect people](https://www.reddit.com/r/btc/comments/7cz3x5/woah_just_woah/?st=ja0lsbac&sh=6bbed8a4) to the subreddit /r/bcash which they control. How is this allowed?
+
+The day that Bitcoin Cash was launched, there was a sticky made that referred to it as ""BCash"", and you can see a very clear campaign of psychological manipulation intended to cause confusion about Bitcoin Cash, and to discredit it in an attempt to make it seem unrelated to Bitcoin when in-fact it more closely resembles the definition of Bitcoin that the current coin using the BTC ticker. You can see this through the rampant usage of ""BCash"" over on /r/Bitcoin - which is **the only** ""discussion of altcoin"" that is allowed to remain. If you try to comment anything positive about Bitcoin Cash, it will be removed. As soon as you refer to it negatively, your comment is fine to remain.
+
+They've also organised[ brigading outside of Reddit](https://np.reddit.com/r/Bitcoin/comments/7e98o4/please_give_5_minutes_from_your_time_to_downvote/?st=ja9t3ie0&sh=3941d72c), which although you could argue doesn't interfere with another 'sub', it interferes with our entire community. This targeted behaviour needs to stop, as Reddit is being used as a platform for targeted harassment/manipulation.
+
+_____
+
+Reddit admins, I welcome your comments on the matter, mainly why you feel like this is the kind of moderation you want to present as acceptable across such an enormous community, that has clearly been ripped apart by the actions of just a few bad actors. Over the two years they've had due to any inaction on your part, they've amassed new techniques to swing things in their favor, which has clearly influenced new people in the community who head over to /r/bitcoin and see nothing but the vile slander campaign against anything that isn't Blockstream, where any opinions not in-line are censored and deleted, skewing the opinions and misleading the public.
+
+_____
+
+Edit: All tips are **very much appreciated** however I would prefer that they instead go towards the [Bitcoin Cash Community Fund](https://www.reddit.com/r/Bitcoincash/comments/7cw43g/now_that_the_debate_is_over_lets_finally_make/?st=ja8mk1jr&sh=fbcdb038) that aims to raise adoption for BCH, and in-turn help combat this ongoing slander campaign against us by telling people the truth about BCH, promoting its technological advantages. It's run by /u/singularity87 who has been an exemplary asset to the Bitcoin community for many years.",2017-11-22 02:12:33
+I am sorry I ever doubted the claims of censorship on r/bitcoin,965,7c5v9p,https://www.reddit.com/r/btc/comments/7c5v9p/i_am_sorry_i_ever_doubted_the_claims_of/,191,1510396512.0,"I have been very active in both r Bitcoin, and at the in person meetups in SF for the last 3 years. 
+
+You can check my history. I do not call people names. I ignore it when people call ME names. And I try to stick to strictly technical issues, when debating people. 
+
+But just yesterday I received a permaban for ""trolling, and misinformation"". 3 years of active contributions where I attempt to be civil, with zero feedback or comments from the moderators saying that I have ever broken any rules or even come close. 
+
+But apparently if you piss off Greg Maxwell one time, then he'll report and you'll be insta-permabanned.  And the only thing I have to show for it is a 3 words nebulous explanation as for why I was banned. 
+
+I should not have doubted people's claims of censorship, just because I had not yet flown too close to the sun by pissing off the wrong core developer.   I had thought that the claims were an exaggeration. But I was wrong. Sorry.",2017-11-11 11:35:12
+When the shills forget to use their alternate accounts,965,7w4utd,https://i.redd.it/95wrz9tjtze01.png,190,1518126251.0,,2018-02-08 22:44:11
+Coinbase accepts Bitcoin cash now!,956,7kxgei,https://twitter.com/coinbase/status/943270201058922496,205,1513757261.0,,2017-12-20 09:07:41
+"Mempool breaks resistance trend, strong support at ~87500. Super bullish!",956,7cpofb,https://i.redd.it/yy43c2mjqsxz.png,235,1510631095.0,,2017-11-14 04:44:55
+Satoshi Nakamoto's Brilliant White Paper Turns 9-Years Old,952,79vdce,https://news.bitcoin.com/satoshi-nakamotos-brilliant-white-paper-turns-9-years-old/,87,1509481509.0,,2017-10-31 21:25:09
+"Paid a beer using Bitcoin Cash in Paris, adoption is real!",948,81r2p3,https://i.redd.it/81tz8c33qkj01.jpg,226,1520122703.0,,2018-03-04 01:18:23
+"Death of a Scamcoin: r/Bitconnect's front page screenshotted moments before they went private, showing panic, anger, and lots of ill-advised investment claims, several claiming to have lost over $100k",948,7qzpmw,https://imgur.com/a/TLimM,309,1516207647.0,,2018-01-17 17:47:27
+"Bitcoin cash VS Bitcoin, a shockingly accurate representation",942,7aj19w,https://i.redd.it/pikogpl67rvz.png,158,1509740840.0,,2017-11-03 21:27:20
+"CNBC - ""That's what the crypto kids called 'getting rekt'""",945,7snliz,https://www.youtube.com/watch?v=h7h6oWYYius&feature=youtu.be,179,1516834579.0,,2018-01-24 23:56:19
+Request to Roger Ver: Please remove btcdrak as a moderator. Anyone who upvotes this post is showing their agreement with this request.,934,3wy8zm,https://www.reddit.com/r/btc/comments/3wy8zm/request_to_roger_ver_please_remove_btcdrak_as_a/,181,1450223206.0,"Please also leave a comment and state whether you agree or disagree, please, so Roger can get a clear view what this sub-reddit wants.
+
+btcdrak being a moderator here is unacceptable.
+
+paging /u/MemoryDealers
+
+**update 1:** 65 upvotes in the first 40 minutes. (wow)
+
+**update 2:** 94 upvotes in the first hour.
+
+**update 3:** *btcdrak bans me:*
+
+http://i.imgur.com/B3wBFkx.jpg (conversation leading up to the ban. I said ""go away"")
+
+http://i.imgur.com/WyWOT9K.jpg (the ban itself)
+
+**update 4:** 479 upvotes in 7 hours. This is the highest up-voted post of all-time in r/btc. I think that means btcdrak should be removed as mod right, as the people here overwhelmingly want it? Let's see if this sub-Reddit is any different than r/bitcoin where mods are invincible and peoples' opinions don't matter.
+
+**update 5:** As I am the creator of [XTnodes.com](http://xtnodes.com), I have removed promotion for this sub-reddit from XTnodes.com and will cease recommending it as a save-haven from r/bitcoin (unless this situation is resolved by the removal of btcdrak as moderator).
+
+**update 6:** I have been unbanned.
+
+#**update 7:** btcdrak has been removed as moderator.
+
+#**update 8:** hellobitcoinworld has been made a moderator.
+
+&nbsp;
+
+If anyone has a way to reach Roger Ver, please inform him of this situation and ask him whether he is going to resolve it or not.
+
+&nbsp;
+
+I requested of the r/btc moderators to un-ban me. This is the message I sent to them:
+
+    I request you to re-evaluate the validity of this ban.
+
+    I don't believe saying ""go away"" constitutes an infraction on any guidelines.
+    It's not spamming and it's not trolling.
+
+    It is my belief that the ban originated out of an emotional response to my post,
+    and perhaps the fact that I voiced publicly my opinion that btcdrak should not be a moderator.
+
+    r/btc is supposed to be what r/bitcoin failed to be. If we are not free to speak out
+    against those who hold positions of trust and power, then we have lost our freedom as a group.
+",2015-12-16 00:46:46
+Bitcoin finally explained,931,980sof,https://i.redd.it/7j7ol80vzkg11.png,162,1534526325.0,,2018-08-17 19:18:45
+"I'm Mark Karpelès, ex-CEO of bankrupt MtGox. Ask me anything.",915,89o171,https://www.reddit.com/r/btc/comments/89o171/im_mark_karpelès_exceo_of_bankrupt_mtgox_ask_me/,710,1522863602.0,"Dear community,
+
+Many of you know or remember me, especially recently since the MtGox bankruptcy has been allegedly linked with Bitcoin price drops in December 2017 to February 2018. Since taking over the most active Bitcoin exchange in 2011, I ran MtGox until filing for civil rehabilitation on February 28th 2014 (which became bankruptcy less than 2 months later) because a large amount of Bitcoins went missing. Since then, four years have passed, and MtGox is still in bankruptcy today. I’ve been arrested, released under bail after a little less than one year, and am now trying to assist MtGox getting into civil rehabilitation.
+
+I did my best trying to grow the ecosystem by running the biggest exchange at the time. It had big problems but still managed to hang in there. For a while. A quite long while, even, while the rest of the ecosystem caught up. At the end of the day, the methods I chose to try to get MtGox out of its trouble ended up being insufficient, insufficiently executed, or plain wrong.
+
+I know I didn't handle the last, stressful days of the outdrawn and painful Gox collapse very well. I can only be humble about that in hindsight. Once again, I’m sorry.
+
+Japanese bankruptcy law has a particularly nasty outcome here, and I want to address this up front. As creditors claims were registered, those claims were registered in the valuation of Japanese Yen on the bankruptcy date. That's the only way Japanese bankruptcy law can work (most bankruptcy laws around the world operate this way for that matter). This means that the claims can be paid back in full, and there will still be over 160,000 bitcoin and bitcoin cash in assets in the Gox estate. The way bankruptcy law works is that if there are any assets remaining after the creditors have been paid in full, then those assets are distributed to shareholders as part of the liquidation.
+
+That's the only way any bankruptcy law can reasonably work. And yet, in this case, it produces an egregiously distasteful outcome in that the shareholders of MtGox would walk away with the value of over 160,000 bitcoin as a result of what happened.
+
+I don't want this. I don't want this billion dollars. From day one I never expected to receive anything from this bankruptcy. The fact that today this is a possibility is an aberration and I believe it is my responsibility to make sure it doesn’t happen. One of the ways to do this would be civil rehabilitation, and as it seems most creditors agree with this, I am doing my best to help make it happen. I do not want to become instantly rich. I do not ask for forgiveness. I just want to see this end as soon as possible with everyone receiving their share of what they had on MtGox so everyone, myself included, can get some closure.
+
+I’m an engineer at heart. I want to build things. I like seeing what I build being useful, and people being happy using what I build. My drive, from day one, has been to push the limits of what is technically possible, and this is the main reason I liked and have been involved with Bitcoin in the first place. When I took over MtGox, I never imagined things would end this way and I am forever sorry for everything that’s taken place and all the effect it had on everyone involved.
+
+Hopefully, I can make what I’ve learned in this experience useful to the community as a whole, so there can at least be something positive in the end.
+
+Ask me anything you like.
+
+**EDIT**: With this coming to r/all there have been an overwhelming number of messages, questions etc. I will continue responding for a little while but probably won't be able to respond to new questions (it is starting to be late here and I've been spending the last few hours typing). Thank you very much to everyone.",2018-04-04 19:40:02
+Some poor bastard just sold their BTC for $999 instead of $9999.,916,859rmi,https://i.redd.it/otfdqez8ygm01.jpg,144,1521384561.0,,2018-03-18 15:49:21
+Khan Academy Now Accepts BCH Donations!,921,7mszb2,https://twitter.com/khanacademy/status/946536347799392256,62,1514562576.0,,2017-12-29 16:49:36
+"Tether emergency hardfork, 30,000,000 freshly minted USDT allegedly stolen",921,7eeu4i,https://archive.is/ZFDBf,275,1511263944.0,,2017-11-21 12:32:24
+Reminder: Core developers used to support 8-100MB blocks before they work for the bankers,918,7cuwyx,https://www.reddit.com/r/btc/comments/7cuwyx/reminder_core_developers_used_to_support_8100mb/,251,1510686500.0,"Before becoming banker puppets:
+
+>https://np.reddit.com/r/btc/comments/71f3rb/adam_back_2015_my_suggestion_2mb_now_then_4mb_in/
+
+>**Adam Back (2015) (before he was Blockstream CEO): ""My suggestion 2MB now, then 4MB in 2 years and 8MB in 4years then re-asses.**""
+
+>https://np.reddit.com/r/btc/comments/71h884/pieter_wuille_im_in_favor_of_increasing_the_block/
+
+>**Pieter Wuille (2013) (before he was Blockstream co-founder)**: ""**I'm in favor of increasing the block size limit in a hard fork**, but very much against removing the limit entirely... **My suggestion would be a one-time increase to perhaps 10 MiB or 100 MiB blocks (to be debated)**, and after that an at-most slow exponential further growth.""
+
+>https://np.reddit.com/r/btc/comments/77rr9y/theymos_2010_in_the_future_most_people_will_run/
+
+>**Theymos (2010) (before turning /r/Bitcoin into a censored Core shill cesspool):** ""In the future most people will run Bitcoin in a ""simple"" mode that doesn't require downloading full blocks or transactions. **At that point MAX_BLOCK_SIZE can be increased a lot**.""
+
+After becoming banker puppets:
+
+>Blockstream Core: ""1MB! 1MB! 1MB! 1MB! 1MB! 1MB! 1MB! 1MB!""
+
+>Blockstream Core: ""High fee is good because [Bitcoin isn't for poor people](https://twitter.com/excellion/status/783994642463326208).""
+
+This is what happens after the bankers own you, you have to shamelessly do a 180 and talk complete bullshit against simple commonsense in public.
+
+You can thank the bankers for keeping BTC blocks at 1MB and force you to pay $100 fee and wait 72 hours to send $7.
+",2017-11-14 20:08:20
+Roger Ver: Who wants a Bitcoin Cash Visa debit card? http://Bitcoin.com is going to be bringing it to you soon!,905,7j369o,https://twitter.com/rogerkver/status/940253050731679744,268,1513037690.0,,2017-12-12 01:14:50
+One advice for Coinbase,907,7q4kol,https://i.redd.it/xl6efkjgcu901.jpg,188,1515880704.0,,2018-01-13 22:58:24
+"Nine years ago on Jan 3 2009, the genesis block was mined. The Bitcoin blockchain is 9 years old!",902,7ntq76,https://blockchair.com/bitcoin-cash/block/1,124,1515002476.0,,2018-01-03 19:01:16
+"“If sending money globally as easily as an email doesn’t impress you, how about the ability to store your life savings in your head, then walking your family across a war-torn border to safety?” Lasher",897,89xkbs,https://www.reddit.com/r/btc/comments/89xkbs/if_sending_money_globally_as_easily_as_an_email/,179,1522939874.0,Quote of the day from Forbes,2018-04-05 16:51:14
+This is governments trying to regulate bitcoin.,890,8n81h9,https://v.redd.it/ir2g5g3wgz011,179,1527710944.0,,2018-05-30 22:09:04
