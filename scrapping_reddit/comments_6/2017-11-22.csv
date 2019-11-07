@@ -1056,3 +1056,1367 @@ We all know that reddit isn’t the end all be all of bitcoin, right?
 "Wow just had time to go through some of this. Amazing. The writing is clearly on the wall for both /r/bitcoin and Bitcoin Legacy.
 
 /u/tippr gild"
+Can we also point out the double standards? They say you cannot beg for bitcoin yet they allow a bitcoin dev to ask for donations to cover his deductible on hurricane damage. Then upped the amount to try and get upgrades to his home. Seriously WTF? It’s a deductible, you knew what it was when you bought insurance 
+Yes you would. In a decentralized Reddit people would claim a subreddit with a private key and then nobody would be able to take it from them. Steemit isn't even close to reddit you name calling tool.
+On reddit everyone is a shill until proven otherwise.
+"u/darthvadar1, you've received `0.00233321 BCH ($3 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+"I appreciate this although idk what to do with it or even what it means even after reading the stuff underneath
+"
+A voice of reason, well said.
+Ahh sensibul persun!! Attak him wit downvots!!
+Wow, you really showed him.
+Grow up
+"Your downvotes are so representative of this subreddit. I don't know what is the average age of  users here. Each time I come on r/btc, I see only 
+obsessive paranoid topics about r/bitcoin. Nothing else. Gobaheae for your downvotes, I don't care about karma things."
+My pi BTC node is fine.  You dumbfucks don't know what the mempool is.
+A good one? If you ever had the pleasure to moderate a somewhat bigger website, then you would know that removing of >80% of all comments on controversial topics is not that uncommon. However, some people requested a moderation log for everyone to see what was deleted by mods. thats a nice idea imho 
+Real bitcoin winning, clearly. You tried and you lost, but you just can't seem to move on. 
+"Thanks!
+Ended up with over 9 btc  https://www.smartbit.com.au/address/1Cyc4X8ES9Qvsqc8FBupLdTLKnbxo6wmUj  "
+"> its the sub that community uses and wants.
+
+How do you know?  Everyone who opposes the way the sub is run gets censored and/or banned."
+I bet you don't get banned or have your comment removed in here though... Think about it..
+"You may have meant r/bitcoin instead of R/bitcoin.
+ 
+ ---------------------------------------
+ 
+^^^Remember, *^^OP ^^^may ^^^have ^^ninja-edited.* ^^I ^^correct ^^subreddit ^^^and ^^user ^^links ^^with ^^^a ^^capital ^^R ^^^or ^^U, ^^^which ^^are ^^^usually ^^unusable. 
+ 
+ ^^**-Srikar**"
+Just saying that no longer makes it so. You have to provide arguments which you clearly don't have. 
+Notice how these comments are not removed and you are not banned?
+Why wouldn't they? It's not like they're a criminal organization like the Dragon's Den.
+"Bitcoin is fun and all, but I don't quite see it as life changing as the invention of the internet though. 
+
+We already have money. The only thing that changes is how that money is issued. 
+
+There was no such thing as the internet. It didn't replace anything - it was a new thing that people did not quite know how to use, or how it would be used, but a lot of smart people agreed that it had the potential to change how we did quite a few things."
+I'm sure the banks know this and have compromised r/Bitcoin and reddits admins
+"Out of everything that is happening in the world you see Bitcoin as the single most important thing? 
+
+Are there any metrics involved in this ranking, or are we going by gut feeling alone? 
+
+No cancer research, or space exploration or new energy research goes above the invention of issuing money in a new way? "
+Get to em first then
+Does a lot of damage like a subreddit that's based on misinformation within its name. /btc should be /bch. People come here thinking this is a BTC forum when its not.
+"/u/rawb0t
+
+Good suggestion."
+Thanks!
+"u/Jonathan_the_Nerd, you've received `0.0005 BCH ($0.64 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+"Lightning network.
+
+Here's how a payment channel works in Bitcoin.  You and the other party create a 2-of-2 address, and you both put some money in it.  Any transaction that spends the coins has to be signed by both sides (that's what 2-of-2 means).  Now if you want to send money to them, you create a transaction sending that amount from the 2-of-2 address to their address and the rest back to one of your addresss. You sign the transaction and give it to them.  They sign the transaction, which makes it spendable.  But they don't actually publish it on the blockchain. They simply hold onto it.  Later, if you want to send more money, you create and sign a *different* transaction, giving them more money and you less money.  They don't publish that transaction either.  Every time you want to send them more money, you create a new transaction that gives them more money and gives you less change.  None of those intermediate messages ever get published.  Finally, the two of you are ready to settle up.  You publish the last transaction you agreed to.  That sends the coins out of the 2-of-2 address.  That's called closing the channel.  I'm glossing over some details, because I don't fully understand it myself.  But as far as I know, it's impossible (or nearly impossible) for either party to steal funds.
+
+Now, let's construct a chain of payment channels.  Suppose Alice already has an open channel with Bob, and Bob has an open channel with Carol.  How does Alice send money to Carol?  She contacts Bob and says, ""Send x BTC to Carol.""  Bob sends it.  Then Alice sends the same amount to Bob.  These are payment channel transactions, so none of them have been published on the blockchain yet.  I'm pretty sure there's some mechanism in place to prevent cheating, but I don't know how it works.
+
+The Lightning network is a network of payment channels.  Suppose Alice wants to send money to Dan, but she doesn't want to open a new channel or use the blockchain.  Let's assume both Alice and Dan have a few open channels with different people, but not with each other.  Alice can send a message to the Lightning software, and it will traverse the channels and find a path from Alice to Dan.  Then Alice can send money to Dan without opening a new channel.  Multiply that by a whole lot of people, and anyone can send money to anyone else without necessarily having a channel open between them.
+
+I'm glossing over some big details.  The software to find a route between Alice and Dan hasn't been written yet.  And there are questions about how well the network will scale in practice.  And there are some details I don't understand myself.  But that's the big-picture overview of how a second-layer network would work."
+"https://www.reddit.com/r/Reddit
+This community has been banned
+
+This community has been banned for violating the Reddit rules.
+Banned 6 years ago."
+Being anti-censorship, wouldn't that mean being pro-net neutrality?
+I don't know of a way to be certain that one person gets exactly one vote. The person in charge of the identity system will always be able to cheat with various amounts of effort required. The best voting systems I've seen so far has been https://consider.it and https://vote.bitcoin.com. They both have their pros and cons but if you're interested in fairer voting systems than most voting systems, then I'd recommend that you take a look at those two.
+"No, I was not aware of that.  I am sorry.  Mostly a mobile user.  Prior to the fork, when this subreddit (is it wrong to say ""this community""...?  Why attack me for the use of that phrase?) sprang up, I subscribed to it, and I see posts from both hit my frontpage consistently.  99% of the content here is an attack on /r/bitcoin, and 99% of their posts are shit about new price thresholds. 
+
+I did not know you were all banned, but I do know that I hold both coins, and will continue to.  Cryptocurrencies are so much larger than reddit on a global scale, so I find the mass-hysteria over what the mods over there are doing to be rather inflated.  
+
+Nonetheless, I continue to read and learn, like I am doing here.  I hear what you are saying, and as such, I will continue to browse both subreddits, keeping everything in mind."
+Wrong.
+XT was 2015
+r/bitcoin is actively manipulating a 100 Billion Dollar Market.  If people understood what was going on this would be huge news.
+"Those things you mentioned are negated by equal abuse from r/Bitcoin against Roger, jihan, & other big blockists. It also promotes scammers, much like bitcointalk.org does routinely. ""and much more"" is just the vagueness you're trying to achieve because there isn't anything else to criticize.
+
+The MAJOR difference that you're trying to call to acknowledge is the blatant censorship and shameless banning you promote. "
+[deleted]
+This whole BCH thing reeks of being an altcoin that wants to hermit crab itself into the legitimacy of Bitcoin using its public channels but gets upset when they can't.
+this
+Shit yeah
+Yep.
+you were missing a r in that, you meant  /u/Chtorrr I believe.
+"Reddit admin inaction against misbehaving /r/bitcoin moderators is stagnating new user adoption for the Bitcoin currency which has a significant negative impact on the whole world, yes. 
+
+Imagine if the same thing would've happened when the Internet was new and a small group of people would've been delaying new Internet user adoption by two years. It would've had a significant negative impact on the whole world as well. The Bitcoin invention is as useful and important to the world as the Internet invention. We're already a currency project with a market cap over 100 billion USD, despite the 2-year long stagnation caused by the misbehaving /r/bitcoin moderators (in the 430 000 subscriber large /r/bitcoin forum community)."
+Not at all. Bitcoin is the most important thing happening in the world right now, and the censorship and manipulation have stymied its progress immeasurably. 
+Not dramatic at all. Compare it to the situation woth /r/The_Donald or any other extremist subreddit. The amount of manipulation and FUD coming from some popular subreddits is insane. However one coule argue that this is the spirit of Reddit and that if you want to see both sides of the coin you could always go to *other subreddits*. For example, even if the censorship on /r/Bitcoin is unacceptable, I don't mind it in practice because I have /r/btc and /r/CryptoCurrency so this is not a full on Reddit censorship. But then the problem is that some people don't try to see both sides.
+"Would you same the same about twitter a nd the real-world ramifications that the US President is perpretating via it?
+
+For better or worse, social media has become one of the main forms of communications amongst the masses and while, yes, sites like reddit remain private entities, I think it's hard to make the argument that they're not also progressively gaining moral responsibility for some of what is allowed to happen on them.
+
+News networks in TV and radio (the previous main form of communication for the masses) are regulated to different degrees in virtually the whole world, not to mention journalists having developed their own internal deontologic codes. Social media is a new technology, but should we not be asking ourselves these questions right about now?"
+I don't really care to visit that low-quality, low-information subreddit, but it's the first stop for a lot of new people finding out about cryptocurrency for the first time. It does a lot of damage.
+"What's a digg?
+
+😂"
+[Post](https://www.reddit.com/r/btc/comments/7er4qz/did_you_know_theres_a_bitcoin_forum_that_is/)
+"This bot doesn't say where to *get* bitcoin cash...  
+Anyone?"
+Nice ELI5. I can't even tell which side of the debate you're on, which is good in this case. /u/tippr 0.0005 bch
+Wow thank you for the excellent write up! I'm curious, what would Bitcoins proposed second layer consist of? Wouldn't it essentially amount to a longer blockchain just with extra steps?
+"Please stop commenting on Reddit, you make their HDD's full.  
+How should they be able to scale if their HDD's run full? Buying new HDD's?"
+thanks mah dude ^ _ ^
+"u/haydenw360, you've received `0.00084332 BCH ($1 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+Oh Greg.
+Send a pm to the mods of /r/reddit.com, that gets it put in the admin queue. Send once don't spam etc.
+I think making a post in /r/btc is perfectly fine just like you did. We have to assume that the Reddit admins know how to reddit. The only detail you missed is that it's not possible to ping users from a post. It's only possible to ping users from a comment.
+try r/bitcoin :P .. ill post on twitter
+"~~/r/Reddit ? At least you can message admins there.~~
+
+Edit 1: I have no idea.
+
+Edit 2: I meant /r/Reddit.com"
+Is there anyway to make polls resistant against bots/vpn/proxys for multi votes? If not then there must be another feasible way to allocate a mod, anything would be better than the current state
+open mod log, remove the weird CSS to start. Generally stop being dicks.
+sorry, yes, I did mean bitcoin cash, I keep messing up the acronym (bcc = bitcoin cash in my mind, I can't ever get it right)
+"https://medium.com/@tuurdemeester/fundraiser-for-luke-dashjr-2a4c0afb96a8
+
+Note the Addendum"
+https://media.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif
+"Heh, it is much worse than you imagine.  You should read this, it will explain a lot.  Also it is a very interesting read, written well and not boring:
+
+https://www.reddit.com/r/BitcoinMarkets/comments/6rxw7k/informative_btc_vs_bch_articles/dl8v4lp"
+Your argument is essentially that the internet will replace money. The internet is much more than Netflix, Spotify, Reddit, Facebook, Skype and Bitcoin. Bitcoin is just one of a few things. So saying that Bitcoin is as important as Netflix? Sure - I can agree to that. But as important as the internet? No, not at all.
+I still watch TV, listen to the radio, and read newspapers, as well as using those services you mention. It is a falsehood to say that the internet has replaced them. What the internet did was force them to be competitive.
+We all do..?
+stop stuttering.
+"Then we need to do something about those low fees. 
+
+I really don't believe Bitcoin will fulfill the vision you paint, but I have nothing to win by being right so let's hope you're right though."
+Thank you
+"""Try not to be toxic"" isn't a PC thing. It's basic human decency, which you don't have."
+Well you should, try Coinomi which can handle multiple coins including BTC. 
+Bitcoin Cash is the upgraded Bitcoin. That's what I am telling to everybody and everybody  understand and is excited about it. And what's more, BCH is secure *and* decentralized. What ability did I lost again? 
+Exactly why I wanted this to be considered for adding to the OP as an example of abuse of admin rights to selectively follow the rules they say they enforce and ultimately hurt users by running fundraisers that dont actually do anything to helping what they claimed. Thats misleading and harming users no? u/BeijingBitcoins
+Are you accusing TurdeMeester of being a scammer?
+Indeed. I hadn’t looked since the fundraising was ongoing but I do believe this should be brought up. It’s not like all those funds are time locked.
+"You're missing that Bitcoin is actually the progenitor of decentralized human organization at not only an economic level, but also at a political level.
+
+The FIRST part of that is Bitcoin replacing money - which is effectively an extension to the Internet.  But once that is done and the wider population is comfortable with the idea of decentralized blockchains, what is possible then?
+
+Could a country be run via a blockchain or decentralized government system (perhaps with users voting by anonymous provably unforgeable signed tokens)? How about the UN? The whole world?
+
+Let's try a different example: Automating money is far different to automating music or content creation.  It is now possible to have a robot that self-funds its own creation, operation and expansion. Google could post a public Bitcoin address, link it to whatever is their latest deep learning network and simply let it be. The code itself would be responsible for its own marketing and encouraging the public to donate to it, part of which would be devoted to spinning up new instances of itself with code variations as a kind of Darwinian robotic evolution process.  Before you know it, humanity has true AI.
+
+When the Internet was born, no one could even imagine a fraction of the stuff that you can now quote as historical creations.  Bitcoin will produce stuff that no one NOW can dream of until it's already happened - I'm just giving a couple of examples that hopefully illustrates that same kind of potential definitely exists."
+Well then in that case, the same thing can be said about Bitcoin Cash. My point I was making a few comments back was that the Bitcoin (Cash) invention is likely to have as big of an impact on the world as the Internet invention already has had.
+"I watch TV, on the internet; listen to radio ,and podcasts, on the internet; I read newspapers, on the internet. What has changed is how we consume services. We choose when to watch not simply sit at home controlled by scheduled programming... This has been a massive shift in consumption patterns."
+Gawd, sorry. Kept getting posting errors so just kept right on clicking that send button!
+I don't think BTC will fulfill that vision either. Luckily, Bitcoin Cash *is* bitcoin. It's the same tech I fell in love with years ago.
+"Bitcoin Cash is not bitcoin. Words have meanings and ""is"" means ""equals."" Bitcoin Cash is a fork and an altcoin. You can claim that it has upgraded features if you like, but it objectively is not Bitcoin. Trying to trick new people into thinking it is bitcoin is shady and disingenuous. If your coin cannot stand on its own merit, it should die. The fact that Bitcoin Cash was privately mined for a few days by a single company who orchestrated the fork detracts from your claim of decentralization."
+Well, Luke/Tuur, whomever collected money on behalf of u/luke-jr and then left the funds in the wallet. If he needed the funds, why the fuck would he not use the funds? Sounds strikingly similar to u/theymos stealing 6000BTC from the community with nothing to show for it. Anyone who donated was scammed.
+I quite agree, and I welcome that banks will feel the squeeze and have to refine their services.
+Bitcoin Cash is Bitcoin Cash, but I bet we are both done with that discussion before we even start. But best of luck to us all either way!
+Bitcoin cash is not bitcoin, it's bitcoin cash. BTC is the symbol of bitcoin, BCH is the symbol for bitcoin cash. 
+"Whatever floats your boat bro.
+
+Bitcoin Cash is Bitcoin now.
+
+Deal with it :)"
+The bitcoin whitepaper defines bitcoin. Bitcoin Cash adheres to the whitepaper, Core's segwit rube-goldberg contraption does not.
+How can someone as old school and I volved with mining as Luke not have enough to pay for this? Such BS. 
+Agreed.
+I didn't say bitcoin cash was BTC. Bitcoin Cash is BCH, and it's also bitcoin, and BTC is some strange new experiment that I'm not quite sure what to call.
+That's not how it works. That's not how any of this works! This sub is a lost cause. I've tried to warn you all that the Pied Pipers are leading you into a trap, but you fail to listen. The cognitive dissonance and technical ignorance on display here is upsetting. There's nothing to be done I suppose.
+"You're not up to decide how it works or not. Go read the whitepaper, that's how bitcoin works.  Bitcoin Cash is Bitcoin now, there is literally nothing to be done about it. 
+
+Saying that Blockstream's settlement system is somehow ""bitcoin"" is no more than a lie and a fraud. Deal with it. "
+You forgot rule 34
+"It's alright, it wasn't clear in the beginning which of the tickers would stick; BCC got more popular early on, but BCH seems to have overtook it recently."
+"> By that logic everyone who doesnt like it is banned so the only people there are noobs and people who like it.
+
+You realise that is literally what happened, right?"
+So RCH, BCH. 
+nope, pro net neutrality means freedom of access whatever you want, anti censorship is that any discussion is allowed. You could in theory deny freedom of access to people, and only the people who have have enough cash to access will enjoy freedom of speech... if that makes sense
+"> you name calling
+
+> **tool**
+
+You're not welcome here. The door is that way. ----->
+"
+Thank you! 
+Oh the irony. 
+Cheer up mate, BCH is simply more useful and competitive to use! /u/tippr $0.50
+"If you think Bitcoin is about ""winning"", you're losing."
+I lost what exactly? Now I can do bitcoin transactions fast and cheap. It's pretty much of big win for me. 
+Yea, Just was looking at that too. Whats odd is that if he needed the money so much, why hasnt it been used? If the funds are truly going towards a worthwhile cause that truly needed them, at least some of it would've been moved. Instead none of it is. 
+[deleted]
+[deleted]
+It's as if the whole principle of Reddit was somehow being observed organically.... Amazing...!
+"Well I'm 40 years old and got my first personal internet account in 1994. I remember how people thought that BBSes, Fidonet and the Internet were not significant inventions. That attitude changed over the years and I expect the same thing will happen to Bitcoin (Cash) over the years.
+
+The Internet replaced numerous things. It replaced TV (Netflix), Radio (Spotify), Newspapers (Reddit, Facebook), Phones (Skype) etc. Similarly, ""Bitcoin Cash"" will likely replace a lot of banking products and services, fiat currencies and payment networks (Swift, Paypal, Visa, fiat cash etc) in the mid term future."
+I think you need to do some reading...
+The conspiracy theories are strong in this one...
+The conspiracy theories are strong in this one...
+The conspiracy theories are strong in this one...
+The conspiracy theories are strong in this one...
+The conspiracy theories are strong in this one...
+"When you realize how many people are subjugated and stolen from by way of centrally-dictated monetary policy, you start to see how Bitcoin is revolutionary. Governments pay for wars with their ability to conjure up unlimited supplies of money at will. 
+
+Think about all the unbanked people in the world. They can't get credit cards, they can't use PayPal. They are effectively barred from participating in global commerce. 
+
+Think about all the low-wage migrant workers losing a significant percentage of their wages to wire fees when they send money back home to their families. $10 might not be a lot of money to Western Union, but it could mean a week's worth of meals or a new set of school clothes for someone in a developing country. 
+
+Bitcoin isn't a get-rich-quick scheme, and it's not just a nerdy financial plaything. Bitcoin has the potential to be truly liberating for billions of people around the world. The internet democratized the free flow of information. Bitcoin offers to democratize the free flow of value. "
+When you first want to learn about this new company called Apple, do you visit /r/Apple or do you first research Apple's NYSE ticker and then go to /r/AAPL?
+"Hashcash ;)"
+Without net neutrality, ISPs could block sites that talk badly about them and stuff like that. Net neutrality is about everyone being treated the same regardless of the contents of their data.
+"Whatever, I mean people need to grow up and quit the pussy PC ""you said a bad word!"" shit when apparently defending the blatantly corrupt like Spez. This is the real fucking world, not a daycare center. 
+
+Can we not just call an apple an apple? Does /u/spez deserve to be called something other than a complete piece of shit for the horrible things he's done or the pro-censorship platform he runs? I don't beleive in being nice toward the people that fuck us over.
+
+Fuck /u/spez, and you, and /u/freebies for that matter if being PC is more imporant that outing these fucking creeps for who they are and the fascist ideologies they represent. We're not going to beat them with a safe space hugging circle
+
+"
+"u/camereye, you've received `0.0003899 BCH ($0.5 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+Tipping is a more positive approach than babyish downvotes. But, honestly I don't know what to do with your bcash dust, I will not install a wallet just for that. Thx anyway.
+It's always the person who's losing who tries to redefine the winning conditions. 
+You lost the ability to call your chain bitcoin. That's what this was all about. You had to settle for Bitcoin Cash. Bitcoin is a different blockchain. I'm glad you're happy with Bitcoin Cash, although I would prefer secure and decentralized over fast and cheap. Personal preference.
+He never needed the money. This was a scam just like everything else he does.
+"It's like someone ""forgot"" that we can look at the blockchain... "
+"It's difficult to talk about Bitcoin when certain opinions are disallowed on the largest discussion forums.
+
+It would be different if the /r/bitcoin mods posted a notice saying, ""The following topics are not welcome here: (x, y, z).  If you want to discuss such things, go to /r/btc.""  But instead, they selectively remove comments, re-order comment threads, and silently ban dissenters.  Many people on that sub don't even know there's another side to the issues surrounding Bitcoin.  They only hear the approved narrative."
+I used to work with a guy who said that. If you ever said you didn't like anything he would say you were jealous. You don't like onions, you're jealous. You want to turn the heating up, you're jealous. As an answer to things it makes absolutely no sense.
+shit yeah
+"What kind of moderation system deletes 90+% of the comments?
+
+https://www.reddit.com/r/btc/comments/7el8m8/what_rbitcoin_mods_desperately_dont_want_you_to/"
+"this is really sad, reddit allows people to make their own subreddit and control it however they like. reddit isnt going to do anything.
+
+stop being pathetic and get a life guys"
+"> You can't even type the word ""censorship"" in their subreddit, because that word is one of many on their ""forbidden words""
+
+**FALSE:** See my recent comments [here](https://np.reddit.com/r/Bitcoin/comments/7cw9no/vitalik_is_objective_or_another_crazy_think_for/dpu5lgb/?context=3), [here](https://np.reddit.com/r/Bitcoin/comments/7cw9no/vitalik_is_objective_or_another_crazy_think_for/dpu6ge6/?context=3), [here](https://np.reddit.com/r/Bitcoin/comments/7d5ssi/can_we_stop_insulting_other_cryptos_and_start/dpvr6tx/) and [here](https://np.reddit.com/r/Bitcoin/comments/7cw9no/vitalik_is_objective_or_another_crazy_think_for/dpt9say/) too.
+-
+
+/u/thieflar went through and [carefully](https://np.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/dq5xrdi/) [debunked](https://np.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/dq5xuay/) [every](https://np.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/dq5xw0f/) [single](https://np.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/dq5xyt1/) [claim](https://np.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/dq5xzry/) in the post yesterday.
+
+Yes r/bitcoin is heavily moderated, LOTS OF SUBS ARE. Reddit admins don't give a shit. You guys need a new hobby. 
+"
+This is why I want nothing to do with cryptocurrencies in general.   The whole thing is a heavily manipulated, toxic cesspool.   
+"Dear Reddit User, 
+
+We have turned Reddit into an SJW safe space where everyone who cannot seem to identify their gender can meet, scream, cry and discuss Marxism/Maoism/Leninism politics in a safe environment, free of ~~alternative thought~~ external interference. This is the grand vision of spez, our ~~comrade~~ commander in chief. "
+If you think they are going to make some drastic change to reddit just because one small sub is censored you are an idiot.
+"BTC will be the one and only king. Altcoins can pack it.
+And oh, you need to get laid son."
+i have posted it on r/bitcoin https://www.reddit.com/r/Bitcoin/comments/7ekbjq/saw_this_on_twitter_thought_id_share_it_here/
+">Trying to get a message to the admins
+
+If only there were a way to message the admins directly rather than posting here where they won't see it, but you can get circlejerk points..."
+Uhhhh, mods have the right to censor as they see fit. Not that I agree that the mods at r bitcoin should censor, but fuck, it’s fucking reddit dudes 
+"u/BeijingBitcoins This was a good post, but it went off the rails repeatedly. 
+
+1. Theymos didn’t embezzle millions of dollars. Theymos put out his begging cup to improve the bitcointalk forum and users tossed a few thousand bitcoins - **worth a few thousand dollars at the time** - into it. He then failed to deliver anything of value from that fundraiser and possibly paid the funds to some inexperienced friends of his in the process. None of this is illegal or even particularly immoral. It just looks bad because of how much the bitcoin *would be* worth today. He didn’t register as a charity or incorporate as a business. None of his benefactors had any actual say in the way he spent the money or any right to demand it be returned. That’s the way unregulated bitcoin transactions work.
+
+2. Bashco was confirmed to be part of a slack user group called the dragons den. This sub assumed, claimed, and has persistently insisted that this must be some nefarious syndicate coordinating social media attacks and generally behaving badly. The people who were part of that group have repeatedly denied that it’s anything more than a discussion group. There is no evidence of any kind. Just lots and lots of speculation.
+
+Including points like those above does your argument no favours. If the admins *do* investigate your claims then having speculative conspiracy theories or misrepresenting the donations scandal is going to count against you in a big way."
+Interesting that you're begging a central authority to fix all your problems. Imagine if Reddit was decentralized?
+They are tagging the none believers right now. TAGGING THEM!!! *holds fists in the air.*
+Im new to all of this and i agree even though bitcash and coin is over my head i like how yall beleive in this so passionatly and did something about it. Will keep researching and yall keep building a strong foundation
+I fear that it is possible that significant criminal elements are at play in the Bitfinix/Tether/Blockstream/Core nexus. If so, then in my opinion some of that criminality has been bolstered by the Reddit Admins. By ignoring their own rules and allowing the r/Bitcoin mods to be unaccountable for their actions, Reddit itself has played a non-trivial role in this enterprise. If the authorities confirm these concerns about criminality and decide to crack down on companies and exchanges that have engaged in fraud and deception, I don't see how the Reddit platform can escape significant scrutiny. If my fears are found to be true, then coming clean to the authorities on a voluntary basis before this thing blows up may be the only way for Reddit to save the platform from significant adverse consequences at this point.
+is it true /r/btc is anti net neutrality?
+"Bro for years I fell into these nujobs, I was convinced this subreddit was ""toxic"" and that BTH was like Satan's rebellion against God.
+
+It's like leaving a cult and found that thise community was nice as fuck and welcomed me."
+"Hilarious coming from a sub called /r/btc that's not even promoting BITCOIN but ANOTHER COIN CALLED BITCOIN CASH AKA BCASH.
+
+This sub should be shut down due to false associations."
+What is this subs obsession with /r/bitcoin? Every thread that pops into my feed has /r/bitcoin in the title. Unsubbed from both.
+"Wait, you are asking the reddit admins to look into /r/bitcoin while this sub's main moderators are actively breaking the reddit ToS by using the website to herd people into bitcoin.com?
+
+People in glass houses..."
+[deleted]
+"+1
+
+/u/spez is a piece of shit and seems totally fine with /r/bitcoin even though it literally breaks almost every fucking rule they have in regard to moderation policy.
+
+I already gave on on Reddit mostly in terms of both the admins being bullshit and vote fuckery being pretty easy to pull off. Everything on this piece of shit platform is manipulated to some degree."
+I hear bitcoin mods also punch babies
+Lol this sub...
+"Reddit is a private site. . . It's their sub
+
+What part of this don't you people get?
+
+This is how reddit works.  . . Always has"
+Jealous of what? 
+I like /r/bitcoin _because_ its moderated. In my opinion they should be way stricter and eg. delete all the ATH memes and all the whiny /r/btc did this&that crap. And I like /r/btc as well because of some very interesting members and discussions. So basically I'd like to keep the status quo
+Oh my god could this sub whine any harder 
+"Just stay here!!!!
+"
+This community is so much jealous of r/bitcoin..hahahhahahah
+Never heard the last part. Source?
+[deleted]
+3+ years. Started in 2014 with XT.
+Amazing well written post! Thank you for this 😊 /u/tippr gild
+"Nominating myself for rbitcoin mod replacement
+
+/u/lovelyday /u/seweso how about you guys?"
+"Thanks for this.
+
+I hope it has some impact on Reddit's policy and helps push them to *really* review the situation that has been brewing over the past two + years.
+
+Putting some neutral parties into /r/Bitcoin and opening the moderation logs sounds sensible.  It could be a breath of fresh air that is needed.
+
+/u/tippr gild"
+"Open log on rbitcoin, that what the admin should do absolutely.
+
+Nobody can disagree with that, it is fair."
+Ping /u/spez. /u/BeijingBitcoins tried to ping you in this Reddit post but didn't know that users can't get pinged from posts, only from comments.
+The amount of damage done to THE WORLD by reddit admin’s inaction is staggering. 
+Fair play. Let's hope this plays out as an actual change. I hope Reddit admin get involved. It's the perfect sub to set an example to show how far is too far. 
+Reddit is fucked. Their admins seem insistent on going the way of digg by allowing paid/corporate content to take precedent over all other content.
+When faced with a broken system we must instead focus our energy on creating a new one. I share your sentiment but feel our only course of action will be to A) completely ignore r/bitcoin outright and/or B) focus on creating new platforms that make the outcomes of r/bitcoin less likely to occur (something of a professional focus of mine of late).
+"Dear User,
+
+we don´t care.
+
+Kind regards
+
+G.t.f.o"
+"Bravo, and Hear! Hear!
+
+gild u/tippr"
+"Reddit is just following IRC rules
+
+channels (subs) are completely controlled by opps (mods),  The creator is the first with opps and can bestow opps on others.
+
+IRCops (Admins) don't tend to get directly involved in  channel drama or specific users unless server (Reddit) rules have been broken and the ban-hammer needs to come down
+
+When there's a split in a community, it naturally divides into factions with (often) slightly different channel names and a different set of channel Ops.
+
+This is /btc/ and /bitcoin/ ... There's nothing illegal or against the rules going on, so no need for admins.
+
+People can decide to have a heavily censored sub and people can choose to be a part of it (see: /r/thesilphroad manifesto)
+
+/R/btc/ just has to continue being better and nattract more quality people."
+/u/spez and his cronies appear to be just as corrupt as /u/theymos and crew. 
+u/tippr 0.005 BCH
+Can someone Eli5?
+"As one of the many folks who got banned from rbitcoin for no plausible reason I am fully supporting the initiative against censorship.
+
+u/tippr gild"
+"I subscribe to both reddits and take everything I read with a grain of salt.  Both here and there.
+
+I find it equally disturbing how much the two of you both want the other shut down at all costs.  Admittedly, you are two separate groups of users who have their own agenda & incentives.  They want to push BTC, you want to push BCC.  
+
+The infighting will never stop, but I don't think the solution is to decide on one side's narrative only, when there is so much money involved.  This goes both ways."
+/u/tippr $2
+"I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
+
+- [/r/cryptocurrency] [Dear Reddit Admins: We need to talk about \/r\/Bitcoin](https://www.reddit.com/r/CryptoCurrency/comments/7errrg/dear_reddit_admins_we_need_to_talk_about_rbitcoin/)
+
+- [/r/subredditcancer] [Dear Reddit Admins: We need to talk about \/r\/Bitcoin](https://www.reddit.com/r/subredditcancer/comments/7eqbu8/dear_reddit_admins_we_need_to_talk_about_rbitcoin/)
+
+&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*"
+"another great post.
+
+i'm glad that you cited everything noteworthy with sources, good work my dude :)"
+You da man Beijing! 
+Just start a new subreddit. r/squared circle and r/trees exist because people got fed up with the bs caused by the people running the r/wrestling and r/marijuana subreddits and the new subreddits thrived and the original ones died.
+Amen to this.
+"Great post. It's odd to me that a community that exists because of a public ledger is opposed to transparency.
+
+>I understand that Reddit chooses to defend free speech
+
+Slightly off topic... **Reddit is the worst platform for free speech.** The entire idea behind upvotes is counter-intuitive to free speech. Their history with removing content that is offensive speaks for itself. Admins ban communities under the guise that offensive communities are breaking global rules, but they're really being removed because crybabies want to throw a hissyfit. Thankfully the Pao regime is over with, but it didn't get much better.
+
+Message boards, IRC, Discord, and 4chan are all better than Reddit (in regards to free speech)."
+This implies that reddit admins are opposed to censorship. They're not. /u/spez even got caught manually censoring comments by editing them himself, but people just let them sweep it under the rug and now everyone has forgotten about it. The admins are not your friends and they do not have your best interests in mind. The admins are the problem. We need to force them to step down, not ask them nicely to make changes they'll never make. How do we do that? Stop buying reddit gold. Use ad blockers. Hit these scumbags where it really hurts.
+"Because I look good in tinfoil... I wonder if Advance Publications / Conde Nast are somehow in bed with Blockstream / Axa / Bilderberg
+
+Their silence has to make you wonder. 
+
+"
+While I totally support your message, is this the place it will be read by those to whom it is addressed?
+Of course, subreddits are defined by their moderators, not by their users. Try posting any pro-rightwing message, however objective, into /r/politics ...
+/u/tippr gild
+We need to get the media onto this story. Contact some of the news outlets.
+Came across this on best of, unsubbed for bitcoin subbed here.
+How about the community starts a new Bitcoin subreddit called something like “BitcoinCommunity” and we vote for the moderators with a poll?
+Instead of using Reddit where things can be censored, why don't we just create our own Reddit clone but blockchain backed so things can never be deleted. Each post, comment or upvote costs 1 Satoshi or perhaps some PoW function. I know you'll say Steemit, but the implementation is not great.
+"u/BeijingBitcoins, your post was gilded in exchange for `0.00209845 BCH ($2.50 USD)`! Congratulations!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+">For years /r/Bitcoin was the central hub of discussion for the Bitcoin community, but today this divide has created an air of toxicity and all out civil war within our industry.
+
+If this is a civil war, than /r/btc is the confederate army and /r/bitcoin is America. You guys are fighting for the enslavement of investors, another centralized currency. When you let systems get too big and unwieldy too fast, a lot of people are left out of the market. 
+
+No more full nodes, no more strength in numbers, just another centralized store of value for the powerful to manipulate and deny access to as they see fit. Every community has its troubles, particularly with periods of high growth (which is a phenomenon many cryptos are experiencing now, BTC just being the most obvious). "
+"> I hope it has some impact on Reddit's policy and helps push them to really review the situation that has been brewing over the past two + years.
+
+Looking at history, I think we can learn something.
+
+We have seen that several subs have been closed only *after* reddit as a company came into the mainstream media in a negative light. From the fappening to the scandals the (series of) CEOs have been exposed to which lead to the most hurtful subs to be closed.
+
+The best way to get Reddit to listen is if we;
+
+1. Have actual people get actually hurt, threatened or similar.
+2. The mainstream press learns about it.
+
+What I love about OPs post is that it makes it clear this is about hurtful practices. I suggest connecting several bigger newspapers about this story. Focus on the immoral or hurtful things. Those are the easiest to explain to the common man."
+Lol you...
+This is  my bet
+I don't know. Do you have any suggestions of other places that would be good to post it in?
+"u/BeijingBitcoins, your post was gilded in exchange for `0.00210061 BCH ($2.50 USD)`! Congratulations!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+Then the person who has created the most Reddit accounts wins. Anyone can create more than just one account and get more than one vote per actual person.
+"I'm not sure what needs to happen to make rbitcoin a good place again.
+
+Maybe like someone suggested - make it into a referral link to various other bitcoin subs. The current crew should be allowed to go on moderating rbitcoincore or something, because that's what it is effectively.
+
+As a first step they should open their moderation log."
+Fearing for your safety?
+Nice try Theymos.
+Honestly this place is /r/btc not /r/bch.  This place was founded LONG before bch existed and is really about bitcoin.  The focus has changed to BCH as a response to percieved  /r/Bitcoin stonewalling of any ideas that aren't a very narrow few.
+"Eh, the situation is a little more complicated than that. Also, I think you mean bch, bcc is a different coin.
+
+I don't think anyone here wants r/bitcoin shut down, just some of the policies that don't promote free and open discussion should be not there."
+"> Putting some neutral parties into /r/Bitcoin and opening the moderation logs sounds sensible
+
+Yes! This should be done!"
+"Do you not realize that everyone in ""this community"" only came here after being banned from the ""other"" community for disagreeing on the scaling ""debate""???
+
+Do you have no idea how we got here?  Did you not read the links?"
+"It should be obvious to anyone by now. That this sub is incredibly butthurt that their plan on taking over the Bitcoin network didn't go very well. (shocking... I know)
+
+All they do all day is talk about how BCH has lower fees than Bitcoin (you know, just like *every* other alt coin)
+
+These people are extremely short sighted and don't realize a couple of things:
+
+
+crypto isn't going mainstream this year, or next year, or the next 5 years.
+
+So they don't realize that developers prioritizing on building layers on top of Bitcoin is the right use of resources. 
+
+Just like in evolution, adding more complex systems on top of simpler ones is the way to go. You don't try to do everything on the base layer. 
+You don't keep re-inventing the cell to see if humans pop out after enough iterations... No, you build on top of that idea and go from there. And you can even branch out to different use cases from the same base layer.
+
+But these guys don't get that. They think that 8 MB blocks are somehow magically going to make crypto mainstream instantly. They don't realize crypto is a long way from having a proper interface that makes it user friendly. 
+
+By the time user friendly wallets that make it next to impossible to lose your funds because of human error come along, Bitcoin will be buried deep in the layer stack just like the cells on your body are.
+
+When the whole protocol stack is complete. We will get a UI that will blow everyone's mind. 
+
+We'll have things like:
+
+Wallets that prevent you from doing something stupid like sending more funds than you mean to (to say... a twitch streamer) by actually conversing with you and asking you if you mean to send 300 dollars to a twitch streamer, instead of 3.
+
+Wallets that actually talk to you and suggest the best rates based on your needs, location, time, etc.
+
+Wallets that allow you to make the equivalent of testaments so your funds don't just disappear if you die.
+
+ TL;DR: The people here think that adding bigger blocks is going to magically make crypto mainstream. They don't even realize we're not on the beta stage of this technology. We're still building the infrastructure that will enable the applications that will change the world forever...
+
+
+
+
+"
+We're not saying /r/Bitcoin should be shut down entirely. We're saying the mods should be made to follow Reddit site rules.
+Name calling will surely help the situation. 
+"u/BeijingBitcoins, your post was gilded in exchange for `0.00191969 BCH ($2.50 USD)`! Congratulations!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+I wasn't aware that theymos owned Reddit AND Bitcoin, but thanks for making you're opinion clear.
+Hilarious that anytime someone posts facts here that doesn't fit BCH's agenda, you'll get down voted to hell. 
+r/btc is anti-censorship. Both sides can be discussed here. 
+"> BTC will be the one and only king. Altcoins can pack it. And oh, you need to get laid son.
+
+Haha OP cares about something and took action to change it what a *loser* GET LAID SON 
+
+/u/3amigos are you 12?"
+"I've never felt ""herded into bitcoin.com"" just by participating in this sub.
+
+TBH, I very seldom visit bitcoin.com, but I'm using this subreddit a lot."
+If reddit was decentralized we wouldn't have centralized mods you numbskull. Look at steemit, all content is 100% user curated.
+Thats ok, theyre all tagged as shills as well.
+"Thanks for the well wishes!
+
+/u/tippr $3 inception"
+Because the sole existence of /r/btc was to counter /r/bitcoin's censorship, and that's exactly what's going on here.
+cool story bro
+Yeah these subs just need to stop crying and get on with it.  Every other post is just bitching about the other sub.
+We could use /r/btc but that sub isn't for bitcoin
+"> No more full nodes
+
+BCH node can be run in a Raspberry Pi. BTC node can't because the mempool gets too big all the time."
+"> If this is a civil war, than /r/btc is the confederate army and /r/bitcoin is America. You guys are fighting for the enslavement of investors, another centralized currency.
+
+Quoted for posterity. The level of projection required to keep attacking is comical."
+Yeah! We only want dragon ball memes! Fuck innovation!
+[deleted]
+This should just be 100% enforced for every single sub, period.
+Does r/btc have an open admin log? 
+Also paging /u/sodypop /u/achievementunlockd and /u/chtorr
+"the admins treat every situation like this the exact same.
+
+they will do nothing. That's how this website works. /r/btc is not special or unique.
+
+go start another subreddit. "
+"No-one is saying it should be unmoderated.
+
+Open the moderation logs."
+A bit dramatic, don't you think? If this is true then perhaps people should use Reddit less seriously.
+Lol...don't forget to take your pills this morning.
+Don't go there then? x3
+"Thanks mang
+
+/u/tippr $1"
+This.  They just held out longer then Digg because they saw how swiftly people moved off that platform and they wanted to be big enough that the move would be harder for people.
+Out of the people I know who know enough about BTC/BCH to have a conversation about it, I think only one has even heard of reddit.
+Stop being stupid
+That is already why rBTC was created though.
+"u/BeijingBitcoins, your post was gilded in exchange for `0.00209978 BCH ($2.50 USD)`! Congratulations!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+"""It is difficult to get a man to understand something, when his salary depends upon his not understanding it"" Upton Sinclair."
+Seriously, if they are complicit in the actions of the r/politics mods against Ron Paul in 2012 and Bernie Sanders in 2016, what makes you think they will side against the bankers for r/bitcoin?  These are people swinging Presidential elections.
+"u/BeijingBitcoins, you've received `0.005 BCH ($5.97 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+"A few years ago, the Bitcoin blockchain started reaching maximum capacity, and unconfirmed transactions started building up.  There are two ways to increase capacity: 1) increase the block size so more transactions can be processed, or 2) construct another layer on top of Bitcoin so most transactions can take place off-chain.  People started arguing.  About that time, the mods of /r/bitcoin started removing posts and comments that supported bigger blocks.  The Bitcoin developers started pushing the narrative that the *only* way to safely increase transaction capacity was to push transactions onto layer two solutions.  Dissent was censored.  At some point, someone created /r/btc as a forum for uncensored discussion.  People who were banned from /r/bitcoin migrated here.  As the blockchain started getting more and more congested, the arguments on how to proceed got louder and louder.  The mods of /r/Bitcoin worked overtime to make sure only one side was heard.  Now the differences between the two sides have escalated to ""civil war"" level.
+
+Read these links to find out more about /r/bitcoin censorship.
+
+https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43
+
+https://medium.com/@johnblocke/r-bitcoin-censorship-revisited-58d5b1bdcd64"
+"Maybe something [like this](https://chainbb.com/f/bitcoin)?
+
+ChainBB is a forum that stores messages on the Steem blockchain.
+You can also use Steemit.com/Busy.org and sort by #bitcoin."
+Troll spreading lies as usual.
+"u/BeijingBitcoins, your post was gilded in exchange for `0.00190476 BCH ($2.50 USD)`! Congratulations!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+"u/BeijingBitcoins, you've received `0.0016771 BCH ($2 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+"I'd love to see that. It's not that much different from replacing ledger ""pages"" with forum topic ""pages"" that have their contents broadcasted, verified, and saved across all nodes."
+sounds like YOURS.org
+ty
+"> I have no doubt bitcoin will succeed but its not the same product as it was when it set out.
+
+But it *is* the same, isn't it?
+
+This is why Segwit was a UASF, and not a hard fork. But that's beside the point.
+
+The point is, that at some point, the base layer only needs a few tweaks to enable scaling on other layers.
+
+You don't just keep making cell bigger, or re-inventing them in nature and expect humans to pop out all of a sudden.
+
+No. You build from the cell, and more complex systems are built on top of it.
+
+Bitcoin will be the foundation of many different ""organisms"" that are very complex.
+
+By the time Bitcoin and other cryptocurrencies go mainstream, a lot of people won't even know what it is they are using. Just like many humans don't understand how their body works. They just know it works, and the fact that are made of cells, that ended up building organisms that are far more complex than the cell, isn't something that affects their day to day life. 
+
+"
+[removed]
+Man I don't read a lot of sensible replies in r/BTC, good to know there are still some level headed people that get how technology scales here. Have an upvote. You'll need it.
+"Acknowledging basic supply and demand market principles has nothing to do with whether or not I support BCH.
+
+If you want to stick your head in the sand, feel free to tell yourself whatever fairy tales that make you sleep better at night."
+"[Hate speech](https://en.oxforddictionaries.com/definition/hate_speech)
+
+""Abusive or threatening speech or writing that expresses prejudice against a particular group, especially on the basis of race, religion, or sexual orientation.""
+
+It's pretty well defined actually, but I digress. Yes, it can be a subjective term. Where do you draw the line? Is a joke hate speech? Not in my opinion, but others may disagree.
+
+Personally I do agree that those subs should be removed, if they target harassment against a particular group of people or individual. That behavior should be moderated, because it affects other people severely. Just like you should imprison people who steal, assault, murder people etc.
+
+Just because I believe in the freedom of people and human rights, doesn't mean that I feel people should be allowed to get away with anything they do, there is a limit and a line as with everything in life.
+
+I don't go around looking for subs that go against my viewpoint, but please, you sound somewhat intelligent, don't use the ""why don't you focus on all these thousands of other things that are somewhat related to your current point instead of this!"" - I could say the same to you, why don't you go join in with them and help them out? We're both here. Discuss this topic.
+
+Censoring the opposition? Shitting hell you're delusional. I want an open platform, free for discussion and not ruled by dictators who silence ANY OPPOSING VIEW. I welcome opposing discussions openly! This is the difference. Projection is a staple tactic of Core I've seen, they often call out other people for doing exactly what they do."
+">  Technically the DDA hard fork created two chains, Clashic was the name coined for the original.
+
+Where is this documented? This is the first time I hear about this name.
+
+>  but that doesn't change the fact r/BTC mods censored all posts related to it. They also censored Bitcoin Gold posts
+
+Do you have any proof of that? The modlogs are public, could you point out where they were censored?"
+I definitely see that it is very frustrating to get into any of the two subs. I started reddit just a little more then a week ago. I personally see a big difference in the quality of arguments in this sub and prefer it therefore. 
+Eh. Ellen Pao wasn't great either.
+"I am banned for ""Disinformation"" because I called the mods out for allowing Litecoin discussion, but not BCH discussion. Funny thing is, I hold all of them. Which means I care about Bitcoin more than BCH because it's worth a lot more."
+"What stick is up your ass that you assume politics? This is about all groups that need to be reached. I mentioned 2 and you get triggered. Stfu and focus on the issue:
+
+Tell everyone how Theymos and spez are acting.
+
+And how do you explain to people who know nothing about bitcoin, how these 2 are acting?
+
+By saying they are acting like Hilter, which everyone knows about.
+
+So stfu if youre a triggered PC SJW. Dont like my idea then dont bitch to me about it.
+
+Damn youre acting like the defensive p%ssies in r/bitcoin. Getting all butthurt that someone challenges your safe place of ideas. "
+"Lol that ""gonzobon"" account literally named himself a mod in an argument with me in /r/ancap the other day. Here he is saying he's ""just a guy."" Jfc. Who knows how or why he's lying. What matters is that he *is.*"
+At this point, **you** don't even know what you're talking about.
+It looks like they are feeling the pressure. ha, bunh of braindead nazis https://www.reddit.com/r/Bitcoin/comments/7e98o4/please_give_5_minutes_from_your_time_to_downvote/dq3fwp7/
+"wikileaks should post something
+"
+"I think we've gotten to the point where a centralized, corporate-controlled ""community"" like Reddit isn't a good home for a decentralized, evolutionary money like Bitcoin that has the potential to change humanity as we know it.
+
+Unfortunately I don't have any better suggestions."
+Bringing up his name to hype a coin is just bad taste. Think about what you've done when you calm down.
+"Hes a meme, that if you mention by name, triggers crybabies to cry. 
+
+""Hilter reacts to spez and Theymos censoring reddit.""
+
+""u/DeSpawn reacts to spez being called Hilter (Gone wrong, crybaby attack)""."
+"Assume politics? You know that you mentioned to political parties, right? That is why I assumed politics. Lol. 
+
+Acting like Hitler? You know that Hitler systematically murdered 22 million people. Slavs, Jews, Gays, the disabled, Bolsheviks, Blacks. Genocide. He committed acts of genocide and you are comparing it to fucking censorship on a website. 
+
+What a self entitled, childish, hateful little person you are. Holy fuck. You have no idea what it's like to have your grand parents ripped out of their home and shot in the street like dogs. Just because they looked different and had believed in God. A child with no clue. 
+
+Also, I am sorry I asked you two questions.  So much anger and animosity. Clearly you have issues or something to react and ramble like you are from just two questions. 
+
+I hope you find your peace, friend. Good luck. You are going to need it. "
+[deleted]
+just give a link...
+Stop being stupid
+"But Segwit Coin is the altcoin? It doesn't match the original definition of a digital coin?
+
+>""We define an electronic coin as a chain of digital signatures.""
+
+You're welcome to go make an altcoin, even call it Bitcoin Segwit! But Bitcoin Cash is closer to Bitcoin in reality, let's agree.
+
+Please do explain how it's a scam. I'm delighted to hear."
+[deleted]
+"It's weird when you come across actual mental health issues in public. 
+
+You want to try to reason with people. But in a scenario where there is actually something wrong with someone? There is nothing you can do to help is there? "
+"Hey why are you getting so butthurt over a name?
+
+I prefer ""Bitcoin"" for BCH, it's easier to say! Plus the coin is much more in-line with the whitepaper for Bitcoin. :-)"
+OMG, trillions?!? TRILLIONS!!!!! ಠ_ಠ
+There's zero actual proof that /u/nullc did any hacking whatsoever.
+[deleted]
+Ah, so you no evidence then?
+"Youre the one rambling because youre triggered. Yes i compared the nazis here to a murderer (but mostly dictator). Go cry about it. 
+
+You are retarded if you dont realize whats at stake from censorship. Trillions of more people will suffer if bankers take over crypto. They are using Theymos lies to try to fool new adopters.
+
+Murder of the truth and freedom is murder."
+"**Glass cliff**
+
+The glass cliff is the phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/btc/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28"
+What about criminal hacking of accounts by /u/nullc and the /r/Bitcoin mods. It's just cybercrime so who cares?
+"Well - fair enough! Have nothing to state to your personal view on this. Your comment in itself is a good example of what I personally feel to find more in this sub but I am monitoring both so far. 
+
+Thanks for sharing your opinion in this manner. "
+"[Harassment](https://en.oxforddictionaries.com/definition/harassment)
+
+""Aggressive pressure or intimidation."""
+Bitcoin Cash is Bitcoin though?
+"Lol. Calling me three defamatory names because your fragile safeplace was triggered?
+
+You act the same as core cult members. Go back to your safeplace and cry that someone used the H word.
+"
+"**Godwin's law**
+
+Godwin's law (or Godwin's rule of Hitler analogies) is an Internet adage that asserts that ""As an online discussion grows longer, the probability of a comparison involving Hitler approaches 1""; that is, if an online discussion (regardless of topic or scope) goes on long enough, sooner or later someone will compare someone or something to Adolf Hitler or his deeds. Promulgated by the American attorney and author Mike Godwin in 1990, Godwin's law originally referred specifically to Usenet newsgroup discussions. It is now applied to any threaded online discussion, such as Internet forums, chat rooms, and comment threads, as well as to speeches, articles, and other rhetoric where reductio ad Hitlerum occurs.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/btc/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28"
+">it seems like everyone cares more about getting paid than discussion.
+
+Yeah I've had this same feeling for quite some time considering how little they engage on the posts. I think its also the fault of some authors who post for the sake of being rewarded and don't even interact with the audience. I've noticed it changing over time though."
+"I would be if your overlords and peer troll army would just fuck off and leave Bitcoin alone.
+
+It's fine if you want your own SegWit altcoin - I've never said it shouldn't exist, but admit that it isn't Bitcoin and leave Bitcoin to be Bitcoin."
+I didn't agree with Pao but the more I looked into it she seemed to be a bit of a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff) at the time. I highly doubt she made all those decisions herself, but she certainly was used as the scapegoat.
+"Yup, my second post in this comment chain provides 5 examples from just yesterday of Bitcoin Gold posts being censored.
+
+https://www.reddit.com/r/btc/comments/7ejdo4/enough_is_enough_reddit_admins_im_calling_you_out/dq5klrn/
+
+There were more as well, but I thought 5 was enough to prove my point."
+"I know exactly what Amazon AWS instances are, and how they support your coins puny little network.
+
+The hilarious part is you don't, and You're to partisan to care.
+
+LMFAO"
+"I think it is very difficult to find quality arguments with all the noise on either sub. I try to ignore pretty much everything except posts by developers and maybe posts by business owners. These are the people that know their shit and / or have a large stake in this game. 
+
+If I had to choose I’d still go for r/bitcoin. The rather extreme moderation sucks but the views that are allowed there happen to align with how I think Bitcoin should evolve in the long term. "
+"> Personally I do agree that those subs should be removed, if they target harassment against a particular group of people or individual. That behavior should be moderated, because it affects other people severely. Just like you should imprison people who steal, assault, murder people etc.
+
+When people like you define ""harassment"" as ""disagreeing with me,"" I would be more careful on who you call delusional."
+"equating **anyone** to Hitler just makes you an ignorant ass hole as Hitler killed **how many people**? 
+
+https://en.m.wikipedia.org/wiki/Godwin%27s_law
+
+I can handle you just fine, I was being sure to point out you are an ignorant ass hole
+
+but keep going showing how shit of a person you are"
+"It's called meme and parody. If spez cant handle being called hilter, then he needs to stop acting like one.
+
+If you cant handle me mocking them, then you need to cry and go to r/bitcoin where negative views off Theymos are banned, so your fragile feelings are not #triggered. 
+
+You can laugh and mock me all you want, but both of them are acting like mini dictators. And they need to be called out for what people like them turn into,  if pussys like you keep acting PC. "
+"> You have done great work to rid the platform of hate speech and witch-hunting, now focus on the toxic deception and psychological manipulation that has been going on for over two years, progressively getting worse as it's ignored by those who can step in and fix it.
+
+Moron. You celebrated censorship, and now you got it. Sleep in the bed you made, fool."
+Yawn
+Gay and fake
+The REAL cypherpunk, not this dumbass /u/adam3us shit. 
+"Aaron dead. 
+
+World wanderers, we have lost a wise elder. 
+
+Hackers for right, we are one down. 
+
+Parents all, we have lost a child. 
+
+Let us weep."
+[deleted]
+Wouldn't you expect to find posts like this on /r/conspiracy by its very nature? Being irrationally suspicious, fearful and distrusting is what being a conspiracist is. 
+There was a time nullc got perma-banned from reddit (for doxing I think).  He managed to get reinstated quite quickly.  The fix is in.
+"^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+**https://i.imgur.com/DwZsarE.png**
+
+^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=ignoreme&message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=delet%20this&message=delet%20this%20dq5znsk) "
+Just received a response from gaazda as well.  We'll see what happens.
+"Call him ""online Hilter."" it will trick libs into reading the article. And conservatives will read to see who is being labeled as hilter now.
+Doesnt matter what you think of Hilter, only that it will get more views."
+So did Ver...
+[deleted]
+Not the time or the place to shill.
+"> Clashic 
+
+I can't even parse what you're trying to talk about here."
+"by all means the community of technically literate people are behind bitcoin cash and none of them were ever behind a fork created to harm bitcoin.
+
+basically bitcoin cash has consensus, the anger rage coin doesn't"
+">I contacted the admins about their vote brigading on the Bitcoin.com wallet
+
+I did the same thing, and I just received an admin response 10 minutes ago.
+
+https://imgur.com/a/XNckA
+
+I'm glad they're at least looking at it :)
+
+In case you're curious about the links, they are 
+
+>https://www.reddit.com/r/Bitcoin/comments/7e98o4 <- most obvious one
+
+>https://www.reddit.com/r/Bitcoin/comments/7e7n15
+
+>https://www.reddit.com/r/Bitcoin/comments/7e9kax
+
+>https://www.reddit.com/r/Bitcoin/comments/7e8mr5"
+"i agree. i did have an email of a reporter from the herald sun paper, which lead me to being interviewed on ch7 and 9 news. lol ill see if he still works there. also @justicemate is a reporter who has reported this in coingeek.com many times. 
+"
+Nobody cares about these things dude. Just leave these subs and it'll die with every follower eventually leaving. 
+Did you know that this sub has existed for years?
+Holy fuck, that was such a long time ago. The dustbin of reddit history.
+i speak from my own free will. i have never spoken to roger in my life. and you may get downvoted like i just did to you. but you never get banned or censored here. 
+Roger Ver allows arguments from opposing sides.
+"Sure! Thanks for asking.
+
+I guess this part comes down to a bit of trust, since you shouldn't have to trust anyone on the Bitcoin *Network*, however this is external so those rules don't exactly apply. It comes down to character and their motives.
+
+So, Roger Ver is a much more ethical person - he's originally a libertarian although he prefers to go by the term 'voluntaryist' now. He strongly believes in helping others form all walks of life, and his vision on Bitcoin reflects this by opening it up to **everyone** as it was originally intended. He doesn't want these sky-high fees pricing people out of the market, nor does he want ""18 months"" (Blockstream buzzword for ""probably never"") of an uphill battle to finally get back to near-zero fees, when you can solve the issue right now and keep allowing for adoption and usability.
+
+Theymos who controls all of these other media has [threatened](https://np.reddit.com/r/Bitcoin/comments/3uu3we/bitstamp_will_switch_to_bip_101_this_december/cxi370c/?st=jaakluep&sh=de068506) [multiple](https://np.reddit.com/r/Bitcoin/comments/3rejl9/coinbase_ceo_brian_armstrong_bip_101_is_the_best/cwpglh6/?st=jaaklu5z&sh=650d7714) people that they will be effectively exiled from the community if they express support for any fork that wasn't Blockstream's vision. This is a hijacking of Bitcoin, and despite the immense downvotes he received from the users showing that there was no consensus to his view, he went ahead with it all anyway.
+
+He also funnelled off around 7000 BTC that was donated/raised to create a new sleek forum for bitcointalk - which just upped and disappeared. He claims to have sent it to some two-man operation after months (years) of sitting on it, and they still have the same forum.
+
+Meanwhile, you have Roger Ver, the ""convicted criminal!!!!"" as Core love to spout as part of their character assassination strategy. He was convicted under some *EXPLOSIVES* charge (pun intended). This sounds terrible. In reality, he was selling fireworks that were incorrectly labelled as something else (fertilizer or something).
+
+So, there you have it. You can choose which side you want to believe, but I made my choice long ago."
+"[BCash](https://medium.com/@freetrade68/announcing-bcash-8b938329eaeb) is a project coming in the first quarter of 2018 which combines the existing Bitcoin ledger with ZCash privacy technology.
+
+Some users [maliciously call Bitcoin Cash ""BCash""](https://medium.com/@jonaldfyookball/why-some-people-call-bitcoin-cash-bcash-this-will-be-shocking-to-new-readers-956558da12fb), in an attempt to cause confusion and spread misinformation.
+
+This was started by the rBitcoin subreddit, and they even [redirect people](https://np.reddit.com/r/btc/comments/7d1yg1/reminder_that_rbitcoin_is_still_redirecting/?st=ja1wqe9w&sh=6c68e434) via Private Message to the subreddit rBCash that they created and control to further this confusion.
+
+_____
+
+To any newbies out there that may be confused; ""BCash"" is not Bitcoin Cash, please take care on exchanges!"
+"Removing toxicity isn't censorship. **That** is moderation.
+
+This is the confusion that /r/bitcoin moderators & supporters can't comprehend as well as rational people.
+
+The mods at /r/bitcoin claim ""moderation"", however by highlighting the ways they stamp out 'dissenting information' and allow scathing attacks but no positive messages about certain topics, whilst deleting things that aren't in-line with their views, this is clearly censorship.
+
+Moderation (all things in moderation) exists to remove toxic people. For example; if someone starts to ""wish cancer and death upon all your family"" - banning this person is not 'censorship', it's common sense moderation.
+
+Removing communities that follow that same line of thought, encouraging witch-hunting, doxxing, hate speech, etc., is moderation and not censorship.
+
+However, I fully understand that for anyone supporting Core in this, it's a seriously difficult line to draw for you. It's all about having a working moral compass of your own, not necessarily taking your morals from a written source created by people who want to control how you think."
+"[BCash](https://medium.com/@freetrade68/announcing-bcash-8b938329eaeb) is a project coming in the first quarter of 2018 which combines the existing Bitcoin ledger with ZCash privacy technology.
+
+Some users [maliciously call Bitcoin Cash ""BCash""](https://medium.com/@jonaldfyookball/why-some-people-call-bitcoin-cash-bcash-this-will-be-shocking-to-new-readers-956558da12fb), in an attempt to cause confusion and spread misinformation.
+
+This was started by the rBitcoin subreddit, and they even [redirect people](https://np.reddit.com/r/btc/comments/7d1yg1/reminder_that_rbitcoin_is_still_redirecting/?st=ja1wqe9w&sh=6c68e434) via Private Message to the subreddit rBCash that they created and control to further this confusion.
+
+_____
+
+To any newbies out there that may be confused; ""BCash"" is not Bitcoin Cash, please take care on exchanges!"
+"This brigade was bullshit, I agree with you and the app seems real nice. You have to admit though, if I sign up to bitcoin.com and it is not easily evident that I was creating BCH addresses by default its a bit underhanded. The update applied 21/11 v4.0.3 updated the description to "" BTC and BCH wallets are created by default"" and this is a good move forward. The coins can co-exist"
+He came clean and apologized for that. And it has not happened again. 
+"Show them posts like [the one in the topic](https://np.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/?st=jaakrmvg&sh=f35a783b).
+
+Show them posts like /u/singularity87 's [history of the Bitcoin subs](https://np.reddit.com/r/BitcoinMarkets/comments/6rxw7k/informative_btc_vs_bch_articles/dl8v4lp/?st=j87bbmr0&sh=425fc26f).
+
+(All cited)
+
+Ask them to do a 'real world test' - post in the /r/Bitcoin sub about anything that isn't directly Bitcoin Core, or that promoted Bitcoin Cash. (They probably need to subscribe to /u/censorship_notifier)
+
+Then show them the [""BCash"" article](https://medium.com/@jonaldfyookball/why-some-people-call-bitcoin-cash-bcash-this-will-be-shocking-to-new-readers-956558da12fb).
+
+Tell them that Roger Ver is presumed to be the second largest holder of Bitcoin in the world (after Satoshi him/her/theirselves), and that he could just sit back and retire immediately on his vast wealth. He has no financial incentive to hurt Bitcoin, only to see it flourish.
+
+Tell them to just watch, look at the evidence from **both** sides, subscribe to **both** subs and communities, but importantly **remember** that there is rampant censorship to the point where people *cannot* defend themselves directly over on /r/bitcoin - they've got an echo-chamber that uses CSS to hide content which they silently delete.
+
+Finally, join our Slack channel and help with the community side of things like adoption and marketing. We still have to deal with attacks consistently, but we need to focus on the end-goal of having a widely-adopted and usable coin."
+this is an argument posed by r/bitcoin, why are you paying someone for an honest post? that's straight out of the corporate playbook. If you agree with them, upvote. maybe tip them off the thread?
+"It's something I've been contemplating for a long time. The problem is, once the site goes up and attracts enough users, the owner and admins will be targeted by intelligence agencies. This is just how they do business. 
+
+Facebook, twitter, Reddit, etc. I've never trusted Facebook, but the latter two were at one time completely independed, and not subject to black ops like they are now. Perception is everything.
+
+The Snowden documents explained and clarified a lot of the things I already knew were happening. At least with the documents being released, people don't have any ground to stand on by saying ""yeah right! Put your tin foil hat back on!"" - I mean, IT'S IN THEIR OWN DOCUMENTS. 
+
+Anyways, a very great idea. But in order to actually keep it truely open and free, the owner admins need to be willing to deal with the consequences - sabatoge, arrest, hacking, intimidation, death threats to them/family, even murder. This stops 95% of people before they even start."
+Yes he will look now because he has a dictator ego. Im not going to be PC about it. 
+Yes. Bye, bye! 
+Make profit through miningbot. This company newly launched recently in HongKong. They guarantee the interest at least 2.7% per day. I started my investment recently and it takes only one month to get your invest money back. I've attached my referral link. http://www.miningbot.io/kr/affiliate/21461
+[deleted]
+">  subreddits for well-known communities 
+
+lol whatever you say"
+Of course not a peep of this over on r/bitcoin
+"~~fully censored~~ curated
+
+"
+Reddit is a for profit corporate sponsored website, good luck wish you the best.
+Everyone notices that you can't respond to requests for examples. You're a corrupt dumbass. Just admit it. 
+get yourself comfortable with the history of the world, power structures, actual  conspiracies and how your brain works (and can be manipulated) and you will understand why reddit (as a potential empowering tool) is crippled and censored the way it is.
+the creator of reddit was killed by these censorship people
+"Whataboutism is a valid way to distract from having to actually answer a question. 
+
+Look at Trump. "
+"> is dedicated to the psychological manipulation tactic of calling Bitcoin Cash ""BCash"" 
+
+News for you buddy, lots of us prefer the bcash name; we hodl it but dont want or need to pointless brand confusion. Unless the bcash teams come up with a better name, thats the best one weve got. Or BCH for the ticker.
+
+
+> Here's /u/coinjaf claiming that Bitcoin.com is a 'scam site' and that Roger Ver is a scammer.
+
+Well, yeah, plenty of us think so. 
+
+This whole twisted panty rant seems to prove nothing except that we are so infatuated with another subreddit we cant mind our own business.
+"
+" ""CEO Adam Back has publicly stated fully intends to use Bitcoin in order to make profit by selling off side-chains. If that's not a conflict of interest, then what is?""
+
+What about r/btc, Bitcoin.com and Roger vers ?
+
+Explain me the difference."
+Good luck with this. Reddit is a **company**.
+"What does political beliefs have to do with any of this? 
+
+Do you generally try to make everything some political issue? "
+Who is this Hilter character you keep mentioning?
+"It depends on the coin... since they all propose to do different things. I read the white papers usually and decide if I like what it wants to accomplish. Then I support the ones I do. 
+
+But, that doesn't have anything to do with what I said. Of course you are going to find posts about conspiracies on /r/conspiracy. Are you not? "
+[deleted]
+It was the original Bitcoin Cash with the EDA. Technically the DDA hard fork created two chains, Clashic was the name coined for the original. Clashic understandably died since the EDA was a mess, but that doesn't change the fact r/BTC mods censored all posts related to it. They also censored Bitcoin Gold posts. But apparently r/BTC is just fine with censorship when they're the ones doing it.
+You seem to be seriously butthurt. Come spend some time /r/buttcoin, you'll find it relaxing to laugh a bit
+"Yup.
+
+They didn't start parroting the lie until recently.
+
+Nor has it been an echo chamber of people hoping for the death of BTC.
+
+I have news for you. 
+
+If BTC dies, the confusion will pull public support from both BTC and BCC and set crypto back decades.
+
+But by all means.....
+
+Cheer for the Bezos coin."
+"""the other one"" is BTC ,Bitcoin.
+
+Your currency is BCH or BCC , bitcoincash.
+
+The flippening isn't going to happen.
+
+Every time big moves happen your network gets propped up by Amazon AWS instances...lol
+
+""""""""'Bitcoin cash??......isn't that what they used to call Amazon coin?!?""'""""""
+
+O_o
+
+The sad part....... You have no idea what I'm talking about."
+"DAA isn't in The White paper , nor is segwit. 
+
+Both are straying.
+
+That being said.
+
+This sub is a pitiful attempt to confuse noobs and ride the coat tails of name recognition of BTC.
+
+Bch doesn't have the network to be Bitcoin.
+
+BTC is NOT bitcoincash.
+
+Pitiful.
+
+"
+I speak from my own free will too. Good for us.
+"True that. 
+
+Both subs still suck though :( "
+"> Removing toxicity isn't censorship. That is moderation.
+
+You just said it was good ""hate speech"" was removed. ""Hate speech"" is a subjective term that is based on whatever YOU don't like, I don't see you calling for the removal of hate-subreddits such as /r/blackladies or /r/fuckthealtright. It's about you censoring the opposition, you dishonest cretin."
+[deleted]
+I did. I think they are doing their job of keeping FUD from places it shouldn't be.
+"FYI you don't need to subscribe - there's an opt-in notification thingy.  I think there's a link to turn on notifications in the FAQ?  I tried subscribing once, it sucked.  So. Much. Spam.
+
+/u/SatoshiSamuraiFam"
+Agreed. lets kick rbtc out of reddit!
+There was voat which was created exactly for this, but turns out they also had some similar problems later.
+"> Please do explain how it's a scam. I'm delighted to hear.
+
+"
+"People withdraw it from exchanges so yes they buy it with crypto, also people can buy USDT on Kraken with USD. They have a volume of about $700k per day.
+
+Also no you can't only trade them with people who think they are USD, you can redeem them for actual USD. Bitfinex just announced 2 hours ago that they reopened USD wires and they also just added EUR wires. You can deposit your USDT to Bitfinex and then request the USD equivalent. It has value because they say it does because they peg it to USD. Words don't give it value, actions do."
+So? Someone stole 30 million units of a token that only equals $1 each if Bitfinex says so. The stolen Tether was sent to a hackers address, wasn't withdrawn from that hackers address and of which Bitfinex swiftly invalidated as being Tether at all. So Bitfinex lost $0 to this hack and [we can prove that on the Blockchain](http://omnichest.info/lookupadd.aspx?address=16tg2RJuEPtZooy18Wxn2me2RhUdC94N7r). They can't even say that the hack was used to buy Bitcoin when we know for a fact that the hack was just a breach into their system and did not buy any Bitcoin at all.
+"The thing is, (at least for me) tether is actually useful! I can ""park"" my profits and rest in peace that my profit in X coin is not gonna reverse itself over night. I used it like that for a very long time thinking it was actual USD, and this is where we have a problem: every tether is _supposed_ to be backed by actual USDs but, have you ever heard of people actually buying it? No! then how the heck do we have [almos 700 Million Circulating?](https://coinmarketcap.com/currencies/tether/) 
+
+Also, even though they say every USDT is backed, if you read their TOS it says they won't buy USDT from you! That's right! Tethers are actually worthless except they aren't because they say so! You can only trade them with people who (like me) who think they're actual USD
+
+Finally, the ""hack"" is still a mystery, as I said before."
+Thanks!
+I try as hard as i can as well XD but this whole tether thing just seems different to me..
+Thanks for being helpful, guys. Welcoming community.
+No. They'd keep the $30 million. They invalidate a IOU that says they owe $30 million to who ever has the USDT. If they want to keep that $30 million in USDT they can invalidate that of the hacker and then issue new freshly minted $30 million USDT to correspond to what they have in their reserves. They sure could be running a fractional reserve of Tether. But this notion that because they have Tether means they must be buying up BTC out of thin air makes no sense when not a single exchange needs Tether to do this can can do it internally. You also must acknowledge that's not exactly free money either. They'd stand to loose million to arbitrage if they did such a  thing.
+Whoopse I messed up. It's not OmiseGo. Tether uses the Omni platform on top of Bitcoin.
+Because every single fact points to it
+"Except every USDT is supposed to be backed by actual money.. so where's the _real_ $30MM? Did that get invalidated too?
+
+Also, how the heck did the ""hackers"" get in? What where the counter measures? See, there's too much obscurity for someone that lost 30 fucking million (f word as in emphasis, not as in ""I'm mad"")
+
+Personally, I think they just invented the money printing machine 
+
+"
+How can you believe otherwise?
+">So in that scenario, if I hold both of these currencies and all the people I buy goods and services from accept both, sure my incentive is to first spend the inflationary currency. But that's going to be everyone else's incentive too. If nobody wants to hold the inflationary currency, its value is going to collapse and it will cease to be money, having been completely eclipsed by the better, deflationary money.
+
+Having an incentive to spend, rather than hoard a currency, does not imply that no one wants to accept a currency, it means they only want to accept it so they can then use it to spend on other things. That's all a currency needs to do.
+
+Moderate inflation doesn't discourage people from accepting a currency. all the most commonly accepted currencies in the world are inflationary. it only discourages holding money over long time periods of time, which makes it a better currency, not a worse one, since money held over a long time is not facilitating trade, which means its not generating wealth or helping to optimize the economy.
+
+We see in cases like Zimbabwe that even when a government recklessly hyperinflates a currency to uselessness, people prefer just to switch to another more stable inflationary currency, like US dollars, than switch back to a deflationary currency like gold. Deflationary currency only seems to get used if there's absolutely no other stable inflationary currency available. 
+
+>its value is going to collapse and it will cease to be money, having been completely eclipsed by the better, deflationary money.
+
+When you examine examples of Greshams law in real life, you see the opposite of what you suggest would happen.
+
+By this argument, base metal coins should all have become worthless because there were better, more deflationary precious metal coins available, and mints kept degrading the value of base metal coins. But the opposite is true. Precious metal coins are almost entirely out of use as currency precisely because everyone hoarded them and so they ceased to be used as currency. 
+
+>. When you don't exercise that claim immediately (and instead stick the money under the mattress) those real resources remain available to be used by others for either consumption or investment. That forbearance on your part thus is generating value for others.
+
+Not taking up resources isn't an act that creates value. Dead people also don't take up resources, they're not producing any value. The best you can be talking about is a zero-sum transfer of wealth to other people, since taking money out of supply helps deflate the supply and increase the unit value.
+
+If we just destroyed half the dollars in the world it would instantly make the dollar twice as valuable but it wouldn't have generated any wealth. 
+
+Trade generates value by facilitating wealth creation and pareto optimizing. This isn't just moving wealth from one pocket to another its increasing the overall amount of wealth. 
+
+Deflation ensures that any act of wealth creation/optimizing via trade will not take place unless you can expect to make a greater profit from the trade than you can by simply holding onto the currency. Why invest in a new form of production that makes 5% return if simply sitting on your money makes 6%?
+
+"
+The question of sub-satishi fees is a good one, but not a justification for fees today in hundreds of satoshis/byte. By the way, if the mempool is empty and miners are still getting block rewards, there's no reason zero-fee transactions cannot be processed.
+Again, let's drop the dollars. Fees were free, or a tiny fraction of a cup of coffee last time. Now they're SEVERAL CUPS OF COFFEE. Your attempts at prestidigitation are NOT clever, they are NOT funny, and they are NOT working. There is no reason I must express them in sat/byte, as though the value of a satoshi had not skyrocketed. Doing so is hiding the reality that the fees are skyrocketing, when in fact, they do not have to.
+https://twitter.com/wtfkenneth/status/933315408269946880
+"Do you know that if Bitcoin Cassic or Bitcoin Unlimited succeeded, it would be called ""Bitcoin""? "
+"You said ""then you can't use dollar as a fee unit.""
+
+Jackass!"
+"okay i think we have different views on that simple.
+
+I'll try it backwards. The smallest fee which is not zero is 1 sat/byte. There can be a time where bitcoin or bitcoin cash is valued 100000$. A 1 in 2 out transaction would cost 23 cents which would be too much for micropayments. What will the system do then? Only have 0 fees? or further split up so that satoshis are not the smallest unit anymore?"
+"Ok i break it to you one last time.
+
+You said we did not have 5 to 10 dollar fees in 2012. 
+
+I merely pointed out that using dollar in this statement is problematic since it is dependent on the current exchange rate of bitcoin.
+
+A valid statement would be „We didn‘t have 20 sat/byte fees in 2012“ if you want to point out that you think fees are to high
+"
+Anyone who works in support, marketing or whatever else for a crypto company that involves interacting with bitcoiners deserves a round of applause. Most thankless job ever, dealing with the dumbest assholes on the planet.
+"u/jstolfi, you've received `0.001 BCH ($1.28 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+That settles it. I'm moving to France.
+"True. Software tester's motto: ""Never trust users"". For whatever reason."
+"> Which translate 
+
+I dont think french sayings are supposed to be translated... just mumbled under the breath while the clueless foreigner walks by your cafe in Paris :-)"
+"My university (UNICAMP) is often ranked the best in Brazil for Computer Science.  Not sure it means much, but whatever.  Right next to our campus there is a Pontifical Catholic University (PUC), that is not bad, but far from stellar in this field.  
+
+Yet a guy I know, who manages a software development company, told me that he only hires one of our alumni in those rare occasions when he needs someone who can handle complicated algorithms and such.  For everything else, he prefers to hire PUC alumni: because they are reasonable guys who listen to customers and try to help them, whereas ours are insufferable arrogant pricks..."
+[deleted]
+1000 a day you say? So assuming they have 10 staff answering these full time (8 hours) that's 4.8 minutes average. That should be doable if the majority are just a matter of pointing at documentation. If they need more staff, they should get more staff.
+"Actually, we have a Social team.  Join us - customer support roles still open! https://jobs.lever.co/kraken
+
+"
+Thanks for the chuckle. /u/tippr 0.001 bch
+:-) I nearly downvoted you prematurely there. Brilliant.
+To our favourite buttcoin professor! /u/tippr 0.001 BCH
+"There is a saying in France: ""il ne faut pas prendre les clients pour des cons, mais ne pas oublier qu'ils en sont"". Which translate roughly as don't treat your customers like morrons, but do not forget that they are."
+[deleted]
+there's always someone who can piss on a party
+I use HitBTC because on Aug 8 when I was ready to swap my BTC for Bitcoin Cash I signed up for accounts on Kraken and HitBTC and HitBTC was the first to respond.
+Thanks!
+Thanks!
+"u/jstolfi, you've received `0.001 BCH ($1.29 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+'we' can learn more about it? Doesn't that assume I don't already know?
+"Touche.  As an alumnus of Jesus College, Cambridge, you've kind of got me there.
+
+Except, not really.  Yes, most of the colleges are old, and many have names that date back to an era where the Church and religion was more powerful.  But AFAIK neither the University nor any of the colleges (with the excpetion of the theological colleges) have any religious affiliation.  "
+I'm pretty sure they only kept the name...
+"https://www.marjon.ac.uk
+
+Yes they're normal universities, generally. In some countries Christian families may predominantly choose to send their kids there, but that's generally about it."
+[Cambridge](https://map.cam.ac.uk/colleges) has some ridiculous sounding colleges, including Corpus Christi College. 
+Yes, they are normal universities. Alongside ordinary courses, they also have theology and related stuff, and they really are managed by catholic church.
+"**Pontifical university**
+
+Pontifical universities are ""academic institutes established or approved directly by the Holy See, composed of three main ecclesiastical faculties (Theology, Philosophy and Canon Law) and at least one other faculty. These academic institutes deal specifically with the Christian revelation and related disciplines, and the Church’s mission of spreading the Gospel, as proclaimed in the Apostolic Constitution both"" Sapientia christiana"". Many of them, on the other hand, have most of their students studying secular topics.
+
+Pontifical universities follow a European system of degrees in the sacred faculties, granting the baccalaureate, the licentiate, and the doctorate.
+
+***
+
+**Pontifical Gregorian University**
+
+The Pontifical Gregorian University (Italian: Pontificia Università Gregoriana; also known as the Gregoriana) is a pontifical university located in Rome, Italy. It was originally a part of the Roman College founded in 1551 by Saint Ignatius of Loyola, and included all grades of schooling. The university division of philosophy and theology of the Roman College was given Papal approval in 1556, making it the first university founded by the Society of Jesus (Jesuits). In 1584 the Roman College was given a grandiose new home by Pope Gregory XIII, after whom it was renamed.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/btc/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28"
+"Interesting, thank you!
+
+In Britain, essentially all univerities are (kind of) part of the state system.  Even though many (all?) are nominally independent, they're state funded and regulated.  We have approximately one private univserity AFAIK (which isn't particularly prominent).  It depends how you look at it, though.  That said, it's complicated, and I don't claim to fully understand the legal status of my own university (Cambridge).
+
+EDIT: Basically, things like that are not part of my experience (I think they do exist somewhat at the junior school/high school level, but certainly not at the university level.)  My mental image when you talk about a Catholic/other Christian school/university is something out of an old movie with everyone being taught by nuns - I presume it's not really like that though, from what you say!"
+"It's considered bad English when abused by those who can't cope with more than one negation per sentence.
+
+"
+"UK and AFAIK we have no religious universities. 
+
+So, they're actually just like normal universities?  They don't try and teach ""religious computer science"", whatever that might be?
+
+Do you have to believe in God to be allowed to study there?"
+It is a university owned and managed by Catholic Church. There are many of them in Brazil, and they rank among the best you can find there.
+"It is [a university created an managed by the Catholic Church](https://en.wikipedia.org/wiki/Pontifical_university).  The [first one](https://en.wikipedia.org/wiki/Pontifical_Gregorian_University) was established in Rome by the Jesuits in the mid 1500s.  There are a couple hundred clones in many countries with a significant Catholic population.
+
+They are ""private"" in the sense that they charge tuition and are not managed by the State.  However the are (AFAIK) not run for profit, but as self-sufficient non-profit philanthropic organizations.  In Brazil there are also many high schools operated by various branches of the Catholic Church, some as old as the country itself; and a few universities run by other organized religions, like the Methodists.  Some of these may be run for profit, to help finance the parent organization.
+
+The Catholic Church cares especially about the courses in Theology and other Church-relevant degrees, but Pontifical Universities usually have courses on all areas, like other universities.  They are open to students and faculty of any religion. 
+
+In Brazil, because of their non-profit orientation, they are usually much better academically than the numerous for-profit private universities.  The PUC of Rio de Janeiro (founded 1947) is among the best universities in Brazil.  In other cities, they are generally second-rank relative to the best public university in the same area."
+"Plenty of universities all over the world have a historical association with various clergy institutions. 
+
+Where do you live that you haven't been exposed to this?"
+[deleted]
+"I binge watched House MD with my wife a few months ago and soon internalized his motto ""Patients lie"" as ""Support lies.  Bug reports lies.  Management lies.  Users lie.  Software developers lie.  Comments lie.  Heck, my notes to myself lie.  Everybody lies.""
+
+Proved useful and accurate."
+Sounds about right.
+">  Pontifical Catholic University
+
+wtf is a "" Pontifical Catholic University"" and wtf has it do do with computer science?
+
+I'm not trolling, I genuinely have no idea wtf you're taking about. "
+isn't what we don't intend to say sometimes more revealing? or not? or not not? :) i'm just messing with you man, you know, with the negatives...
+"No it doesn't. ;)."
+And oh-so-confident.
+The Wendy’s Twitter is not official, but worthy of a sight. 
+😂😂😂
+That's pretty cool.
+[deleted]
+This guy is my hero.
+I wish the fucktipbot would work on Twitter, lol
+"> double-negation is considered as normal negation
+
+Sometimes. Just as often it means no negation. It’s ambiguous and highly sensitive to context and register."
+"I would love if he replies to one of the questions related to BCH with:
+
+“I don’t know.  I just work here”"
+I want a sass-off between the social media guys of kraken and wendy's
+Of course the second one was asked by none other than a 'Chad'
+"He forgot to say ""trigger warning."""
+Very amusing. But if Kraken could just answer the support tickets that would be great!
+"I like his description of the Tether situation. It's spot-on actually. Much better than the usual ""everything fine, no problems here"" support speak.
+"
+"Always make archive links for tweets like that.
+
+https://archive.fo/4Y6AE
+
+https://archive.fo/64qB2"
+"
+> ./activate Heisenberg compensators
+
+Okay, I was planning to move off of Kraken, but I may just stick around for the December upgrades and these tweets...
+"
+AMA request: Kraken's social media intern.
+"Typical Kraken customer: Came for the trading, stayed for the tweets.
+Because the damn trading engine isn't working anyway!"
+"This tweet from the other day was great too
+
+
+https://twitter.com/krakenfx/status/932896353952264194"
+"Kraken had better hurry and put this person on the payroll.
+
+I like his/her philosophy: The customer is not always right, and is sometimes a moron."
+Hilarious lollllll
+Their trading platform does suck, to be fair. I ragequit it while trying to buy BCH two days before the last spike.
+social media intern, is that 2 positions under the coffee maker?
+Oh yes.  Yes.
+They get more than 1000 a day. Most newbies who are just trying to make a buck yet refuse to Google or research simple trading questions that are usually answered in the FAQ.
+[deleted]
+Mad props to /u/breadwallet_dan
+>smartest socially inept assoles on the planet
+Well, he is working for the competition.
+Roger should hire him as his PR manager. 
+Even the fact that they hired a social media intern says that Kraken still has some fucks left to give. I'm optimistic. 
+Ouch.
+It's not he/she. It's a he. I can tell by the sense of humor.
+"He/she needs to mature a bit more.  When he/she becomes convinced that the customer is *never* right, and *always* a moron, he/she will have the only necessary qualification to be a bitcoin ""developer""."
+"""the customer is always right"" was always meant as ""the customer should not be talked out of the product because you wouldn't buy it personally"" from sales people. ""the customer is always sure about what they want"".
+
+It doesn't mean ""The customer gets to be be entitled prick and be an asshole to people because they're not getting what they want""
+
+"
+Lol. I actually have more faith in Bitcoin Cash than core, and I hate their community, but you guys are becoming just as bad..
+"u/BitcoinXio, your post was gilded in exchange for `0.00212161 BCH ($2.50 USD)`! Congratulations!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+" I will answer that question with another question:
+
+Does anyone know how Tether even works?
+
+"
+"I bet he sold it years ago for a cool $million or more under duress from TPTB before the price really took off. A deal he ""couldn't refuse"" . "
+Lmao didn’t realise you could do decimal of bits 
+How are they actively endorsing it?
+Corrupt /u/spez
+https://ceddit.com/r/Bitcoin/comments/7ej53t/more_information_on_the_bot_attack_of_rbitcoin/
+"I will question that answer with another answer:
+
+Car key hasn't seen anyone."
+Yeah, good to hedge your bets, whatever the tribalists say.
+If anything, they're pro-Hillary socialist fucktards.
+Ceddit, which I never knew existed til tonight, the OP linked a Ceddit live link above
+Some user claims that 1 out of 50 deleted posts may not have been spam. You just debunked 2% of my argument. Good job.
+most people here were banned from there but are diehard bitcoin supporters, how do you expect them to react?
+Let me hold up a mirror. So sad that you blinded by kim jung thermos. 
+For more widespread censorship. 
+Why do you think they doubled the number of mods in that subreddit?
+Wow haha, we need a new screenshot with theymos's comment lol
+this si going for 2 years now. admins were notified numerous times. everyone knows about this. admins never did anything to stop this or at least look into things. mods, admins, they all took money, bribes.. to ignore the issues. the only explanation.
+"I will answer that question with another question:
+
+Has anyone seen my car keys?"
+Why would he sell it? Theymos got into Bitcoin *very* early on, he probably holds many coins and is rich AF. Having three big Bitcoin discussion forums under his control is the best way to make sure his investment in Bitcoin is continuing to grow. This is way more worth than any one-time payment he might get for selling his account. 
+"u/cinnapear, you've received `0.0000848 BCH ($0.1 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+Well, I have invested in a handful of altcoins, but I still hold all my original BCH from before the fork.  Just converted most of my BTC to alts, minus a few just in case.
+This - https://www.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/
+"^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+**https://i.imgur.com/lQSixtb.jpg**
+
+^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=ignoreme&message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=delet%20this&message=delet%20this%20dq66i98) "
+we've got everything you need
+Probably cos it's not necessary 99% of the time, which is how it should be.
+"I guess I’m being pedantic, but the when the mods are not doing anything that’s passive acceptance. “Actively endorsing” would suggest that the admins are... you know... actively endorsing the behaviour of theymos and his merry band. They aren’t.
+
+>mods, admins, they all took money, bribes.. to ignore the issues. the only explanation.
+
+It’s not the only explanation, it’s massive speculation."
+[Not spam](https://www.reddit.com/r/btc/comments/7el8m8/what_rbitcoin_mods_desperately_dont_want_you_to/dq5tgw9/)
+Yet you claim they are all spam. You're a douche. 
+">How are you guys that delusional that you think one sub-reddit actually matters in the long-run of the biggest crypto?
+
+It absolutely does, theymos threatening to ban service was a strong force preventing them to take positions in the scaling debate.
+
+Media centralisation is what has hurt Bitcoin the most."
+So exactly this.
+I agree
+[Welcome to the discarded bin!](https://imgur.com/a/htdFu) Our discussions may not look all homogeneous and pretty but that's what it looks like when debate is allowed.
+"u/BitcoinXio, you've received `0.05 BCH ($59.12 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+It's ridiculous how they refuse to allow debate on r/bitcoin. I don't even necessarily agree with bigger blocks, but there is a debate to be had and the mods on that sub are not allowing it to occur which is a shame.
+Where does this screenshot come from?
+"https://www.reddit.com/r/noncensored_bitcoin/comments/7ejufp/uncensoredrbitcoin_more_information_on_the_bot/
+
+Total of 59 comments removed from this post! No censorship happening here! Move along please"
+God bless /u/go1dfish!
+lol
+Holy shit.
+Reddit is actively endorsing this. The kind of shit they'll find themselves in when the arrests start will be epic.
+Did you make a mistake or really wanted to tip $59?
+That's just bullshit. /u/theymos is corrupt. 
+There’s more red on those pages than in John McAfee and Brock Pierce’s eyes on a Sunday morning. - combined!  Wow. 
+"This is absolutely crazy....
+"
+/u/tippr gild
+0.05 bch u/tippr
+"Hey, you know that ""Listen to Bitcoin"" site? Could someone do that but as ""Listen to r/bitcoin censorship"" with a sound every time a comment is deleted?"
+That’s lots of censorship, even more than I thought there was.
+"haha, I'm the first comment bellow
+
+""These guys are so obessed with a subrreddit. It's beyond pathetic""
+
+My comment said: ""Open your eyes""
+
+I got banned :p
+
+go fuck yourself u/theymos, u/BashCo and all the mod from that censorship shithole sub.
+
+"
+Damn that is some hardcore amount of censorship. I have a feeling most of that sub's subscribers are oblivious to this.
+Forgive my ignorance, but how are *you* able to see this?
+"Geez. Reminds me of the_toiletbowl. And that took a while to forget, man.
+
+EDIT: OMG! Do you think these diehard Bitcoin Legacy supporters are Trumplings?????"
+Fuck theymos.
+It would just be a constant tone.
+It's called blood
+You are welcome here!
+Ayy welcome $0.10 u/tippr 
+Welcome to the club, don't fall for any specific altcoin just because the mods there are idiots though
+I will key your car with the answer
+In the vain spirit of balance, some of those long chains of replies *do* look completely suspicious. I’ve never had a reddit discussion go 6 levels deep in the space of 2 mins. 
+That's just brutal
+It will get censored
+"How are you guys that delusional that you think one sub-reddit actually matters in the long-run of the biggest crypto?
+
+If Core goes down it certainly won't be because of a fuckin sub-reddit lol"
+A sea of red. Worse than a bad day on the markets
+Surely regular readers of r/bitcoin are wondering what's happening to their comments?? How can they keep this up??!!
+"Hit the nail on the head my friend. It is 100% NOT sustainable in the long term. 
+
+
+They used to have a pretty firm grasp on literally all Bitcoin discussion - which makes doing this 100x easier. The cracks in the dam have started to split together... And instead of a small trickle of water escaping, we are seeing so much water, that it's formed a river, which is flowing away from the structurally defunct dam (which could collapse at any time).
+
+Obviously the ""water"" is in reference to the BTC users themselves - for anybody who didn't graduate k-6."
+"It's funny how you complain about censorship on r/bitcoin, but this sub has turned into nothing other than an r/bitcoin bashing sub. This political game is getting really boring... ""Promote what you love instead of bashing what you hate"""
+"I don't understand all these constant boohaha.
+Just quick r/bitcoin as I did.  Simply as that. 
+"
+"Take a closer look at the picture. There are two threads with 9 replies each, all sent within 3 minutes. That's 20 seconds per post. Do you seriously believe someone was voicing their ""differing opinions"" in this manner? Much more likely it was just spam, *possibly* posted for the sole reason to take this very screenshot."
+Bitcoin is run by the big bank patsies??? I'm selling all my BTC and buying BCH (run by 1 Chinese individual)!
+But only BCH asicboost so better for bitmain china
+They will or competitor will be born. U can't ignore the best sound money
+I think they will, sooner or later, unless they are stupid enough to give up their future.
+"Thanks, here are my thoughts on it
+
+> a new currency
+
+Both forks are the same age
+
+>that many Bitcoin supporters  view as a rival.
+
+that many **casual and uninformed** Bitcoin supporters  view as a rival.
+
+
+
+>that many hardcore Bitcoiners view as an unwanted stepchild of Bitcoin 
+
+that **many new comers and those who never wanted to use bitcoin** view as an unwanted stepchild of Bitcoin 
+
+> potential threat to the top cryptocurrency.
+
+but the top currency would still be bitcoin
+
+
+>group of Bitcoiners who disagree ideologically with the future development plans for the original cryptocurrency
+
+group of Bitcoiners who agreed ideologically with the future development plans for the original cryptocurrency (how could someone get this so backwards?)
+
+
+>Bitcoin Cash has come under criticism from the Bitcoin community for its small developer community, 
+
+the fact it has 3 dev teams and not 1?
+
+Or that it *hasn't* pushed away over a hundred people. Bitcoin core has something like 25 significant developers if I remember correctly, most other people came and left
+
+
+>t how decentralized the cryptocurrency actually is.
+
+again, because it has *more* development teams? Also decentralization in bitcoin is all about miners.
+
+
+If the founder of coke had quit to start pepsi because they hijacked his ideas and made them backwards, that last story would be way more relevant. "
+Mining is like using: borderless. Miners from all over the world mine both Bitcoin Segwit and Bitcoin Cash. At least 70% of mining community are ready to switch between chains at any moment. [fork.lol](http://fork.lol)
+"What is ""bcash""? "
+Borderless, my dude
+I wish Bitpay would consider Bitcoin Cash. What other choice do they have?
+Bcash and Bitcoin (Cash) are two different projects. Stop confusing people 
+"Thanks! This is my first tip ever. Our next goal should be Bitpay. I emailed them as well but they said they ""do not have plans to accept bitcoin cash at this time."" We need stronger push."
+BCH numba 1 chinese coin!
+Miner no borderless. Miners chinese. miners <3 BCH numba 1 chinese coin
+Heresy! Deploy cypherpunk inquisitors! For the Core! 
+Nobody can afford politics in crypto for too long. Not supporting Bitcoin Cash? Losing money! 
+"Well, SW2x, did fail, but BCH is far from being rejected by the markets.
+
+They don't seem to be completely separate facts either."
+"Lol are you serious? Look at this very thread we're discussing on; BCH is hoveeing not much lower than at half the market price BTC was a month ago. **It's worth 3x than it was when we last spoke of this.**
+
+Life support? I think you need to take a step back to see the big picture here."
+You mean life support from Jihan and Roger desperately attempting to give it the illusion of competing?  

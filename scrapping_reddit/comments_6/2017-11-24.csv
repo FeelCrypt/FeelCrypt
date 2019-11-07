@@ -12,3 +12,1030 @@ But to go from there to they did it?
 
 Well, it concerns me that ppl here would take such a leap, sure doesn't make rbtc mods look good and this side of the community anyways
 "
+"Monero transactions are currently larger than transactions on transparent blockchains, like Bitcoin.  That makes them more costly to store on the blockchain hence the higher fee.  It's considered a cost of the enhanced privacy.
+
+Upcoming developments like [https://monero.stackexchange.com/questions/5997/what-is-stringct](StringCT) could reduce transaction sizes by as much as 90%+."
+"Ok that sounds fairly secure. 
+
+I'm not familiar with how the mempool really works, so that's probably why I'm having difficulties wrapping my head around how this all works. How do we know which transaction came first if they were sent 0.1 seconds apart? I don't think timestamps are sent with the block info, so how does the whole network agree on which came first without validating blocks?
+
+In other words, what if one person sees one transaction as the first, but someone else sees the other one first?"
+It's a good question. For me, a global commerce system built around thousands of 0-conf transactions per second is a recipe for disaster.
+"Thanks. If I look up Bitcoin price on say preev.com which is that and where would I find the other? 
+
+I gave out a lot of Bitcoin for Christmas a couple of years ago and there is no way any of them will figure out what is going on.
+
+"
+"RBF is optional and of course a receiver could not accept those. But it is just better to not have it at all since it's completely unnecessary (see my other comment).
+
+
+You can only count on a tx to be confirmed in the next block if the mempool (all the unconfirmed transactions) is always smaller than the max blocksize. If a block is full (reached the max block size) it means that the mempool is >= the max block size."
+0-conf isn't secure by design anyway RBF or not. Because as long as a transaction is not in a block, it could be double spend easily or even not confirmed at all and then dropped from the mempool.
+Actually you could just make it so that RFB is locked to the same outputs so that fees can be increased while also making double spending different. RFB is only increases the risk of double spending if its implemented in a means by which it isn't locking the outputs to the same address. 
+I see.  That makes compete sense.   Thanks. 
+Sweet, thanks. These are currently on paper wallets though.
+Thanks everyone. 
+"Must learn more about rbf... Is it optional as others suggest?  
+
+How does a full block matter in this context?  If 0 conf means you don't wait for the transacting to be in a block, does block size or full blocks affect 0-conf?"
+You're welcome. I'm glad I could help.
+"I used blockchain.info to recover my coins on paper wallets. They even support Bitcoin Cash (hidden in a configuration menu at the moment).
+
+If you are not in a rush, be sure to use a custom fee after checking this chart:
+
+https://jochen-hoenicke.de/queue/#24h"
+"Thanks for all the help /u/TheDailyToast 
+
+/u/tippr 1.5 USD"
+Definitely a piece of shit service.  Oh, wait, you meant point-of-sale didn't you?
+It's exactly as arbitrary as 8MB.
+"IIRC Coinbase is holding onto the Bitcoin Cash in their possession until January.
+
+Check out this page if you have not already:
+
+https://www.bitcoincash.org/"
+"In principle you are right but I think you are missing the use case here. The point is not to have high fees in the first place.
+
+
+And there is already a better solution to this. If you want to accelerate an unconfirmed transaction you could just spent the unspent and unconfirmed output of it and attach a higher fee to that new transaction. The rational miner will then confirm both to get the fees of the last transaction.
+
+
+RBF is just completely unnecessary.
+Btw it's RBF - replace by fee."
+"""Bitcoin"", often with the ticker BTC, but also XBT is ~$8000 USD at the moment.
+
+This is the one that is limited to 1MB blocks (actually now 4MB ""block weight"" with segwit).
+
+""Bitcoin Cash"" is the 8MB fork without segwit. Often uses BCH or BCC ticker. Around $1500 USD. Not to be confused with the BitcoinConnect ponzi/scam/coin (also uses BCC ticker on some exchanges).
+
+There are also other forks like Bitcoin Gold: but those appear to be designed to tarnish the reputation of forks like Bitcoin Cash.
+"
+"I'm going to bed now, but here are some views of Satoshi himself about this topic:
+
+https://bitcointalk.org/index.php?topic=532.msg6306#msg6306
+
+https://bitcointalk.org/index.php?topic=423.msg3819#msg3819
+
+TL;DR: 0-conf are not safe, but they're safe enough for small payments (e.g. groceries and coffee) where time of transacting is more important than 100% security"
+Sure, but 8MB (which is a soft limit that can go up to 32 before needing another hard fork) isn't creating congestion. The point of pointing out that 1MB was arbitrary was that it was becoming a problem, and could (should) be changed. It's not like satoshi did some calculations 7 years ago and decided 1MB would be the optimal limit for the rest of Bitcoin's future. It was so much bigger than the blocks at the time he just assumed the network would increase it as necessary if that point ever came. 
+Wow! Thank you too.
+Yes because you can't do 0-conf with RBF or full blocks.
+"You need to split the BCH (bitcoincash) from the BTC (BITCOIN) before you sell it on coinbase.
+
+"
+"> Your check analogy is a bit flawed
+
+You didn't explain why.
+
+> The store does accept checks, so customer writes one
+
+But the store says it only accepts non-RBF checks.
+
+> The customer don't know or understands the difference between checks
+
+So this is only an issue one time per user.
+
+>  and the bank said that these checks works anywhere where checks are accepted.
+
+Sounds like the bank lied to the customer. What's the equivalent to this in Bitcoin?"
+Serious question: how is Bitcoin Cash supposed to be used for daily transactions? 10 minutes still seems too long to me if I'm trying to buy a meal.
+Wouldn't Dash be a better solution than BCH? It literally takes seconds for confirmation.
+"OK, so say someone wants to cash out BTC they can just use Coinbase? And they would still have some BCH or whatever Bitcoin Cash is using? Where would you spend / cash out that?
+
+Thanks again."
+"u/TheDailyToast, you've received `0.0008682 BCH ($1.5 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+"Yes but he arbitrarily chose 1MB as a nice round limit when the average block was like 3 kB. 
+
+He assumed it would be raised when necessary, and outlined how simple it would be to (do)[ https://bitcointalk.org/index.php?topic=1347.0]
+"
+Try explaining that to a person of below average intelligence, the type likely to be operating the cash register.
+I see whut you did there...
+Confirmed in seconds.
+Can you explain how it isn't arbitrary?
+He'd have happily paid a $100 fee I'm sure.
+Changing the base block size requires a hard fork, so it was 1 MB because that's what Satoshi see it to. But the limit isn't actually 1 MB anymore, it's 4000 weight.
+"Haha, no. 
+
+"
+"lol.. a word from the ""wise"" man
+
+do yourself a favor and try to learn something about Dash before you post these idiotic posts in the future.. thanks :)"
+Bitcon Cash would still work with 1mb blocks, their average blocksize is like 400kb. They have low fees and fast confirmation because noone is using it.
+Lack of immutability, lack of network effect
+"How much code a merchant should adopt to use Bitcoin ""correctly""? Frictionfull systems are in the trash"
+Remember, checks can bounce and credit cards have chargebacks.  If someone is going to be scummy and steal from the store, it's not like Bitcoin makes it any easier than it already is.
+"With so called ""zero confirmation transactions"".
+
+Bitcoin Cash removed RBF (replace-by-fee) which was a functionality introduced in Bitcoin later on due to congestion. RBF allows you to replace a transaction you just broadcasted with another transaction with an increased fee.
+
+Since Bitcoin Cash removed RBF, the first transaction seen by nodes is valid and any transaction trying to spend the same coins, is to be ignored.
+
+This allows for merchants to accept a payment as soon as they see the tx broadcasted through the network (a few seconds). The merchant can kind of trust you to not double spend (e.g. move the same coins in a second tx to an address you control) because to do that you'd have to be in control of most of the nodes in the network and you'd need to be fast with this.
+
+The chance of a double spend attack against the merchant is for tx lower than e.g. 10k USD is lower than the chance of a fraudulent charge back with a credit card.
+
+It's theoretically not perfect but in reality it works."
+There're two factors: bad fee calculation and mempool overload. Bitcoin Cash has some of the first one, Bitcoin Segwit has both
+How much time does Bcash take to confirm?
+"No, your second tx shall not be broadcasted/accepted by nodes because it uses the same outputs (coins) as the first tx. If you control the nodes you could decide what tx gets broadcasted or discarded.
+
+But no exchange will ever accept zero-conf txs due to the risks involved.
+
+Edit: merchants can be informed by their software that there is a double spend attack ongoing. Unless you control the nodes, everyone sees your two conflicting txs in the mempool."
+Yes.
+So if I understand this right you can go recover your coins and you'll have both BTC and BCH?
+"Merchants are safe pretty much as operating bank said: ""OK"" checking keys. Chargebacks are lengthy and standard and part of overhead. Maybe just better than cash, maybe governments are pushing cashless systems too much for taxation, KYC and AML. The latter is more likely
+
+""Pull"" systems is like trading with gold coins, If u didn't check for fake on the spot, u're screwed. RBF and varying average confirmation time increase overhead for merchants in regards to Bitcoin Segwit. But the main reason that some merchants exited it is **high fees**
+
+""Muh coffee"" equals commerce. No coffee - no commerce"
+"You charge them by storing bitcoins in an address you do not control.
+
+You'd have to trust that party (credit card provider) to no screw you over or go 2toes up and lose all your stored bitcoins."
+[deleted]
+Except that people can double spend  confirmations  just the same on BCH RBF or no RBF it's just not secure without confirmations. Which is why it makes the most sense for a coffee shop to accept Ether as it has 15 second block times. 
+"> bitcoin cash is no different to bitcoin in this regard
+
+Differences exists: RBF and average confirmation time. Both are important for merchants"
+Or accept any other major crypto other than bitcoin, BCH included but doesn't offer anything over ETH for example 
+Ok I'll bite.  please elaborate. obviously different systems, but go ahead. 
+Yeah, I think I should have made it more different all the way. A little knowledge of German is dangerous I guess ! I thought it was obvious what the joke was but it backfired on a few people because of it.
+Why not? It's nice to have a choice. U can write important bytes into immutable ledger and choose to write or not least important bytes regarding cost of doing so and don't write private things at all
+Only Bitcoiners brag about 17 minute confirmation times and transaction fees over a dollar. Jesus Christ. 
+"Wow I never really understood how zero-confirmation transactions were supposed to work. That's pretty neat.
+
+One thing I still don't understand is why you would need to control most of the nodes in the network to pull-off a double-spend. If you sent your second transactions (with higher fees) a few seconds after sending your first one, wouldn't there be a good chance that the second transaction would show up on the next block, whereas the first one would only be in a later block?"
+But block times are still 10 minutes. That's still too long for face-to-face transactions...
+No, of course not. The customer can say they never authorized that transaction and charge it back.
+"VISA is ""push"", Bitcoin is ""pull"". Different systems"
+Fee is too low, never gets into a block ever and gets dropped out of the mempool.
+"It has the same block time average as Bitcoin, but much lower transaction fees. 
+
+My point was: Litecoin has 2.5 minute block times, Dash is instant, Ethereum is 15 seconds, etc. Everyone does better than Bitcoin at confirmation speeds and cheap fees. Seventeen minutes for confirmation and >$1.00 fee is worse than Visa by orders of magnitude. "
+And the coffee cost $65 because of transaction fees.
+"What about those ""credit cards"" that let you pay using Bitcoin but through a credit card? What's the difference?"
+While it doesn’t take 24 hrs it does take a while to get even one confirmation. My real concern though is the network fee. I rather use a CC and have the retailer pay the fee.
+Nice, are the tags new? (like the Satire one in this case) I don't remember seeing tags like this before here. Much appreciated if a new thing and if not, still!
+You have several types of Bitcoin most likely.
+"You would have both.
+
+The August 1st Bitcoin Cash fork preserved the transaction history up until that point."
+">because he was clearly refering to the fact that he has been walking through Berlin for a while trying to find places that accept Bitcoin.
+
+He wasn't... "
+"Only the first tx seen by the network is valid.
+
+Once the merchant sees your 0-conf tx in his system (a few seconds after you broadcasted it), the tx has already been broadcasted across the network and it's unlikely (not impossible!) that you can pull off a double spend attack without some serious resources (e.g. control the network)."
+That's actually his full legal name.
+":D
+"
+"If there is a double-spend, will both transactions be marked as ""invalid"" by the network? If so, wouldn't it be possible for someone to do
+
+1. Buy coffee with one transaction (0 confirmations)
+2. Grab coffee and leave
+3. Send the same coins to a different address to cancel the transaction (but still keep the coffee)"
+"You know that the subtitles are fake?
+
+Source: German.
+"
+"It seems most ppl did not understand this was a satire video...
+
+""long time later the merchant could give me my coffee""... "
+"You have both without recovering.
+
+And yes, you can spend them independently.
+
+Use caution when sending to and address starting with '3' though. Bitcoin Segwit addresses use P2SH scripts that are not really valid on the Bitcoin Cash network.
+
+Both Bitcoin segwit and Bitcoin Cash may be getting new addresses to address that problem.
+
+"
+MEGA!!!
+RBF made it a whole lot easier.
+The fact that I was familiar with Bitcoin 2 years ago and have no idea what anyone is talking about without further research means this shit is far too complicated. I have Bitcoin from 2013, not even sure what exactly I have now. 
+"I am clarifying what he meant when he said ""that took a while"", because he was clearly refering to the fact that he has been walking through Berlin for a while trying to find places that accept Bitcoin. Just to make it clear from the start so noone confuses it with transaction times or anything like that. Because that whole Bitcoin segment of the show didn't even touch on aspects like transaction times and whatnot."
+"Well, they've already put out a demo video where they buy burgers with Dash, so I'd strongly suspect the closed beta is proceeding well. And the other coins are already in their mobile wallet also, just not possible to activate them yet. 
+
+I think this thing is a no-brainer for anyone in crypto. The more you keep in crypto vs keeping it in fiat the more money you save/make. 
+
+I also disagree that their business model relies on BTC being slow and not accepted. Because it's going to take *years* before most/all shops that currently take Visa will take cryptocurrencies. But you can buy things with Visa in a great many places. 
+
+I agree that the current TenX setup - visa card connected straight to a crypto wallet - is a band-aid. It will only be necessary 10, 20 years maybe. But that's a relatively long time in this space, to say the least."
+No. :)
+Yeah I already did my research on Dash and by all accounts the instamine appeared to be a premeditated premine. Only people investing right now are relying on the greater fool theory. It's a bad investment. The founder still has 256,000 coins that he says he will give away 80% of for development projects but who can be sure. I don't know, he should put them in a foundation. That's still not discounting the other 1.7 million premined/instamined coins that are held by other people. The coin distribution schedule is **fucked**. It favoured very early adopters. They're all now very rich. Monero is a much better coin.
+That's an UX issue, not a bitcoin problem. You can just as easily make RBF opt-in from the receiver point of view with a different payment protocol.
+How can you say that about that sub when this one literally pays people to talk shit on Bitcoin and promote bch. If you want to discredit them down vote them and use the tools Reddit provides to show they aren't legit 
+">It assumes that if you buy a car, that means one less car for everyone else in the world, so by not redeeming your cash for a car you are somehow loaning the value of that car (or anything else you could buy) to the world until you decide to claim it. Except cars aren't fixed resources, they're produced.
+>Buying a car doesn't reduce the availability of cars, it increases it, because for every one car you buy, the manufacturer makes enough money to build 2 or 3 new cars. They can also use that money to improve their factories, which makes cars even cheaper (meaning people have even more money to buy other goods and services that generate yet more wealth).
+
+I totally get where you're going with this. And I agree that certainly the cumulative effect of lots of similarly-situated kids experiencing a change in preferences and deciding to forego their purchase of a car would have the effect of signalling to car makers to cut back on current production.  But that just means that all of the real resources (e.g., raw materials and labor) that would have been used to manufacture those cars now remain immediately available to be used by others for either some other consumption or investment.  So I still see a ""loan"" that justifies compensation.
+
+Also consider that if the kid had bought the car and loaned it out for the year for rental income, that also would have reduced the demand for the manufacture of new cars (the effect you describe) because the person borrowing the car would no longer need to buy one, but in that case the kid would have experienced an increase in real purchasing power.
+
+>There is no way for it to generate value doing nothing, because there's no difference between burying money in a vault for a trillion years and just burning it.
+
+What about this hypothetical?  An alien spaceship comes to earth and the aliens announce that they have technology that would allow us to instantly cure all human disease. And they're willing to give us this technology for some enormous amount of money representing, let's say, 10% of the global money supply. I think most people would see that as one hell of a deal. So Earth agrees. And just so we can try to avoid thinking about any redistributive effects, let's imagine that the funds can be collected from all of the world's population in perfect proportion to an individual's money holdings (so e.g., if you had $100,000 in cash and accounts, you'd contribute $10,000).
+
+Scenario one: the aliens disappear with the cash and never return. In that case, they'd obviously have given humanity a *huge* gift. *Nominally* we'd all have less money but not in real terms, not in terms of purchasing power because everything would now be proportionally cheaper.  And we'd all get to enjoy our lives disease free and with the knowledge that all of our loved ones could now do the same. And all of the resources that currently go into the medical industry would now be freed up to produce other things of value. It would be an unimaginably massive economic boom for humanity.  
+
+Scenario two: the aliens don't disappear and instead start spending that huge sum of money on, let's say, domestic house cats, for which they apparently have an insatiable demand. (Maybe the aliens are [Melmacians](https://en.wikipedia.org/wiki/ALF_(TV_series)).) And so for maybe the next 50 years until the aliens' funds run out (for simplicity let's assume that the aliens don't engage in any further trade during this time), a significant chunk of the global economy will be devoted to breeding cats. Now we still came out ahead in this deal (that's why we agreed to it) but we're not AS well off as we were in the first scenario. Because all of the real resources that are now being devoted to breeding these hundreds of millions of house cats to ship into space on a one-way trip are no longer available to produce goods and services to satisfy human desires.
+
+Scenario three: the aliens disappear for 50 years and *then* show back up and start spending money buying up crazy numbers of cats.  Assuming they were paid with a fixed-supply money that's increased in purchasing power, they'll probably be able to buy a lot more cats.  But that makes sense because we got to enjoy 50 years' worth of the compounded benefits of their ""loan."" As a result, humanity should now be much, much wealthier than we would have been if the aliens had never shown up."
+"> But that just means that all of the real resources (e.g., raw materials and labor) that would have been used to manufacture those cars now remain immediately available to be used by others for either some other consumption or investment. So I still see a ""loan"" that justifies compensation
+
+This is just kicking the can further down the road. It's still operating on a zero-sum theory of wealth.
+
+Everything a car is made out of is also produced by people. Buying steel to make a truck doesn't make steel less available, it leads to more iron ore being mined and smelted. Trucks can also do things that make steel even more available (like transport ore). What reduces supply of steel is a reduction in demand that means people aren't willing to pay for more ore to be mined and smelted.
+
+Even when all materials on earth have been mined, you will still be able to increase supply by recycling waste materials and mining the rest of the solar system and universe. this also ignores the vast majority of value of a car doesn't come from raw materials, but from combining them in a useful way. 
+
+Even if some forms of wealth were zero sum, it would not make wealth zero sum so long as there were forms of wealth that weren't. We can continually increase wealth without increasing the amount of raw materials (e.g. computers today use far less material than computers 50 years ago they're just built better).
+
+>Also consider that if the kid had bought the car and loaned it out for the year for rental income, that also would have reduced the demand for the manufacture of new cars (the effect you describe) because the person borrowing the car would no longer need to buy one, but in that case the kid would have experienced an increase in real purchasing power.
+
+If the kid bought the car then the car company would still have the money to build more cars and so it would be cheaper for the next guy to buy a car. The kid buying a car and trying to rent it would not force anyone to rent a car who wanted to buy one. Only someone who wanted to rent a car anyway would rent a car instead of buying it. The rental market is not separate from the buying market. Even if there was only one person in the world who owned cars and rented them to everyone else, they would still have to buy cars to meet demand. 
+
+Renting cars can actually generate wealth because there are times when it will be very inefficient to buy a whole car when you only need it for a short time. Rentals allow a greater amount of value from the same amount of resources (i.e. wealth generation). 12 guys who each need a car for 1 month are making much more efficient use of resources if they rent 1 car rather than buy 12 separate cars that then don't see much use. The money they save on not buying a whole car can be used to buy other goods and services, which generates more wealth.
+ 
+>An alien spaceship comes to earth and the aliens announce that they have technology that would allow us to instantly cure all human disease. And they're willing to give us this technology for some enormous amount of money representing, let's say, 10% of the global money supply
+
+>Scenario one: the aliens disappear with the cash and never return. In that case, they'd obviously have given humanity a huge gift. Nominally we'd all have less money but not in real terms, not in terms of purchasing power because everything would now be proportionally cheaper
+
+This hypothetical does not show wealth being generated from doing nothing with money. 
+
+The scenario would be no different if the aliens just showed up and asked us to burn 10% of the money supply in exchange for this technology. The wealth has already been generated and is being gifted in either case.
+
+It's not really a good hypothetical because there is nothing stopping us from just printing all the money back again. you'd have to say ""the aliens wouldn't give us the technology unless we agreed not to increase the money supply"", so then you're not really asking whether deflation has any benefits, but whether some super valuable technology is worth the economic damage that sharp deflation would cause.
+
+The only value being generated by money is in the scenario where the only way we get this fantastic wealth generating technology is by trading it.
+
+>Now we still came out ahead in this deal (that's why we agreed to it) but we're not AS well off as we were in the first scenario. Because all of the real resources that are now being devoted to breeding these hundreds of millions of house cats to ship into space on a one-way trip are no longer available to produce goods and services to satisfy human desires.
+
+We're not as well off in a situation where we're gifted great wealth than when we have to pay for it. That's a given. That would be the case whether we were required to pay money or sacrifice half the worlds population or launch all the worlds gold into the sun.
+
+We're only worse off in comparison to a hypothetical where we're gifted wealth. If the aliens added all this extra wealth to the economy then that is in addition to the existing wealth, its not coming at the expense of other parts of the economy. There's no overall loss because any wealth that got dedicated to cat breeding is additional to all the wealth the new tech generates.
+
+>Scenario three: the aliens disappear for 50 years and then show back up and start spending money buying up crazy numbers of cats. Assuming they were paid with a fixed-supply money that's increased in purchasing power, they'll probably be able to buy a lot more cats. But that makes sense because we got to enjoy 50 years' worth of the compounded benefits of their ""loan.""
+
+And if we had printed quadrillions of that money and they came back, then it would be worthless by the time they came back. Would that somehow prove that what they had given us with worthless?
+
+The intuition that money is ""deserve"" tokens and so that any increase in the value of tokens must mean you have done something to ""deserve"" it is a faulty assumption that's going to lead to all kinds of faulty conclusions even if your logic is correct.
+
+In this case its leads to the idea that not taking up resources is somehow a form of generating wealth. Which is not the case, otherwise killing yourself is a tremendous act of wealth generation since you're freeing up all the resources you would use in your life.
+
+The supply and demand for money is separate from wealth generation. Double the amount of money or half it and you have not changed the amount of wealth in the world, you have only changed the relative value of each unit of money, which creates no value in itself except for how it encourages value generating behavior. Hoarding a token that only has use to facilitate trade does not generate any value, it only results in zero-sum transfers.
+
+If aliens came and took every single dollar in the world, we would not lose any wealth except for the very small amount of wealth in the form of paper. We could print all that money back again and be no worse off than before. Money != wealth.
+"
+I suspect youre ignoring adoption rate, market penetration, mind share, etc as metrics. The price is nice but ... 
+lol these people truly lost their minds. 
+[RELEVANT LINK](https://www.youtube.com/watch?v=GiPe1OiKQuk)
+"OK, isn't ""just a fork"". Meaningful fork of the blockchain"
+"There's a coin named that?? *groans*
+
+Let me edit in that space..."
+I don't see how.  It was a fork of BTC.  I think BCH only forked once and it didn't result in a new coin.
+Your name is really familiar... are you a mod somewhere?
+And yet they allow posts about [other cryptos](https://www.reddit.com/r/Bitcoin/comments/54k3z3/glad_to_see_my_intuition_being_right_on_ethereum/) as long as you are trashing them. They have never been very consistent with this alt coin rule.
+"> This sub censored BTG posts
+
+I saw those 'how to claim' posts - what do you mean by 'censored'?
+
+Link to the mod log please."
+Because BTG is an obvious scam.  They falsely advertised which block they would be forking from, had a massive premine, and didn't have any of the functionality they advertised at foundation.  Everyone knew this except /r/bitcoin, it's not just here that you'll see resentment towards it.
+"Scams are not allowed in this sub. BitcoinGold is a proven scam. The jury is still out on BitcoinDiamond but if evidence comes up that it’s made to scam people then it won’t be allowed here either; similar to as we don’t allow malware, etc.  "
+We have open mod logs so proof or gtfo 
+"Go fuck yourself, you are shilling a scamfork and an obvious ""ver is satan"" trolltard"
+link me the github
+Yeah. I just want people that make these kind of comments at least provide some information about why they think that. 
+It's not a A Peer-to-Peer Electronic Cash System. That's why they are fake bitcoins. 
+Child, technology don't progress by being more expensive and slower over time. You might not be old enough to know that though. 
+And you calling Bitcoin a scam is just what I'm referring to above. 
+People always make fun of this but this is something I learned in university, I think in an HR class. There are known unknowns and unknown unknowns. I didn't think it was that weird for him to say.
+Child, that's not a scam. That's technology in progress. 
+"Ever seen a trees forking branches?
+
+That's all ""fork"" means, to split from a parent, it makes no judgement as to the validity, usefulness, or value of the fork."
+how is it fake when it's the same chain as the original bitcoin?
+Do you have it archived?
+I find it amazing whenever I visit this sub that r/bitcoin is portrayed as *the* mouthpiece of the Bitcoin/Core community. There's a whole world of crypto traders out there and they're not posting their thoughts at r/bitcoin.
+"I agree with you on matters of principle, Bitcoin Segwit is a fork away from the original Satoshi Nakamoto Bitcoin; it should have been a stand-alone experiment (Bitcoin Segwit - BTS maybe) as it deliberately reassigns incentives and changes the game-theory rules at play. 
+
+However, I won’t demonize the word “fork” and I’m absolutely ok with using it. While I believe there will eventually be one ecosystem and the network effect will allow for only one currency to prevail, and undoubtedly it’s Satoshi’s Bitcoin (Bitcoin Cash); competition is a good thing. 
+
+Competition will allow to solve those edge use cases where bitcoin won’t compete (e.g., paranoid and extreme transaction privacy). Forks will allow for new and imaginative solutions to problems we didn’t even consider yet. But each fork should be a stand-alone fork with very honest and transparent playbooks (no pre-mining bullshit) and not and try to hijack the original Bitcoin design like BTC/Core/AXA/Banks tried to do. 
+
+Forking is ok, it’s healthy, and Bitcoin Cash and Bitcoin Core forked from each other as to prevent the Segwit poison pill from being swallowed by Satoshi’s Bitcoin. 
+
+Forking the Segwit chain to start a new Segwit coin is hilarious though and indicates a complete misunderstanding of what Satoshi’s Bitcoin really is. "
+an upgrade, if you will
+"A lot can be gleaned about the inner workings of Core based on what topics are allowed or disallowed on /r/bitcoin. The censorship there is so thorough that nothing even slips through the cracks... If you see something on /r/bitcoin, it's because someone wanted you to see it, or at the very least decided it was ok for you to see it.
+
+/r/bitcoin disallows all talk about coins with actual scalability solutions (like ETH or BCH) but allows talking about coins with the segwit cancer (LTC, VTC) and their infinite new number of forks (Bitcoin Gold, Bitcoin Diamond, Bitcoin Clashic, Bitcoin CashPlus, Bitcoin Extreme).
+
+What this tells me is that Bitcoin Core [used here to mean the wider apparatus, not just the developers] doesn't actually believe that hard forks or big blocks are dangerous, in the end all it comes down to is whether they are in control or not. "
+"Yup. There is a difference between forks that are clearly scams, and those that aren't, but right now the public is only at the beginning of a learning phase on this.
+
+- open source ahead of fork time?
+
+- reviewed by fork time?
+
+- at least _some_ accountable devs or real people willing to support it?
+
+- no outright stupid technical claims?
+
+- no false attribution / dressing yourself with false endorsements?
+
+These are some of the signs of something that could be real.
+
+Fail these and the scam chances increase drastically. Bitcoin Diamond for example fails ALL of these."
+Would't be surprised if they get help from state-level players.
+technically it would be possible to claim BTG from BCH private keys right?
+If they believe that, then it's not smart money. Smart money does it's homework.
+good point.  i wasn't watching.
+"Well, there's no question of that, but they definitely don't allow BTG or BTD posts if they see them, they're pretty much always removed.
+
+The ""highest traction"" post I saw was yesterday [here](https://www.reddit.com/r/Bitcoin/comments/7f0bs2/havent_seen_anyone_posting_about_bitcoin_diamond/) which is literally 4 votes, so no one saw it either, they hammer them pretty hard."
+That's because they are autoremoved
+This sub censored BTG posts about how to claim them using Trezor and similiar posts, but allowed a post talking about how BTG scammed people out of 2.5 million. If you think you're not getting a censored pro-BCH narrative here, I suggest you monitor the mod log. Mods here do not seem above censoring content they disagree with also.
+Well, I guess it is one of Blockstreams new tactic where they trying to paint Bitcoin Cash as being illegitimate and/or just another altcoin. They managed to call it an altcoin and an airdrop in the same paragraph this time.
+Glad to be of service. :)
+Btw. Plot twist: the same question was removed by /R/btc mods too after 5 comments and 5 minutes. Even though the question wasn’t breaking any rules. 
+"> If there was a someone resourceful and smart like Roger 
+
+lol
+
+> in support of any of these projects they may be not turned out so worthless
+
+Don't care. Just stop spamming /r/bitcoin or you are kicked out, just as roger was.
+
+"
+"> lol that isn't even Bitcoin Diamonds site you shitheel
+
+I see things like joke totally elude you. Also, have some manners, this is /r/btc but we don't have to act like this.  "
+That's Core/Blockstream propaganda. You might want to ask why exactly in /r/Bitcoin, but you risk being banned.
+"You're missing the point (in fact you've got it backwards). BitcoinCashPlus is made by ""the people who made BitcoreCore"" and not ""bitcoin core"".
+
+By adding the space you've made it incorrect. It was correct before. It's just that ""BitcoinCore"" isn't what you think it is.
+
+I'll remove the downvotes once you've cleared that up.
+
+Bitcoin Core isn't a product, it's a development team, how could something be ""from the makers of bitcoin core""."
+"Yeah, /r/leagueoflegends
+
+I do all the VM/spam work there"
+"Meh, they remove [posts like this one](https://www.reddit.com/r/Bitcoin/comments/7f4w23/just_sold_my_last_bitcoin_cash/) despite it being an obvious hitpiece, just slower than usual.
+
+No surprise there :P"
+Suck my what?
+Because they are   turning it into a Limited Settlement System. 
+"Because its got segwit. And segwit is cancer. Is cancer p2p? No. Q.E.D.
+
+Edit: oh lord, I got upvotes for this supid shit."
+"Yes, because otherwise it's intentionally misleading.
+
+""BitcoinCore"" is just yet another shitty fork coin. ""Bitcoin core"" is the name for a loose collection of developers (some of which work for Blockstream) who manage the bitcoin implementation at github.com/bitcoin/bitcoin
+
+FYI, if you're a newbie, you should know this sub is full of insane conspiracy theorists, and that there absolutely is another side to the story."
+"Yes its not *just* me, I'm just saying that's mostly what I do
+
+:flag-fr:
+
+Bored enough to profile dive? :D"
+"So just because some wallets scammed people, does that mean the entire project is a scam? Should posts about splitting coins on a Trezor, which is definitely not a scam wallet, be censored because some other wallets were scams? 
+
+I agree it sounds scammy, and I certainly wouldn't invest, but I feel that way about a lot of coins that other people see value in. Censorship under the guise of protection is still censorship."
+"I saw a Git link on the Bitcointalk thread, but then I read elsewhere it just points back to their own shake and bake website, so I guess not?
+
+Shit. Show."
+Where are the modlogs and what is the reason? Can you help me understand?
+"What does having segwit have to do with being ""Peer-to-Peer Electronic Cash System"" ? not all bitcoin transactions are segwit . Annd even if they were, can you explain why this would neccessarily make it not p2p ?"
+"Everyone knows what is meant by ""Bitcoin Core,"" and it's a giant political machine, not ""a loose collection of developers"""
+"fixed.
+
+yeah, I'm aware not everything in this sub should be taken at 100% but I came from the other one and something didn't seem right. I now am subscribed to both."
+"I get pinged each time someone mention /r/leagueoflegends.
+
+EU > NA btw"
+"Like I wrote, not only wallets.
+
+One of Bitcoin Gold devs himself hid a fee tunnel in pool software.
+
+Not sure how much the devs were involved in creating Electron Gold, but they sure as heck put out a 250 BTG bounty for development of an Electrum version for Gold.
+
+https://github.com/BTCGPU/BTCGPU/issues/48
+
+If you hire scammers and they create scams, then your project turns into a scam.
+
+Bitcoin Gold is a scam."
+I should have included a /s :(
+"""piss off"". That you Craig? :'-)"
+That actually sounds horrible in every way
+Everyone knows it’s a scam made to defraud people. The problem is your trying to debate a troll who is either paid to shill or is brain washed by \/r\/bitcoin. But thanks for trying, more people need to call out these scams in public so everyone knows the truth. 
+That's why you would look in the modlogs and see what the reason for removal was before making an accusations. 
+"u/BitcoinXio, you've received `0.0005 BCH ($0.85 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+"We don’t censor based on just our own opinions if we don’t like something; that is what \/r\/bitcoin mods do. There is actual proof BitcoinGold is a scam as demonstrated in the /r/bgold sub. There are plenty of examples listed there. As I said about BitcoinDiamonds the jury is still out, meaning I haven’t seen any evidence yet proving it’s a scam. That’s why you can still see Bitcoin Diamond posts in this sub. However if evidence emerges that it’s intended to scam people then yes, we will remove it. Scams aren’t allowed here. "
+"+ website claims a 2-week difficulty adjustment algorithm. For a GPU-mined coin? ahahahahaha
+
++ website claims BCH has 2-week + EDA. Clearly outdated :-)
+
++ 40M out of 210M allocated to 'community rewards pool and mining' in some unspecified fraction.
+
+That last one - that's basically the remainder of the mineable currency. Even greedier than BTG's premine.
+
+Is the source really out? Didn't find it on the site."
+https://www.reddit.com/r/btc/comments/7ejdo4/enough_is_enough_reddit_admins_im_calling_you_out/dq5klrn/
+"BItcoin Diamond:
+
+* 2 anonymous devs
+* Pitched on Bitcointalk.org by a brand new account
+* Github source code released *after* the fork
+* X13 algo, but apparently a PoS hybrid or will be PoS? Its totally unclear on this
+* Joke of a website clearly created in about 5 minutes http://www.btcd.io/
+
+Yeah, get your banhammer ready for this obvious shitfork too.
+
+I can't believe (but I can...sigh) people are actually buying this bullshit"
+Well said, thank you BitcoinXio for your awesome work. May the force be with you. 
+"I agree there are a lot of scams associated with it, and maybe I'm misinformed here, but is the actual currency itself a scam? And if yes, how so?
+
+I'd argue a huge amount of cryptos could be considered a scam, yet the threshold for what is a scam varies from person to person. I'm sure people on the other sub would argue BCH is a scam, yet that doesn't stop this sub from complaining about the censorship associated with BCH.
+
+I just think it is a bit hypocritical to accuse another sub's moderation of censorship, while this sub also moderates content it disagrees with."
+/u/tippr tip 0.0005 bcc
+"Here is the post I'm referring to, it was in 'new' for about 5 mins before removed:
+https://www.reddit.com/r/btc/comments/7edgmg/bitcoin_gold_is_75_up_today_wooot/
+
+Not sure how to show it was moderated out. Do you?"
+"> Go fuck yourself, 
+
+Ok, reported, you lack culture even at /r/btc low standards."
+They said it was hacked and had to be deleted one or two days after it was created. I'm looking but can't find anything at the moment.
+[deleted]
+How is it not a Peer-to-Peer Electronic Cash System ?
+I don't call Bitcoin a scam. I call Blocksteam's settlement system a scam. Big difference. 
+"Heinz Von Foerster: The Principle of the Double Blind: ""The blind spot: One does not see what one does not see."" 
+
+http://www.uboeschenstein.ch/texte/Foerster1995.pdf"
+https://www.youtube.com/watch?v=rRQijskAMp4
+so true in an open source environment.  Bcore doesn't get this.
+"> BitcoreCore
+
+Still a newbie at this but we're good if I edit it again to say *BitcoreCore* and not *BitcoinCore*?"
+Ahhh right! Wow nice to see you here. Supporting the real Bitcoin too lol.
+**cough cough** puppies **cough cough**
+"You wrote there:
+
+>Stated reason for removal was that Bitcoin Gold is a scam, but how is that any different than r/bitcoin's claim that BCH and bitcoin.com wallet stuff is a scam?
+
+Are you serious?
+
+You do realize that people actually got scammed by Bitcoin Gold wallets and even by the project's coder?
+
+The Electron Gold wallet outright tried discredit Bitcoin Cash and Electron Cash developers by associating them with this malware.
+None from the Bitcoin Gold project spoke out against this."
+Go easy on the young lad
+The real scam happens on the fake bitcoin network ripping off people with its outrageous fees. 
+"""BitcoinCore"" is also a fork-coin btw.
+
+""BitcoinCore"" != ""Bitcoin Core""."
+"My post was about bitcoin but since i mentioned bcc they flagged it
+https://www.reddit.com/r/Bitcoin/comments/7f99x8/an_old_bitcoin_is_almost_worth_10k/"
+"**All of them have been removed or are flagged for removal.**
+
+Please don´t listen to this FUD."
+Is this sub stupid now too? Those posts all are at zero and the mods have now banned them and created /r/bitcoinairdrops for those posts. That's one thing the mods of /r/bitcoin are doing right. These forks aren't an attack, they're a couple people trying to make some quick cash.
+More sad and frustrating than hilarious...
+Crazy. They should treat all spinoffs the same.
+"This has been their long standing doble standard. They allow discussion of alts only if they are alts they want to promote or if you're talking shit about them.
+
+They used to say it's not a problem if you crap on BCH/ETH because the rule is no ""promoting"" alt coins but I guess that's not true anymore."
+"I like how u/rBitcoinMod states that:
+
+>Your submission has been flagged for removal because it pertains to an incompatible derivative of Bitcoin. Bitcoin derivatives and other altcoins (such as Bcash) are not Bitcoin and will never be Bitcoin. Therefore they are off topic for the Bitcoin subreddit. If you require assistance in claiming these airdrops from your Bitcoin savings, we recommend posting this to the new /r/BitcoinAirdrops subreddit for more info. Thank you.
+
+https://www.reddit.com/r/Bitcoin/comments/7f1osg/everybody_should_sell_their_bch_i_sold_mine_at/dq8v9zt/"
+Their goal is to dilute the forks so that none of them approach the market share of Bitcoin. That helps cement the concept of BTC being the one true Bitcoin.
+Ok eli5 the segwit thing (with nash equilibrium) plz?
+who cares.. share something btc related not /r/bitcoin related
+And there are people who believe that Back/core/blockstream want what's best for BTC.  The owners of blockstream have vowed to smash bitcoin.  Looks like they're doing a fine job.
+Do these forks even have replay protection? If not they're cancer.
+At least we have users here like /u/seweso to defend blockstream on twitter! /s wtf you thinking dude? Shits obvious as fuck.
+What move did Bitcoin Cash pull? Why is it a scam? 
+It’s not true. They removed my BTG related question too. The moderation is not perfect but tries to be consistent. 
+Why are you shocked that a financial community doesn't want to promote a competitor, that may or may not threaten their value? People have money at risk here. 
+Perhaps it's because Roger Ver is not daily flooding them with any bitcoin-diamond.com run by him.
+Anything ever come from that big censorship post?
+[deleted]
+Double standards is what makes the Ponzi carusel go around and around.
+R bitcoin is a mess!
+"Disgusting characters believe disgusting behavior to be a winning strategy. 
+They don't know that they don't know what they don't know. "
+"It’s apparent that they are using a divide and conquer scheme to further their Sybil-movement. They are creating these fake forks such as BitcoinGold, BitcoinCashPlus, BitcoinClashic, and now BitcoinDiamond to try to discredit any Bitcoin forks (such as Bitcoin Cash). It will only work in censored channels such as \/r\/bitcoin. Everywhere else it’s transparent what they are doing. 
+
+Why should we be surprised though after the [revelations that mods there are colluding with Blockstream to hack user accounts in order to manipulate the entire market in their favor](https://www.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/)? "
+[deleted]
+Bankers gonna lie, cheat, and steal.
+to be fair, your first 2 links are locked and the 3rd marked for removal.
+They're charlatans and hypocrites. What could possibly be surprising from them?
+"Is there really any doubt who is behind all of this?
+"
+Those posts are flagged for removal.
+Linger freely? The first two have a stickied mod comment saying to go to r/BitcoinAirdrops and the third was flagged for deletion. Are we just lying in this subreddit now?
+"It's not hilarious and they haven't lost their minds.
+
+They know exactly what they are doing and they are very good at it."
+Seems desperate and I think its falling apart over there
+Let them do their thing. It doesn't matter.
+fuck the bgold coin. Their project and code is trash. Their execution is trash. and the fact that they premined 300M$ of coins is trash. 
+"I think it's more these are garbage 0/1 vote posts that the mods didn't notice. I've seen BTG and BTD posts deleted all day in new queue. 
+
+They hammer them if they rise at all."
+"I've posted on /r bitcoin to start conversation about big blocks vs small blocks and surprisingly didn't get banned. 
+
+Don't take my word for it. Check my post history and see for yourself.
+
+I get that my single post isn't going to change the entire view but anyone else might  want to try it out. If you get banned then idk, but I didn't get banned and I'm not sure why. "
+All three threads are either locked or mod comment stickied to the top. Just give them time. They are usually consistent with assholery
+you didn't expect them to be fair did you?
+"They did the same thing with Bitcoin EXTREME when they let the announcement post for that ""upcoming"" altcoin [sit on their subreddit for ten hours](http://archive.is/VdQFM) before finally deleting it. I confronted the mods about why that was allowed and their pathetic excuse was that theymos was sleeping.
+
+"
+"Whutchu talkin' bout. Diamond is too legit to quit. Just take a look at the website - it tells you all you need to know: http://www.bitcoindiamond.in/
+
+it's magical.
+"
+"> They don't know that they don't know what they don't know. 
+
+Watching the process of Demoralization in real-time is astounding."
+"I have seen Bitcoin Cash questions related to “how to redeem” being deleted @ 0 posts and 0 votes. Therefore your claim does not hold. 
+
+The only Bitcoin Cash posts that were allowed were the ones featuring Roger or Jihan and a host of vile adjectives, or the ones deliberately calling it BCash and spreading lies. "
+It ain't the Irish.
+True, but what would you expect to happen after this thread reached almost 300 upvotes and a 100 comments? 
+Amen
+">sad and frustrating
+
+Letting it play out as a tragic comedy helps."
+Did they? Or did you guys ruin the reputation of BCH? EVERYONE knows it's a scam coin now after the move you pulled. Maybe it's deserved? 
+They are having an effect, people are souring to the Bitcoin Brand.
+They are. They are making Bitcoin look bad.
+"people are holding and not selling btc to be able to have the ""free"" money dumping these new coins as they are instantly on exchanges where bittrex is giving users these coins."
+"Oh they are: discrediting BTC with these shitforks that [push ""official"" wallets that steal your money](https://news.bitcoin.com/bitcoin-gold-wallet-stole-private-keys-scooped-3-3-million/)
+
+BCH is in no way associated with this trash and has only been gaining adoption and price rapidly. 
+
+"
+"Well, they are. Even the smart money I spend time with is deceived by this and eager to get their extra fork coins ""just in case"" because ""we don't know what the plan is"" and ""we don't know what the value will be in the future"" and are very happy that these forks are going to ""give BCash a run for its money"". 
+
+They're smart money, but they're BTC maximalists who still haven't figured out, despite all efforts to tell them, that Blockstream is here to ruin their lives and leave them with tulips at the end of this event. "
+Am I the only one who thinks these posts were just lead ins to get people over to their new airdrops sub?  They look very artificial.
+Bitcoin diamond futures are at $68.  Hope we get a pump to $400 like the BTG.  This shit is free money!  Why complain!  Keep them coming!
+I fear that this will not work, on the opposite it will keep decreasing bitcoin price as a whole.
+I guess they have a threshold.
+Imagine someone points at your wart and laughs? That's when you get the surgery. 
+"> BitcoinCashPlus
+
+What the hell?
+
+*It's BitcoinCashPlus! By the makers of BitcoreCore! Get your free coin before our infomercial ends!* "
+Well if they wouldn't put their money in such a weak system they wouldn't feel so insecure in the first place. 
+You seem obsessed by Roger Ver. It's almost creepy. 
+If there was a someone resourceful and smart like Roger in support of any of these projects they may be not turned out so worthless
+lol that isn't even Bitcoin Diamonds site you shitheel
+"ah lol.
+
+I put a rap video on the bitcoin extreme github and those idiots merged it. lol."
+"Yes! They have taken the ""sybil"" attack to the next level, with the sheer quantity of forking. I never thought I'd see the day. They get points for creativeness and destructiveness at the same time."
+Thanks, that's the best laugh I've had all morning.
+Saw the title of this post and came here to post this very thing. Granted, I know nothing about all these other forks (first i've heard of diamond, cashplus, etc), but this was my immediate assumption.
+"> It’s apparent that they are using a divide and conquer scheme to further their Sybil-movement. They are creating these fake forks such as BitcoinGold, BitcoinCashPlus, BitcoinClashic, and now BitcoinDiamond to try to discredit any Bitcoin forks (such as Bitcoin Cash). It will only work in censored channels such as /r/bitcoin.
+
+\^ isn't it obvious ""who"" is behind all of this?
+
+I mean c'mon.  How much more obvious can it be?"
+This is a discussion in English.  Cryptocurrency is global.  These characters have an influence on English literate readers who find their page on reddit (and other websites).  Parts of Asia have gotten interested in cryptocurrency, other scattered places around the world are interested.  The mods of that particular reddit page can do whatever they want.  There are a lot of people that they won't reach.
+"That's why we'd remind people that Bitcoin Cash isn't a ""fork"". It's part of a chain split of Bitcoin network over Segwit and scaling in general"
+I said buying a single bitcoin for 1 million.  Not a million dollars worth of bitcoin.
+[deleted]
+"*checks w/ reality...*
+
+Sorry, your LSD is still working."
+What is the ticker for Bitcoin Legacy?
+you sound bitter sweetheart... have a break from Reddit ... meet friends and family again :) 
+"It is just an interview that explains the concept of cryptocurrencies in layman terms. I don't get how this defends his argument:
+> Bitcoin Cash is a corporate, centralized alt coin
+
+ Because it realy doesn't."
+The fact that bch has a ceo should be enough reason to stay away. 
+"From what I can tell the algorithm was changed not to optimise the coins qualities, but to specifically draw hashpower away from the other side of the bitcoin fork in an attempt to start the ""death spiral"" and allow for manipulation by miners.  
+I'd love to hear any other valid reasons, but thats all I can see"
+What are you talking about? Libertarianism stands for the non aggression principle. 
+*The Libertarian Party (Jeffery Tucker is included in this)(Open Border IS NOT libertarian)
+"I think it's important to clarify what you mean by ""freedom of association"" here. I think people should be able to include or exclude whomever they want from their private interactions. Private enclaves that discriminate against outsiders are fine, but state-enforced immigration restrictions hurt a truly economically free society. Granted, the US is currently not economically free. 
+
+For the record, I agree that the libertarians / anarcho-capitalists dropped the ball in their failure to assimilate the alt-right by talking about private solutions to many of the issues that many alt-right types are upset about."
+Man has never been egalitarian and will never be. Each individual will be different (even twins).
+"> And no. It's about the privitization of costs and benefits through private property which (as an insititution and social function) came mostly into existence around 10-11 thousand years ago during the Neolithic Revolution and Hunter-Gatherers still acted with private collective property. 
+
+12'000 years ago collectivism started. Self-sufficient Anarchistic **communities** of around 100 individuals morphed into grotesque, no more self-sufficient, capitalist and/or socialist **societies** of thousands and millions. The death of the communities (which is the start of the societies) marked the start of collectivism. "
+I agree with them. Bitcoin isn’t usable right now. 
+Lol, daytrading on an exchange doesn't make you a ~cRyPt0Us3R~ 
+I'm not the one holding the fake Bitcoin. Good luck! :)
+That's what I figured. Thanks for checking it out for the rest of us and keeping this place honest. Have a beer on me for your trouble. /u/tippr tip 5 USD.
+"Hmm, the tippr bot just PMed me with an unknown error saying the tip failed. Let me try this again.
+
+/u/tippr tip $5"
+You realize that Falkvinge is being tongue-in-cheek here, right?
+It has no CEO. It was a joke pointed towards shills like you. And of course, like we all thought, you core shills take it seriously. Educating you guys is a lost cause. Please stay in rbitcoin and post shit memes and HOOOOODL......
+"If you watched the video he explained that he ""became"" the CEO of Bitcoin Cash by writing an open letter and declaring it to highlight the permissionless nature of the blockchain. He did it in the most absurd way to demonstrate how the concept of CEO doesn't apply."
+Please take the time to read the whole post where he wrote that. The tagline got the news, but the meat of it is the point. Bitcoin is permission-less he can declare himself CEO because there is no one to grant the title. You can be the official vice admiral if you want.no one has the authority to say it's not true and that's why it's beautiful. The truth is only what the majority accepts. 
+Thank you.
+"I will be messaging you on [**2017-12-24 10:01:40 UTC**](http://www.wolframalpha.com/input/?i=2017-12-24 10:01:40 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/btc/comments/7f4147/jeffrey_a_tucker_im_thinking_that_the_critics_of/)
+
+[**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/btc/comments/7f4147/jeffrey_a_tucker_im_thinking_that_the_critics_of/]%0A%0ARemindMe!  1 month) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! dq9s62q)
+
+_____
+
+|[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)
+|-|-|-|-|-|-|"
+"How can you tell? Do you have proof? I don't understand how ""another coin"" can be responsible for death of another. Unless another one is superior..."
+>Egalitarian >lolololol.
+"if you're still spreading the lie that exercising freedom of association is ""collectivism"" then you're part of the cancer that killed libertarianism."
+"We have the user base.... bitcoin owners prior the hard fork are also Bitcoin Cash owners... they have it already in their wallets... no need to buy an altcoin 
+
+-
+
+Oh fu**ng snap"
+">If your plan is to do nothing and allow the welfare system to collapse under its own weight then congratulations - you've just doomed the native populations to die like the Boers
+
+Yes, that is the plan and I think it will happen sooner than many people even here think. The government's grip on the hearts and minds of its subjects is faltering and their financial position is increasingly tenuous.
+
+However, collapse doesn't have to be that disorderly. As long as there is something waiting in the wings to take over when the legacy system crumbles the West will do just fine.
+
+What is happening to the Boers is a tragedy and they have every right to take up arms against their government, but things are not at that point yet in the core countries of the West. There is still a chance to pull civilization back from the brink by more peaceful means.
+
+I agree though that given the acuteness of the problem a moratorium on immigration (if for no other reason than the nation can barely take care of itself) might be reasonable as a stopgap until the government itself shrinks to a manageable size."
+[Defended](https://youtu.be/l6Obc_cJba4). Again, I hope it goes up. It’s not a threat to Bitcoin. 
+that I get but why the difficulty algorithm changes? I dont recall seeing that in the whitepaper
+Those people were never libertarians to begin with, they jumped ship as quickly as they could when they had the chance.
+"Yes, it is a great tragedy that the cause of liberty was effectively subverted by alt right collectivist meatheads, though personally I don't share your long-term pessimism. Capital ""L"" Libertarianism may be down and out for the time being, but you can't kill an idea whose idea has come."
+Only a Sith deals in absolutes.
+Jeffery completely misunderstands Hoppe, so does the alt right. Its pretty silly how both his supporters and his opponents both don't even understand him.
+"There is no such thing as Anarcho Capitalism in an anarchistic environment. 
+Anarchistic communities are self-sufficient because the individuals work together in an egalitarian way. Capitalism always had been a form of collectivism."
+!RemindMe 1 month
+dude, wallstreet manipulation is going to be very bad for the average bitcoin holder...
+You are just making this up.
+Giant already killed itself bud... legacy bitcoin is unusable and broken software 
+Bitcoin is the giant, and the flippening won't kill it. It will just make it stronger by killing off the dead weight of Bitcoin Legacy.
+"> Core is a loose collection of hundreds of volunteer contributors snd reviewers
+
+Please show me this list of hundreds of devs? Also who decides what finally makes it into bitcoin core.... it isn't a very democratic process is it?
+Also why was every alternative bitcoin client, attacked/ridiculed and banned from r/bitcoin?
+
+"
+Most of them have already sold for more Bitcoin or have bought something more useful than Bcash (like ETH or LTC, both faster and cheaper at the moment).
+I don't have time to watch a 24 minute video. If there is an interesting point borne out by the video, feel free to relay it here.
+"How anyone can say BCH is a corporate coin while ignoring Blockstream paying off top BTC developers to intentionally prevent scaling is ... well... fucking incredible.   Kudos to you for maintaining delusion on a scale that I am incapable of grasping.  And before you say it:  Lightning was promised full working version ""Summer 2016"".   Heading into 2018 they've announced it'll be another 18 months before v1 is even possibly ready.  So pick one:   Utterly incompetent?   Or paid off by corporation to prevent Bitcoin from disrupting banking and finance?"
+"There is no mention of diff algo in the
+whitepaper. Check it out."
+"Because whitepaper doesn't mention difficulty apart that it is needed to keep the blocks running at a pace?
+
+Bitcoin difficulty algorithm is pretty simple and wasn't thought through same as regulatory capture hasn't been thought through thoroughly (like developers being bought out and replaced by authorities/enemies)
+
+So of course it has not been prepared for hard fork from devs themselves."
+"A lot of people were under the mistaken impression that libertarianism was a movement that took principled stands on freedom of speech and association.
+
+When they discovered that libertarianism only supports the freedom to smoke weed, have polyamorous orgies, and harass meter maids while attacking every other exercise of freedom of association, they realized they had been duped and found an intellectual home elsewhere."
+And no. It's about the privitization of costs and benefits through private property which (as an insititution and social function) came mostly into existence around 10-11 thousand years ago during the Neolithic Revolution and Hunter-Gatherers still acted with private collective property. They still had their heirarchies and division of labor in each tribal unit though with kids helping with small stuff, mothers gathering, men hunting, the very strongest going in for the kill, etc...
+"The 'core take over'. There's nothing mature about that. It's infantile. 
+
+Core is a loose collection of hundreds of volunteer contributors snd reviewers, many of them anonymous. There is no 'core' as in a unified group. There is no take over. 
+
+That's just propaganda from a group of people who don't understand the tech or how open source volunteer projects work.
+
+ The 2 devs working on bcash on behalf of their overlords are 'the core' of that alt coin project now. That is a cohesive group that can be controlled and actually CAN 'take over' bcash. 
+
+Bitcoin development is considerably messier. No boss."
+"Seems you did not get the goal of the adjustment algorithm.  It knows NOTHING about 'profitability', and nothing about 'death spiral'.
+
+The algorithm is based on simple moving average and its goal it so keep the block rate at 144 blocks/24h. https://www.bitcoinabc.org/november"
+Of course open borders are a libertarian ideal. Borders only exists because states create them. States are anti libertarianism by definition.
+"Bullshit. Land had never been privatized before collectivism replaced anarchy.
+Anarchist communities were nomads without nationalist borders. You are a prototypical right wing collectivist. "
+If it was privitized, yes. There's a lot of ownerless land out there though, including a lot currently under the control of criminals like the state.
+"> Hoppean AnCap
+
+I'd like to be, but I've come to believe that one of the conditions necessary for that kind of social organization to exist is a frontier environment.
+
+Until we get one of those again, we're going to be stuck in less optimal forms of social order."
+Hoppe is not in favor of government borders.
+"> Libertarians just need to point out the obvious examples of government failure and drive home the message that government is not the answer, whether it pushes the leftist agenda or pushes the rightist agenda.
+
+This view of libertarianism is why it's dead.
+
+It is true that relying on government solutions leads to problems in the long and short term and the more a society learns to solve problems without using government the better off it will be in the long term.
+
+That's a great point to make, but not in a time of crisis where an urgent problem needs to be solved and government is the only tool for immediate use because it's crowded out all free market institutions.
+
+If you do this you're like some kind of oblivious idiot at the scene of a heart attack making a speech about the connection between diet and heart disease while getting in the way of the EMTs who are trying to perform CPR.
+
+In an acute crisis all anyone wants to know is if you're helping, causing the problem, or getting in the way. To earn the right to lecture people about ways to prevent a similar crisis in the future you first have to help them survive the current one."
+Hahahaha okay... I'm sure nomads didn't understand hunting territory either ... only based their lives off following it 
+Very unlikely that anything will supercede it. A much more likely case is that sometime in the future another coin, or many coins, are used more commonly for some transactions but the miners will still want tx fees in btc.
+"Exactly.
+
+> I don't care if people like the Amish want to ""preserve their way of life"" 
+
+Yes, and the Amish even encourage the teenagers to 'Rumspringa'  and then decide for themselves:
+
+https://en.wikipedia.org/wiki/Rumspringa"
+He is most definitely not in favor of Open Borders and Forced Integration.
+"You're right that the problem is acute but the implementation of sane libertarian policy would have just as immediate an effect as the implementation of an authoritarian right solution.
+
+Why do you necessarily think that the government can be made to do your bidding more easily than it can be significantly paired back? Also, are you not afraid that any expansion of the government apparatus might come back to haunt you if a capricious electorate give power back to leftist social engineers?   "
+"Nomads have zero problems with other nomad communities.
+They have problems with societies (collectivism) that constract borders. They (the homo sapiens) can't enter the territories of the homo oeconomicus (citizen/collectivist/debt slave)."
+[deleted]
+"**Rumspringa**
+
+Rumspringa (Pennsylvania German pronunciation: [rəmˈsprɪŋə], Pennsylvania Dutch: [rʊmˈʃprɪŋə]), also spelled Rumschpringe or Rumshpringa, is a term for a rite of passage during adolescence, translated in English as ""jumping/hopping around"", used in some Amish and Mennonite communities. The Amish, a subsect of the Anabaptist Christian movement, intentionally segregate themselves from other communities as a part of their faith. For Amish youth, the Rumspringa normally begins around the age of 14 to 16 and ends when a youth chooses baptism within the Amish church, or instead leaves the community. For Wenger Mennonites, Rumspringa occurs between ages 16 and 21.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/btc/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28"
+"Do you know why I used the CPR analogy?
+
+Because CPR properly performed breaks ribs. It's still used though because surviving with broken ribs is better than dying.
+
+Of course using government will have downsides. If the consequences of not using it is worse than the downsides of allowing people who wish to harm you use it, then you have to go for it and live to fight another day.
+
+The truth is that the world will always be full of evil people who work to make sure you can't have nice things. Because of their efforts, nobody is ever allowed a perfect solution as an option."
+Not sure why you feel the need to push some kind of pseudo history.... you're not convincing me that prehumans were some sort of idyllic utopian citizens 
+Use what you like! I'll hold what the banks and governments will be buying and selling commodities with. That'll be the currency that's most secure and backed by the most people - that's bitcoin.
+">downsides of allowing people who wish to harm you use it
+
+Ah, but see by reducing the size of government you are also reducing the ""alien population's"" ability to infringe on your rights. Reducing the size of government (preferably to 0) allows for a more peaceful resolution to the current untenable situation.
+
+The only reason that people come to the US and other advanced economies is because they get subsidized by the government. Stop the subsidy, and the leeches go away for greener pastures. Some of them might even become productive members of society when the twisted incentives of the current social engineering programs are removed from the equation. "
+You seem to have zero anthropological knowledge. The homo sapiens was not a citizen. The citizen is a post human: a collectivist, a debt slave with national borders.
+The homo oeconomicus (collectivist) is a caricature of the homo sapiens. 
+"> The only reason that people come to the US and other advanced economies is because they get subsidized by the government. Stop the subsidy, and the leeches go away for greener pastures.
+
+Of course all the subsidies need to end and the government needs to shrink. It's not possible to do this however without increasing border controls first.
+
+The people who come in for subsidies vote for more subsidies. That's why governments stole from taxpayers to import them in the first place. Until you cut off the flow of new voters for welfare, it's not going to be possible to end it.
+
+If your plan is to do nothing and allow the welfare system to collapse under its own weight then congratulations - you've just doomed the native populations to die like the Boers - outnumbered and surrounded by people who [kill them for sport](https://www.google.com/search?q=south+africa+farm+murders).
+
+If you know all this and still advocate for open borders now and welfare reform someday in the future maybe, then I assume that genociding the West is your intention."
+You're an idiot dude I obviously know that... I was using the term citizen to mock you 
+They are not forced to live with them, as in the same property. But they have no right to forbid their neighbors from doing so.
+"That's the advertising, sure.
+
+In practice libertarian groups have been infiltrated and taken over by communists who gave lip service to the NAP and enforce obedience to a totalitarian social agenda.
+
+Most of the actual libertarians gave up and left."
+"I think the real problem is not so much that they don't want to live with ""outsiders,"" it's that they think that the government should be responsible for enforcing such segregation. Free association means that those who wish to live in ethnic enclaves can do so if they want, and I say more power to them, just don't interfere with the rest of us who would prefer to live in a more cosmopolitan area.
+
+I don't care if people like the Amish want to ""preserve their way of life"" while stifling their own economic development as long as they can take care of themselves and leave the rest of us normal people out of it. "
+Yay, it worked this time. Not sure what I did wrong in my other post.
+"""No Government Borders""
+
+is the only libertarian position.
+
+If you want to advance non-libertarian positions as some sort of ""pragmatic"" end-around to libertarianism, I have some bad news for you. That makes you non-libertarian."
+Well if you're including the LP in libertarianism I suppose I should add in the freedom for obese strippers to perform at national party conventions.
+"> but state-enforced immigration restrictions
+
+This is the worst kind of strawman argument.
+
+We are not living in a generally free society where the government just decided to add some immigration restrictions.
+
+Governments are taxing their subjects and using that money to pay for the mass importation of a hostile population. Then they use anti-discrimination laws to force their subjects to interact with this populating under pain of fines and jail. The new population is de facto immune to being held accountable for violations of civil and criminal law, yet especially in Europe the full force of law is brought down on anyone who speaks out about what is happening.
+
+In any other time in history this would be called an invasion and would represent a great opportunity for libertarians and anarchists to actually exercise all their theories of non-state defense. In a more honest world the people responsible for these policies would be indicted for war crimes and go on trial at the Hague."
+No doubt. Even animals mark out territory. Private property is a pillar of not just society but the biological realm.
+Sorry mate http://www.hanshoppe.com/2015/05/a-short-history-of-man-progress-and-decline/
+You both in the same cult?
+I'd probably disagree but the last word in your reply looked like maybe you had some kind of a seizure so I can't be sure.
+"u/rancid_sploit, you've received `0.00294403 BCH ($5 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+Even if that's true it's not funny at all. Bitcoin is peer to peer, NO LEADER...BCH is a cult. 
+Do you seriously not know why they put quotes around 'CEO' in that video? Or are you just trolling?
+"Proof? I mean I agree that the better designed coin using better designed minging algorith game theory should survive, ""survival of the fittest"" and all that, but BCHs is very clearly designed to game Bitcoins imo. It doesnt want to be sustainably better, just temporarily more profitable so that it can hopefully prompt a death spiral in BTC, and then itself remain standing in the ashes.   
+
+"
+"> In practice libertarian groups have been infiltrated and taken over by communists
+
+... and right wing collectivists. "
+What are you talking about?
+"> Of course open borders are a libertarian ideal.
+
+Exactly. Those pseudo libertarian right wing collectivists want to trade with aliens, but they don't want to live with them. Ridiculous ideology."
+All land is privitized and you do not have a right to come onto someone else's property until they invite you.
+https://www.lewrockwell.com/1970/01/hans-hermann-hoppe/on-free-immigration-and-forced-integration/
+I'm a Hoppean AnCap. Of course, I personally don't. Just the current sad state of affairs, that's what a good number of people see.
+"> In any other time in history this would be called an invasion and would represent a great opportunity for libertarians and anarchists to actually exercise all their theories of non-state defense.
+
+Who's to say many people *don't* consider it an invasion? The ascendant right is proof enough of that. Remember that history is never what the current historians say it is, it is what *future* historians say it is and if the current cultural zeitgeist has staying power I have a feeling there are going to be many based future historians down the road.
+
+Government as an institution / technology is fundamentally broken. Libertarians just need to point out the obvious examples of government failure and drive home the message that government is not the answer, whether it pushes the leftist agenda or pushes the rightist agenda."
+The homo sapiens had always been a nomad without borders. When he morphed into a collectivist (homo oeconomicus/debt slave) he began to construct borders. 
+"Science fiction. The aristocrats of Vienna knew nothing about anthropology.
+
+http://www.gerhardbott.de/das-buch/summary-in-english.html"
+[deleted]
+Sorry you're right, I take that back: I'm actually the CEO of Bitcoin Cash and so is my wife.
+Nope. Bitcoin Cash has bigger blocks and is committed to scaling on chain. If BCH has the same amount of transactions as BTC it wouldn't blink and LTC would suffer the same issues as BTC. If blocks become full before another solution is found (say that LN works) then BCH will just increase the block size further. In addition BCH has more people who own it because it is a Bitcoin fork. Finally BCH has FAR greater market cap which means it is more useful for people who want to move great sums of money than Litecoin (although admittedly these people wouldn't care about fees and can use BTC instead)
+:(
+"BCH is not a new coin, it is bitcoin. Core forked and implemented segwit; the narrative is pushed by those in controled just like you won't hear in the news that US Government are the biggest terrorist in the world - no, they fight for freedom in iraq, etc ^^"
+Full on cultish behaviour..
+"They are not Bitcoin community, they are BCore community.
+
+A true Bitcoiner follows the whitepaper and original vision. No matter how dogmatic that sounds but Bitcoin is a technology, and technologies are defined by their whitepapers or RFCs, not takeover devs making it their vaporware.
+
+They stole the name but they can't steal the history and idea."
+You have just made an enemy for life!
+Proof-Of-Fear
+I think you all need to see a psychologist, seriously. Bitcoin is not a football team it's something to invest in, full stop.
+"One of my favorite memes
+
+http://s2.quickmeme.com/img/f4/f4386bece19749c25a38ef44a5c9f2e6bdf261c75dda07ebc636e44c5108e659.jpg
+
+Too bad I can't find the version where this pic is side by side with a pic of a lefties vandal destroying property with text saying ""this is not an anarchist, this is an anarchist"""
+Not when it comes to culture, but that's a different issue.
+"u/Egon_1, your post was gilded in exchange for `0.00146045 BCH ($2.50 USD)`! Congratulations!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+When Bitcoin does it, it’s a bubble. When other coins do it, they are “pump and dump” scams. Core fans see no double standard in saying this stuff over and over again.
+this is essentially what usually happens with BTC too. they pump it hard and then it settles down. it's kinda wrong to buy at close to ATH. 
+"From now on we should call them Bitcointologists. 
+
+/r/Bitcointology/"
+This is the most likely scenario *for now.* Once bitcoin futures are introduced I think it's most likely that BCH is going to take a really big, really fast fall as people with money on exchanges lose their socks running for the door.
+Former editor of mises.org, founder of liberty.me, and general Austrian economics and libertarian Southern gentleman dude who has written tons of interesting articles over the years and was one of the first big Austrian economics guys to get into Bitcoin. 
+He is an economist. Super smart guy on a level that's hard to explain. He is pretty famous in some circles. Also a personal friend of mine, So he has to be cool.
+I didn't support LTC before it became Blockstream's testnet and I definitely don't support it after
+"LTC scales just as bad as BTC on the short term.
+And once the Lightning Networks come down up on us from the heavens, LTC will be totally irrelevant.
+
+The push for LTC is basically saying;  ""YES"" we know BTC sucks to use right now and BCH is a very good alternative. 
+But we hate it so much because of politics that we want you to use LTC instead."
+Does litecoin share the genesis block that satoshi created in 2009? Or did someone create an alternative blockchain and get the early rewards themselves? 
+"> thanks for the downvotes instead of the real replies.
+
+You asked a question that has been asked (by Core fans) literally hundreds of times in the last few weeks. The answer is very very simple. BCH supporters are Bitcoiners. They don’t want to migrate to a different coin, they want a Bitcoin that works. The hardfork approach gives them that."
+LTC is just a BTC clone. The only reason it does not have insane fees is because less people use it.
+Honest answer, why would you support a coin like ltc when the original coin could do exactly the same thing and not be backlogged with transactions all the time. I don't see mercedes holding back key features of their cars and telling people to go buy hyundais, so for that exact reason i wonder why the btc people would suggest people use another coin instead. it's mentally retarded. why push people away deliberately unless you don't care about scaling.
+You came and joined the party at the early stage. And suddenly somebody take over and kick you and your friends out and tell you to go somewhere else. How do you feel? Of course we could join other parties, but why not make one that everybody had fell in love.
+What value does btc add? It is a non working system
+he has been around and has been active in the crypto sphere for a couple of years now. very informative bloke.
+They literally are so concerned about their bags they are blind to the fact there are superior cryptos. 
+Most of them are not real people: they are either paid shills or useful idiots brainwashed to perfection.
+"> Bitcoin community will not for forget.
+
+Fucking Gestapo they are building over there"
+Jeffrey Tucker have seen the light. Not surprising though, he's a smart guy. 
+Knew this guy would be on our team /u/tippr gild
+The reason they get so upset is because this kind of thing breaks the narrative that /r/BTC  and BCH supporters are all paid shills.  The reality is, the vast majority are people who just want bitcoin with lower fees - at least for until adoption hits mainstream.
+Geeze, those comments. I felt like I was eavesdropping in on a cult brainwashing session. 
+Every coin gets a pumped and dumped. Not sure why everyone thinks it is such a bad thing. If you do not trade then what does it matter? Clearly last time it got pumped and dumped, but still stayed up a decent amount. My guess is it gets pumped and stays higher after the dump.
+So who is this guy and why is he famous? 
+BitPay and Coinbase support badly needed.
+Jeffrey Tucker know's economics, I'm not surprised he supports BCH.
+I do like Jeffrey Tucker. 
+Funny that nearly every anarchist supports BCH
+"Honest question: why not support Litecoin Instead of BCH?
+
+Edit: thanks for the downvotes instead of the real replies. I’m no shill for LTC but I’m not sure why BCH would be better unless you’re a big miner. "
+"I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
+
+- [/r/ancapitalists] [Jeffrey A Tucker: “I'm thinking that the critics of BCH are not looking good. No pump and dump sustains like this. BCH is useful right now. Wallets are online and good to go.” • r\/btc](https://www.reddit.com/r/AnCapitalists/comments/7f57es/jeffrey_a_tucker_im_thinking_that_the_critics_of/)
+
+&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*"
+It dropped 0.15% this morning. Obvious pump and dump /s
+Not to be contrarian, but why would someone choose bitcoin cash over litecoin or any other altcoin that has fast transactions and low fees? I don’t really get it. Is the brand recognition really all there is to it?
+"Jeffrey ""McDonalds is a godsend to society"" Tucker
+
+https://www.facebook.com/jeffreytucker.official/videos/1046483628723943/"
+"""- LN will come and wipe the floor with bch!!1 the fees will be free!
+
+\- great""
+
+Hahah. xD
+
+Bot technology gets more fascinating every year, at first they were simple scripts to check for something and to complete routine tasks, then they became stock market traders, now - they shill on social media. Fascinating.
+"
+"Pump and dump sustains easily like this when you are whale and big miner at the same time. Easier to create FUD and control the operation and top of pump & dump profits you get extra tx fee profits from BTC. I think it's foolish to think that BCH would kill BTC or that BCH would just wither down and die. One of the main ideas behind Bitcoin is that one thing we can trust is peoples greed. Current ""battle"" between BTC and BCH  pays right in the pocket of biggest miners and whales. I trust their greed will keep this going instead of killing one of the chains."
+I really don't understand what value BCH adds to let's say litecoin, vertcoin, dogecoin,...
+If BCH is so good, why not show what it has to offer rather then to try confuse new users and take other coins brand power and name.  Sad
+"Litecoin is heaps better, faster and has more wallets and tech supporting it. The problem bcash has to solve is it's centralization. Just being able to use a crypto currency with low fees is no great feat. Having one that scales - really scales, well, good luck with that.
+
+Besides The bcash fees are roughly the same as bitcoin when it isn't being spammed. Lame post."
+How about we dont post tweets by Cucker when trying to promote BCH?
+Er...hello...Most pump and dumps take WEEEKS
+"Don't really see any usefulness in Bcash.
+There are far cheaper and faster altcoins out there."
+They're rhetorical questions that you ought to know the answer to before you invest any money into the currency in question
+BCH isn't trying to take over anyone else's brand, it's taking back its own brand. Bitcoin cash is what bitcoin was before core went off the deep end by forcing out all the talented people and pushing malware like RBF and SegWit. The scaling plan bitcoin cash has is exactly the one that was proposed by Satoshi and agreed by every single developer until the core takeover pushed all the good people out.
+"It doesn't add anything, except free coins for the forkers (and the rest of us bitcoiners).
+
+Let's go further, being centrally controlled, what do they add that fiat doesn't have?
+
+Still got em. I'm HODLing till bcash grows up and I don't have to be ashamed yo be a HODLer of a centralized alt coin. "
+"Don't really see any usefulness in your comment. There are smarter and constructive comments out there.
+"
+yes. we look better.
+Definitely on the right side of history I think 
+Both subs are full of ignorant idiots, shills and retards who take technical/logical discussions to a religious/political tone. This sub, however, is better because theres no censorship here, while rbitcoin is a fucking information dictatorship.
+If you have to ask, you are not qualified.
+I don't think I have enough expertise in the Thomas the Tank Engine lore to properly answer this question. Percy is a bit of a suck-up, but then again if I were in his position I too would be kissing the Fat Controller's ass all day.
+"Bitcoin - by definition - is ""A Peer-To-Peer Electronic Cash System"".
+Core's settlement system therefore is - by definition - not Bitcoin anymore."
+"> Bitcoin Cash is a corporate, centralized alt coin
+
+If you really believe this I don't know what to tell you. Feel free to try defending this Dragon's Den talking point here, but I very much doubt you will win anybody over. You are simply wrong in your assessment. Bitcoin Cash is a fundamentally grass roots movement, as can be attested by the hundreds of dedicated people who are helping to nurture the new chain for no reason other than they believe that it represents the right path for the bitcoin ledger going forward.  "
+"I am sorry, which one is 'just not Bitcoin'? Do you mean the one where the blocksize was raised or the one where segwit was introduced?
+
+I cannot remember Satoshi (the creator of Bitcoin) talking about Blockstream's Segwit.
+
+But I do remember Satoshi saying that about a larger blocksize: 'We can phase in a change later if we get closer to needing it.' 'It can be phased in, like: if (blocknumber > 115000) maxblocksize = largerlimit' . 
+
+It does not get more 'Bitcoin' than Bitcoin Cash."
+Us vs them... lol... found another one.
+"I'm glad this is being upvoted.
+
+The libertarian community has a major problem with how it has undergone an incestuous relationship with the alt-right. Tucker is quite literally the only top libertarian that seems to speak up about it."
+Don't read them then. I disagree with u
+"The faux libertarians are the ones who abandoned their principles as soon as the social movement which later came to be known as the alt right began.
+
+If they were actually serious about their alleged principles, they would have recognized the movement as a growing market demand for a restoration of covenant communities - a form of social organization that allows people to choose their neighbors freely and does not violate the non-aggression principle.
+
+They could have gotten out in front of that social movement and shown everyone how libertarian principles could peacefully give them what they looked for and the would have won over the next two generations of the youth to their movement.
+
+Instead of doing this, however, they succumbed to social pressure and demands from the think tank donors and started slandering and shaming people for having preferences.
+
+Because of their dishonesty and cowardice libertarianism is dead for generations, if not forever."
+Oh Jeff supports collectivism but only when it comes to Israel.  If whites try to fight against the multicultural circus he labels them nazis and fascists.  This is why so many left libertarianism for things like the alt right. 
+People aren't the same.
+A true libertarian is hated by those on the left and right. 
+I'm a Hoppean. Jeffery Tucker is a egalitarian. That's what I was trying to get at.
+Because /u/DeucesCracked is a fucking troll and don't listen to his bullshit
+"Because with all the new money that will be pouring in to bitcoin from people who previously were unable or hesitant to get involved traders will move from BCH to BTC. Eventually some of the new money might get more actively involved in crypto in general but their money will have to wait to move out of BTC because of the nature of futures contracts.
+
+So, with most of the money in BCH being simply speculative that will cause a pretty big deflation. It may later recover but, frankly, if they keep this stupid 'btc vs bch' mindset they're going to fuck themselves. If they try to convince the mainstream they're 'the real bitcoin' then all that'll happen is they'll get denounced in the media and by fund managers and investment advisers and that'll be the end of BCH."
+"Is that right? You think people watching BTC shoot up in price won't fling themselves full-force into it as fast as they can? The crypto trading market is stupidly frenetic. It's a symptom of being populated by young, inexperienced, excitable traders, having a small market cap, being constantly buzzed on social media and open 24/7. Since every futures contract has to be backed by actual coin and holding and acquiring is the aim the UP futures will be sold. And sold. And used to buy more bitcoin. 
+
+Price goes up.
+
+BCH holders sell for BTC.
+
+Nothing's 100% certain but I'd put skin that this will happen."
+As long as the bullshit 'flippening' and all the other idiotically antagonistic to the benefit of nobody bullshit stops, I can believe holding bch to have some value. If the nonsense continues it's simply a bad idea. Setting itself up as the giant killer is setting itself up for disaster.
+BCH isn't new for the people who've been using Bitcoin for the last few years, it's literally what we (big block supporters) have been fighting for for the last 2 years except that it's currently called BCH instead of BTC
+It's NOT a new coin. It's literally the original design AND the original chain, where Satoshi and all of us have our coins.
+https://youtu.be/ZZX6859mjtI
+The exact same can be said for btc
+Both ETH and LTC are faster with cheaper fees than Bcash at the moment.
+He seems very cultured. Always wearing his bow tie.
+"Do you think you look better ?
+
+Both subs are ridiculous"
+https://www.yours.org/content/surround-and-exterminate-dragon-s-den-minions-by-participating--voting-4ee2aae5ac45/
+where can I get paid to troll?
+Which train was the really useful idiot on Sodor? 
+We’re real and we’re trying to help you. I hope your alt coin goes up and up and stays there. More value in cryptocurrency is a great thing. But Bitcoin Cash is a corporate, centralized alt coin. It’s not the real thing. I’m not saying it’s not useful or valuable, it’s just not Bitcoin. It’s philosophically different and it’s not why a lot of us are here.  
+"I could imagine possibly deviating from the whitepaper as new understandings are reached...but it would be truly douchy to deviate from the whitepaper and then say the people that held to the whitepaper vision are frickin' ""altcoiners""!"
+Just because he didn't jump on the alt right bandwagon like so many faux libertarians?
+"Why cant there be more people like you. You just gave me a better insight into both sides.  I wasnt here from the start.
+
+Most mature reply ive seen around lately. Thanks :)"
+Why?
+Be happy with your right wing collectivism. It's your 'life'.
+My guess is that Bitcoin will rocket up and BCH will not tank, but just lose some value due to the increase in Bitcoin. When BCH forked I sold all of mine at .14 with no plans on buying back. Once I saw how well BCH started doing I bought back in and will hold both. Either way I am covered.
+Working perfectly for me.
+Economist of the Austrian school I might add. He's actually the one who got me into Bitcoin.
+Sounds like bcash to me.
+"This is a fantastic question that I'm unsure of. 
+
+I do know that Litecoin has 4x the number of coins as BTC. My research also shows that the director of engineering of Coinbase.com created LTC. I wonder if there's other articles that give better backstories on the origins.
+
+Thanks for not just being a BCH shill and asking real questions."
+lol, ltc is irrelevant now.
+Thanks for your response. But BCH is a relatively new coin and LTC is old. It seems more like “BTC is too slow and costly let’s fork it and make it better instead of use LTC.”  I guess I’m not well versed enough to understand why BCH is so much better than an existing coin that seems innovative and fast to me when I’ve used it. I understand it doesn’t have the same load as BTC so can’t be exactly compared. 
+That makes no rational sense.
+Litecoin has its own genesis block.

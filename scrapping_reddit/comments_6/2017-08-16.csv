@@ -1,0 +1,482 @@
+Well btc is at an all time high. Think he stepped back in?
+"No, it doesn't at all. I'm a reasonable person able to observe complex opinions without going all ""straw man"" on them.
+
+What frightens me is when people base technical arguments on social or political merit, especially when that merit is based in fiction."
+"I remember when he was looking for developers he imposed a long list of pointlessly onerous requirements, such as forcing them to code everything from scratch rather than use libraries and frameworks.
+
+Even if he isn't a scammer it doesn't surprise me that the new forum software became a never-ending project."
+"It wouldn't make any sense to try to spam attack Bitcoin Cash. All it does is show how well the 8MB blocks work.
+
+With both chains being spammed right now, it's almost as if somebody is trying to demonstrate something."
+Please refrain from personally insulting users on this subreddit or moderators might have to time you out.
+I think you should go and take a lie down before you pop something.
+If it's at capacity, then it isn't spam, it's real genuine transactions... So now you're contradicting yourself. 
+Smart miners won't mine it.
+"/u/cgcardona broke it. (Look at his recent comment history.) /s
+"
+I am sorry, I don't understand. Reply 'help' or if needed, my creator will be in touch.
+"Yep. The more the merrier. As long as on-chain isn't being constrained, keep those second layer solutions coming.
+
+There's little doubt in my mind that LN isn't going to live up to the hype so we're going to need other options too."
+Yeah, I phrased that wrong, he wasn't the *only* one. But definitely the most vocal one. And like you said, his fork had very few users. Most users in bitcoin had the understanding that all transactions that payed the appropriate fee were fair game to be included in the blockchain.
+32MB blocks means a hell of a lot more money in Bitcoin than what is there now.
+"lol. If only that worked...
+
+(I mean a beer would magically appear in my hand)"
+"It is ""masser"" adaption than a situation with 1m tx a day. Isn't that obvious? If not someone else has to explain it, I could not be bothered.
+"
+Your question is confusing. 
+"Learning about this stuff is hard, if only for the amount of information you have to cram in.  Block size only matters when figuring out the throughput of transactions in the Bitcoin network.  Really I'm not sure what you're confused about but it sounds like you have some information that says big blocks are bad.  If so that is incorrect.
+
+An analogy:
+If Bitcoin was a shipping company then the block size would be how big their fleet is.  It doesn't make sense if the company is growing in popularity and getting more demand for their services to reduce the size of the fleet or keep it the same size.  They would expand the fleet as needed to meet the demand at that particular moment.
+
+Obviously this isn't a perfect analogy but i hope it helps clear up your confusion."
+"The entire debate over block size is just FUD, mathematical illiteracy, or downright maliciousness coming from core.
+
+---
+
+The numbers, for those that care.
+
+My constants:
+
+- MemStorageCosts: $0.04/TB
+- BandwidthCosts : $2/GB
+- TransactionFees: $0.03/tx (10x lower than minimum credit card fee)
+- NumberOfNodes: 45,750 (10x more than on SegwitCIAMI6chain)
+- AverageTXsize: 250 bytes
+
+The cost to the network per tx is then:
+
+NumberOfNodes * (AverageTXsize *  MemStorageCosts + AverageTXsize * BandwidthCosts) = $0.02
+
+The profit per transaction is:
+
+TransactionFees - NumberOfNodes * (AverageTXsize *  MemStorageCosts + AverageTXsize * BandwidthCosts) = $0.01 / tx
+
+At 1GB block size, the TX throughput per year is:
+
+(1 gigabyte / 250 bytes) * NumDays * NumHours * (6 blocks / hour) = 2 x 10^11
+
+which results in profits from tx fees to network operators of **$2.1B**.
+
+On the segwitcoin network, we get about 2 segwitcoins per block in fees or about $420M in revenue.  We won't bother calculate the expenses, but just assume it is all profit.  1GB blocks produce *profit* of $2.1B for network operators on BCC from fee collection at $0.03 per tx, over 5x the *revenue* of fees for segwitcoins.
+
+---
+
+In short, everyone who tells you we need small blocks is:
+
+- mathematically illiterate, or
+- a malicious actor trying to destroy bitcoin
+
+If we wanted to increase tx fees to $0.15 (2x lower than minimum credit card charge), run blocks of 1GB, and do it all with 5x as many full nodes as segwitcoin, the total *profit* to network operators would actually be higher, *just from fees*, than the coin generation + fees *revenue* currently on segwitcoin network."
+"> No single entitity can (or will want to) keep spamming a chain for too long,
+
+BCH is mined 90%+ by a single unknown miner at times. They get most of their transaction fees back. Filling up the blocks with spam is 0-cost to them almost.
+
+https://cash.coin.dance/blocks
+
+Whoever the mystery 90% miner is, is whoever is filling the blocks (hint, it's Jihan).
+
+Edit: ahh, the downvotes start. of course. BCH is currently at 90% one miner. That is a serious problem and it needs addressing."
+"You can literally use the bare minimum fee of 1 satoshi per transaction. Why would miners filter out that free money? They are incentivized to allow all spam into blocks until blocks are full, at which point they might create thresholds. It's a glaring contradiction in the big blocker viewpoint of how a miner creates the ""more natural"" fee market. "
+"> The network is clearly capable of handling 8MB right now.
+
+The occasional 8MB block here and there, yes, it's capable so far, for 2 weeks now. Can't call the test over yet though.
+
+Today shows that spam transactions will have every block at 8MB soon enough, assuming any actual adoption of BCC goes along with it. "
+As a bitcoin full node, I look forward to when bcc has a constant stream of 10 minute 8mb blocks. Those poor bcc full nodes :(, all that bandwidth usage.
+The bot is currently offline. It’ll be back on shortly. Your pint shall be poured soon!
+"I'm a little busy patting myself on the back for selling all my Bcash for 0.17 BTC each but after that I'll probs take a nap. 
+"
+Larger blocks means more services can use Bitcoin, more services using Bitcoin means more reasons to use Bitcoin, more reasons to use bitcoin, means more buying of Bitcoin to spend Bitcoin, more buying of Bitcoin means more demand, more demand means higher prices, and that all means more businesses/organisations/corporations/and yes, even users will have many more reasons to be running a node than they do now which will make bitcoin a far stronger and more valuable network than it is now.
+"It's both, obviously. 
+
+>If it's at capacity, then it isn't spam
+
+Lol no. Being at capacity isn't an indicator either way though as you seem to imply it is. Could be at full capacity with 100% spam or 100% real transactions. "
+Full blocks are not a problem as long as you can get your transaction in with a small fee. Ironically, instead of increasing fees, today's spam spike [*reduced* the average fee](http://fork.lol/tx/fee).
+"No single entitity can (or will want to) keep spamming a chain for too long, as they would spend large amounts of money continuously without achieving much. There are problably countless ways you could use your money more intelligently.
+
+Has someone spammed the mempool before? Quite possible, but I don't believe it's done for months and months how some people believe on rBitcoin."
+">Some people even advocated black listing
+
+Yeah ""some people"" = Luke Jr. And he didn't just advocate it, he *did* block the transactions, IIRC he published a client that would ignore (not relay) any SD txs. "
+I don't buy this.  Its just more FUD.
+"> Which, to be fair, put the spotlight on a number of deficiencies in the software where it didn't handle that many transactions very well.
+
+I remember that time, the blockchain did grow fast, but it was only really annoying if you wanted your slow computer to catch up with the blockchain. I think that was about the time I switched to electrum."
+If we need 32MB blocks, we are all rich and we can all afford to run a monster node. That's the whole crutch of Satoshi's scaling/ Moore's Law argument.
+Yes
+Slippery slope fallacy.
+"Because I guess the network would still be usable then.
+
+If an attacker pays 1 cent to get into a block, but the average price to get into a block is 10 cent anyway, then the attacker wouldn't really stop anyone from using the network and the damage done is limited.  
+At worst, miners would have to stop accepting transactions with very low fees (if it costs too much and doesn't give them any profit)... but then again that's just how a market driven system should work. So it's not really an attack."
+"So if this BCC network ""genuine user"" or whatever you want to call him who basically singlehandedly created the first 8MB block keeps creating 8MB blocks, how long until we need a 16MB hardfork? How much more expensive would it be to fill those 16MB blocks up continuously? Do we then do a 32MB hardfork?
+
+"
+/u/CashTipper tip 1 beer
+">16MB hardfork
+
+To borrow terms from the other side, we'll do it when the network can handle it. The network is clearly capable of handling 8MB right now. "
+[removed]
+"The argument was never that it was technically impossible. It was that 
+
+A) it would create a fork, it has 
+
+B) it would lead to centralization, which it has. Since 95% of blocks are mined by a single miner. 
+
+"
+Who's to tell, though. Mine it all! It can handle it.
+I suspected something like that.
+The blocksize can further be adjusted if needed. If we ever get some smart (and not forced) way of increasing the capacity in a different way we can think about and discuss that too.
+Yeah it can always be increased later since the chain isn't held back by Core 
+It's not like he was the sole advocate for it, but I believe we was the only one to actually do it. Not very many ran his patchset though.
+I feel old.
+"wow those trolls are just making it too obvious/easy now, huh?
+
+at least that one is a new user and not the 2 and 3 year old troll accounts I have seen lately..."
+6m tx a day is mass adoption?
+"I never claimed any of this. You took what I said and interpreted it as me saying things I did not say.
+
+Never said BTC wasn't at capacity. "
+"why not?  
+wouldn't ""*smart miners*"" mine the block to prove that not only can Bitcoin Cash handle 8MB blocks but to also* drive users from Bitcoin to Bitcoin Cash Blockchain? by showing that Bitcoin Cash is capable of 8MB blocks that it grants the potential for lesser fee's than Bitcoin?  
+  
+To me, any* miner who holds vested interest in Bitcoin Cash would do the *smart* thing and mine the block to make it more appealing to users. IMHO"
+"XD
+
+To the 🌕!"
+Burnt rubber hmm.
+Your one person, what about the millions who dont have TB's worth of bandwidth? What about people who would like to also upload blocks to help decentralize the network, that is several TB more. Finnally, yes storage is no problem for the most part, which is why i focus on bandwidth,  which is a potential problem.
+"Right, so on that train of thought:
+
+This ""genuine heavy user"" we will call him, who sent 99.9% of the transactions in that block. Suppose he continues to create 8MB blocks. He only needs to pay 1 satoshi as the miner fee. When do we need to move to HF to 16MB blocks?"
+"I understand what you're saying but as of right now, Bitcoin Cash is the *new kid on the block*, folks dislike Bitcoin Cash simply for existing. The current 8MB block, rather *true* transactions or *spam* transactions, proves one undeniable fact and that is 8MG blocks are possible and functional for the network.  
+  
+Now how much in fee's miners are willing to accept is hear-say right now. Because if the situation remains the same as it is now, with One Miner or Group controlling 80%+ of hashing power on Bitcoin Cash, then He/She/They will still stand to make money Hand-Over-Fist by accepting low fees, especially if they are receive most of the transactions.  
+  
+I think this 8MB block is being done to prove a message and make a point."
+Help, I need somebody!
+"Cool. So now we know it can handle 8 meg blocks and all the fud was incorrect. What is the problem with that?
+
+I don't care how much mining power a single miner controls as long as there is nothing preventing me from joining in whenever I want. If the single miner becomes a problem then I have plenty of options of balancing that out. I could join a pool, or I could donate money to a company that plans on competing with them. "
+"> So if this BCC network ""genuine user"" or whatever you want to call him who basically singlehandedly created the first 8MB block keeps creating 8MB blocks, how long until we need a 16MB hardfork? How much more expensive would it be to fill those 16MB blocks up continuously? Do we then do a 32MB hardfork?
+
+This is what I am talking about. Making a single 8 meg block, who cares. When I say spamming the network, I am talking about continuously creating transactions to prevent other transactions from getting into the blocks."
+Yes. I am not sure what your point is
+/u/CashTipper tip 0.5 USD
+no they replace one of the 1 satoshi fee transactions with a 2 satoshi transaction. the spammer fills the blocks with low fee spam and the miners happily collect his fees and people can still send legit transactions when they need to for 2 satoshi. 
+"They filter out thosands of 1 satoshi fees to collect a single 2 satoshi fee?
+
+Sounds like a great way for the miner to miss out on profits at what benefit?"
+"~36 GB/month.  Using Napkin math and some google searching shows USA Broadband is available to ~85% of all US citizens, defined at 25Mbps ~3MB/s download speed, 420GB per year...  420,000MB / (3MB/s) = 140,000s --> 38.9 hours at this speed.  A years worth of Block data downloaded in under 2 days.
+
+Uploading, US broadband something like 3mbps -> 0.375 MB/s, comes out to about 17 days uploading time for a year.  Or about 34 hours a month total dedicated to uploading block data.  And this is the bare minimum we're talking, widely available.
+
+Really not seeing the poor bandwidth starved man being held down here.  There will be many first world countries with better internet available than the US, and even the US alone could account for tens of thousands of full nodes with very little burden.  Does it matter if you can't run a node off your Motorola Razr cellphone piggybacking on a 56k modem hotspot in the middle of some African Desert?
+
+Looks to me like a non-issue since the capability to support the theorized 8MB block scenario is trivial now. It will be even easier given the advancement of storage technology and proliferation of bandwidth across the globe in the future."
+not for a long time since it's very cheap to outbid him for space in the block 
+"I kind of understand you. It could be good to prove the chain is working.
+
+>with One Miner or Group controlling 80%+ of hashing power on Bitcoin Cash
+
+There are two big mining pools in that 'unknown' portion of blocks:
+
+https://blockchair.com/bitcoin-cash/outputs?q=recipient%281Mn8mkxYm6GGcdUH5Ts3XJN4Ujz4CJerbW%29,is_from_coinbase%281%29
+
+https://blockchair.com/bitcoin-cash/outputs?q=recipient%281BgatB78WrFLdCgnPnBqiDcNFFA46jkPZe%29,is_from_coinbase%281%29
+
+with around the same hashrate (387 vs 413 mined blocks so far)"
+/u/CashTipper tip 5 USD
+"Truth is. I don't actually know.
+
+It could be something to do with covert ASICBOOST. That involves finding collisions by choosing/ordering transactions.
+
+Getting a bit above my pay grade though.
+
+We can be sure of a few things:
+
+1. Whoever the 90% miner is is filling the blocks with spam, BCH doesn't have enough usage to naturally have 8mb blocks and no one else would bother to have the cost of the fees.
+
+2. That 90% miner is almost certainly Jihan.
+
+Beyond that, it's a bit of a mystery."
+"Point is ""8mb block mined with nearly 40k transactions"" sounds like a healthy blockchain but one guy doing 90% of it sounds like putting sunglasses on Bernie."
+Exactly. When we genuinely need 16MB blocks because the system is under that much genuine heavy usage load, we are all rich. Or maybe not you if you dumped your BCC.
+Interesting, I kept reading threads it was one Miner/group controlling 80%+ hashing power. thank you for the links.
+"> ASICBOOST
+
+Jesus, this again? filling it with 8 megs would have nothing to do with ASICBoost. ASICBoost is about reordering the transactions, as you mentioned, and would not need 8 megs worth. Maybe they might need to add one or two more transactions in order for ASICBoost to work, but not fill the block up.
+
+This ASICBoost is really tiring. Segwit is a softfork, so that boost still works with segwit activated. If you really believe that was the reason for the resistance to segwit then you are seriously misinformed.
+
+> 
+
+> Whoever the 90% miner is is filling the blocks with spam, BCH doesn't have enough usage to naturally have 8mb blocks and no one else would bother to have the cost of the fees.
+
+You are right. It does not have the usage yet, and it is likely it was done to show that we can. Pretty effective arguement against the dangers of 8 meg blocks, wouldn't you say?
+
+> That 90% miner is almost certainly Jihan.
+
+This is based upon what exactly? Everything evil comes from him and Ver right? doesn't that mean it could somehow be Ver's fault? This hate is really tiring. "
+"Bernie was dead. This chain is very much alive. 
+
+
+
+
+
+
+
+
+
+
+
+
+I am not aware of the number of miners nor what they mining percentage is. You claim 90%, but who are you? Why should I trust this number you claim is truth. 
+
+Even if it was true, Bitcoin started off with one guy mining 100% of the blocks, so why should I care if 90% are mined by a single guy. Is there anything preventing us from joining in?"
+millions of nodes was never the intended plan, nor necessarily desirable. 
+"They might also filter out the ""free money"" when they determine that it would result in them producing a block whose large size makes orphaning likely enough that the ""free money"" isn't worth the cost of claiming it.
+
+Bitcoin has never needed a block size limit, provided the miners understand the dynamics of the system they're mining for and not just plugging in magic money generators to get rich doing nothing."
+Have you seen Weekend at Bernie's?
+Look at all the people on here saying it proves how smoothly bitcoin can handle 8mb blocks.
+He is back!
+This doesn't seem controversial at all. Why all the forks and stuff? 
+Clarification: $0.04/GB, not per TB
+"Glitters! Deserves its own post.
+
+/u/CashTipper tip 1 gbp
+"
+You've just demonstrated that mining profit is not a reason to limit blocksize.  And I agree with that.  But you haven't demonstrated that future storage costs and the inevitable limiting of full-node usage will have no cost to growth and to the currency as a whole, and can be ignored as well.
+"Sounds good, go do _Bitcoin cashy cash_ with 8TB/year and a minimum of about 100MB/s of bandwidth and watch it be even more centralized than the FED. 
+
+PayPal exists, if throughput is all you care about. "
+You think that the miners supporting the BCH chain would want to spam the network that they support? For what gain?
+Oh don't worry, it'll be addressed by the market. RIP the value of BCH.
+This demonstrates why a block-size limit is not required: miners will include the amount of transactions they can handle, and stop when they can handle no more, at which point there will be competition for block space. If they can handle 8mb blocks so choose to create them then clearly they're OK.
+"they filter out that ""free money"" (it's not free) when someone posts a 2sat transaction to replace it. "
+I'm sure after a few dozen 8mb blocks they will just stop working, for reasons....
+To borrow another network's example, Ethereum has both a much higher throughput _and_ more full nodes than the Core chain. ETH is not battle tested, eh?
+"Quick math; 24 hours x 6 blocks per hour x 8MB per block = 1152 MB/ 1 Day,  ~420.5 GB/year.  
+
+I might be doing over 1tb/month when downloading linux ISO files off ITunesbay so whats the big deal? 3.5% yearly increase in bandwidth if I were to use 12TB in a year.
+
+Amazon says I could pickup a 3TB Seagate HDD for $80, thats $26.6/TB, Be good for 7 years of consistent 8MB blocks every 10 minutes."
+Maybe blockstream can beam some sweet dreams into your head with their satellite.
+why does it even matter? the bitcoin network does not care what you classify as a spam transaction or legitimate transaction
+Mining obvious spam doesn't prove those things. Miners/pools need to set what their required minimum fee is, and publish that publicly.
+I am sorry, I don't understand. Reply 'help' or if needed, my creator will be in touch.
+I am sorry, I don't understand. Reply 'help' or if needed, my creator will be in touch.
+"The Core team has a different vision for Bitcoin, including off-chain transactions that use the blockchain as a large-scale settlement platform, removing individual transactions from the blockchain and installing a different methodology for handling those transactions (SegWit/Lightning Network)
+
+This vision is remarkably similar to the traditional transaction settlement structure used in the fractional reserve banking system most financial institutions operate on."
+"Core/Blockstream wants to make money on their control of bitcoin, so they have pushed it in directions that will allow them to do so, to the detriment of bitcoin.
+
+We who remain true to the original purpose and design of bitcoin have resisted them. 
+
+BCH is a return to that vision, classic bitcoin."
+Promotion of the new capabilities. 
+Exactly! I recently bought a 3TB external hard drive for $110.00 CAD(Canadian Dollars). In 3 years I'll probably be able to get a 7-10TB hard drive for 110.00CAD...storing the blockchain for a home user node isn't an issue!
+Oh, that makes sense. Thanks!
+"I'm confused so I Google 32mb Bitcoin blocks and the first result is http://bitcoinist.com/32-mb-blocks-bitcoin-scalability/
+
+It says that Ver saying Bitcoin will be MySpaced is misleading. So is it OK?
+
+Edit: not sure why the downvotes, ugh...it's hard to learn about this stuff."
+"Eh, it depends.
+
+Assuming a straight up 8x throughput increase over Core with full blocks (ignoring SegWit for now), BTC would need a fee that's 8x higher than BCH for the fee profit to be equal. So that's $0.8 for Core vs. $0.1 for BCH.
+
+At the low point in August, median BTC fees were around $0.7, and they've only gone up since. If BCH wants to be fee-competitive, it will need to keep blocks full enough to drive fees to a median of around $0.3 or higher. 
+
+Of course, fewer miners means the fee gets split up less, so there's that. Realistically, though, assuming miners do what's most profitable, mining should end up roughly equal in profit on both chains once the difficulty settles."
+It seems as if blockchair had a minor hiccup, but it's back now
+Still seeing it here: https://blockchair.com/bitcoin-cash/block/479469
+Strange...the block disappeared on blockchair, but is still visible on coin dance (and another ~300kb block has been mined since)
+"If we assume an 8 MB block with 38000 transactions every 10 minutes:
+
+38000 / 10 min = 3800 tx/min
+
+3800 / 60 sec = 63.3 tx/s"
+I'm still seeing it here: https://blockchair.com/bitcoin-cash/block/479469
+"Each node can set their own limits on the transactions that they accept. The mempool is not global, each node keeps a copy of their own mempool and sends it to other nodes. A transaction only occurs when a miner includes it in a block.  
+
+One explanation is that the unknown miner has set a minimum fee that is higher than the bulk of transactions currently being sent. Even the 8MB block only incurred about $100 worth of fees."
+Luke's computer burst into Flames and the county power grid is still down... Luke knew this would happen, he's been under so much stress worrying about big blocks his teeth have all fell out
+"30 minutes.
+
+    Height  Mined on (UTC)    Miner             Tx # 	Output (BCC*) 	Output (USD) 	Fees (BCC*) 	Size (kB)
+    479469 	2017-08-16 11:54  BitClub Network 	37,814 	5,840.35976717 	1,722,906.13 	0.36267884 	7,998.130
+    479468 	2017-08-16 11:24  ?                 221 	7,230.12199779 	2,132,886.00 	0.07911946 	93.084"
+https://jochen-hoenicke.de/queue/uahf/#8h
+According to [blockchair](https://blockchair.com/bitcoin-cash/blocks) the 8MB block occurred 30 minutes (from 11:24 to 11:54 UTC) after the last block. However looking at the [mempool](http://i.imgur.com/Tjha5lI.png) the transactions had been accumulating for about an hour, but this was the first block to include them.
+Also blockdozer.com is down. Maybe this huge block triggered some bugs in the explorers?
+"How much time passed since the block previous to this one was mined and the one after this one? I mean, for how long did this block ""collected"" transactions?
+
+EDIT: self answer, for about a little over an hour? Does this looks right?"
+I'm still seeing it... https://blockchair.com/bitcoin-cash/block/479469
+It can't get mined on the Cash chain because of replay protection.
+Is out there a chart of Bitcoin Cash nodes on the network? I want to see if this 8MB block had any effect on the number of nodes.
+Awesome. Any way to estimate how fast it propagated?
+"So this ""unknown"" miner that has mined the two blocks after it has only made two blocks of 315KB and 189KB, not clearing the pool. What the?"
+[deleted]
+"> In 3 years, this would be over 1.26TB and only cost ~$712,082 USD.
+
+In 3 years I'll probably be able to buy a 1TB drive for 20$ or less, if it will even be on sale (it only costs 50$ today). It's a pretty nice tradeoff if you ask me."
+"Did you even look at the block? There are more than 35k tx where each single tx is worth less than 0USD and the **total** tx fee of all 35k tx is 0USD. 
+
+It currently costs 0USD to fill an 8MB block with manure, which is ok because neither now nor in three years time will any significant amount of people be bothered with syncing the bloated bcash blockchain."
+Where did it go?
+This is exactly what we need. The miners seem to care only about fee per  tx size, but the users care about fee per value too. The market has two sides! It will come.
+The above is in USD by the way, figures take from at the time of post: https://blockchair.com/bitcoin-cash/block/479469
+"How did you generate that statistic?
+
+Or you got logging set to be super verbose?
+"
+This is good, but in like a year or two you will need more disk space I think.
+seems like a lot of spam. why would there be so much transacting? with zero fees it is feasible to create artificial transactions. not to mention the fact that with such a concentrated hashrate in a few hands, if miners spam the network they can get most money back while increasing awareness because of big headlines and discussion like this. i would expect such a thing anyway from profit seeking miners, so .... this is probably it unless we have a better explanation.
+Spam, no real transactions on the network
+Spam, no real transactions on the network
+"I remember Greg actually using the fact that there was no blockchain network currently using 8mb blocks with really high transaction numbers as a justification to not adopt 8mb blocks.
+
+So thankyou small blockers! You just made Greg's weaselling and needling on tiny details that much harder! :)
+
+And for people that know their history, even when Bitcoin blocks were around 200kb, small blockers were arguing that the network was dangerously unstable at 1mb, that is until satoshi dice came along and ""spammed"" the network with lots of tiny txs as it was part of their provably random gambling site."
+"It is A LOT more expensive to spam Bitcoin Cash.  Imagine both networks have 900k of ""real"" transactions per block:
+
+To fill a Blockstream Bitcoin takes ~200 transactions.  With a target transaction price of $2.50, you can clog the network for $3000/hr.
+
+To fill a Bitcoin cash block will take ~14000 transactions. To force a $2.50 transaction price, the spammer needs to fork out more than $200,000 per hour.
+
+Obviously, spamming Bitcoin cash is, at present, a joke and a waste of time.  On the other hand, until lightning is deployed and widely adapted, a single wealthy spammer can continue to make blockstream coin expensive to use for everybody.
+
+"
+Are both chains getting spammed? Or is there rebalancing going on?
+"> With both chains being spammed right now
+
+So now we can all acknowledge spam exists and that people are doing it for various manipulative reasons?
+
+Well shit I'm just glad I can agree with you guys on something today."
+"Nice.
+
+Still wonder where the transactions suddenly came from, as most blocks are near empty."
+"with 95% of the blocks mined by a single unkown entity. Dont know how you call this working
+
+https://cash.coin.dance/blocks
+
+Sidenote: both ripple and paypal process more TX than BCH "
+It's the end of Blockstream's fantasy world at least. 
+"> seems like a lot of spam
+
+""test-spam"" perhaps? Just to see ""in real life"" how do 8Mb blocks ""behave"".  It passed the test, I guess."
+Brilliant! I guess we can only hope...perhaps Blockstream will have to move into outer space in order to survive.
+"Here comes another one:
+
+/u/CashTipper tip 1 eur
+
+"
+"~~Are my eyes deceiving me or am I seeing in my Bitcoin ABC node/wallet~~
+
+~~Current number of transactions: 83,270~~
+~~Memory Usage: 96.78 MB~~
+
+My eyes were deceiving me, it was my Bitcoin (Blockstream) debug window I was looking at.
+
+"
+[deleted]
+"Looks like a spam-test (NOT spam-attack) to me.
+
+What will happen if this many (test) transactions would go into SegWit chain, while at the same time its hash power would suddenly drop, due to (for example) higher profitability of mining Bitcoin cash?
+
+Is it feasible to anticipate that something like this can indeed happen?"
+More info here https://www.reddit.com/r/btc/comments/6u3kz7/spam_info_all_details_about_the_8mb_block/
+"Testing
+
+/u/CashTipper tip 5 USD"
+Whatever happened to that transaction someone made which was just over 1 MB and had a ton of anyone-can-spend outputs in it? It was an incentive for bigger blocks, made before the fork. Did that ever get mined?
+Ah it's appeared again for me too...very odd
+"maybe, but I highly doubt any new mixer service will come online and broadcast itself in this manner giving the recent issues of bitcoin/money laundering and the use of [Mixers](https://cointelegraph.com/news/tracing-66000-bitcoins-what-we-should-learn-from-btc-e-story). It could potentially happen, but I don't think this is mixer work. this seems like a potential intentionally *spamming* of the network to prove a point.  
+  
+Let's not forget, someone with the hashing means is intentionally doing things to (seemingly) make Bitcoin Cash [more of a fighter](http://bitcoinandtheblockchain.blogspot.co.nz/2017/08/smoke-and-mirrors-and-good-game-of-poker.html) against Bitcoin.  
+  
+As it stands right now, giving the current climate of Bitcoin Cash and Bitcoin blockchain matters, I'm still on the fence about what is exactly taking place within the Cryptocurrency realm. 1 thing for sure, and 2 for certain... Someone is building Bitcoin Cash up to rival or overtake Bitcoin (BTC)."
+"And, amazingly, you could upgrade your whole system around an Intel Pentium G4520 ($99 cpu + $40 mobo) and cut your power pill by [25% and double your performance](http://cpuboss.com/cpus/Intel-Pentium-G4520-vs-Intel-Core2-Duo-E7300).
+
+Raspberry Pi? No. ~$200 box, 60w, that can process 38k txns in ~2 seconds? Yes."
+Miners are always free to reject low-fee transactions if they believe there is a spam attack. 
+"35.000 tx each worth less than 0.00USD and a **total** tx fee of 0.00USD ... Thank god bcash is saving Bitcoin by keeping satoshis vision alive! lol
+
+I was considering spending part of my bcash to bloat the blockchain with useless tx but spending some bch bag holders money on electronics was just more tempting. Turns out you can bloat the blockchain for 0USD what a surprise."
+There was no transaction over 1MB included in a block yet.
+So what's the TX/Sec up to if we continue to see these large blocks?
+"So easy...
+
+`min_tx_fee=0.00000015 max_block_size=8mb`
+
+cha-ching!"
+"I hope they will enforce such a policy and not mine obvious spam.
+
+I still wait for mining pools to publicly display their recommended/minimum fees that they are willing to mine, but mining pools are more inclined to please their hashers with all kind of stats, that Bitcoin users. Sad about that."
+">Miners are always free to reject low-fee transactions
+
+I don't think that will happen. It's in any individual miner's interest to include all fee-paying transactions they can fit into a block. So some miners may not include those transactions but then it becomes more attractive for other miners to defect and pick them up for themselves."
+Hi. The server is currently down for maintainance. Your tips will be sent when it is back up.
+/u/CashTipper tip 1 USD
+"> until satoshi dice came along and ""spammed"" the network with lots of tiny txs
+
+Which, to be fair, put the spotlight on a number of deficiencies in the software where it didn't handle that many transactions very well. A lot of skepticism against untested block increases come from that. Some people even advocated black listing those transactions, none of which reached consensus. But the problems would have been crippling if we had an order of magnitude larger blocks back then."
+i agree, it does look fishy.
+"I call it working because it is. The point of 8MB blocks was to show on chain scaling.
+
+Just compare the two mempools over the last hours to see how well it is actually working. 
+
+And many people said it wouldn't work."
+Trying to spam this will only bring attention to how easily BCH can clear the mempool.  Even if fees get pushed up to 10 cents mining will become a lot more profitable.
+That's default logging on Bitcoin Classic client. I'm looking through how to make it log less! It's spitting out 15 lines of stats for every block.
+"They told us that even 2MB blocks are dangerous!  
+
+If 2MB is the end of the world,  is 8MB the end of Blockstream?"
+Good. It disappeared for a moment there 
+Bitcoin does ~3tx/s, Bitcoin cash should do about ~24tx/s (8x) with a similar transaction mix. 
+"Wait... So how is this meant to scale long-term?
+
+It's still way behind Visa and PayPal."
+Yeah, figured that! I'd just love to see the miners filling blocks if they're able. I mean, why not!
+Did you hear that he's finally going start running a full node again, thanks to Blockstream Satellite?
+"[Some is sending quite a lot of transactions today](http://i.imgur.com/lfyHoL0.png). While I wouldn't want to accuse anyone of 'spamming the memepool', this does seem to be abnormally high, to the point that it's hard to envisage any other scenario. The good news is that the network has no qualms with handling transactions with really low fees.
+
+[Link to mempool site](https://jochen-hoenicke.de/queue/uahf/#2h)"
+could be somebody launching a new mixer service
+Damn, that tipping bot really got out of control.
+No, people are getting confused by spam txs and intent. No txs that include a fee are spam. Don't accept a lie because it currently fits your narrative.
+"What we should look out for is the the ATV (average transaction value) and  ATFV (average transaction fee value). This will help poor people like me save the pennies:
+
+ATV: 45.46513539
+ATFV: 0.00280998
+
+Looks good from a consumer point of view. This is what the press should be reporting on.
+
+"
+"No, to assume that BTC chain at $4000 isn't hitting 280K real transactions a day is ridiculous. 
+
+You seriously think that after 9 years and millions of users BTC chain is not at capacity? "
+As the OP, I can say that I am pro Bitcoin. If you are pro Bitcoin, then it's us guys, not you guys. And whichever side of this fork experiment comes out on top, well I have coins on both chains - I'll still be pro Bitcoin.
+If there is a fee it's not spam
+Did the 8M block disappeared? 
+"> To force a $2.50 transaction price, the spammer needs to fork out more than $200,000 per hour
+
+I don't understand. Why wouldn't an attacker pay really low fees to fill the blocks?"
+So if we need 32mb blocks will that also be OK? 
+"Took 4.3s for my old node (Intel Core2 E7300, 4GB RAM, 256GB SSD)
+
+    Verify 38074 txins: 4311.24ms
+
+"
+"I think I just had a geek cryptogasm.
+
+NICE!
+"

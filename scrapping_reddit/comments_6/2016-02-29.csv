@@ -1,0 +1,130 @@
+"My post was edited as well, with the **LISTEN:** part added.
+
+(This is the first time I've ever had to explain an edit.)"
+You'll note that his comment was edited and now reflects your point.
+"LovelyDay's ""last edited"" timestamp is Feb 27 12:50:13 while your post's timestamp is Feb 27 13:51:19, meaning that you replied to the most recent version of his post."
+"Your ""listen"" comment has no edit asterisk ""*"". This means that it's initial posting could have happened no more than 3 minutes prior to 13:51 PST. No matter how much you claim it may or may not have been edited, it was not initially posted until after parent post reached it's final form.
+
+This is also the first time I've had to explain timestamps or how the editing system works to another Redditor, so.. *shrugs*"
+The free market will win. I just can't tell yet if it means replacing Core or Bitcoin.
+"I thought I recognized it from somewhere, like ""didn't I tweet that a couple days ago""? But then I wrote it down to ""whatever, great minds think alike"". :)"
+"Not just that, it only counts transactions that actually confirm.
+
+In a universe where, in between every block, we added 550kB of top-of-the-mempool-feerate transactions, and 9MB of lower than average fee transactions, the median confirmation time on this chart would not move."
+"This chart does show average time between blocks, not the average confirmation time.
+
+"
+There have always been spikes in transactions, without any conspiracies. Of course when the network operates close to maximum capacity all the time already, then at some point one of those spikes will have the effect we're seeing now.
+Can you spot the influx of [fake transactions](https://blockchain.info/charts/n-transactions?timespan=2year&showDataPoints=false&daysAverageString=7&show_header=true&scale=1)? Because this just seems like growth to me.
+Firstly define a 'non-artificial' transaction, then we'll talk. 
+Thanks :)
+[deleted]
+And then comments get sorted by controversial :O
+"> That's a golden quote
+
+props? 
+
+I'd say gold is better suited."
+All props belongs to /u/falkvinge :)
+See where it says median?
+"Enable 7 day averaging.
+
+Here I did it for you: https://blockchain.info/charts/avg-confirmation-time?showDataPoints=false&timespan=&show_header=true&daysAverageString=7&scale=0&address="
+Here, a simulation of average confirmation time vs average blocksize: https://www.reddit.com/r/btc/comments/4227fy/average_confirmation_time_vs_average_blocksize/
+People are faking the number of transactions by sending money with bitcoin. This is spam and must be eliminated from the blockchain.
+This is only the beginning.  It'll get much, much worse.
+Ok, so what about today and now. And what fees do you use? 
+It does not count transaction. Only blocks. It is charting just 'times between blocks'.
+[deleted]
+"[**@Falkvinge**](https://twitter.com/Falkvinge/)
+
+> [2016-02-23 14:12 UTC](https://twitter.com/Falkvinge/status/702133850843971584)
+
+> @moh\_kohn yeah, free markets will win this one. I just can't tell yet if it means replacing Core or Bitcoin.
+
+----
+
+^This ^message ^was ^created ^by ^a ^bot
+
+[^[Contact ^creator]](http://np.reddit.com/message/compose/?to=jasie3k&amp;subject=TweetsInCommentsBot)[^[Source ^code]](https://github.com/janpetryk/reddit-bot)
+"
+"[**@Falkvinge**](https://twitter.com/Falkvinge/)
+
+> [2016-02-23 14:12 UTC](https://twitter.com/Falkvinge/status/702133850843971584)
+
+> @moh\_kohn yeah, free markets will win this one. I just can't tell yet if it means replacing Core or Bitcoin.
+
+----
+
+^This ^message ^was ^created ^by ^a ^bot
+
+[^[Contact ^creator]](http://np.reddit.com/message/compose/?to=jasie3k&amp;subject=TweetsInCommentsBot)[^[Source ^code]](https://github.com/janpetryk/reddit-bot)
+"
+"Yes, it is. Also on https://bitinfocharts.com/comparison/confirmationtime-btc-sma7.html. I sent them e-mail explaining, but nothing edited yet. If you want a simulation of average confirmation times vs average block size take a look: https://www.reddit.com/r/btc/comments/4227fy/average_confirmation_time_vs_average_blocksize/
+
+direct chart: http://imgur.com/Q9aqabj"
+So can you send any coins now that you have unconfirmed coins in your wallet? 
+[deleted]
+what other data can we use to corroborate the raw transaction growth?  coinbase wallet growth?  bitcoin atm growth?  small business usage growth?  vc funding growth?  My gut says that these other metrics are well short of the transaction growth curve despite that they should be closely correlated.  I will reserve conclusive judgement until i see the data.
+https://twitter.com/Falkvinge/status/702133850843971584
+Wait really? That's hilariously misnamed then.
+"MyWallet (the blockchain.info service) matches the trend. But let's assume that's also being manipulated.
+
+Bitpay's been having a hard time, but still has [the same overall growth trajectory](https://blog.bitpay.com/understanding-bitcoins-growth-in-2015/).
+
+[Localbitcoins volume](https://coin.dance/charts) is less well correlated (especially in the last few months), but individual countries still show the same pattern.
+
+Maybe someone's fudging all of these numbers. Or maybe there's significant demand growth."
+[deleted]
+"can someone link that tweet... can't seem to find it.
+"
+:)
+"> Not just that, it only counts transactions that actually confirm.
+
+That's like only counting jobless people who aren't out of a job *permanently*."
+That's actually kind of what we do. You stop counting as unemployed if you're not actively looking for work. People who give up on ever finding a job are considered out of the labor market.
+"This chart does show *average time between blocks*, not the average confirmation time.
+
+Back then, when all pending transactions were confirmed in the very next block, it was the same: average confirmation time = average time between blocks. It's not now."
+Ah I didn't notice that the first time.
+"Sorry this was years in the making, you can see transaction volume slowly rising. Or are you saying people have been faking transaction volume for years? 
+
+Just look at the data. "
+[deleted]
+"This chart doesn't seem to reflect the problem: https://blockchain.info/charts/avg-confirmation-time
+"
+That's a golden quote, props for that.
+Not really.. blocks have had periods of being full for quite some time now!
+Saw it too. Even Steve Jobs couldn't pull-off reality-distortion like that.
+[deleted]
+spot on!
+"Gavin is too nice. Borderline naive. Always assuming the best of people. While I greatly respect that mindset, it is sometimes not very productive, specially when there is money involved.
+
+Mike was more realistic in this regard.
+
+Regardless of anything, This prediction was spot on. Goes to show who has good understanding and insight of bitcoin and who doesn't."
+[You have to be a little clever to post over there](https://np.reddit.com/r/Bitcoin/comments/48awq1/is_there_a_stress_test_going_on_right_now/)
+"Yes. I was the one that posted the original. https://np.reddit.com/r/Bitcoin/comments/48bvjy/in_may_2015_gavin_calculated_that_blocks_will_be/
+
+It was labeled as FUD (this is something new?) and disappeared.
+
+I was just trying to make a simple comment that Gavin was quite  prescient.
+"
+"The thermos elves are being busy in NK. Lots of posts are being censored. Including this one, for example, 
+https://np.reddit.com/r/Bitcoin/comments/489vvm/a_solution_for_the_mining_problems_and_block_sizes/"
+"And...it's shadowbanned!
+
+post archive: http://archive.is/E6wm2
+
+northkorea/new archive: http://archive.is/sI32l"
+"> The thermos elves are being busy in NK
+
+Working tirelessly to keep the Bitcoin community in factions which don't understanding each other."
+"I think this has been censored from /r/bitcoin. It seems like, they want to actively suppress the fact that the network is at capacity. Wow.
+"
+trolls are out in full force too.
+"Why the downvotes?  I think it's reasonable to think that some measure of the transactions are artificial.
+
+What are other objective growth measures?"
+Lol, getting down voted for that. I'm a big fan of Gavin, but hero worship over facts is not an admirable trait.  For months I've seen charts that show a huge spike in the mempool and blocks dancing with the hard limit. Gavin, along with hundreds of others could see the obvious for quite some time, that blocks are filling up and at some point transactions will get ignored in favor of higher fees.
+"Generally those were concerted ""stress tests"". This time the limit is being reached organically. At least it doesn't appear to be a intentional effort to bog the system."
