@@ -1,0 +1,36 @@
+u/tipprstats show
+"#### General:
+
+Metric | Tip (BCH) | Tip (USD)
+:-- | :-- | --:
+Total | 0.0775 | 214.0
+Max. | 0.0138 | 40.0
+Mean | 0.00199 | 5.48
+Min. | 0.0000035 | 0.00974
+
+
+#### Top 3 Outgoing Tips:
+
+Sender | Tip (BCH) | Tip (USD) | Count
+:-- | :-- | --: | --:
+ u/ShadowOfHarbringer | 0.0207 | 60.0 | 2
+ u/itiputipwetip | 0.0166 | 42.0 | 2
+ u/Kain_niaK | 0.00922 | 23.8 | 5
+
+#### Top 3 Incoming Tips:
+
+Receiver | Tip (BCH) | Tip (USD) | Count
+:-- | :-- | --: | --:
+ u/PedanticPendant | 0.0424 | 117.0 | 22
+ u/Kain_niaK | 0.0243 | 68.0 | 9
+ u/RBradbury1920 | 0.00792 | 20.0 | 1
+
+#### Top 3 Accumulated Transactions:
+
+Sender | Receiver | Tip (BCH) | Tip (USD) | Count
+ :-- | :-- | :-- | --: | --:
+ u/ShadowOfHarbringer | u/PedanticPendant |0.0138 | 40.0 | 1
+ u/itiputipwetip | u/PedanticPendant |0.00832 | 21.0 | 1
+ u/itiputipwetip | u/Kain_niaK |0.00832 | 21.0 | 1
+
+"

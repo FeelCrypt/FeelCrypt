@@ -1,0 +1,332 @@
+"Extremely late reply, but I took you up on that offer to see what /rbitcoin has to say. I am posting this reply here in case anyone stumbles upon it. If anyone finds this then do our own research and I'm sure you will come to a reasonable conclusion. Below is a dm I sent to this user - a recollection of the things I've learned since a month ago:
+
+>You probably don't remember, but we had a little conversation here:
+
+>https://www.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/dq7vyqe/
+
+>I'm not sure the exact place our conversation ended but it sparked in me a journey to learn more about the underworkings of Bitcoin. As a result, I have come to the conclusion that both BitcoinCore and BitcoinCash have a place here. I no longer feel that Core is intentionally hurting Bitcoin but rather that their dreams are harder to realize than previously thought. Seeing how we have so many centralized/premined currencies actually doing well I see the danger of a future with establishment taking control of Crypto. As a result I see the usefulness and requirement of Core's need to stay decentralized AND scale well. I know we have offchain ideas which may be monetized but i leaves the ability to stay decentralized and possible scaling improvements down the road.
+
+>I also think that Cash is being led by people who truly believed in a p2p, fast, (insert all other adjectives of crypto), currency for the masses. Core just didn't work out and had to split.
+
+>Maybe I'm just looking at the best possible scenario without human greed and stuff but it makes sense to me.
+
+>I am still learning more about Bitcoin but seeing as how we have other incredible ideas among us in the form of potential altcoins I am not sure if I will ever feel like I have done enough research. I only started looking up Iota last night, and the idea behind Tangle (as opposed to Blockchain) is mind blowing.
+
+>Anyways, it's getting long now. Just wanted to thank you for not dismissing me back then and having a legit conversation despite differences in belief.
+
+>If you give me a BitcoinCash address then Ill be glad to buy you a drink. (no, this isn't a jab at mempool/fees)."
+And slowly dropping since. 
+How do I know anyone is actually monitoring my channel though?
+"Lightning White paper, 2015:
+
+> The bitcoin protocol can **encompass the global financial transaction volume in all electronic payment systems today**, without a singlecustodial third party holding funds or requiring participants to haveanything more than a computer using a broadband connection.
+
+Lightning Network apologist, 2018:
+
+> Even 3 transactions per channel is a win
+
+We held up scaling and fucked up the community based on the first quoted promise. And now you're ok with peanuts.
+
+And no, one additional transaction moved offchain is absolutely not worth any of this.  Fuck."
+"Trades made on exchanges do not get confirmed on the blockchain.
+
+Literally every single one of the 358,520 transactions in the last 24 hours were transfers from one bitcoin wallet to another bitcoin wallet. That's literally exactly what that number is measuring, and nothing else.
+
+Anything which is being used is by definition not useless, even if used only once. Is bitcoin accepted by at least one merchant? Is the bitcoin blockchain currently being used?"
+"You completely misunderstood me.
+
+What I'm saying is that because channels need an opening and a closing transaction, it makes no sense to open a channel to make a single transaction or two, as that would be more expensive and add bloat to the chain. 
+
+But if you use the channel for 3 or more transactions you'll be saving fees and freeing some on-chain capacity.
+
+In no way did I imply that channels should only be used for 3 transactions each.
+
+By the way, I think the quote you took from the whitepaper is wildly optimistic and the reality won't be even close. 
+
+But that doesn't mean LN won't be useful, it will and I'm very excited for it, it's just not the best option for all use-cases, it has it's own set of disadvantages which will make it better for some use cases but not others. "
+"Dude seriously don't play dumb.
+
+I'll just leave this here so that anyone who stumbles across this doesn't think I had no reply at all.
+
+https://np.reddit.com/r/BitcoinMarkets/comments/6rxw7k/informative_btc_vs_bch_articles/dl8v4lp/?utm_content=permalink&utm_medium=user&utm_source=reddit&utm_name=frontpage
+
+The internet is full of information about the attack on Bitcoin, but here you are *participating in the attack* so we're done here.  Bye."
+">As has been explained elsewhere, this is a broken incentive system.
+
+Do you have a link?
+
+>Ok we're done here man. I know your post history so I know you know the history here and now you're just playing dumb.
+
+I know that r/btc is always claiming attacks left and right (as does r/bitcoin) but I want to know what specifically you're talking about so I can respond. "
+"So I was wrong to say it was useless, I should have really just said its getting more useless? Or are we back to pretending that you can't say something is more or less useful its just a binary state?
+
+Here's the line that started this whole line of discussion:
+
+>Just saying ""but lightning"" **whilst letting bitcoin become unusable** is not adapting to anything.
+
+""letting bitcoin become unusable"" is not the same thing as bitcoin already being completely unusable, although you could just ignore that's what I said and focus on the times I called it unusable as a shorthand because its quicker than writing out ""becoming unusable"" every time. After all what I actually mean is less important to the discussion than what you say I mean.
+
+You can also continue to pretend that usability is binary and that either bitcoin is useful or useless and you can't describe a 40% reduction in the number of top 500 US retailers accepting bitcoin related payments as bitcoin becoming less useful.
+
+I'm not sure what you'll get out of that but you're clearly getting something out of it so do continue.
+
+>You understand that your own source disproves your assertion that it is “useless” as a payment method with merchants, right?
+
+0 of those places actually accept bitcoin.
+
+They accept a service like Bitpay that transfers fiat, not bitcoin.
+
+Course you won't even accept that a 40% reduction in top 500 merchant acceptance is getting less useful so I don't expect you to be able to make the distinction between paying in fiat after selling bitcoin to a 3rd party and bitcoin."
+">>There is no system of monitors for LN like the system of incentives that keeps miners honest.
+>
+>The incentive for monitors is the reward they get if they catch someone cheating you, which comes from the penalty applied to the cheater.
+
+As has been explained elsewhere, this is a broken incentive system.
+
+>>What you just said would be true if not for the despicable attack on the community to force Segwit then Lightning onto Bitcoin.
+>
+>What attack is that? 
+
+O_o
+
+Ok we're done here man. I know your post history so I know you know the history here and now you're just playing dumb."
+"You understand that 3 is not 0, right?
+
+You understand that your own source disproves your assertion that it is “useless” as a payment method with merchants, right?"
+">Yes, and as a technology, in the abstract, I'd agree with you. Technologies are just tools and tools are good things to have around.
+
+👍
+
+>However Lightning is not just a technology in the abstract, but is a highly political, divisive, oversold, underdelivered technology that has been used as a carrot and stick to successfully divide and destroy the community.
+
+I understand what you mean. I don't think there was a deliberate intention to divide the community, I think the two communities just prioritize different things, but I agree that it's frustrating that this happened.
+
+>Had the authors of that masturbatory white paper been properly taken to task then this issue would have been settled in early 2016. Instead, the community was prevented from getting real peer review.
+
+Agreed. It's very hard to find good places to discuss the technology itself, it's all either price memes, personal attacks and ""curated"" content (either by the mods or via downvotes. The first one is worse, of course, but the second one also leads to an echo chamber).
+
+>Lightning is easily the most toxic idea to be foisted on this community with its highly dishonest white paper that promised the moon and the sun with no proof of concept whatsoever. It cannot be divorced from its history.
+
+I'm used to seeing outrageous claims in papers, I tend to ignore them and so I don't feel angry and lied to but I completely agree that it's not ok and I understand why people are frustrated with those claims. "
+">There is no system of monitors for LN like the system of incentives that keeps miners honest.
+
+The incentive for monitors is the reward they get if they catch someone cheating you, which comes from the penalty applied to the cheater.
+
+>What you just said would be true if not for the despicable attack on the community to force Segwit then Lightning onto Bitcoin.
+
+What attack is that? The network was free to choose Bitcoin Unlimited months ago, it didn't. The network wasn't attacked by segwit, it chose it over the alternatives.
+
+>The fact that the solution had to be forced instead of pulled
+
+How was it forced, exactly? Can you give an example of a single person who was forced to run the Core client instead of another?
+
+If you mean manipulated, maybe, it depends on how informed miners and node administrators are about what is going on (I assume they're quite well informed), but forced is a very strong word that I don't think applies here. "
+"I already said this in a previous comment:
+
+>https://www.bloomberg.com/news/articles/2017-07-12/bitcoin-acceptance-among-retailers-is-low-and-getting-lower
+
+>In 2014, 5 out of the top 500 US retailers accepted a form of bitcoin payment (none actually accepted bitcoin, they accepted things like BitPay which transfer fiat, not bitcoin, but lets ignore that for now), today its 3 out of the top 500 retailers.
+
+Are you bothering to read what I write or are you just replying based on what you think I might have said?
+
+"
+"Yes, and as a technology, in the abstract, I'd agree with you. Technologies are just tools and tools are good things to have around.
+
+However Lightning is not just a technology in the abstract, but is a highly political, divisive, oversold, underdelivered technology that has been used as a carrot and stick to successfully divide and destroy the community.
+
+Had the authors of that irresponsible, masturbatory white paper been properly taken to task then this issue would have been settled in early 2016. Instead, the community was prevented from getting real peer review.
+
+Lightning is easily the most toxic idea to be foisted on this community with its highly dishonest white paper that promised the moon and the sun with no proof of concept whatsoever.  It cannot be divorced from its history.  At this point it's inconceivable that Lightning could ever offer a benefit great enough to offset the tremendous structural damage it has already caused to BTC."
+">>Sigh. I don't need to trust any individual node **or** run one myself. That's the genius behind the system you're hell-bent on reengineering.
+>
+>You could say the same for LN monitoring.
+
+But you'd be wrong. There is no system of monitors for LN like the system of incentives that keeps miners honest.
+
+>And the system isn't being re-engineered, LN is an add-on, an optional system that allows for new capabilities and for more throughout without extra blockchain bloat. 
+
+What you just said would be true if not for the despicable attack on the community to force Segwit then Lightning onto Bitcoin.
+
+The fact that the solution had to be forced instead of pulled, the fact that it required massive community disruption to pull off, and the fact that you keep dancing around this truth like it isn't there is why your motives in this conversation are now highly suspect."
+">It's being used by less merchants now than it was 4 years ago
+
+Exactly how many merchants were accepting bitcoin 4 years ago, and exactly how many are accepting it now?"
+"I mean ""worth it"" as in ""worth implementing it"".
+
+"
+">Sigh. I don't need to trust any individual node **or** run one myself. That's the genius behind the system you're hell-bent on reengineering.
+
+You could say the same for LN monitoring.
+
+And the system isn't being re-engineered, LN is an add-on, an optional system that allows for new capabilities and for more throughout without extra blockchain bloat. "
+">Is bitcoin accepted by at least one merchant?
+
+It's being used by less merchants now than it was 4 years ago, which is why I said its becoming useless. Is usefulness a binary state? Or is it possible for something to be more or less without it being absolutely one thing or another?
+
+>Anything which is being used is by definition not useless, even if used only once.
+
+I already acknowledged bitcoin is useful for speculation, I don't know why you keep pretending that I'm not specifically talking about use of currency, and like there's no difference between the two concepts. There's just ""usefulness"" and its impossible to be any more specific than that.
+
+>Trades made on exchanges do not get confirmed on the blockchain.
+
+How do you think people buy/sell bitcoins and get them transferred to a wallet/address?
+
+Every exchange just has every possible amount of bitcoin sitting in a wallet and hands you the keys to them? How did the right amount of bitcoin get into the wallet in the first place without a blockchain transaction?
+
+It's all off chain? What would even be the point of using the blockchain is you can securely transfer millions in bitcoin without transferring on blockchain? That just means you're paying higher fees. High fees and times have decreased the number of merchants accepting bitcoin, but not the number of people using them to buy goods and services? That's why daily transactions are still going up?
+
+$20 fee and 12 hour wait would be crippling for actual purchases of goods and services. It's only viable if you're buying/selling thousands of dollars of bitcoin in which case its only a small percentage and you don't mind if it takes a couple days to confirm.
+
+
+>Literally every single one of the 358,520 transactions in the last 24 hours were transfers from one bitcoin wallet to another bitcoin wallet
+
+Definitely not people just buying and selling on fiat though. Even though 99% of anyone talking about bitcoin is just talking about how much they're going to buy and sell for fiat, all these transactions are somehow for goods and services its just not measurable in any way."
+">Of course LN is worth it
+
+""It"" in this case refers to a **major assault on our coin and community**... So the most polite response I have to your comment that LN was ""worth it"" is that you and I have nothing left to discuss as we have incompatible value systems."
+">>So you admit there's no way to know if your channel is actually being monitored for fraud unless you do it yourself.
+>
+>If you want to be trustless you do it yourself. This is no different from using someone else's node.
+
+Sigh. I don't need to trust any individual node **or** run one myself.  That's the genius behind the system you're hell-bent on reengineering.
+
+It's so hard with you guys, you repeat misinformation like gospel and I'm constantly debunking the same myths over and over..."
+"Of course LN is worth it, it allows for some really cool stuff without increasing blockchain bloat. Just because it doesn't solve every problem by itself and it has some drawbacks doesn't make it useless.
+
+"
+">So you admit there's no way to know if your channel is actually being monitored for fraud unless you do it yourself.
+
+If you want to be trustless you do it yourself. This is no different from using someone else's node.
+
+LN isn't Christ reborn, obviously, but it's still a very useful and exciting technology. "
+">Not being accepted by merchants does not equal not being used at all. You wouldn't say that gold is useless because merchants don't accept it. 
+
+It's useless as a currency. Try going into a store with a gold coin or certificate and buy something with it. It doesn't matter how much you talk about ""but its a great store of value! why would you want dollars that just go down in value?"", no one wants to spend gold coins which means no one is interested in accepting them. The majority of demand for gold comes from the jewelry and electronics industry. The idea its valuable just because its a ""store of value"" is a myth. Platinum is far rarer than gold, but its less valuable because far less people want platinum jewelry than gold jewelry so the fact its rarer doesn't mean shit. 
+
+The fact that billions of dollars of gold are traded every day does not make it a useful currency. How much gold is traded is completely separate from how useful it is as a currency.
+
+>Can you show us these metrics?
+
+https://www.bloomberg.com/news/articles/2017-07-12/bitcoin-acceptance-among-retailers-is-low-and-getting-lower
+
+In 2014, 5 out of the top 500 US retailers accepted a form of bitcoin payment (none actually accepted bitcoin, they accepted things like BitPay which transfer fiat, not bitcoin, but lets ignore that for now), today its 3 out of the top 500 retailers.
+
+You can google black markets yourself and see how few are still using bitcoin and how many have switched to other cryptocurrencies.
+
+>Not being accepted by merchants does not equal not being used at all.
+
+How do you think increased transactions are a result of more people using bitcoin to buy goods and services if the number of merchants accepting bitcoin for goods and services is decreasing? Do you think more and more people are just shopping at fewer and fewer stores? If there's such demand for buying things with bitcoin why is the number of merchants accepting it decreasing instead of increasing? Do they just hate making money?
+
+>You wouldn't say that cheeseburgers are useless because merchants don't accept it
+
+I'd say they're useless as a currency, because no one wants to accept a cheeseburger as currency. If you want to talk about how useful it is as food, that's a separate discussion.
+
+>A currency settles debts. Period. That's what it is.
+
+You can settle debts in things other than currency. If you have no money, debt collectors will accept goods and assets instead.
+
+You've already identified what currency use looks like (buying an apple with a dogecoin), I don't know why you keep trying to define it as something that is not specific to currency. You can burn money, does that mean anything you can burn is also money?
+
+
+
+"
+"
+>By the way, I think the quote you took from the whitepaper is wildly optimistic and the reality won't be even close. 
+
+So did we all and we spoke up and so here we all are banned in motherfucking rbtc and now two years later here we are with a fucked up community, a split coin, and guys like you trying to rationalize how is still worth it...
+
+That's my point man."
+">I don't know, ask them? 
+
+So you admit there's no way to know if your channel is actually being monitored for fraud unless you do it yourself.
+
+This just keeps getting better."
+I don't know, ask them? Or monitor it yourself, you don't have to be on 24/7, depending on the channel settings even once a day or two can be enough, with the caveat that your funds will be stuck for longer if your counterparty tries to defraud you. 
+Seriously, what's the problem?
+"Some people look at photos of [this](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mallard2.jpg/1200px-Mallard2.jpg) and say they'll need DNA evidence to make a positive identification
+
+others like myself look at people like you giving answers like that and think, ""wow, what agenda is he really trying to push here.""
+
+we're done here, peace, bye"
+"No it does not, because the internet is organized hierarchically by IP address, which solves its routing problem.  Hierarchical organization == fully centralized.
+
+Your fundamental misunderstanding of Lightning's fundamental routing problem is on full display here and in the other thread where you can't answer my questions."
+Right, it doesn't answer my question, because there is no answer to my question, just like there wasn't an answer to my question two years ago. And you are a zero value shill.
+"> even 3 transactions per channel is already a win
+
+ARE YOU FUCKING KIDDING ME"
+Ok you can shut up now Peter Griffin
+"> there's no counterparty risk
+
+this statement is false on its face and I'm sick and tired of hearing this lie repeated
+
+if that were true, then there would be no need for channel monitoring
+
+channel monitoring is required because without monitoring, your channel partner can steal the funds in the channel
+
+therefore, the security of a Lightning channel is literally no greater than the security of the monitor
+
+it's a bank, secured by perimeter security"
+">And slowly dropping since. 
+
+Up almost 15% in the past week... "
+You can have every node in the world monitoring the channel for you. 
+What's the problem? 
+"> blockstream torpedoed him with fud, lies, and attacks
+
+Give some examples of lies and fud."
+Relax. And it does matter who was there. you can’t have agreements with only one party in the meeting. And to be honest, no segwit adoption, you don’t get bigger blocks. Simple. As I said before. When you have a kid, he needs to learn to clean up his room before he can move to a bigger room. Otherwise he’ll just make a mess again and a year later he will start moaning again that his room is to small.
+"> I think Satoshi himself would agree that we should not blindly follow his words regardless of new information. 
+
+Yes, that's the trope you folks repeat, yet the lie embedded in it is **there is no new information that displaces what's written in the Satoshi white paper.**
+
+Please point out even one flaw in that paper.  I've asked at least 100 times from people like yourself and have **received only one satisfactory reply in over three years of asking you trolls.**
+
+You think that paper has been  made obsolete?  Show me the error it contains.  See if you can even spot the one known error I've found.  
+
+FYI, I can rip the LN white paper to pathetic shreds.  It's an exercise in errors."
+So glad HBO's giving him a chance to shine
+"The punishment for cheating in LN is to lose all the money in the channel. 
+
+So in the anti-fraud transaction you can include part of this as a reward for a node that notices your counterparty cheating and broadcasts it for you. "
+"I thought you understood how payment routing works when you wrote
+
+> Lightning network has been explained now and sounds like it should work
+
+/u/laskdfe is literally explaining how Lightning payment routing works and you're saying it makes no sense.
+
+Just SMH.  You should edit [this comment where you said LN had been explained and it should work](https://www.reddit.com/r/btc/comments/7opi7w/the_idiocracy_of_rbitcoin/dsbfw2h/), and update it to state instead that actually you have no earthly idea how Lightning Network is designed or whether or not it will work."
+Hey now, maybe they thought they knew how it worked, but just misunderstood. I've heard multiple people think that payments could hop from channel to channel without funding issues. It is a strange concept... no regular person would expect it to work the way it is designed to work.
+How.
+That you have to ask tells me everything.
+">  In order for a payment to be able to flow, all hops must be online at that moment, and all channels along those hops must have sufficient funds in an arrangement which will allow said payment.
+
+...*aaaaand* those channels have to disclose whether or not they have sufficient funds to route your payment in order for you to construct a route...
+
+which means they can't be truly private, as promised :("
+off the top of my head i remember whalepanda on twitter saying he changed a bunch of lines to the segwit 2x without asking... he came back and said he was trying to follow through with the NYA like an honorable person, and core(blockstream) acted like high school girls at lunch, and ignored him... so he proceeded to make alterations without them giving input.
+Bcash sucks. 
+">Dude seriously don't play dumb.
+
+I'm not playing dumb, I just want to know what I'm trying to respond to. If I said Bitcoin Cash is an attack on Bitcoin you'd also like to know what specific points I was addressing with that statement. 
+
+>[https://np.reddit.com/r/BitcoinMarkets/comments/6rxw7k/informative_btc_vs_bch_articles/dl8v4lp/?utm_content=permalink&utm_medium=user&utm_source=reddit&utm_name=frontpage](https://np.reddit.com/r/BitcoinMarkets/comments/6rxw7k/informative_btc_vs_bch_articles/dl8v4lp/?utm_content=permalink&utm_medium=user&utm_source=reddit&utm_name=frontpage)
+
+Yeah, I know the history, but what parts are you claiming to be an attack?
+
+I sort of agree that the censorship by Theymos on r/bitcoin can be considered an attack. But even if it's done with malice (I don't think it is, I think he's just very biased with his moderation and considers lots of stuff to be trolling) it's quite a minor attack, there are plenty of alternative places to discuss not controlled by him (such as r/btc). 
+
+But Blockstream hiring people to work on a FOSS project isn't an attack. I mean, what would the attack even be if anyone can fork the code? If people don't use alternative clients (and we're talking about the Core client, which isn't used by non-technical users) that's their decision
+And you can't force people to work on what you want. If Bitcoin can't survive that, it has no hope. 
+
+"
+"> In my opinion this network is not at all becoming the pure ""hub and spoke"" that many have been claiming it would become.
+
+
+the topology is not ""pure"" hub and spoke but it is still extremely centralized which that link inadvertently proves
+ 
+> Most importantly, LN will not introduce counterparty risk and it will not affect the decentralization of the base layer.
+
+Both false.
+
+LN introduces significant counterparty risk not present in onchain Bitcoin.  I've explained this elsewhere in this thread.  It also will significantly reduce fees from the base layer.   It's not even certain that the price of Bitcoin stored in Lightning channels will remain coupled to the price of onchain Bitcoin."

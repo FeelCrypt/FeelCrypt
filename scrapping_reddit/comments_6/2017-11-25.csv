@@ -1,0 +1,66 @@
+"Sorry to hijack... just two comments
+
+>What I meant was, and what I guess my vision is, is that Bitcoin has the power to change attitudes related to wealth accumulation and market behaviour. Normal currencies are inflationary, which drives users (historically, everyone in the world) to accumulate wealth purely on the basis of survival. Even if one has a store of wealth, its relative value will diminish over time and one is required to accumulate more just to maintain its value. This system encourages, rewards and fosters the inherent greed you mention. Bitcoin can do away with this toxic influence on society because it's deflationary.
+
+I think you have this upside down. Fit currencies are inflationary because the central bank prints more and more currency every year. The real question is... why? Let's avoid conspiracy theories, the oft cited economic reason is that inflation induces people to spend, rather than hoard: 
+
+""*Today I can buy a TV with $1,000. If I put it under the mattress, in a year from now I won't be able to buy a TV, or will have to buy a worse one. So I'll spend the money now.*""
+
+And this is good for the economy because it induces production, so jobs and everything. **This is the reason why every central bank has a target inflation around 2%.** A little bit of inflation stimulates the economy.
+
+WIth Bitcoin it's the opposite... you hodl because tomorrow you can buy more. This leads to less consumption, less production, less jobs and so on. A quick Google gave me [this criticism to Bitcoin](https://www.economist.com/blogs/freeexchange/2014/04/money).
+
+
+
+
+&nbsp;
+
+> The only reason block rewards don't seem ""big"" is because people seem to think 10 sat/b is a ""normal"" or ""low"" fee. 10 sat/b is massive given the value of Bitcoin atm. Nobody should be paying more than a few fractions of a cent to send a transaction, let alone dollars.
+
+In my opinion there's too much focus on fees... fees are only a small part of the entire ""Bitcoin project"". It is also a frequently mis-understood one.
+
+For every credit card transaction you make, you pay an average fee of ~3.5%. You may not see this, but you do. And you don't see it because it's hidden in the price of whatever it is that you buy! Ask any merchant what is his credit card cost, and they'll tell you it's between 2% and 5%. You pay for that, he's certainly not covering that cost for you. And that's also the reason why some merchants simply don't take credit cards below, say, $10 - It just costs them too much.
+
+Truth is, **moving money has a cost**. It's a bit like friction in physics - When you move an object, you dissipate some energy because of friction. I don't know if the *true* cost of moving money is like you say <1c or ~$1, but moving money has a cost, and no matter what we do we won't be able to do away with it. And bigger blocks don't really solve this... there's no free lunch, so someone is paying for that. Who is paying? People who run full nodes, because all of a sudden their bandwidth will not be enough anymore. Think about it... low transaction costs don't come for free. Big blocks just distribute the cost.
+
+With this in mind, and keep in mind that just like you I would like to have fees as low as possible, if you adopt a pragmatic (rational investor) approach, you should be able to avoid all the frustration. Use fiat or plastic for small purchases, and use Bitcoin when it's warranted. Currently Bitcoin can be a bit like FedEx, fast but expensive. If you stick with ""USPS"" for normal payments, and use the ""premium service"" only when necessary, you'll have avoided all the pain with high fees. Once L2 solutions are in place, on the other hand, things will change, and txs costs will go down for BTC as well."
+"Whooaaaaa this shit is crazy! Great investigative skills, must have taken a lot of effort but I think it paid off as the evidence found of a false flag is damning. I don't think Greg was acting alone while operating the bot network but he was definitely a part of the effort.
+
+Btw there is a typo in the first sentence in ""SUSPICIOUS COMMENT #2"", it should mention [CU-1] instead of [CU-2]."
+"Re inflation... To see more clearly the effect of inflation, hoarding vs spending, consider an extreme case - Hyperinflation. At it's worst, in Zimbabwe people would be quoted one price for a loaf of bread in the morning and a higher one in the afternoon. Nobody wanted to hoard the money, dump it as fast as you can for something of real value. For low inflation this is not entirely visible, but the same effect is still there. When you say
+
+> I even have a year to turn my $1k into more money (even if it's just the basic inflation rate I get from a savings account).
+
+that's ***exactly*** what the central bank wants you to do... try to turn it into more money, by investing. I.e. taking risk, and hence stimulating the economy. (I can guarantee that the base interest on your money will not beat inflation.)
+
+>Problems start to rise, as people all over the world have begun to see, when our wages don't rise proportionately.
+
+This is the real problem, not inflation in itself. (Before I continue, let it be clear that I'm all for a deflationary currency, if nothing else to see how it all turns out.) The problem is that slowly we've been paid less and less not because of inflation, but simply because our wages were not growing as fast. Let's put it differently, if inflation is 5%, and you get a 4% raise, you are getting paid less! And why would companies do that? Well, to maximise their profits! Again, not saying that is a good thing or anything, merely that inflation by itself is not the cause... it just simplifies paycheck erosion.
+
+On the ""jobs"" I strongly disagree. Not because your argument is wrong, we do have the means to support everyone on Earth, but because there's more at play. What? I'll leave you with a thought by Pascal, 17th century French intellectual:
+
+> “*All of humanity's problems stem from man's inability to sit quietly in a room alone.*”
+
+
+&nbsp;
+
+You are 100% correct that intermediation increases costs, and that's what blockchain will do, ""dis-intermediate"". That's one of the main things I had in mind when I said that there's more to Project Bitcoin than just fees. So yes, the blockchain will reduce costs of moving money, but what is the end point is not really clear. Not to me, not to you, nor to anyone else. 
+
+Let's take an example. To buy some coins in a dip, I wanted to move funds to Gemini. A ""same-day ACH transfer"" from my banks cost me $30. The funds were deposited within 4hrs. This is not made up... these are real costs, which we cannot ignore. What Bitcoin will do is reduce that fee and/or decrease the time it takes to transfer. But I cannot claim that the ""true cost"" will be $0.03 or $20. In any event, *it will be lower*.
+
+Similarly, I had to pay some money via plastic internationally. I paid credit card charges. Trust me, I would have been VERY happy with a fee of $20, my actual fee was **a lot more**.
+
+So **Bitcoin is already fulfilling the promise of cost reduction** today. 
+
+Does that mean we should be happy to pay, say, $2 in fee for a $4 coffee? No, of course not. We had super low fees for a relatively long time in Bitcoin because only a few nerds and geeks were using it. And this is still true for virtually every altcoin today! Every other coin will face the same problems Bitcoin faces, if they reach a large enough number of users. (Including the in-fights and disagreements on how to scale, especially if there's no central authority to dictate the way forward.) What this does mean, imo, is that Bitcoin is going through some ""growing pains"" where it's not **currently** feasible to use for a pack of bubble gum & coffee. Once L2 solutions are developed, sooner than many people seem to believe, we'll have that again. Right now, just use Bitcoin if it makes (financial) sense. If not, keep using plastic. To me that's an acceptable price to pay for a truly disruptive technology.
+
+As I said above, there's no free lunch... someone is paying for those fees, even if you don't see it.
+
+
+
+
+"
+Thanks for revealing this, you did a great job to the overall crypto community as a whole. Keep it up!
+Take them out
+infamous**
+[deleted]
