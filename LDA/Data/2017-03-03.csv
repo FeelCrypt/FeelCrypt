@@ -1,0 +1,163 @@
+"It would a a programming exercise in an algorithms course, something that I know dozens of people who could do.  I would even do it myself, except for the fact that there is no Bitcoin specification, so in the end I would just end up with some code that wouldn't be accepted by one side of the argument. 
+
+It is not even relevant at present, because it is easy to measure node performance and see that the typical desk top machine is using less than 0.5% of the available computing power involved.  There is plenty of time to add optimizations should they ever be needed.  
+
+I have experience with real time code doing complicated data base processing and know for a fact how to make code run as fast as possible on given hardware and how to make hardware/software tradeoffs along these lines.  But I'm not going to DOX myself, since all this will accomplish is turning technical doubt into personal attacks.  If you want to know what is possible the only way to know is to do it yourself or to have extensive experience doing similar things.  "
+"*face palm*
+
+segwit is a soft-fork, so 100% opt-in not only on one, but on 3 layers! anyone uncomfortable with the risk can just wait and see, how it fares in the real world without risking anything.
+
+BU is a hard-fork so what you are saying is completely right in regards to BU. the only way to really test it, is to fork away and start your altcoin. just do it already! why are you guys so afraid? don't you trust your own implementation?
+
+and thats it for me for a couple of days.
+
+over and out. to many hours on r/btc literally fries my brain!
+
+
+>Never argue with an idiot. They will only bring you down to their level and beat you with experience. - George Carlin 
+"
+"The client is not the specification.  If there were a proper specification we would not be having this discussion.  It would be obvious what all the algorithms and  data structures required by the protocol and they could be quickly analyzed for computational performance and any of them fixed.  There would be no need for people to learn a huge code base of spaghetti code.
+
+Nor would I want to have anything to do with the toxic people presently involved with Core.  The problem is not ""easy"" even though the concept of Bitcoin is simple.  That's because too many mediocre people have worked on making the code more complicated than it needs to be."
+LOL testnet. As if completely new economic parameters can be tested outside of the economy! 
+"So your solution is purely theoretical and untested?
+
+When and **if** compute time will scale linearly with block size - then we can return to this discussion."
+"If this is so easy, why not write the code and submit a pull request? This way the actual solution would be available for code review and testing.
+
+I don't see how a lack of a ""specification"" matters here. The client is the specification."
+"SegWit blocks are mined daily on testnet and have been for more than a year on the various versions of segnet (dedicated testnets for segwit).
+
+you clearly have absolutely no clue whatsoever.
+
+do some research and if you keep it up as a daily routine, we can talk in 1-2 years maybe!"
+">after being off line for a month
+
+Takes my $900 6 year old desktop about 5 hours to catch up after a week of being offline. I suspect lies.
+
+>It would have been able to keep up with 500 MB blocks
+
+I call bullshit.
+
+>This is based on actual measurements of my node performance.
+
+Oh, so you can show me sustained testnet full 500 mb blocks and show me your node's performance during that test?
+
+Please source your claims."
+"You tell me what can't be done in linear time.  I made some assumptions:  namely that efficient code is being used.  I have design ed network routers and other boxes, designed a real-time transaction processing system and associated operating systems.
+
+The problems come where individual transactions interact.  There are two essential problems:  quick access to the UTXO data bases (read and write) and dependencies between transactions in the same block.  My understanding is that existing UTXO database software is n log n, but it can be done in linear time using hashing techniques if this becomes necessary.  Once this problem is solved, dependencies between transactions in the same block become trivial to verify in linear time.  Miners constructing blocks face a slightly harder problem if they wish to put transactions with dependencies in the same block.  They have to do a topological sort, but this can also be done in linear time.  
+
+The present limit comes from file I/Os involved with the UTXO data set.  However if SSDs are used there are sufficient I/Os available for a single SSD to handle 100 TPS and it is trivial to shard the UTXO database.
+
+The most computational work involved verifying the ECDSA signatures.  This is also highly parallelized, since its just doing simple mathematical calculations.    
+
+"
+"It looks like you failed to get the message, that you are going low here. You are not assuming good faith, but bad. You are defending your FUD calling. Really. Please reconsider.
+
+My first 3 questions which were meant to be at a high level (as opposed to more specific items raised later), these you immediately flagged as FUD. 
+
+>This is more FUD in question format.
+
+So apparently questions aren't that great after all unless they pass your tests. Then I listed a set of issues I'm concerned about. Do you really need me to state these in question format? Please. You look like you are dodging issues. While I started my latest comment by calling you out on your FUD nonsense I also continued to clarify and raise other issues which you haven't commented on, instead only defending your FUD calling. 
+
+>Has this debate gotten so antagonistic that we have lost all perspective?
+
+Apparently. Stop assuming bad faith and saying people are spreading FUD. It is a bullshit way out, a complete dodge. You should know better. You do know better. Be better.
+"
+"Your adversarial style is common in this debate and is part of the problem that bitcoin is facing today.  This argumentative rather than inquisitive attitude, the rude ad hominem comments, and the censorship (not suggesting you did these last two) we have faced is probably more important than any one of your individual issues which is why it got most of my attention.  Here's a quick response to your questions:
+
+>    What about the argument that BU is just ""Placebo Controls"" or the idea that once AD is breached your node will accept any size block? So if you have EB at 2mb and AD at 4 then after 4 blocks of 3mb your node just goes along with any new block size. Now wouldn't you have to reset your EB to 3mb and so on?
+
+It is clearly not a placebo since you can use these settings to choose whether your node should follow a larger block fork or not.  But if you are not paying attention would you rather your node be forked off of the bitcoin network, or would you rather it follow along?  We had to choose one or the other for inattentive operators and we feel that preventing a chain split is more important to people who aren't paying attention/don't care.  Note that if you do care, you don't have to make changes manually, you can write script that manipulates the EB/AD values.  You could even write a script to capture many of the block size increase proposals out there.
+
+
+>    Is there a greater risk of a permanent chain split and replay attacks/issues?
+
+There is a lower risk of chain split.  BU follows the majority hash power, overriding a user's EB preference unless the user explicitly disallows this override by setting AD to infinity.  A BU-only network CANT have a persistent chain split, except for the few AD=infinity individuals who are basically choosing to ""opt out"" of the emergent consensus algorithm.  Note that a Core node is hard coded to EB=1, AD=infinity.  That is, if you set EB=1 AD=infinity you've changed BU into a Core node (in regards to the block size).  
+
+Core nodes create a greater risk of permanent chain split. They will split off the main chain if the majority hash power chooses to mine blocks > 1MB.
+
+The chance of replay attacks are the same as any hard fork, although it is likely that the lower fees paid for transactions after the split will mean that many of the > 1MB fork's transactions will be too cheap to fit in the <1MB fork.  
+
+Worry about a persistent chain split (and therefore valuable replay attacks) is overblown.  Bitcoin has some fundamental differences from Ethereum that makes the minority hash chain much less tenable (basically, the difficulty changes more slowly, so capacity in the minority fork 1MB chain could be (say 75/25 hashing split) 250kb per 10 minutes, verses (say) 2MB every 10 minutes capacity in the majority fork chain.  This issue won't resolve itself for 2 months and so will likely kill the minority chain).  There have been several good articles analyzing this, please search for them.  And BTW, Ethereum just hit all time highs AFAIK, so I guess a persistent split is not the end of the world.
+
+>    What are some possible new adversarial attacks by malicious miners under BU?
+
+BU has no higher layer consensus protocol for miners to attack.  It uses Nakamoto Consensus.  There are no malicious miner attacks that are not already possible.  
+
+In contrast, voting protocols (like Segwit is using) do allow minority hash power adversarial attacks, which may be why the SW authors chose a 95% activation.  However, this 95% majority still allows a 46% minority or more to falsely signal for Segwit activation and then force a persistent hard fork and possibly steal segwit-spent funds some time after activation.
+
+> What is the strength and size of the BU development team ?
+
+You can look at github statistics for the size.  As to the strength, how would you measure that?
+
+> How will malleability be fixed if at all (soft-fork, hard-fork, etc)?
+
+A malleability fix is not part of the plan for our initial hard fork.  The network has thrived for years with malleability, another year or so will not matter.  By keeping the block size hard fork simple, no SPV wallets need to be upgraded, no transaction generation libraries need updating, etc.  The majority of the software in the network is usable AS IS.  
+
+The actual malleability fix will be voted on by the BU members so I cannot say what the solution will be.  But at this point I am leaning towards proposing a hard fork of the transaction format that fixes malleability and a host of other issues.  Classic has a working example.
+"
+"> scales linearly with the number of transactions
+
+Source? I don't believe this can possibly be true.
+
+>communications bandwidth as well
+
+No way. At the very least it must matter how many nodes you are connected to. So, source?"
+">but many of them have already been addressed
+
+And many have not been.
+
+Here is the original list in question format. It adds little to the original. You've spent more time attacking me and my commenting style than actually diving into some of these issues. Well done.
+
+* What about the argument that BU is just ""Placebo Controls"" or the idea that once AD is breached your node will accept any size block? So if you have EB at 2mb and AD at 4 then after 4 blocks of 3mb your node just goes along with any new block size. Now wouldn't you have to reset your EB to 3mb and so on?
+* Is there a greater risk of a permanent chain split and replay attacks/issues?
+* What are some possible new adversarial attacks by malicious miners under BU?
+* Can someone address the other points mentioned here ?
+* What is the strength and size of the BU development team ?
+* How will malleability be fixed if at all (soft-fork, hard-fork, etc)?
+
+>but I hope that we can consolidate your concerns and other people's into a single FAQ that will eventually save people the effort of googling.
+
+That would be good.
+
+
+"
+"Computational work that a node has to perform (and communications bandwidth as well) scales linearly with the number of transactions (for any given mix of transaction sizes).  The overhead is in processing the transactions.  Unless there are pathological ""attack"" transactions, the resources required to process a block are proportional to the block size.
+"
+all that is fine, but we need same transparency and corruption-resistance at developer level i.e. use multiple ref clients and not use private for-profit companies not aligned to BTC as described in Satoshi white paper.
+"You do actually need to ask a question if you mean to ask a question.
+
+If you make a statement you are asserting something that then needs to be refuted.  And if you don't give reasons for your assertion then its basically FUD if your assertion is negative in affect.
+
+So yes, there's a big difference between a question and a statement!  
+
+I hope you understand this, and start actually asking questions about BU, and researching the answers because given the transaction backlogs this is the most important issue facing Bitcoin right now.
+
+I did give a summary response to many of your assertions -- but many of them have already been addressed and can be found via google searches.  I'm sorry that I don't have time right now to answer them in detail to you personally, but I hope that we can consolidate your concerns and other people's into a single FAQ that will eventually save people the effort of googling.
+"
+"/u/gavinandresen please join BU or Classic 
+
+Bitcoin really needs your help!!"
+"Exactly. Miners are not banks.  They do not extend credit.  Furthermore, the blockchain does more than reach agreement on ""who has what?""  It provides publication of all the actions taken by all the miners and because blocks are cryptographically chained together it is easy to tell if two nodes are working off the same chain.  This keeps the actions the miners take in the sunshine, and is part of the Bitcoin system, since it makes it obvious when most attacks are taking place.  This allows for the holders of Bitcoins to decide if they should continue to trust the miners and this provides the economic motivation to keep the miners honest.
+"
+"> You've now called FUD I think 4 times on me (twice here and twice elsewhere in this thread). At all times all I'm seeking is answers to questions and ones that are both obvious and are being asked by many in the community. 
+
+I'm calling FUD because you are not asking questions, you are making statements.  This is funny because in your recent reply you honestly seem to think that you are asking questions.  Has this debate gotten so antagonistic that we have lost all perspective?
+
+The perfect example is about the strength of the BU team.  You didn't ask ""what experience do you have?  I'd love to learn more about what the BU team has done in your careers.""  Instead you made the following statement:
+> Some of the more specific issues are:
+> Strength and size of the BU development team
+
+Can you see the difference?
+"
+Amazing how stupid the censorship supporters are. 
+"My 6 year old $600 desktop has no problem catching up with the blockchain after being off line for a month.  It takes about an hour, even if all the blocks are full.  It would have been able to keep up with 500 MB blocks, which means that it would have had no problem with 32 MB blocks or even 100 MB blocks.  If you have enough bandwidth to watch Netflix you can easily run a full node out of the typical home Internet connection, no problem at all with 32 MB blocks.  Even in my rural area with crappy DSL the ISP is starting to put in fiber and the upload speed will no longer be an issue, and it will be possible to allow my node to have more than my present limit of 30 connections.
+
+This is based on actual measurements of my node performance. (Actually I have multiple computers and tested many, including a low end Intel NUC. I make it a habit to deliberately ""break"" all my computer systems so I can see what the real limits are.  I have been doing these kinds of tests since the late 1960's when computer networking was just getting started.)"
+"So you come in, say that ""oh, these problems are already solved in theory, but I ain't writing the code"". And then shit on people that would point out issues in your code, which is, of course, perfect according to you, but the rest of the system is sub-par.
+
+This ain't enterprise software. There is no business analyst to provide you specifications, whom you can blame if the specifications are not 100% perfect. This is open source, and you will need to defend your code and get consensus before merge.
+
+Why are you even here? To complain that Bitcoin doesn't adhere to your 1970s waterfall model?"

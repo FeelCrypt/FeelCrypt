@@ -1,0 +1,20 @@
+Don't be dogmatic. The white paper is not a holy book.
+"It's the original vision for what Bitcoin should be. It's what people signed up for. It's what got thousands of us excited in the first few years.
+
+This is exciting:
+
+""A **purely peer-to-peer** version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution."""
+"Actually, the Lightning network requires that people use a middleman instead of using on-chain transactions. 
+
+The first sentence in the Bitcoin whitepaper says a peer-to-peer electronic cash payment system.
+
+Also, the Lightning network only scales micro-transactions and otherwise has the risk of locking up large amounts of Bitcoins.
+
+Segwit is an optimization but doesn't even double the transaction level - that's not scaling.
+
+Both of these are not the correct way to scale Bitcoin according to the whitepaper. Here you can read it again just to brush up: https://bitcoin.org/bitcoin.pdf"
+Low fee, high volume.
+"There were always fees.
+
+Nakamoto left the project. There's no reason people should second guess his wishes."
+You have no ability to actually process thought. Its like watching a child trying to rationalize why he should get what he wants. 

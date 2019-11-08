@@ -1,0 +1,252 @@
+"consequences:
+
+* all the software to date stops working
+* all the txs before fork becomes invalid since you need to have to way of hashing them
+* a tx after the fork must refer to pre-fork tx with uncompatible hash
+
+and all sorts of other painful things"
+See Malfix.
+"The comment I left yesterday, which I linked to, has not been responded to. Not a single one of the referenced removals was a duplicate, none were automatically marked as spam, and all were manually removed by human moderators.
+
+
+Next time, try actually reading the link, rather than rushing in to blindly defend the censorship."
+"https://news.bitcoin.com/lightning-network-centralization-leads-economic-censorship/  
+Actually it seems this is an op-ed (contributor type) piece, not a Roger Ver transcription. So it is not an ""official"" position as I thought (whatever that means in thebig block/small block debate) However it is pretty much the only argument I see being made: ""LN is centralised, censorable, handing power back to big banks and not as secure as transacting on chain""  
+All of these are demonstrably false     
+
+If I have showed a false understanding of LN nodes or mining nodes then I'd love to hear it. I understand there are differences between LN nodes and mining nodes but there are also similarities, and it is funny to hear the arguments  from /r/btc made *for* mining centralisation turned on their head to argue against LN nodes when the same game theory incentives apply to both. Bad actors are rejected by the networks. Alternative routes are available on both. The LN nodes can not just disappear with your funds, just as miners cannot.   
+It seems the concerns over LN are just clutching at straws by people who primarily support big blocks and BCH. I'm willing to hear good arguments but all I hear are fallacies
+"
+"Try linking to the full comments so people can see some of the replies pointing out errors in your analysis. 
+
+https://www.reddit.com/r/btc/comments/7dlyk4
+
+People can clearly see that the reason these posts are being removed is because they're duplicates (often if similar posts by yourself) or they're automatically marked as spam based on domain or whatever else Reddit uses.
+
+It seems the only reason you even post here is to try to manufacture a case for claiming /r/btc censors just like /r/bitcoin. Nice try!"
+"No, I'm saying calling Bitcoin ""Bitcoin Core"" is stupid, why not just call it Bitcoin and let Bitcoin Cash be Bitcoin Cash."
+Please, I'm still waiting to hear about these accounts.
+You completely miss the point. Code cant be controlled. If you ever get to a point where you believe the code dont serve you ant longer, you run something else. But thats only really possible if you can actually run a full node and follow a different chain, hence our discussion earlier. If you want to control bitcoin you cant have people just being able to run some software you dont like. This is why it is the absolutely most important part of bitcoin, but you bigblockers dont seem to quite get it. Its fine, I just let the market decide which has value while I try to fight the FUD and pathetic takeover attempt of the bitcoin name here.
+"""Oh shit, it's open source... well, we can use censorship to portray anyone that forks as a villain scammer."""
+Exactly. That's why they are turning the public against it.. and succeeding. 
+aantop no longer tells the truth. Check his videos from 2016 and back. He's doing a total back turn now. 
+"""if"" is the important word here. With the censorship and manipulation going on Bitcoin, this won't be easy. See how long banks have controlled the money already. "
+yes if you sign up over tor they ask for a mobile number. nothing private about that.
+"So ""no PGP"" is a bad thing; then why is it listed along things that sound like they're good things?"
+Haha im with him i dont give a fuck if they know who emails me, and if it means  that they can filter and sort my emails better then go ahead
+Google has good content filters, classifiers and sorters. Tuned to my own biometrics. So yeah no, without the scanning I would not even use Google.
+"This is very interesting, and along the lines of the type of solution we feel is the technically correct way of approaching this sort of problem. It is probably not on the timescale in which people want us to implement something, but we would rather do something right than do something fast, and code stability is important.
+
+There is one other considerations that we also care a lot about, and that is compatibility with other Bitcoin like cryptocurrencies. We are aware there are a lot of battles being fought in the space among the various cryptocurrencies out there, but in keeping with our mentality of neutrality, we plan to support all coins which have significant support from our userbase. 
+
+For this reason, we want to find (or build) a solution that can easily be extended to any cryptocurrency out there, otherwise, we would be forced to embark on a major dev process each time we want to add a cryptocurrency. This would end up taking years, and open us up to complaints about favoritism all the way there."
+"PGP allows interoperability between services. If there would be a big competitor to ProtonMail they could easily work together (share access to the public key database) and ensure automatic end-to-end encryption across both services.
+
+Also, PGP is battle-tested for Emails and you can receive end-to-end encrypted Emails from outside the service just by giving out your public key. That again, is interoperability."
+tried those. none of them worked.
+"Here's a sneak peek of /r/privacy using the [top posts](https://np.reddit.com/r/privacy/top/?sort=top&t=year) of the year!
+
+\#1: [NSA Deletes “Honesty” and “Openness” From Core Values Statement on Their Site](https://theintercept.com/2018/01/24/nsa-core-values-honesty-deleted/) | [301 comments](https://np.reddit.com/r/privacy/comments/7sn1tm/nsa_deletes_honesty_and_openness_from_core_values/)  
+\#2: [Theresa May says the internet must now be regulated following London Bridge terror attack](http://www.independent.co.uk/news/uk/politics/theresa-may-internet-regulated-london-bridge-terror-attack-google-facebook-whatsapp-borough-security-a7771896.html) | [761 comments](https://np.reddit.com/r/privacy/comments/6f6wph/theresa_may_says_the_internet_must_now_be/)  
+\#3: [White House Publishes Names, Emails, Phone Numbers, Home Addresses of Critics](http://www.slate.com/blogs/the_slatest/2017/07/15/white_house_publishes_names_emails_phone_numbers_home_addresses_of_critics.html) | [595 comments](https://np.reddit.com/r/privacy/comments/6nm0r8/white_house_publishes_names_emails_phone_numbers/)
+
+----
+^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/7o7jnj/blacklist/)"
+">This is exactly the kind of usecase that the open source (GPL) software product http://Flowee.org is set out to solve. Its likely a little early for the product to be deployed in a production environment, though.
+
+Thomas, what sort of timeline do you think is required before you'd be willing to declare Flowee production ready, and what would it take for you to maybe help /u/protonmail integrate it as part of a pilot? Can the community kickstart this for both the Flowee project and protonmail and make this a win-win for the Bitcoin Cash community?
+
+/u/protonmail I am a long time protonmail customer and Bitcoin holder. BCH has a nascent but quite vibrant dev community since there are so many of us are just old school bitcoiners who want to see the project maximized to its real potential. Hopefully we can all work together to make this a reality and at the same time make everyone better off. I think you have a lot of potential customers here in this sub."
+I will upgrade to full VPN as soon as BCH is available. 
+[deleted]
+Yup. Tuta is on point. Its what I switched to when Proton Mail asked for my phone number over Tor.
+"Hey there and thanks for your hard work on creating the most private email service in the world!
+
+I very much ask you to look at [BIP47 Reusable Payment Codes](https://github.com/bitcoin/bips/blob/master/bip-0047.mediawiki) technology as a way to organize payments from clients to your service. It’s a bit complicated technology to describe in few words but your engineers will definitely be able to fully get it.
+
+Once implemented it will work as follows:
+
+1. You client wants to become a premium member and pay with bitcoin cash (this technology is extensible to natively support all bitcoin-like cryptocurrencies)
+2. He enters his Payment Code inside his account billing settings, and copies yours and adds it as a contact inside his wallet.
+3. He makes a Notification Transaction to your payment code, which you can outright detect and associate with his account **automatically**. This transaction is purely technical and does not carry any value except a tiny (in case of bitcoin cash — negligible) fee.
+4. As soon as the Notification Transaction is sent you can show a green tick as a sign that the setup is finished.
+5. From that moment, you will be able to automatically identify payments from that client, so that he can pay a monthly service fee without even opening your website (you will need to take a possible exchange-rate gap into account though).
+
+From a privacy standpoint, all financial transactions will proceed to addresses that are completely invisible to outside observers. These observers will be able to tell how many clients initiated such a setup though, cause Notification Transactions to the same Payment Code are distinguishable.
+
+As a bonus, you get an option to proceed a refund if needed so you don’t need to ask a client any additional information if a refund was initiated.
+
+You can chat with Justus Ranvier (u/ABlockInTheChain) — the author of this technology, who is quite active on this sub. I hope he will correct me if I am wrong somewhere here.
+
+In my opinion, this is a very important technology both in terms of privacy and usability, and ProtonMail/ProtonVPN can help in promoting it by simultaneously benefiting from it!"
+"No. They explicitly have the requirement that the solution / provider shouldn't be
+
+> susceptible to govt influence (and could be asked to stop accepting for ProtonMail)"
+The new Coinbase Commerce software seems to be what you are looking for.  IT supports the big 4 Crypto's right out of the box.
+"We did a Coinify integration for a 100 million user site and it's quite reliable for the amount of payments we get. They accept multiple different cryptocurrencies like Bitcoin Cash so you can just enable the ones you want. As far as reliability goes the service hasn't gone down, but users have had issues when there's congestion on the BTC network and fees go up so it can take a long time to settle their payments. That's more of a BTC network though and should be eliminated with BCH. Supporting BTC now just causes more support issues.
+
+As far as privacy goes, users can use Tor/VPN or whatever if they really want. Anyway the integration we did didn't really compromise user privacy because we did it inside our End to End encrypted client app. So the client requests a BTC invoice from our API, our API sets that up with Coinify and passes the necessary details for payment back to the client. The client makes payment to that address directly from their wallet. The API gets notified that that invoice # has been paid. The only information Coinify knows is the From BTC address and an invoice number. If users care about disguising their From address they can use a mixer."
+Have you looked into using OpenBazaar? No third party and privacy focused. 
+"Why is ""no PGP"" a bad thing?"
+"Doing it yourself will limit you to very few cryptocurrencies, unless you invest a lot of resources.
+
+Please use a **quick, easy, intermediate solution** that does not meet all your requirements but **generally works**. E.g., using a third-party provider like coinpayments.net or coinbase.com or bitpay.com. **And in parallel, develop your final solution that meets all your requirements.**
+
+This is how Protonmail itself was developed, remember. It was buggy and unreliable in the beginning, and you knew it was, but you deployed it anyway, and worked on improving it at the same time. That strategy seems to have worked, and you now have an outstanding, reliable service."
+/r/privacy wants to talk with you :P
+"> Some have killed crypto support arbitrarily (Stripe with BTC for example), ...
+
+Nothing arbitrary about this, high fees and slow confirmations were the cause.
+
+"
+I mean you commented the same basic thing 3 times.
+"What's wrong with blatant and ridiculous marketing though? 
+
+""Blatant"" means that it is fully transparent in being marketing, and ""ridiculous"" means that it is funny, entertaining or amusing, whether intentionally or not.
+
+Free people market and advertise. There is nothing wrong with that, so long as there is no fraud or dishonesty.
+
+I like BCH, but that premise for a sub is just silly."
+"I like BCH, but I don't get the ""hail corporate"" sub at all.
+
+What's wrong with advertising?
+
+As Deirdre McCloskey would say, ""A free society is an advertising society."":
+
+https://m.youtube.com/watch?v=mkyk7ncuxC4"
+But if that is representative of the ideas of the sub? ...
+"Twice, the way I count it, but fair enough. (Once as a reply, once as a separate comment that should probably be further up in the thread.)
+
+Making allies with people who think free markets are a bad ideas is not in the interest of BCH. I mean, just look at what happened to BTC.
+
+Advertising, marketing, and speaking positively about things that have genuinely improved your life are all good and welcome parts of a free market.
+
+Plus: Simply saying that you don't like that I repeated myself is still not a rebuttal of the point that I believe is important enough to be repeated.
+
+So, would you care to try and offer a rebuttal now?"
+No you're misunderstanding.
+Care to try a rebuttal instead of a downvote?
+"Then that means he/she should have success when posting there about it. You could argue that whether it represents the ""ideas of the sub"" is determined by voting activity, not by what a mod decides."
+"Problem is he's using his privilege as a mod to do it. If he posted it and it got upvoted, that would be different. It's not that he's wrong, it's that his being right doesn't necessarily make it ok to use his moderation power to push a narrative. (Yes, even the correct one.)
+
+He couldn't really say he is much better than the r/bitcoin moderators. (Well, morally anyway. He's definitely objectively factually on the correct side of things.)"
+How so? The sub is criticizing advertising, marketing, and people talking about products that have improved their lives. How is that compatible with supporting a competition-based free market currency? Am I missing something?
+You don't think the voting activity of that sub would indicate disdain for what goes on in r/bitcoin? 
+"I'd hope it would, but there's no way to know for sure if the mod skips that step and stickies it or puts it in the sidebar.
+
+For the record, given the shitty Sybil-able nature of reddit, I support this mod's actions. There aren't really any courses of action against the mods of r/bitcoin other than to abuse your own mod power in response to call them out. Having done so, though, that mod can't argue that he's any better than the r/bitcoin mods. (Or at least not aside from being ""right"", but that's meaningless to anyone who doesn't know which side is right.)"
+I disagree, they aren't censoring opinions or doing anything like bitcoin, simply stickying a post and having it in your sidebar = abusing power?
+"Well now there is a huge difference between just having a political opinion and actually stooping to the level of vitriol and censorship of r/bitcoin haha! 
+
+I agree, it is probably worth it given the state of affairs. "
+"If /r/HailCorporate did the exact same thing but instead condemnted r/btc for ""passing off bcash as the real Bitcoin"" or something like that, would you not consider it an abuse of power?"
+"Video linked by /u/fossiltooth:
+
+Title|Channel|Published|Duration|Likes|Total Views
+:----------:|:----------:|:----------:|:----------:|:----------:|:----------:
+[This Professor Will Challenge Your Perspective on Free Speech - Learn Liberty](https://youtube.com/watch?v=mkyk7ncuxC4)|Learn Liberty|2013-11-26|0:02:55|1,248+ (94%)|58,927
+
+> ""This Prof. will Challenge your Perspective on Free...
+
+---
+
+[^Info](https://np.reddit.com/r/youtubot/wiki/index) ^| [^/u/fossiltooth ^can ^delete](https://np.reddit.com/message/compose/?to=_youtubot_&subject=delete\%20comment&message=due4f2r\%0A\%0AReason\%3A\%20\%2A\%2Aplease+help+us+improve\%2A\%2A) ^| ^v2.0.0"
+Good thread for noobs. 
+The BCH shilling is propaganda by itself though
+That’s not really what that subs about....it’s actually pretty good. They more of point out overtly blatant and ridiculous marketing attempts 
+Uhm. I don't want to disturb your party here but all you need to do is just hold both after the fork and enjoy the show.
+Hail BCH
+"I like BCH, but I don't get this ""hail corporate"" sub at all.
+
+What's wrong with advertising and marketing? And what's wrong with honestly feeling your life has been enriched by a product that someone invented? That's kind of the whole point of markets.
+
+As Deirdre McCloskey would say, ""A free society is an advertising society."" She's right:
+
+https://m.youtube.com/watch?v=mkyk7ncuxC4"
+No, hail corporate is cool. It’s more of a sub that points out blatant marketing attempts and makes fun of them....kinda like r/fellowkids 
+People who demonize marketing 😧. How the fuck do you think people learn about products or possible innovations?
+So it's a subreddit for conspiracy theories? Not bothered enough to check
+Y’all dumb af, Bitcoin Cash is better than Bitcoin. Larger Blockchain and bigger supply mined so far, better difficulty adjustment algorithms, larger block size, lowest fees, much lower wait time for a transaction to go through, and because it’s based on SHA256 just like Bitcoin adoption, wallet creation and moving over couldn’t be easier. Companies that accept bitcoin can accept bitcoin cash more easily. Y’all just a bunch of propagandists. Bitcoin has been bleeding market dominance consistently since 2013. Old tech is what bitcoin is compared to everything else out there now
+"> the point of /r/HailCorporate is to stay neutral
+
+Since when?
+"
+"> bigger supply mined so far
+
+That's actually a bad thing."
+"> Point of propaganda
+
+Exactly what they are doing"
+"""Pointing out bias is great, as long as it's not my bias"""
+"> The fact that the moderator put this up has pissed a lot of people off.
+
+Good."
+He's pointing out propaganda...
+Would you care to try a rebuttal instead of a downvote?
+"Facts.
+
+Fuck Blockstreamcore."
+"It's nice to have the feeling that you aren't actually going insane and there are other people who recognize the level of manipulation occurring here(there?)
+
+The sad fact is that it is working to plan. They barely need to affect conversation anymore. The people just carry on their message, Because now they *believe* in it."
+Wouldn't be surprised if several financial institutions are running FUD PR campaigns to discredit crypto. 
+They wish.
+This is certainly happening, especially  at the exchanges. 
+Youtubers probably spent the funds they earned on crypto 
+Spend and replace! :)
+"Source for that quote? ;)"
+If you order from the US, you got products shipped from the US. If you order from the EU, you get products shipped from the EU. Exceptions are products/services bought through the 'Order Anything' service.
+Bankrupting young
+try openbazar
+Or try Syscoin’s Blockmarket, a “fully decentralized marketplace.”
+It’s a crypto ebay.
+No
+Yeah but I convinced him to accept crypto (it was a Sunday and I couldn't get the amount in fiat together fast enough), he didn't have a wallet or exchange account or anything. He'd just heard of it, and was planning on selling after getting an account somewhere, so it kinda sucked for him.
+yea but its not quite the same
+$25,- Amazon.com giftcards are available on cryptonize.it, here is a link: [https://cryptonize.it/product/amazon-gift-card/](https://cryptonize.it/product/amazon-gift-card/)
+thanks!
+You can on ipayyou.io
+Not really, I already got enough in bitcoin to pay for all semesters of my college, got some back in 2014. In 2017 I got some BCH, will use it for books and any extra expenses. One of my main abilities is managing well my money 
+No but purse.io is better than using Amazon directly, hopefully they'll take Bitcoin cash soon.
+And being lucky. Don't overlook that. You have to be both good and lucky in life, and at times you won't be either. Buying a MacBook is dumb unless you have a high steady income and disposable cash and fat retirement account. 
+I used Overstock.com on two purchases and it was awesome!! No fees either which was nice. 
+The extra ~$300 for the Macbook over a Windows laptop is nothing compared to the 4 year cost of a college education, so I think they'll be fine since they have both covered.
+Buying a MacBook is actually better in the long run. They are a more expensive initial purchase. However, the hardware lasts longer and the Macs hold resale value much better than PCs. A five year old MacBook Air still sells for about $500 on Craigslist. 
+what does luck have to do with Managing Money?
+Buying a MacBook will save them money in the long run. The computer will last longer, it’s more durable, better hardware, more secure and faster software than windows. No need to run anti virus. I’ve bought used MacBooks from 2012 that are in perfect condition and are a great value if you don’t want to go all out buying a new one. 
+How does the verification process work? 
+"Market performance (/ commodity performance) - as in you're fortunate to be up on crypto, but spend like you're not because some day you might not be for a period of time, and being able to ride that out and back to positive returns is essential in the long term. Be frugal and don't take anything you have today granted today or tomorrow. 
+
+That's it. "
+"""Amazing.  Every word of what you just said was wrong."""
+If you are logged into Coinbase already, it’s automatic. Just verify your account, then hit buy. It was so quick and easy. 
+Oh fair enough. Good work though :)
+Try Openbazaar.
+I ordered a product from cryptonize.it the other day before asking this question. Now I wonder if I will have to make a trip to the customs to release it and pay import tax.
+Ahhh. Fuck so now there’s a coinbase record of it. 
+"Please describe your experience, was it fast, cheaper than fiat, anything ??
+
+THanks. "
+**From which country did they send it?** Are you located in the US or EU? Any additional taxes?
+Nice one! I’m saving mine to buy a MacBook for college :) 
+I bought a DJI Phantom, went great but unfortunately it was a couple of days before The Great Crypto Crash ™ of 2017 so I felt kinda bad for the guy (Sent him an extra hundred bucks after the fact). I always hope the price goes up after a sale so the seller feels good about his first crypto sale rather than feeling ripped off.
+enjoy! :)
+Is it any good? 
+I hear a lot about buying things with crypto, but where can I sell things for crypto? Suppose I had a zen pad I wanted to sell, it's basically just eBay or that Facebook thing.
+i do mobile repair, dont crack that lcd!
+Nice
+Such a great feeling. I’ve made $1 invested $10 and it still feels good...in 1-2 day period. Just wanna see another decent dip and get my first whole coin.
+"You can buy Amazon Gift cards on sites like [giftoff](giftoff.com)  and buy stuff on Amazon already.
+
+They accept BCH"
+Can’t wait the day we can use BCH on Amazon :D
+I like ASUS too. Very robust.
+I got a car for +30k$ for BCH when it was at ~$400. In hindsight it was a very expensive car but whatever, I like driving it :)
+Wow u bought such shit with high quality coin
+I mean, he could just HODL and be happy 10 years down the line? :)
+That's extremely nice of you. Don't think I'd be as kind. 
+~~Spend~~ SPEDN and replace! :)
+SPENDL
+Spend till it goes to 0 again
+What is this bitcoin cash shilling about? 
+How much did you overpay for this?
