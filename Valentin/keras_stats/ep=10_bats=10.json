@@ -1,0 +1,16 @@
+{
+  "epochs": 10,
+  "batch_size": 10,
+  "number_files_used": 12,
+  "tanh": 0.5798915028572083,
+  "elu": 0.0,
+  "softmax": 0.6174384355545044,
+  "selu": 0.0,
+  "softplus": 0.4151022136211395,
+  "softsign": 0.5815602540969849,
+  "relu": 0.0,
+  "sigmoid": 0.6036712527275085,
+  "hard_sigmoid": 0.6115978360176086,
+  "exponential": 0.0,
+  "linear": 0.0
+}
