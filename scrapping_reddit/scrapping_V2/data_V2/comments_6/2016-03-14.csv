@@ -1,0 +1,31 @@
+"News flash amigo: one block being downloaded by one node doesn't make it valid. ALL nodes have to get it, which introduces a series of delays as it moves through THE WHOLE NETWORK. How fast a webpage is downloaded from a central server by a single client has no bearing on how a block is relayed through a global peer to peer network. 
+
+Try again."
+Yeah, that's what I thought. Downvote to remove something you don't wanna hear from the discussion, and offer no concrete response at all. 
+"Bug ridden huh? So youve read all the source code and are involved in testing it on test net right? You can pull up the source code and show me these bugs right? Or are you just repeating shit you heard on Reddit having done no research or fact checking yourself at all?
+
+Again, .3 MB is the difference between ""petty bullshit"" and ""real scaling?"" Or are you just going to twist my words around, ignore all my questions, and try and turn this into a long string of comments where you do nothing to actually participate in a dialogue, just monologue and try and control the context of the entire discourse while offering no substantial arguments or facts to back them up and perpetuate this warped idea that anyone trying to attack a technical problem from a technical standpoint is part of some conspiracy to destroy Bitcoin because they won't agree to do what you want them to?"
+"You losing control?
+
+2mb is just the first step toward a larger blocksize. Of course 2mb isn't the ending point.
+
+SegWit is bug ridden, overly complex and not as productive of capacity increases.
+
+Aside from that, it brings many *other* great features to bitcoin and it should be added. But selling it as a blocksize solution is somewhat of a joke."
+"Do you even listen to yourself? ""Petty gains of segwit?"" So the .3 MB is the difference between ""real"" scaling and not? That's delusional warped thinking. So 1 more MB is real scaling? How full of shit about just raising the blocksize once are you?"
+"I am a network engineer with software running in every tier 1 telecom provider and cellular network probably worldwide and many tier 2 & 3 providers.  
+
+Additionally, I am currently working with and collecting data on a network of 8 Bitcoin nodes distributed worldwide.
+
+You are wrong to say that web page download has ""no bearing"", but correct in your implication that propagation is going to take longer then the download of a single page (Please note that I never said that full propagation would take exactly the time to download a single web page).
+
+I don't have time to formally describe a model of block and txn propagation, but you can imagine it modelled by nodes that are capable of forwarding a block to between 2 and 100 clients within (say) 30 seconds.  For example a node with 100Mbits (this would be a node located in a datacenter -- analgous to a web server) could send a 1Mbyte block to 100 clients in approximately 8 seconds.  So just 2 hops (101 datacenter nodes) gets us to 10000 nodes -- in 16 seconds (and Bitcoin Unlimited's thin block technology typically uses 1/15th of the bandwidth, so a BU node can propagate to 100 nodes in 1/2 second on average).  
+
+A combination of ""server"" and ""home"" nodes provides a more interesting picture, which I'll let you investigate yourself.  But you'll be hard pressed to craft a realistic network with over 1 minute propagation times if you imagine that the typical (model it as a bell curve) minimum configuration node can handle about 2MB in 5 seconds -- and this is why the ""average web page"" statistic is so important.
+
+These numbers are so much shorter than 10 minutes that it is simply unimaginable that anyone who spent more than 5 minutes of napkin math thinking about it would not realise this truth.
+
+
+  
+
+"

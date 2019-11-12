@@ -14,7 +14,7 @@
 	| RQ : les la fonction recursive avec limit=None est ultra lente lorsqu'elle est utilisée seule sans prérequis
 	| Convertir la date, sans les heures et les minutes
 	| Trier par dates
-- Faire que les posts déjà traités ne soient pas relancés
+| Faire que les posts déjà traités ne soient pas relancés
 	| Enregistrer la liste des posts dans un fichier texte
 		| Enregistrer l'id ?
 		| Pouvoir supprimer une ligne
@@ -24,3 +24,7 @@
 	| Debug : Afficher nb posts déjà traités, et nb posts traités en cours
 | Récupérer aussi les réponses aux commentaires de manière récursive
 | Faire un compteur de commentaires total dans la base
+
+- Scrapper plusieurs subreddits
+	
+- Créer des fonctions au lieu d'avoir des pavés énormes

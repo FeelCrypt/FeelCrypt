@@ -1,0 +1,159 @@
+Not trying to be critical just learn. There must be some differences in the implementation plans to support it on BCC.
+"Go try it https://github.com/LN-Zap/zap-desktop
+
+you can find many implementations of LN today on github, but do you really want it to be pushed out before exhaustive testing? This isn't vaporware like eth or iota, it's the secure blockchain.
+
+LN entered in feature freeze across 3 of the implementations in august. https://github.com/cdecker/lightning-integration
+
+here's another one demo https://twitter.com/alexbosworth/status/906012516672618497
+
+That question is to wallet providers. They take forever to add features because as they said they are responsible for losing people's money. See how slow tons of different wallets are at even adding segwit compatibility which has been known and in feature freeze for how long now lol - it's not even necessary now, and they also seem to be very careful in the implementation security even for that. From same conference you had several people show comparisons of how much harder it was to code with tx malleability than without.
+
+"
+A bi-directional channel is superior to two one-directional channels. Once a one-directional channel is depleted, it can't be reused and must be closed. Max volume of two one-directional channels is the sum of their capacities. Max volume of a bi-directional channel is many times more than it's capacity.
+Wow. You're pathetic. If your coin truly had intrinsic merit in superior protocols, then you wouldn't need the bitcoin brand to overtake the market share. Instead you wage this campaign against bitcoin that detracts from both sides of the 'brand' that you'd like to overtake.
+"Ah you might be right.  I assumed you would need to send a transaction to lock-in funds to open a channel, and then another transaction to redeem them on the receiving end.
+
+**Edit:** In the example [here](https://21.co/learn/intro-to-micropayment-channels/#the-micropayment-channels-smart-contract) they seem to use two transactions, one to open the channel, and one to close the channel.  Perhaps they've fixed this since then though?  Although I suppose the more important metric would be the size of the transactions in bytes."
+Correct me if I'm wrong, but I'm pretty sure it takes one transaction to open a bi-directional channel and one to close it. Not two to open and two to close like you say.
+Not sure, maybe not.  Since in a bi-funded channel, I assume it takes 2 transactions to open it.  And in a uni-directional channel I am assuming it takes 1 transaction to open channel.  So it would be the same number of transactions in both scenarios.
+"> and you think that these use cases should be free of counterparty risk
+
+This is why you don't agree with L2."
+"Depends what kind of channel.  There are several ways to make these types of channels.  Also I think bi-directional could mean different things.  I think all channels are bi-directional but different types might have different properties. If you look at Ryan X Charles video at the [21 min mark](https://www.reddit.com/r/btc/comments/722kqu/interesting_interview_from_ryan_x_charles_about/) he talks about it ""bi-funded"" channels, not so much bi-directional.  He is talking about having 2 parties fund the channel or having only one fund it.  With segwit its possible to have it funded by 2 parties.  But without segwit its only possible to fund it from one party.  So sounds like there are actually more transactions to open a channel under segwit.  But possibly more channels would be needed without segwit, resulting in same number of transactions opening channels."
+"Whatever, Captain Ahab.
+
+Spend your effort on them if you like. Doesn't matter to me. I'm not a potential new customer either way. The lunatics on the other side of the fence seem to be just as wastefully obsessed with us."
+"> Almost all religions have oppression against women. At this point it's a hard bargain to ask all people who fight for women's rights to be atheists as well. It's not hypocritical
+
+And you say that with 0 proof. You just believe it's true. You're the worst religion of them all.
+"
+"What's propaganda? 
+
+I don't understand lol. How is electrum wallet dev going to know timeline of some level of LN for release? More like confusion."
+Ah ok. I was under the impression that the full thing needed to be downloaded. This does make it easier for anyone to get involved in maintaining a node At 30gb, that's nothing really. You could even plug a USB storage drive in if you were desperate.
+So you can make a claim and it's automatically true because you're GOD?
+Thanks. I'm hoping storage keeps coming down in price as the chain grows and it won't be a problem. I've heard that L2 does have some other interesting features other than scaling so excited to see what comes of it one way or the other.
+"u/therealcalumboo, you've received `0.00226367 BCC (1 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://rocketr.net/blog/2017/09/24/bitcoin-cash-a-simplified-explanation/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+"> Segwit allows bi-funded channels, and non-segwit only allows one party to fund the channel.
+
+And that really is a huge advantage!  Imagine if you had to open an close a new channel every time someone wanted to send a transaction back through your channel.  It would be like having to restart your router every time a website wanted to respond to your HTTP request!
+
+> Plus most people will say you need segwit for payment channels and that is shown to be a complete lie.
+
+Payment channels have been around for a long time already.  But simple payment channels and LN are not the same thing, although LN does use payment channels in a very clever way.
+
+> The entire Lightning Network narrative was bullshit from the beginning. Lightning has been proven to be centralized.
+
+Of course, there's a nice [rebuttal](https://np.reddit.com/r/Bitcoin/comments/6jvdxw/responding_to_jonald_fyookballs_article_on/) to that proof.
+
+> They promised LN in April of some year past, I forget which year now.
+
+It's really unfortunate Segwit was not activated sooner!
+
+> Now according to this very awkward moment at Breaking Bitcoin, its going to take at least 18 more months.
+
+Thank you for posting that video, it has a lot of great discussion!  I think Thomas gave a very honest answer and I hope 18 months is enough time for them to develop LN into a state that can be safely used by the masses.  It looks like it will be well worth the wait after seeing some [early demonstrations](https://www.youtube.com/watch?v=dhpg_8D2FPI)!"
+"> And that really is a huge advantage! Imagine if you had to open an close a new channel every time someone wanted to send a transaction back through your channel.
+
+How is that a huge advantage?  What use cases need to send back in the same channel? Why not open two uni-directional channels instead of one bi-funded channel?"
+"Lightning Network was promised to be finished by April of 2015 I believe.  Core and BlockStream pushed the narrative that it would be ready in April of that year.  That was why we could not have a blocksize increase they said.  That is why XT was ""so contentious"" and could never happen and was ""an alt-coin"" so they had to ban me and everyone else from /r/bitcoin.  Its been years and LN is still not here.  We even have segwit, its not providing much capacity increase, LN is not there and not usable in any form for regular people, probably because the market does not demand LN.  If the market demanded LN it would exist already. I believe in capitalism.  So it was promised in April 2015, now they are saying at least 18 more months.  So we are talking March of 2019 maybe.  I am sure it will be pushed back a lot further, these things always are."
+/u/tippr tip $1 USD for some disk space (8TB costs $140, so $1 buys you roughly 60G)
+"> How many users did bitcoin have two months after its inception?
+
+Like a dozen, maybe.
+
+>How about BCH?
+
+#OVER NINE THOUSAND!!!!"
+Is this suppose to be a point?
+"I was making a point. You're talking shit about something that's only had a month to do… literally anything in the world. 
+
+Therefore your statement was retarded. No matter how bad my analogy was. "
+Nothing you just said makes sense in the least. 
+Confront what? A completely inane and senseless complaint? No thanks.
+No? What?
+Lot of propaganda, the video of the [awkward moment](https://www.reddit.com/r/btc/comments/6zql16/very_awkward_moment_at_breaking_bitcoin_when/) is undeniable.
+Would two uni-directional channels not require twice the number of anchor transactions and therefore twice the fees?
+You are harming the very brand you want to take over. And yes it did make sense you just don't want to confront it. 
+Sure.  I have no interest in layer 2 solutions.  I want everything on-chain.  I have faith that we can scale that way, forever.  I am not interested in fear campaigns based on centralisation.  If there are obstacles we shall overcome.
+"It was a false narrative. I don't see much good discussion happening from your link of the censored forum. Segwit allows bi-funded channels, and non-segwit only allows one party to fund the channel.  Its not that much of an improvement.  Plus most people will say you need segwit for payment channels and that is shown to be a complete lie.  So those people are either completely ignorant because of censorship and propaganda or disingenuous that say so.  
+
+The entire Lightning Network narrative was bullshit from the beginning.  [Lightning has been proven to be centralized](https://www.reddit.com/r/btc/comments/6jqrub/game_over_blockstream_mathematical_proof_that_the/).  Its not a scaling solution although it may have a niche role to play in the market.  They promised LN in April of some year past, I forget which year now.  Now according to [this very awkward moment at Breaking Bitcoin, its going to take at least 18 more months](https://www.reddit.com/r/btc/comments/6zql16/very_awkward_moment_at_breaking_bitcoin_when/).  I doubt many people are taking the small blockers seriously anymore, which is why you see this subreddit growing much faster than the censored one."
+The burden of proof does not lie with me. I'm not talking about a conspiracy. The basics of almost all religions are publicly available in text. All I can say is that I'm not a religion, as you claim.
+"As Ryan says in the video linked, Segwit is not required for LN, but LN is better *with* Segwit.  This was not a ""false narrative"" and has been [discussed before](https://np.reddit.com/r/Bitcoin/comments/5dt8tz/confused_is_segwit_needed_for_lightning_network/).
+
+It's even discussed on Bitcoin Core's [explanation of Segwit's benefits](https://bitcoincore.org/en/2016/01/26/segwit-benefits/):
+
+> * **The Lightning Network:** with third-party and scriptSig malleability fixed, the Lightning Network is less complicated to implement and significantly more efficient in its use of space on the blockchain. With scriptSig malleability removed, it also becomes possible to run lightweight Lightning clients that outsource monitoring the blockchain, instead of each Lightning client needing to also be a full Bitcoin node.
+"
+Satoshi was working on payment channel tach before anyone else and it didnt require malleability fix like everyone has been lying about. Jack Mallers Zap wallet was such a propaganda stunt. Where is it? Why is it not being used? Nothing is ready for Lightning, it was all propaganda narratives.  Just [look at this awkward moment at Breaking Bitcoin](https://www.reddit.com/r/btc/comments/6zql16/very_awkward_moment_at_breaking_bitcoin_when/) to realize that these people are complete outright liars, and they seem to think its cute and funny and want to giggle about how they scammed you.
+"Sorry, but you appear to be so far in the pocket you can't see your way out. 
+"
+"I run a pruning node on a VPS with only 30G disk.  It prunes as it goes, so I never had to have space for the full chain.  It certainly downloads the entire chain, but my node is only able to save a portion of the block history.
+
+I have several full nodes, too, but this one is a pruning node."
+Opening a bi-directional, single-funded channel is one tx. Closing it is 1 tx. So 2 vs 4. Opening a bi-directional, bi-funded channel is two (?) tx. Closing it is 1 tx. So 3 vs 4. Back to (?): If I recall correctly, even a bi-funded channel can be opened in 1 tx by constructing the tx in a specific procedure, although I might be wrong on that, so let's stick with 3 vs 4.
+Less nodes in the network that can handle it, aka, less distributed network.
+Fighting virus is bad in your opinion? 
+I know where you are coming from.  Consider that former /r/Bitcoin users may be new to this sub and the ideas on display.  At first I felt the same way as you.  Then I realised these sort of posts will continue and that its best if they do until the obstacle is behind us.
+"Reddit is nothing else if not a free market competition in ideas, aka memes.
+
+I for one am happy this high quality meme content exists. It sure as hell beats out the 99% of low effort posts with someone just making a weak and ill-informed appeal to emotion."
+Ah you believe reddit support is key to building a global currency. Hmm. OK.
+I used to use Bitcoin, I still do, but I used to, too.
+[deleted]
+"SHow me a prooof of this mythical land where women can't have money just becuase they're women.
+
+Better yet, show me the proof of this mythical country where women want to save money, instead of spending it."
+This happens with a lot of prostitutes, and human trafficking, where the pimp denies them the chance to own money.  Happens in America and other places I think.
+And now I can again.
+I'll buy some stickers from you!
+"What actually happens if you raise the block limit ""too high""?"
+L2 has been existing since the beginning, it is called SPV
+"""poor blockstream""? I don't think I wrote anything like that.
+
+In fact I think by demonstrating such an obsession with them we actually legitimise them. I think it would be far better to take the position that Bitcoin cash is the real Bitcoin and we just ignore what's going on in North Korea.
+
+I certainly don't think we should shut up and go away, but I do think we should stop whining about blockstream when we have everything from them that we could ask for in a competitive marketplace: a fork.
+
+It's like burger king whining that McDonald's burger photos aren't accurate representations. Who cares? Concentrate on the fact that your burgers taste better if you want to persuade customers.
+
+"
+"how do you know it won't work or is unusable if it doesn't exist. satoshi practically [invented](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-April/002417.html) state channels, a predecessor to LN.
+
+Are all these people wrong?
+
+* https://twitter.com/JackMallers/status/905478797612515330
+
+* https://hackernoon.com/simulating-a-decentralized-lightning-network-with-10-million-users-9a8b5930fa7a
+
+* https://np.reddit.com/r/Bitcoin/comments/69q120/eli5_why_do_people_think_lightning_network_will/
+
+plus you got many balancing approaches like https://www.coindesk.com/scaling-lightning-revive-boost-bitcoins-boldest-scaling-plan/"
+">I'm totally one of you, just leave them alone guys!
+
+I've spent way too much time on the chans to fall for this concern trolling."
+High frequency transactions are just gambling, better run on a gambling website, this is already happening today, the place is called exchange, and they can handle millions of trades per second
+So you're new here?
+Exactly.
+So your proof is just talking and hearsay? And moron, males are the main victim of human trafficing all around the world, so WTH are you smoking?
+No, because we want Bitcoin to become currency in the long run, perhaps even a global currency that resists government attempts at its control. That requires the brand to shift from the co-opted cripplecoin/segshitcoin to Bitcoin Cash.
+Lets wait until LN enters the market.  Then we will know if it works or not and how well.
+Yeah and it probably gets a little more complicated still, because its not so much transaction numbers that matter but also transaction size which depends on the number of inputs and other factors.
+"Exactly. What's the current shortage space needed right now to run a full node, nearly 150GB? You can reduce it drastically  by pruning but this means your node will never hold the  blockchain. The node in question does however need to have the I itial disk space to download the full blockchain and then they can start the pruning process.
+
+This is based on a 1mb block. Imagine a 10m block? More transactions per block but more requirements for full node to run. Those nodes are the backbone of Bitcoin.
+
+Thus it would be more difficult to run a full node on laptops or pcs, in terms of resources required."
+Good point.
+(☞ﾟヮﾟ)☞
+"> The fact that hysterical leftists whine about privilege and special pronouns doesn't negate the fact that actual oppression exists in parts of the world. Women being treated as legal chattel and not enjoying the same rights as men is actual oppression. Ellen Pao whining about sexism because her office wasn't in the ""power corridor"" is not in the same league.
+
+So the fact that ""leftist"" complain about poppression is somehow proof that women are opressed because... why? You're the leftist, you're the moron. You just parrot what you hears somewhere, somehow.
+"
+I had a good laugh out of these, but did you get permission to use the photos? 
+Lightning does not need segwit or malleability fix [it was a flase narrative](https://www.reddit.com/r/btc/comments/6qgngo/here_is_proof_that_segwit_is_not_needed_for/).  Ryan X Charles talks about it [more here](https://www.reddit.com/r/btc/comments/722kqu/interesting_interview_from_ryan_x_charles_about/).

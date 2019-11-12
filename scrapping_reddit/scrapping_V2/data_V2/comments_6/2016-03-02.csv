@@ -1,0 +1,45 @@
+"> I also balk at forking just to change to mostly arbitrary parameters. 
+
+> I also balk at forking just to change to mostly arbitrary parameters. 
+
+I'm actually for *removing* the blocksize limit from consensus rules.
+
+> Any alternative that is faster, cheaper, and higher volume, will also have a lower market price than bitcoin because it will be less secure.
+
+That also is ""only a guess"". Security certainly is an aspect for determining value and price, but not the only one. You named some other ones yourself.
+"
+"There has to be scarcity in the block size to remain secure. The system cannot be all-inclusive of all things. There are also technological limitations in how big a block can be before other effects are caused that have even greater impact on a users desire to choose Bitcoin over Altcoin, like centralization.
+
+I also balk at forking just to change to mostly arbitrary parameters. It is a cheap solution that brings inordinate risk.
+
+I understand that you are worried people will choose an alternative that has more throughput and cheaper fees, but that is only a guess. If people are trying to send maximum transactions for the cheapest price, they will gravitate towards a more and more centralized solution to match their price point. 
+
+Bitcoin lives in the far end of the ""secure & decentralized"" side of the spectrum.
+
+Any alternative that is faster, cheaper, and higher volume, will also have a lower market price than bitcoin because it will be less secure.
+
+Bitcoin transactions are BETTER than traditional/centralized ones, thus more expensive and scarce."
+Cool. Something like [Stephen Pairs proposal](https://medium.com/@spair/a-simple-adaptive-block-size-limit-748f7cbcfb75#.cj7zcfqxw) maybe?
+Thanks for clearing that up and kudos for being able to admit to being wrong.
+"> There has to be scarcity in the block size to remain secure.
+
+yes, I'm with you on that, but not at artificially, and not at 1 MB. A market should decide, not Peter Todd and Adam Back.
+
+[A Transaction Fee Market Exists Without a
+Block Size Limit](http://www.bitcoinunlimited.info/resources/feemarket.pdf)"
+"We can just remove the blocksize limit completely from the consensus rules.
+"
+"> Debate better.
+
+ok, I'll try. Sorry for being dismissive before. btw: I'm using **bold** to emphasize points and make my post easier to skim, **not to indicate shouting**.
+
+> I don't understand the problem.
+
+The problem I was hinting at is: **if there is ""real"" transaction demand by ""real"" users (not spam) that *exceeds* the 1 MB capacity, then telling people to ""pay a higher fee"" will not help to satisfy that demand**. You will simply make part of the users pay a higher fee and send the remainder (who payed too low of a fee *compared* to the high-rollers) off to use ethereum or litecoin or fiat or whatever.
+
+**Sending users away *is* a problem in my opinion.**
+
+Can you at least *understand* my point of view?
+"
+Figure a better way of fixing it than changing the 1 to a 2 and get back to me.
+Now we're talking! I fully support finding a solution that changes block size to a function.

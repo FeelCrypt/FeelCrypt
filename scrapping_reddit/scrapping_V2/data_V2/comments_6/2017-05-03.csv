@@ -1,0 +1,5 @@
+That's putting your money where your mouth is right there.
+This is a 500,000$ carrot on a stick
+"Why ""can only be included on the blockchain if the maximum block size limit is raised""? What prevents anyone to include it now in a 1MB Block?"
+It's a tx. The block header takes 80 bytes. The coinbase another ~200. Pushes the block itself over 1MB.
+No kidding, damn hear half a million $... nice work OP. 

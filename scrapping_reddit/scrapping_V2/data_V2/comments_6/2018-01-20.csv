@@ -1,0 +1,595 @@
+u/tipprstats show
+"#### General:
+
+Metric | Tip (BCH) | Tip (USD)
+:-- | :-- | --:
+Total | 0.0775 | 214.0
+Max. | 0.0138 | 40.0
+Mean | 0.00199 | 5.48
+Min. | 0.0000035 | 0.00974
+
+
+#### Top 3 Outgoing Tips:
+
+Sender | Tip (BCH) | Tip (USD) | Count
+:-- | :-- | --: | --:
+ u/ShadowOfHarbringer | 0.0207 | 60.0 | 2
+ u/itiputipwetip | 0.0166 | 42.0 | 2
+ u/Kain_niaK | 0.00922 | 23.8 | 5
+
+#### Top 3 Incoming Tips:
+
+Receiver | Tip (BCH) | Tip (USD) | Count
+:-- | :-- | --: | --:
+ u/PedanticPendant | 0.0424 | 117.0 | 22
+ u/Kain_niaK | 0.0243 | 68.0 | 9
+ u/RBradbury1920 | 0.00792 | 20.0 | 1
+
+#### Top 3 Accumulated Transactions:
+
+Sender | Receiver | Tip (BCH) | Tip (USD) | Count
+ :-- | :-- | :-- | --: | --:
+ u/ShadowOfHarbringer | u/PedanticPendant |0.0138 | 40.0 | 1
+ u/itiputipwetip | u/PedanticPendant |0.00832 | 21.0 | 1
+ u/itiputipwetip | u/Kain_niaK |0.00832 | 21.0 | 1
+
+"
+Hahaha 10/10
+"That may be your problem. Not saying cexio is innocent or anything, but I've withdrawn using their other methods very recently without any problems. 
+
+Banks on the other hand are still using horse and charriot methods which can get lost somewhere and you need a scouting pigeon to find out what's going on with your money."
+There are countless threads just like this about coinbase. For every shady exchange there are 5 more trying to keep up with demand.
+"Have you got any feedback from them? If not, I strongly advise to make an account on BtcTalk and ask for your money over there. 
+
+There is this guy who was waiting for his money for a week and he got them today. It was not as much as you, but you never know.
+
+Anyway, there's is no doubt that there is a serious problem going on with this exchange. There's a user over there who is waiting for 300,000 to be stored to his bank account for over 2 weeks also...
+
+
+https://bitcointalk.org/index.php?topic=2174542.msg27964776#msg27964776
+
+
+My guess is that they are not paying back big amounts and only little ones to keep their game going as long as they can. They keep telling anyone that ""they escalated the issue"" and that ""You will definitely receive your money. The processing just requires additional time to be processed, we will try to investigate with the Finance department on the status of the payment."""
+Exactly. As much shit people like to give the US for crypto regulations and essentially being a tightass I’d trust exchanges located in and regulated by America (esp if I’m dealing in large amounts).  
+Is it too late for a Christmas present for me?
+Overcome my arrogancy? Is that a new one? I've never seen it before. If you actually think you made a single valid point there we're done here.
+"Thanks for that scenario, yes that will probably happen or is already happening with the current credit card system? Who knows, maybe visa or hackers are selling out the information?
+
+Actually i really like the idea of everyone paying a different price for the same good, because wealth is spread out really unfair, that would help the poor to be able to afford a product. 
+
+Which the company could otherwise not sell to the poor person for that price, if the rich person wouldn't pay 5 times as much to compensate...
+
+I am not saying the company is selling at a loss, but the company can sell very close to their production price to the poor people.
+
+I really like that scenario, i really like transparency because it creates fairness and destroys all possibilities for lies."
+Lol what do you do for a living? Not self employed, I hope.
+"Do you actually realize that the price manipulation scenario you are talking about above is being practiced today by the national taxes and the free market anyways??
+
+You can buy the same car cheaper in Portugal than you can buy the same car in Germany or UK.
+
+So if everyone would get the same price, the poor people in Portugal would just not buy the car, because its too expensice...
+
+So they raise the price for the Germans, to be able to lower the price for the other countries.
+
+This is also happening with electricity and internet. It is extreme in the case of electricity.
+
+Eletricity in Venezuela costs 4 cents, in Spain it is 14 cents and in Germany it is 25 cents...
+
+It is the same electricity coming from the same nuclear plants in France (In the case of Spain and Germany).
+
+Oh and while we are at it, did you realize that the miners in Canada only pay 2-3 cents per Kilowatt eletricity??? So yes! There is a difference in price for everyone and it has ever been that way and it must be that way.
+
+I think you have been brainwashed by the Monero propaganda, they make so much marketing to make the people believe that privacy is actually sooo important.
+
+I hope you overcome your arrogancy, atleast this post should help you making the first step."
+"**""Payment Verification is for lightweight client-only users who only do transactions and don’t generate and don’t participate in the node network.""**"
+"Let me see:
+
+- 200GB avaliable? Check
+- Internet connection? Check
+
+And do you know, that may blow your mind, that bitcoin was supposed to work with each user validating their own transactions, to work as a trustess p2p network?
+
+But it seems that you don't care about THAT part of satoshi's paper"
+That's why I'm 100% Ripple and BitConnect.
+!RemindMe 1 year 'LN usage'
+The problem is even in theory it still doesn’t provide zero fee transactions. You actually need to pay for two transactions. One to open the channel and one to close the channel. It works if you have some sort of recurring payment or micro transactions, but is completely useless for buying a pizza for instance. The other problem is your money is tied up for the duration of the lifetime of a payment channel. Lightning network is really no more than prepaying for something and then getting a refund for what you don’t spend. There are some niche scenarios where I think it’ll be a good thing, but for most payments I think it’s more overhead than what it’s worth. Definitely not the silver bullet that everyone seems to think it is. 
+"> zero fee transactions
+
+Free lunch doesn't exist. If median fee is 0, someone is still paying the costs. Low fees? Sure, but a lot of problems with routing and settling"
+in reality you need to make atleast 2 transactions on chain to play with lightning
+"This.
+
+It does have some use cases. Its just not a silver bullet."
+XRB, XLM, and others can do instant micropayments just fine right now
+"Plausible, perhaps... But fact?....
+
+I find it more likely that a for-profit company is pushing LN than the banking system pushing LN."
+">It only needs to be accepted by banks and the elite who stand to profit from it. All they have to do is pump the price, and it wins.
+
+That's why BS is pushing for the LN, to slowly turn BTC into Ripple, but I don't think the BTC holders even care if the LN could ever work, they just want the news it generates to pump up the price so they could sell after they made X10."
+Does LN even hold a candle to xRapid's settlement times?
+I joined reddit to talk about bitcoin.  That was in January of 2013.
+"> But in the meantime they will be proposing a 3rd layer to create a lightning network of lightning networks, which might actually allow it to scale to a million million nodes tops, which could mean Lightning has won their gamble, if they can pull it off.
+
+How can it scale on 3rd layer without a working 2nd layer? That's absurd.
+
+>Meanwhile, BCH will be scaling on-chain and adding value in every way possible.
+
+BCH has to be given the chance to show it scales first. Dash scales onchain and it's nowhere near the BTC market cap."
+">Lightning has to absolutely fail before BCH can take over, meaning its own supporters must begin to admit to themselves that it has failed.
+
+I don't think this is true, more and more businesses and users are adopting BCH, they are not waiting for LN. Bitpay is supposed to add BCH in a few weeks, that will be another good push.
+
+I believe BTC's (and many altcoins) price rise is caused by Tether and Bitfinex, it's pure speculation, people are not investing in tech or future prospects. Tether has been printing USDT at an increasingly quick pace, now they are at 100M per day. I believe this is unsustainable, and the BTC price is going to crash very soon. Miners might then move to BCH because its DAA will give them better profits. This may trigger a chain death spiral in BTC, as more hash power moves over to BCH, BTC becomes slower and its capacity drops, BTC price drops as people try to leave, hash power leaves..."
+"Just add payment channels as an option to BCH and it will have both, then the user can decide what method they want to use.  
+  
+But bitcoin has already said LN is not necessary, so I really don't understand what is happening in that sub right now. Why would they need instantaneous cheap transactions when they themselves have been chanting that bitcoin is a store of value not meant to be spent?"
+I'm not sure their supporters will ever realize in significant numbers...they don't seem to be paying attention.
+"> But in the meantime they will be proposing a 3rd layer to create a lightning network of lightning networks, which might actually allow it to scale to a million million nodes tops, which could mean Lightning has won their gamble, if they can pull it off.
+
+This is just a meme, right? "
+Who said anything about holding? Read again.
+"This is an interesting point to ponder.
+
+It has drastically higher awareness, yet a minority of the total market cap.
+
+That says something."
+Like MySpace? Relax, I'm just kidding. Or not.
+I suspect all miners would want to follow that fork, seeing as how they would mine more coins rather than just collecting fees.
+"Must be:
+https://www.reddit.com/r/mtred/comments/iauqt/in_a_sudden_influx_of_users_mt_red_briefly_hit/c22a56g/"
+Doing research is important. Best of luck! And remember, don't invest more than you can afford to lose.
+[deleted]
+That’s the whole argument from you Bcash trolls. Bitcoin is broken because the fees are too high (you can’t buy coffee with it). If that’s not your idiot logic, tell me, why isn’t Bitcoin “legit”?
+"If you look at the value of transactions over BTC, you can see that over half are over $2,000USD in value. Only a small amount (10% or so) are for less than $50.
+
+Since LN has liquidity restrictions due to channel funding limits, it is reasonable to presume that it will primarily only be used for small transactions.
+
+This means that perhaps 10% of on-chain transactions will naturally migrate to LN. This isn't irrelevant, but I'm not convinced it will actually cause any appreciable reduction in on-chain volume.
+
+If in fact LN does become useful for small transactions, you may actually expect on-chain transactions to increase as a greater number of people may adopt BTC.
+
+For these reasons, I expect high fees to continue to be a problem. However, the security model of LN relies on the ability to settle transactions to the blockchain in a reliable manner. If you can't reliably confirn an anti-cheat transaction, the security model is suspect."
+with the current inflation they are issuing i would say its unlikely that your second point will be viable for much longer 
+0.01 bch u/tippr
+I understand tether but why tron?
+Looks like ETH gets closer to there.
+I think you're inferring that point.  
+"Things were pretty different ""a couple years ago"" "
+"What makes you think they don't think other crypto is useful? Why the ""only?"""
+This is the most obvious and entertaining response from noobs.  You say something about bitcoin and they assume you ONLY hold bitcoin (EDIT: aka only own bitcoin, bitcoin maximalist etc).  Lol...happens all the time on this sub when trying to have convos. No understanding of why bitcoin is a thing.
+Probably the most telling is that bitcoin has almost 100% of the market awareness if they know about crypto currency at all amongst the general population. 
+"> If you add enough decimal places, you can make a crypto currency with only 1 ""coin"".
+
+The ""Onecoin"" guys should have made a currency like this instead of a scam."
+Isn't there a onecoin from like 2013? Or has that died now?
+This. I was waiting for such a response. And don't forget CHAO as well, with a total supply of only 23 coins! If you like novelty cryptocurrencies, then those are must-haves.
+"Scarcity and divisibility aren't the same, bro. Scarcity means finite/predictible supply. Divisibility means ability to split into and reemerge smallest representations of value
+
+Absolute numbers of coins doesn't matter"
+That would cause a hard fork, and only those who chose to follow that fork would be affected. I suspect not many people would want to follow that fork.
+"Everyone abandons it, no one uses wallets or runs nodes or has a back up of the blockchain, you know ""failed"""
+[deleted]
+Good thing I wasn't persuade by others who advised to invest in bitconnect :). I'm glad that I did my own research :)
+I know right?
+XMR is super interesting and I'm just now learning about it, so please correct me if I'm wrong here. My understanding is that you need the entire blockchain forever because spent transactions will forever appear unspent as part of its security feature. Any transaction can be referenced in any future transaction as being a possible source for the coins even if it is not, so it must remain on the chain. It's a genius system, but they may have se scaling challenges ahead of them.
+it doesnt really scale that well though. even fluffypony says that.
+"> Bitcoin isn’t “legit” because you can’t buy a coffee with it
+
+Where did I say that?"
+It's the most profitable coin and it's more scarce than Bitcoin.
+But Dogecoin is actually a good boie!
+Never forget Kin coin
+ReddCoin and Davorcoin here 12/10 did bang
+Hey everybody, look at Mr. long on Tron..
+"lol
+
+10 bits u/tippr"
+"Lightning has to absolutely fail before BCH can take over, meaning its own supporters must begin to admit to themselves that it has failed.
+
+That might not happen for a good while. They are now rolling out Lightning to mainnet and posting about payments. This is likely responsible for current BTC significant price-rise.
+
+They will be able to cast this as a success until Lightning fails to scale, if it fails to scale.
+
+That is expected to happen somewhere between 10,000 nodes and 1 million nodes.
+
+That will take a long time to get to that point. Only once Lightning fails to scale and the congestion problem becomes chronic, do people start to wonder if it's actually a failure.
+
+But in the meantime they will be proposing a 3rd layer to create a lightning network of lightning networks, which might actually allow it to scale to a million million nodes tops, which could mean Lightning has won their gamble, if they can pull it off.
+
+Meanwhile, BCH will be scaling on-chain and adding value in every way possible.
+
+So, what we're facing is a scaling race. 
+
+Betting it all on Lightning is much riskier proposition than what BCH is attempting, and I am a BCH partisan for that and many other reasons, but the game is not decided yet, and who can say how it will ultimately shake out.
+
+There is a lot that can go wrong in Lightning even apart from failing to scale, and they may face significant hiccups.
+
+But the point is, there needs to be a schelling point to create an actual flippening. And it would likely need to correlate to some very public failure of Lightning coupled to a very public success of BCH."
+Long Tron Silver
+Morons read the fud over the past weeks and think it's a shit coin. Couldn't possibly do their own research.
+Thanks :)
+"u/IllegalThings, you've received `0.00001 BCH ($0.019508 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+?
+[deleted]
+">If 2nd layer doesn't offer capability X, but it can provide capability Y, and 3rd layer can provide capability X if it relies of capability Y, then adding a 3rd layer can provide the system with capability X.
+
+Sure, but how is it supposed to work in this case?"
+From a business perspective, it makes sense to accept as many forms as payment as possible, providing the overhead of each doesn't exceed the marginal profit from each.
+)f course there is a big risk investing your money in crypto market but it si also the easiest and fastest way to gain profit on it.if you have less money in this market you will also less chances of getting the best of it.the bigger the risk the bigger the take,just be assure you are in a good platform and study well your trading strategy.It is always you who will decide.Me just standing with Bitfinex platform.
+"Kim Dotcom is a jackass, honestly.  If he supports bch or wises up to how useless btc is that's great but he shouldn't matter anymore.  
+
+Like I really supported him when he was going through it with the copyright stuff but his work making the Seth Rich thing about himself (offering no proof whatsoever) was extremely selfish and shit form.  He doesn't make sense.  He acts like Trump is a huge wild card vs. the establishment but Trump has been a surprisingly standard continuation of the empire.  
+
+It's just kind of a letdown how uninformed he seems to be about certain things and takes every seeming opportunity to promote himself.  I dunno it grinds my gears man"
+"BTC is currently at 34.4% according to coinmarketcap.com
+
+A minority of the market cap does not mean it isn't the largest slice of the pie. It just isn't the majority of the pie."
+That if BTC fails, that it will kill all cryptocurrencies? Yeah, no, I don't believe that at all.
+"Here's a sneak peek of /r/Monero using the [top posts](https://np.reddit.com/r/Monero/top/?sort=top&t=year) of the year!
+
+\#1: [Found In Warsaw - Don't Buy Monero: Cryptocurrencies harm the banking system and can weaken the government](https://imgur.com/BRbT0z8) | [107 comments](https://np.reddit.com/r/Monero/comments/7qbxkq/found_in_warsaw_dont_buy_monero_cryptocurrencies/)  
+\#2: [Monero transactions are about to get 80% cheaper and faster.](http://csnews.io/2018/01/08/monero-transactions-get-80-cheaper-faster/) | [122 comments](https://np.reddit.com/r/Monero/comments/7oy8vx/monero_transactions_are_about_to_get_80_cheaper/)  
+\#3: [Monero is here.](https://i.imgur.com/I5jwIT5.jpg) | [85 comments](https://np.reddit.com/r/Monero/comments/7k1h58/monero_is_here/)
+
+----
+^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/7o7jnj/blacklist/)"
+I really *really* hope this is satire.
+Yes. Google bitfinexed and youll find some points against tether
+"u/Poppejans, you've received `0.01 BCH ($20.55 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+Less people own coins, less secure chains
+Too much stupid in this thread it's embarrassing.
+"I'm not saying there is a solution, I'm just outlining the logical case in which adding another layer allows for a capability that layer 2 was originally intended to provide.
+
+However, for completeness:
+
+https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba96/Scalable_Funding_Of_Blockchain_Micropayment_Networks.pdf"
+Sure.
+https://i.imgur.com/NYu6CEh.png
+Certainly, prices for many crypto are still fairly tightly tethered to BTC. If it failed very soon, do you think it would at least be a forest-fire across the board (forests often grow back stronger after)?
+the level of security of chains is much more about the number of full nodes or diversity of mining pool than number of people owning said coin.
+Sure. Andreas made a great comparison: USD is Titanic and BTC is a zodiac on waves. Well, BTC is new Titanic (since decline of portability) and several open blockchains around it are new zodiacs on ever harsher waves. Let the fittiest win!
+I meant less distributed **and** less secure. Number of non-mining nodes is irrelevant due to Sybil attack, but mining = security. How many exahashes/s secure coins u named?
+"u/laskdfe, you've received `0.0005 BCH ($0.972705 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+10/10 shitcoin Tron
+"you tell yourself that. 
+
+"
+0.01 bch u/tippr
+Thanks.
+"u/nolo_me, you've received `0.00001 BCH ($0.0188539 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+Lol casually throwing out 20 bucks like it's nothing
+"u/nolo_me, you've received `0.01 BCH ($19.56 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+Good grief, thank you.
+On the other hand, for transactions over $2,000 in value a $25 miner fee is not as big a deal.
+u/tippr 500 bits
+"I will be messaging you on [**2019-01-20 18:17:15 UTC**](http://www.wolframalpha.com/input/?i=2019-01-20 18:17:15 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/btc/comments/7rp5gl/the_more_you_learn_about_crypto_the_less_btc_you/)
+
+[**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/btc/comments/7rp5gl/the_more_you_learn_about_crypto_the_less_btc_you/]%0A%0ARemindMe!  1 year 'LN usage') to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! dsz4h1d)
+
+_____
+
+|[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)
+|-|-|-|-|-|-|"
+"I completely accept your correction: it doesn't work even in theory, as this supposedly CS professor pointed out:
+https://www.ceddit.com/r/Bitcoin/comments/7r28o1/andreas_was_wrong/dsuqdqm/
+
+It needs to find all the paths between all the users, and that's still unsolvable. The only known use case it has is for sending recurring BTC microagressions, I mean, microtransactions.
+
+10 bits u/tippr"
+Less sound
+"> I don't think the BTC holders even care if the LN could ever work
+
+No they don't.
+
+News Flash, no one actually cares about much, when push comes to shove.... outside of obtaining more fiat.
+
+The human race and society overall, is corrupt at its core. Society is breaking down, quickly. "
+"Presume capability X is the desired functionality:
+
+If 2nd layer doesn't offer capability X, but it can provide capability Y, and 3rd layer can provide capability X if it relies of capability Y, then adding a 3rd layer can provide the system with capability X."
+"Kim Dotcom just announced he'd be spinning up a lightning payment system for Mega.
+
+Which is weird because he previously said he wanted to use bitcoincash.
+
+This is a scaling and usability race."
+Keep chanting and stop asking questions or we'll ban you.
+"There is actually a paper regarding an intermediary layer between LN and main chain to make a 3 layer system.
+
+https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba96/Scalable_Funding_Of_Blockchain_Micropayment_Networks.pdf"
+Wow this sub is fucking literally retarded.  Holding as in owning...make sense for your lil brain now? Lol
+"> a minority of the total market cap.
+
+wat
+"
+"Miners follow the profitable fork.
+
+If 80% of miners followed the selfish fork, and only 20% stayed on the status quo fork, those 20% miners would become quite profitable as they face no competition from the selfish miners."
+[deleted]
+"Over at r/monero they say it'll be 10x. With 32MB blocks that means effectively you get 3.2MB capacity.
+XMR has its important niche of high level of privacy, but it's hard to make it at a low cost right now."
+"The website says: ""Every tether is always backed 1-to-1, by traditional currency held in our reserves. So 1 USD₮ is always equivalent to 1 USD.""
+
+Is there reason to believe this isn't true?
+
+Edit: I see, most of you guys went to YouTube university and look down on those who didn't. The only useful reply was to google bitfinexed, which made me realise that, apart from a few proper arguments, apparently a lot of people think ""backed 1-to-1, by traditional currency"" means they claim to have a real scrooge-style pool filled with dollars that they bathe in."
+But can you give a reason? 
+"Yea I'm not too sure what the big deal is other than ""It's just a shitcoin c'mon bruh"""
+"Agreed.
+
+Edit: (though there are cheaper alternatives)"
+"> before that
+
+Doesn't matter. Anything that will work great on BTC will work better on BCH"
+The space requirement for an XMR tx is significantly larger than for BCH. It'll improve by 80% in the next version, but it'll still be huge.
+"> Why will lightning even work and be accepted by the market? 
+
+1st of all, there is no market.
+
+2nd, if there were, LN wouldnt need to be accepted by it. It only needs to be accepted by banks and the elite who stand to profit from it. All they have to do is pump the price, and it wins.
+
+Why? Because people are fucking stupid."
+I used to be 100% BTC. Now I'm 100% Ripple :)
+"The only legit cryptocoin in the top 10 is BCH. LTC is Blockstream's little servant, ETH is not a meant to be used as a coin and also doesn't have enough client security. I don't have to tell you about XRP.
+
+XMR has many unique features, but it doesn't scale. The only reason coins like ZEC, DASH, are valued so highly is because of Blockstream's criminal negligence of the BTC project which opened the way for competing coins to contend for its place."
+Becash is not bitcoin
+.com, housing market, crypto.  What do these things have in common?
+Xrp
+Probably, but probably also selling of all Bitcoin Cash and Gold available. Free money to invest in some really interesting projects.
+100% tether here, AMA
+Nice portfolio. I'd recommend you add in some coinye west and dentacoin for diversification.
+Ok, that was a good one. LOL
+"""Mark my words"" lol like you are some sort of crypto prophet?  Probably just got into crypto last year."
+"Ripple just needs a sweaty dude that screams ""Riiiiiiipppppplllleeeeeeeeee!!!"""
+I'd say it's the opposite.
+I sold my BitConnect yesterday, was that a mistake? Buy high, sell low!!!
+This is why mom doesn’t fucking love you
+The market leaders 
+Quality 
+Lol
+How are you still alive?
+Nah gotta go half doge and the other half grumpycat coin
+Venezuelan Bolivar?  Oh wait you're trying to be funny not sad...
+hey if you bought a year ago cashed out a week ago your are a rich man. 
+"LN can not materialize in a year. LN is supposed to be a network of payment channels, with routing and funding. There are many technical, economic, and usability problems here. https://np.reddit.com/r/OpenBazaar/comments/7q65y3/will_ob_implement_lighting_network_features/dstii7r/
+
+"
+Why will lightning even work and be accepted by the market? It sounds like a hideous kludge. Why would anyone use lightning when other cryptos work just fine without all the nonsense steps and 3rd parties required by lightning? Mark my words, lightning (if it ever gets completed) will be ignored by the market, just like Segwit, and it will be a massive failure. The only thing lightning has going for it is a neat-sounding name, and a public that doesn't know enough about it to know how much it will suck. 
+Yes, that is why it is important for BCH to take off before that in terms of adoption. There is no time to waste.
+Add some DBC and you're all set.
+Lmao not true at all
+This is actually true
+They said diversify so I have, Ethereum, Neo, EOS, Omisego, IOTA, RIPPLE, streamr Data, Golem and Aventus. Is it wrong? :(
+"Depends how Lightning pans out, BTC partisans can still plausibly claim Lightning will solve their congestion woes.
+
+If that fails to materials within say a year, we'll be looking for a Schelling point to get out. You will want to be out before that."
+Yeah cuz you register at multiple exchanges and get random airdops every other day, also giveaways and freebies...
+"Not really sure why this is being upvoted, this is basic math.
+
+If you only know about Bitcoin and you buy 0.01 BTC, 100% of your portfolio consists of BTC. If you then learn about another cryptocurrency and buy any amount of that currency, your portfolio is now no longer 100% BTC."
+[deleted]
+100% bitconneeeeeeecttt!!! 
+He's probably only at phase 2 of bitcoin understanding.
+"This has absolutely been my experience. 
+
+Started out with 100% BTC, then branched out into ETH and LTC on Coinbase. Then I added a significant amount of BCH when they added that.  Now I’m starting my full blown shitcoin phase. "
+Exactly! That’s what I have. Close to zero BTC. 
+Very true!  Even my mum has jumped ship and she adored bitcoin.  They have alienated so many people.
+Bitcoin is the most scarce coin out there at 21 million capped supply. Good luck to anyone that passes on the opportunity. When cryptocurrency becomes mainstream there will be so much fomo for Bitcoin you can’t even imagine 
+Yeah right. If the bitcoin blockchain project fails, everything will be right behind it. 
+Only in r/BTC can you read shit like this and get downvoted for having a opinion. 
+No truer words have been spoken
+Stay away from anything that has bit in it.
+Nan Ruiner is a hype machine.
+Bitbean HODL
+Same goes for BCH
+very true
+With that statement he has lots to learn.
+Switch to r/garlicoin
+There's a wave of new promising crypto you can buy for like 100 coins for $1 then a month later you realize it went 100x I mean it's free money all outside the main coins I've made $15,000 from $500 thru jetcoin, sugarexchange and some others
+The only BTC I hold in my account is what is currently being paid out from Nicehash. Other than that, I have zero BTC in my entire portfolio. I actually don't hold BCH, either, but I transfer some from my exchanges to temporary wallets if I want to use it as a currency. As a general rule, though, I don't hold Bitcoin as an investment at all because I think the flippening happens and other more efficient coins become more mainstream. Like raiblocks.
+Lol who is this fag...what a noob
+https://i.imgur.com/SRBdEPj.jpg
+Actually, guys at www.blockchainwhispers.com/tm are now actually suggesting to move from bitcoin completely until it settles
+Another year?! They have been promising LN for too long. I think the BCH flippening will happen in a few months, much less than a year.
+"> 
+> 
+> If that fails to materials within say a year
+
+They themselves recognise that at best we're looking at 18 months, so..."
+Touché
+People downvote over disagreeing everywhere. Crowd wisdom is emergent characteristic of such forums. r/btc is no exception
+"Depends on what you mean by ""fail"". If it sees a slow bleed over years until it's no longer relevant, the ecosystem could be untouched."
+"I don't believe that for a second.
+
+E: I was referring specifically to BTC."
+Some folks with literally trillions of dollars are pushing LN: https://www.youtube.com/watch?v=k14EDcB-DcE
+"Diversification is generally a good idea if your goal is to reduce risk. Nobody knows for sure what will happen in the future, so it makes sense to diversify.
+
+However, there are some to avoid, like bitconnect ;)"
+XRP4lif
+Fucking noobs everywhere
+[deleted]
+I almost agree with you... none of the top 10 coins are legit. They’re all old tech or copies.
+"Let's not shit all over lightning. It sounds like a very interesting idea and if it works it would be beneficial.  However it seems like the major advantages to it are micro payments, which not many (none?) crypto can do right now. Some other crypto could adopt lightning in the future and gain micro payments, but BTC is trying to use it to solve all payments, which seems weird. Regular payments make sense on-chain, thousands of micro payments could use a system like LN to aggregate it all into a regular on-chain payment.  
+  
+tldr; LN could be cool but seems like it's most useful for micro payments."
+Bitcoin can't fail. Unresolved chain split will end, though. Bitcoin Cash will win
+So Bitcoin isn’t “legit” because you can’t buy a coffee with it? Sure thing buddy.
+"BGold is backed by Adam.
+"
+[deleted]
+"Will you purchase CDN ecoin as well? $0.05 for 1 CDN. Which makes sense because Canada only has nickels ($0.05)!
+
+I love beaver."
+Hold my friend we are going to the moon
+"Thanks for the great recommendations! Esp. Dentacoin. I need my teeth cleaned by a ""dentist"" in a ""dental clinic"" in Bulgaria anyway."
+Never forget Dogecoin
+You make it sound much different than the reality of the situation.  Only on /r/btc the anti bitcoin sub reddit lol. It's already beginning to be used and will continue throughout the year.
+LN is a Rube Goldberg machine.
+Tether and Tron hodler here
+"> Why will lightning even work and be accepted by the market?
+
+In theory it provides zero fee transactions, but in practice it's doubtful it'll work even remotely as promised in the next few years because of how hard the problem it is trying to solve."
+The supply cap is software. Don't assume that in the years to come the developers (whoever they are) won't suddenly decide to attempt to increase that. Greed is a powerful thing.
+With a cartoon head and Mexican accent, and subpar grammar
+Meh, Ran has been at it a while. He likes saying stuff like this to get attention. Not long ago he tweeted he was selling everything and opting to only hold BTC. He was lying through his teeth but he said it anyway because he knew he'd get a rise out of his followers. 
+I am sorry but if you think bitcoin is the only useful crypto I doubt your knowledge no matter how long you spent.
+Nope. Go look up 42 coin 
+"My portfolio was 100% BTC until a couple years ago, and I would consider myself very savvy.
+
+Just because you learn about a bunch of other currencies doesn't mean you will invest in them if you are smart. What you will do if you are smart in this market though is not be 100% BTC."
+It's true I agree all these noobs here it's embarrassing what this sub has become.
+name checks out
+I think you missed the point. The more you learn about crypto, the more you realize how flawed bitcoin is, and hence invest accordingly.
+Few months in this feels like years!.. But yup..totally agree with OP, I hold no bitcoin..
+Scarcity is important, but so is portability
+"The problem with your statement is that it infers (but I might be wrong, there was not enough meat in your one liner) that the price progression of Bitcoin will be dictated by it's price progression in the past. I prefer to believe that the price of a crypto-project is influenced by multiple more fundamental factors like the ""health"" of it's community, how it implement changes and adapt, how it attract new contributors, how it integrate and play nice with other existing projects, how it it attract investors etc."
+Bitcoin Cash
+"NEO is 21 million times more scarce than BTC as it isn’t divisible. 
+
+1 NEO = 1 NEO
+1 BTC = 100,000,000 satoshis 
+
+NEO is a sleeping giant. "
+Surprisingly accurate depiction of the enthusiast retail investor. Not a bad thing, per se.
+"LN will be a success.
+
+There are huge forces with endless pockets pushing for it. 
+
+https://www.youtube.com/watch?v=k14EDcB-DcE"
+My own shit is scarce too, I only drop a deuce twice a day.
+"Scarcity isn't really comparable in absolute terms. 21 million isn't even the true number, as the base unit is a Satoshi. There are 100 million x 21 million satoshis.
+
+If you add enough decimal places, you can make a crypto currency with only 1 ""coin""."
+Thank you, Winston.  Bitcoin FIBRE looks like a great way for mining pools to communicate internally, and for performance-critical full nodes like exchanges to get/send blocks with minimal latency.  Thanks for the interesting pointer.
+"Here: https://commons.wikimedia.org/wiki/Commons:Requests_and_votes/Gmaxwell
+
+And description of a specific promotion here: https://meta.wikimedia.org/wiki/Wikimedia_Foundation_organigram
+
+I definitely do not agree about Adam Back.  Adam Back seems to be an incompetent, illogical shill.  At least Maxwell is indisputably a good cryptographer and a capable programmer."
+Breaking news, Blockstream rebrands to Beardstream implements BeardCoin, massive growth expected!
+Volatility is an external factor that can't be controlled.  The others are technology that can be controlled.
+I stand defeated, gentleman.
+They are talking about making it the default
+"That assumes:  
+1. You know the difference between opting in and opting out  
+2. Your wallet software supports opting out  
+3. Your coffee shop's POS software recognizes the difference between RBF and non-RBF transactions  
+4. Your coffee shop's payment processor has decided to accept 0-conf non-RBF transactions
+
+That's a much harder social coordination problem than BCH's status quo:  
+1. Your coffee shop's payment processor has decided to accept 0-conf transactions"
+"Well I'm a knowledgable person in the field and I can tell you he is extremely intellectually dishonest and very short-sighted.  He doesn't understand good software and lacks the vision to see the big picture. 
+ He's too concerned with defending his own little territory he's carved up.  He doesn't like new ideas unless they come from him.  He regularly shoots down the ideas of developers much smarter than him, because he didn't think of it first.  And because he sees power first and control before any other criterion.  If he anoints someone with a ""yes"" for his idea or proposal -- he first needs to make sure that person is very loyal and controllable.
+
+He is shit at actually producing good software.  And it shows. Bitcoin has stagnated massively under his ""leadership"" as a piece of software.  
+
+"
+Their current CEO Adam Back very publicly shilled for the BTG scamcoin which turned out to steal BTC private keys. Some people lost their BTC and BTG because of it.
+"I think he is likely one of the main reasons why BTC is stuck with 1MB..
+
+I am rather anxious he has been fired from Blockstream..
+
+"
+The people working *for* blockstream may have different intentions than the people who invested in and *own* blockstream.  Hiring well-meaning but ineffective patsies while making it so toxic the really smart people leave or stay away accomplishes the intended goal.  Except, the really smart people went somewhere else and started their own projects.
+Ant, what is your current opinion of Greg?
+"Interesting. Resigned in November, but still on the team sheet in January...
+https://web.archive.org/web/20180107004140/http://blockstream.com/team"
+Yep, this is most definitely the case.
+playbook comment: https://www.reddit.com/r/Bitcoin/comments/63dddj/bcoin_being_funded_by_bitmain/
+Remember something else which happened around November. [Blockstream CEO Adam Back first popularized the BTG forkcoin and pumped it](https://twitter.com/adam3us/status/922569768770478080) so that people would use its [official BTC-stealing scam wallets when trying to sell it or whatever](https://twitter.com/el33th4xor/status/935928919391440896). Two of those BTG wallet scams were uncovered in November. 
+[deleted]
+Ha ha exactly!
+"Don't hold your breath. My understanding is that the original code is pretty obtuse. However, it has shown to be secure over the past 10 years - so far only about 5 show-stopper bugs, and 2 or 3 hard forks. Not bad for a continuously-available peer-to-peer network...
+
+Let's just be glad that RBF and Segwit got yanked in BCH. Most of the important refactoring will likely occur on that tree. The new features on BCH are nice - most notably the new address formats and the difficulty adjustment fixes. "
+"> You are not happy that he may have been pushed out? Is this not step 1 of ""operation dragon slayer"" :)
+
+I don’t give a shit, I would actually prefer he keep screwing up BTC."
+No, I think they probably really thought side chains were the solution (and maybe they are) but they couldn't really implement that except in their limited federated way.
+Some of those bugs have been in code that quite literally shouldn't have been in a reference implementation though. Don't worry about arguing about it though, I'm starting to work through what I think needs to be done.
+"You are not happy that he may have been pushed out? Is this not step 1 of ""operation dragon slayer"" :)"
+"***
+u/ShadowedSpoon has [claimed](https://cashexplorer.bitcoin.com/tx/165587dc245065e97a84182a044236867c392e2a2046dbcaa9e6e4fb24e2dba9) the `0.00048624 BCH`| `~   0.91 USD` sent by u/allthebirdstamps.
+***
+^Hi, ^I'm ^[chaintip](http://www.chaintip.org) ^| 
+^A ^bot ^that ^lets ^people ^send ^Bitcoin ^Cash ^tips ^on-chain, ^wallet ^to ^wallet ^| 
+[^(Your keys, your bitcoin)](https://www.youtube.com/watch?v=dnC5mFaIW3Q)"
+"This is a test multi output onchain tip.
+
+u/chaintip "
+Haha.Took me a while. :)
+Nah you’re preaching to the converted here, they already know about bch. Better to spread it to people who have no idea. 
+where'd she get that logo?
+"Did they configure a currency-agnostic accounting/inventory system to unload the stamps?
+
+https://twitter.com/brianchoffman/status/953071350226268160"
+because you're right?
+Even though it was a dorm at MIT, they didn't get that fancy. Post office will buy them back!
+Do they have hyper-deflationary currency at the post office?
+Yes. I have solely engaged in flat rate billing and pure retainers to avoid such issues.
+Im loving the return to grassroots growth
+you guys are so decent. I love this community.
+Lol...... cool comment dude 
+I got my lawyer to accept bitcoin. Had to walk him through coinbase. This was pre-coinbase support. I will drop him some BCH for my appeal. Wonder if the court of appeals will take it for the filing fees? 
+"u/where-is-satoshi, you've received `0.0001 BCH ($0.188829 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)"
+I'm also accept https://www.reddit.com/r/btc/comments/7rme7f/service_date_your_wife_or_girlfriend_with_bitcoin/ but seems nobody interested :(
+Do you run into any issues holding client crypto funds in a trust account for them? I’ve heard some state Bars require you to exchange to USD immediately and then hold it in trust. 
+BTG is scam, with scammy devs who stole coins and pre-mine
+"a chain fork is a voluntary mutual dissociation between network *peers*, between *equal peers*
+
+there is no center to the network, therefore neither side of the fork is inherently the center"
+Is it possible to add to acceptbitcoin.cash something like this https://www.reddit.com/r/btc/comments/7rme7f/service_date_your_wife_or_girlfriend_with_bitcoin/  ? Or I need to create some automatic gateway before this? I think there are no reason do to this automatically, because nobody interested :(
+Congratulations b cash
+"Well crypto is its own property. If they intend for a trustee to hold property in trust for the benefit of a beneficiary, there is no need to convert.
+
+The problem arises when funds are held in a trust account to pay the attorney for services rendered. This is where it can get sticky, where some bars (I am sure) require crypto to be exchanged at that time to be held in a client trust account (to then pay the attorney for fees and expenses related to their representation)
+
+Edit - I have not run into this problem specifically but I am governed by Florida Rules which generally allow it. See http://www4.floridabar.org/divexe/rrtfb.nsf/FV/6D5B076E51CCBC9985257172004C0105"
+Lol! Nice try . Don't steal bro!
+Check out this [announcement](https://medium.com/@freetrade68/announcing-bcash-8b938329eaeb) for what Bcash is. 
+Thank you sir
+Do you have a list of places that accept BCH? I want to get into one of the widely accepted payments coins, don’t know much about BCH yet
+Tip on defaults and explain to people what bch is and how it's faster and cheaper than Bitcoin. Show them it's a top 5 coin after forking just a few months ago because it's what the people wanted!
+Good stuff
+Awesome
+"This is a test multi output onchain tip.
+
+u/chaintip "
+"I’m not in private practice yet, but I wonder if having flat rate billing for some cases help avoid the issue of maintaining client funds in crypto. 
+
+I didn’t clarify but I meant client trust accounts to pay for legal services. "
+I straight away thought “you look like Queenslander” and a bit of googling shows I wasn’t wrong 😊
+Good news for BCH is always good news.
+nice! 100 bits u/tippr
+Scared little guy detected :) You will be punished by bitcoin (cash)
+Bcash 
+"Social media campaign against BCH? Wow, the amount of shit getting spread around here is endless, segwit is a hard fork and the main blockchain is abandoned xD what are you guys smoking? get me some of that.
+Markets have reacted, they've decided ""nah"" since i'm pretty sure etfs will not include bitcoin forks."
+Your point being?
+there's part of you that wants justice and would like to be able to fight for it
+I just had a random thought about you and decided to see if you were still kicking about. Good to see you're embracing bitcoin as Satoshi envisioned. Keep being awesome /u/ToTheMoonGuy. 
+(°◡°) ♡

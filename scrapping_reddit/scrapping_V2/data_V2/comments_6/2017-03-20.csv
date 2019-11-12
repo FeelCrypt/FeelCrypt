@@ -1,0 +1,516 @@
+"Proof of work is why bitcoin works. If you abandon PoW when it makes a decision you disagree with, than you disagree with PoW inherently as a decision maker.
+
+Which means a emergency change to PoW due to 'losing' is simply precedent for changing the PoW for any decision Core might disagree with. Defacto **making Core the decider of 'bitcoin' and not PoW.** If rule by committee is what you think bitcoin is, it might benefit you if you would re-learn about bitcoin.
+
+Not to mention the blatant naked hypocrisy that would be an emergency hard-fork to avoid a hard-fork."
+Emergent Consensus. 
+Wouldn't it be much cheaper to perform an attack on a new PoW? Isn't that the whole point of having so much mining power securing the network?
+"> Exactly, how can it be if it's your only way to survive? That's the scenario Todd was referring to.
+
+You can't equate a state ran attack with a disagreement between miners operating off profit seeking decision making.
+
+Please let me know if you need me to elaborate on why.
+
+Edit:  **Are you making the assertion this is a state financed attack?**
+
+> Yes, most likely
+
+So does the majority chain not have access to GPU's? Why do you think this helps the minority chain?"
+"What is unclear to me is why the dishonest miners can't use the new PoW.
+
+You've not explained that.
+
+I'm trying to point out that there exists no resource the minority miners would have access to that the 'dishonest miners' don't also have access to. In addition, the death of the 2nd coin is actually a positive value to the primary coin.
+
+Therefore, how do you expect a PoW change to fix anything?
+
+Are you assuming Antpool wont buy some GPU's? (for example) Do you have any reason to be assuming this?"
+"SCNR
+
+In my opinion a PoW changed Bitcoin (lets call it BlockstreamCoreCoin BSCC) could have quite some potential at the market, just look at ETC. I would really encourage them to follow that path. But what must be clear upfront, BSCC is not and will never be Bitcoin."
+"It appears that Satoshi was quite wise when designing Bitcoin.
+
+The difficulty adjustment has always been criticized as 'crude' and 'inefficient'.
+
+But it might just be an awesome idea for times like these.
+
+I - by the way - also think that malleability in Bitcoin might be a feature and not a bug.
+"
+came here to say this is a great post. I love to learn
+Emergent consensus. The feature behind BU, Classic, and XT that allows the block size in increase. 
+"Yea, the diff adj is a great argument, but doesn't guarantee there won't be 2 coins.  Core could HF too to block what they see as an ""attack"" on the network.  Things could get messy, that's all I am saying.  I wish we could just lock everyone in a room and not let them out till consensus.  "
+Thanks, I had heard plenty about emergent consensus just never seen it denoted 'EC'.
+"Yes, it will be cheaper, at least in the beginning. But with ASICs out of the picture at that point, it will be very difficult to gather enough hash power to attack effectively. 
+
+Also keep in mind that hash power follows the price, so if the original chain will enjoy the support of the [economic majority](https://en.bitcoin.it/wiki/Economic_majority), it won't be long before hash power builds up again."
+"Not making such assertion. Just pointing out that some circumstances demand POW change. Do you see the difference between forking away peacefully and attacking the other chain?
+
+And yes they could start collecting GPU hash power just for attacking the core chain, but that would be much more expensive. "
+"> What is unclear to me is why the dishonest miners can't use the new PoW.
+
+This would require a new investment from the dishonest miners. And it's an investment they must know is in vain since the precedent would be set that such attacks result in a PoW change.
+
+Don't get me wrong. A PoW change is a big step -- a nuclear option, so to speak. I can understand why it's controversial. It's easy to avoid though. Miners just need to keep behaving honestly and serving the network."
+"Bitcoin is not Ethereum... our difficulty adjusts every 2016 blocks. Theirs adjusts on EVERY block.
+
+Core would have to change their Bitcoin so much that it would make it virtually unrecognisable as Bitcoin. 
+
+Sure, there might be a market for it, as there is for dozens of alt coins. But the overwhelming majority would stay with the longer, stronger chain.
+
+Core devs know this all too well, which is why we can expect them to make louder and louder noises as we get closer to a HF, and then compromise at the last moment."
+I always wondered why the difficulty adjustment was so long. Now I totally get it. 
+"This is why I find any call to change the PoW or the protocol by Core just to get their way is beyond offensive.
+
+Ultimately this is Greg Maxwell's Bitcoin vs Satoshi's Bitcoin, and Satoshi is winning because unlike Greg, Satoshi was nothing short of genius. 
+
+Malleabiltiy is indeed a *feature* of Bitcoin, unless it conflicts with the centralized neo-bank you are trying to create. "
+"Yeah, I know CRC is useless. I was using a shitcoin as a silly example.
+
+If there is a pow fork, the original code would just ignore the new pow as invalid. The new code would use a sha256 to validate all blocks prior to a checkpoint, and the new hash for all subsequent blocks, so chain length is easy. We might wast to have something that rehashes ALL old blocks though and insert it in the the first new pow block so that ancient blocks can't be rewritten if sha256 becomes broken. But I don't see any difficult issues. It was one of my first concerns when I first heard of Bitcoin because crypto hashes get broken regularly and I wanted to be sure it could survive that so I dug into it."
+"Several times, I've thought ""Why in the heck would you do it that way"" but on closer inspection, the choices made were actually really wise. There are only a couple of things I disagree with Satoshi on but it always gives me pause to consider doing things differently."
+"If two different hash functions are used, then there is no comparable way of measuring length.  You are dealing with to completely separate chains, just as you would be with identical code for a version of Bitcoin except for a different Genesis block.
+
+Actually, it's a little bit more complicated, because a longer hash function might be generated out of a combination of the original hash function and an additional hash function.  There is a possible theory here, and something that might be useful to investigate if it becomes necesssary to migrate away from SHA256 due to some kind of cryptographic break.
+
+Proof of work based on CRC is useless, because CRC is not a cryptographic hash function and can be trivially inverted.  See the following article.
+https://en.wikipedia.org/wiki/Cyclic_redundancy_check
+"
+"The ETH/ETC split was a very different thing, and done for very different reasons. That was not a scaling war, but correcting a hack that allowed an attacker to steal a lot of ETH. Some miners did not want to rewrite the chains history and kept mining the original one. 
+
+With the nature of GPU mining as well, ETC was able to split off without much trouble because of how quick difficulty re-targeting is. If 75% hashpower suddenly leaves the 1mb network however, it will take *weeks* for that chain to be usable again without drastic actions from the Core team , seldom producing a block with the now 25% minority hashpower (also dangerously centralized now and totally open to attack). This is why ASIC mining networks are far more robust and decisive than GPU/CPU types (also susceptible to botnets in a way ASICs are not).
+
+Bitcoin's issue is straight up only about scaling, and the very simple change to do that. It is far more a social problem than a technical one. I've argued simply the change in development leadership is more important than just raising the block size at this point. 
+
+
+"
+"I wouldn't be that fast.
+
+First of all, it wouldn't be like other alt-coins, because every current Bitcoin holder would already own BSCC. Second if they manage to bring a huge amount of exchanges and other economical infrastructure on their side, they could end up having a good chunk of the crypocurrency economic, say 10%. That would still be more than a billion dollars.
+
+I for one support the splitting of Bitcoin into Bitcoin (Unlimited) and some (CPU/GPU mined?) BSCC (BlockstreamCoreCoin). It would be a perfect solution out of the current mess."
+So you are saying that what happened with ETH / ETC cannot happen with BTC? 
+"I think this reasoning is bad because it makes sense from both sides. Let's say I hack the code and replace SHA256 with CRC as my proof of work. My CPU miner then bangs out a few thousand blocks, you on the other hand keep mining SHA256 blocks:
+
+From my perspective: Mine is the longest valid chain, so therefore I'm the legit one.
+
+From your perspective: Mine is the longest valid chain, so therefor i'm the legit one.
+
+We are both correct. The question is which one is ""valid"". The miners will continue to mine whichever one they think is valid. That is mostly influenced by how much money the coins are worth on which chain, as they want to make the most money. What the coins are worth is how much the users are willing to pay for them. So the miners are voting on validity based on the projected market of what the users are projected to demand. If there really are two different user bases that want two different things and the market splits into two different products with miners on both sides, then that's cool too. Saying it's not is arguing about which one is the real ice cream, my chocolate flavored or your crappy vanilla. It comes down to a branding issue then, not a technical one."
+What does 'EC' mean in this context? I haven't heard that abbreviation before.
+"> A POW change will make it much more expansive for existing ASIC miners to attack
+
+It equally makes it that much more expensive for minority miners to ... actually make blocks.
+
+> But we are going in circles and I suspect you don't really want to understand. Let's leave it at that. 
+
+I understand everything except how a PoW change stops attacks. That part I don't get at all.
+
+1. Change PoW algorithm.
+
+2. ??
+
+3. Profit."
+Or maybe the first time miners lost millions in an attempt to control bitcoin, which turned their golden gooses into piles of useless toasters, will be a lesson for future attempts.
+"> I don't expect it to be contentious at all
+
+Exactly, how can it be if it's your only way to survive? That's the scenario Todd was referring to.
+
+> Ok, so what would Core's minority chain be processed on? GPU's?
+
+Yes, most likely"
+But unless I agree to your change, my chain will not see yours as valid.  I will go on my merry way without a blip (other than some pest who keeps trying to send me invalid blocks).
+"Because the current big miners have factories full of expensive, high performance ASICs that are designed to calculate the SHA-256 hash function really fast. All those would be useless for the new PoW. 
+
+The new PoW would likely require GPUs to perform effectively. So the miners would have to go out and purchase them, just as you or I would. Big miners tend to be located in areas with cheap electricity prices. They would still have that advantage relative to the average user."
+"I would say exchanges with such bad opsec deserve to die
+"
+"Heh... my Erik.
+
+All I know is that when it became clear that the exchanges had signed something other than what he thought he was signing, he made it very explicit to the community.
+
+For what it's worth, I do agree that many of the top tier Core devs are in a massive conflict of interest situation, that wouldn't have survived even the slightest bit of scrutiny in just about any other area of modern life.
+
+That being said, I'm sure there are Core devs who are not corrupt, and truly believe in what they believe. Kudos to them, but Bitcoin has rules, and whether you like them or not, you have to live by them.
+
+If Core changes PoW, the overwhelming majority of the community will see them for who they are, and they'll just become a sad alt-coin.
+
+It would help if some players were to make that point clear right now. But even if they don't, it won't change the final outcome."
+"True, but they do have a much better understanding of what makes them money.
+
+If BU activates with a supermajority of the hashrate, it will be a matter of days (perhaps even hours) to determine which chain will live and which will die.
+
+And if Core tries to change PoW before, during or after the HF, then the tumbling prices will trigger all sorts of alarms at the exchanges."
+"Yes, exactly.
+
+Ethereum's difficulty adjusts in 1 block, so the minority chain was able to struggle through.
+
+For Bitcoin, it's 2016 blocks.
+
+Imagine Core ends up with 25% of the hash power.  That means miners of that chain have to spend **millions** (out of the goodness of their hearts?? Why would they?) for TWO MONTHS to keep the chain going until a difficulty change.  This is with no capacity increase of course (in fact, effectively a 75% decrease), so transaction fees and confirmation times that are already high go astronomical.
+
+Any miner that is smart and abandons this losing proposition to go back to mining profitably on the majority chain makes that situation EVEN WORSE for all the other miners that are left, so obviously the desire to leave is a snowball effect."
+"It could happen, but it's very unlikely. It would probably require the minority chain to hard fork away, which is why you are hearing core and /r/Bitcoin talk about the fork so much now. 
+
+They're not phrasing it exactly this way, because they need to control the narrative 
+But basically, if bitcoin consensus moves to the validity rules for BU (or any other implementation), core will either need to fall in line or fork themselves off. 
+
+The ETC chain survived because difficulty retargets for more quickly in ethereum. In bitcoin, miners would need to waste hundreds of thousands or millions of dollars to make the minority chain survive. "
+"https://medium.com/@johnblocke/there-will-be-no-bitcoin-split-564f1d60a657#.msgzoqfzl
+
+This is my thought on the matter (just so happens to match John Blocke). It most certainly wont happen the same way ETH / ETC did (IMO)."
+"Exactly what u/Shibinator wrote.
+
+But there is an even way bigger issue than that:
+
+Bitcoin transactions are *protected* by mining hash power. It is impossible for any single entity to create a longer chain than all the other miners combined. So every one has to play by the rules. This concept is called ""Nakamoto consensus"" and is where the 51% rule stems from.
+
+But in the scenario of say a 25% BlockstreamCoreCoin chain, there is another entity out there that has 300% the mining power of all the miners combined: the hash power of the majority chain. For the 10% scenario, the majority chain would be a 900% enemy. 
+
+What would be the consequences? Miners from the BTC chain could sell all their BlockstreamCore coins for BTC, and then rewrite the BlockstreamCore chain to have never given away that coins, then sell them again, rinse, repeat...."
+"> If the 'dishonest miners' out-power the honest ones, how do you expect your coin to keep existing? Willpower alone wont do it.
+
+By changing the PoW to fire the dishonest miners. If that's unclear, I can certainly elaborate. But I have trouble believing it's unclear."
+"Not stupid?
+
+These are people who are putting their companies' logos on documents to indicate their agreement, rather than using public key cryptography. They clearly only have a vague understanding of the technology their companies deal with."
+"> I - by the way - also think that malleability in Bitcoin might be a feature and not a bug.
+
+Why is that?"
+"BitcoinEC is also a client coming out that signals both SW and EC too, just as an FYI.
+
+Happy to help ;)"
+Lol. You should be in politics.
+Totally. In fact, I really think the world only needs one blockchain. Everything else can bootstrap off of it as long as the underlying protocol is flexible enough to allow it. It's like how the networking world has settled on TCP/IP for the most part: It's pretty good and it's flexible enough that I can work with it. Sure I could write my own protocol and maybe eek out a slight benefit for my use, but if no one else uses that protocol, then I'm just hurting interoperability. As long as the underlying protocol doesn't suck, like say, not turning on your your dark fiber because your business model is in charging fees for QoS to your end users and if you lit up that fiber and let the market find an equilibrium you would be less profitable and because currently hold a monopoly there is no competition to provide a better service with you being in a costly-to-enter industry. You know, the business models of Comcast and BlockStream.
+"The evolution of the original client is definitely not ideal in terms of a true ""reference"" client. A lot of it is still to this day pretty hacked together code, Satoshi admitted himself he was a ""gets it done"" kind programmer while creating the prototype. No one ever really went back to rebuild it proper , though there are other implementations like Bcoin and BTCD that are completely new and refined code bases. It seems like one of these would be better to use as a reference client now, definitely now that Core v.14 alters almost everything to add SegWit.
+
+It was a mistake to brand the client and first chain as Bitcoin I think, instead of *bitcoin* in the same parlance we use *linux*, calling the first live chain something else. But I suppose it is far too late to change that now.
+
+I would agree the way the 1mb block was put in place was not very future minded though provisions were added to increase the block size later. Though in defense of Satoshi, block sizes back then were 1/100th of what they are now too. At the time that was a lot of headroom that took nearly 7 years reach. I would guess Satoshi never imagined this whole thing would be such a social battle as it has become, he/they were smart, but no one can predict the future.
+
+
+
+"
+Yes, and miners are free to mine other coins if they think the crowd is treating them unfairly. 
+Jihan is a bigger investor than you and me. 
+">which was originally proposed by Samson Mow.
+
+Gross. I think I've disagreed with literally everything I've seen him say.
+
+Thanks for answering my questions!"
+"It's an answer to your question what circumstances might demand POW change. In the link Gavin discusses the best way to kill the original chain post fork - that's a good example for a scenario that will require a POW change.
+
+> Use quotations when referring to someone else's words
+
+?"
+"So dishonest miners build a million-dollar gpu farm and it's not profitable 
+
+Honest miners buy home-based gpu rigs and it's profitable
+
+How does that possible ly work?"
+It's simple. Honest miners mine valid blocks. Dishonest miners mine invalid blocks. Only one gets to keep the block reward.
+Definitely on both points. The block size limit was just a bit naive, expecting people to behave sensibly so I find it hard to pick too much fault. If it hadn't caused so much friction, it would hardly be worth a mention. 
+"You bet. I'm no fan of the guy either, but the ""Core camp"" certainly supports him, and if that's what it takes to get EC, I'm for it."
+"> In the link Gavin discusses the best way to kill the original chain post fork - that's a good example for a scenario that will require a POW change.
+
+Why does it require a PoW change? What problem are you solving?
+
+> ?
+
+You linked to Gavin's statement and didn't explain what about his statement you found actionable.
+
+Now I think you mean that if the majority chain were to try to kill the minority chain, you would feel like changing the PoW on the minority chain is a valid action.
+
+Now I'm just confused as to what you think will be accomplished."
+The funny thing is that Satoshi put the limit there to prevent miners from attacking the network, which ended up being used against the network anyway as a political chess piece. 
+"I think if we need to court Core's support to move forward, this experiment is a failure.
+
+https://www.reddit.com/r/btc/comments/60g3fw/lukejr_poll_which_of_these_outcomes_are/df6bdx4/?context=3"
+"> Why does it require a PoW change? What problem are you solving?
+
+A POW change will make it much more expansive for existing ASIC miners to attack, so it is solving the problem of ... being attacked. But we are going in circles and I suspect you don't really want to understand. Let's leave it at that. "
+"I'm torn. I certainly don't believe we need Core's support, this ""revolution"" is happening with or without them. However, I also wouldn't be upset if they conceded into supporting EC. I would be concerned about them leading the efforts on anything, but EC is really all that I want (and a malleability fix after). I don't really care who provides it, I'm in it for the idea."
+Ethereum will launch Raiden (their LN) on top of an unlimited block size next month. Tell me how Core wants to compete against it. Hash power within ETH climbed massively (read: security!) and market cap is already at 25% of Bitcoin. Why some Bitcoiners can not see, that the writing is on the wall is astonishing. Cognitive dissonance, confirmation bias much?
+"Only if THEY are not respecting the rules defined in the whitepaper.
+
+Bitcoin is neither a democracy nor a meritocracy. It's simply one hash - one vote.
+
+But that doesn't mean that miners are in the lead. They ALWAYS are followers (incentivised by greed). The leaders are investors like you and me. And decentralization comes into play not within ONE special crypto-currency but the crypto landscape as a whole. You should read upon currency competition (as the purest form of decentralization)."
+"Is that a no?
+
+Please elaborate on what you mean. The best I can interpret is you think what you linked answers my question, but I don't know how.
+
+I need you to explain your thought process.
+
+Use quotations when referring to someone else's words so I don't have to make wild guesses as to what you think is topical."
+No they aren't.  All mining equipment to date is estimated at around $2B.  The sum of all investors are much bigger than the miners' investment... 
+"> Just pointing out that some circumstances demand POW change.
+
+**I can think of two.** A state financed attack by non-bitcoin-profiting incentives. (goal is to destroy bitcoin for example)
+
+And some security issue with the current PoW. Some issue with SHA256 as it relates to the future of bitcoin security.
+
+**Can you name any others?**
+
+> Do you see the difference between forking away peacefully and attacking the other chain?
+
+I see two coins as an existential threat to the each-other. I assume you do too.
+
+> And yes they could start collecting GPU hash power just for attacking the core chain, but that would be much more expensive. 
+
+For whom?"
+"> This would require a new investment from the dishonest miners. And it's an investment they must know is in vain since the precedent would be set that such attacks result in a PoW change.
+
+They can resell used GPUs. They could mine alt-coins. They have just as much of a financial incentive to kill coin 2 as the minorities miners have to keep it alive imo.
+
+More maybe.
+
+> Miners just need to keep behaving honestly and serving the network.
+
+Wishes and happy thoughts is fundamentally not a governance system with long term prospects. Be realistic.
+
+That's why PoW was such a big deal when it got invented."
+"> This would require a new investment from the dishonest miners.
+
+And it wouldn't from the ""honest"" miners?"
+"> the precedent would be set that such attacks result in a pow change
+
+How? If the new gpu-minable algorithm gets attacked, and they move to a new gpu-algorithm, so will the attackers. You get even more fractured forks of core that are just as (or more) vulnerable.
+
+The beauty of sha256 asics is that they can only do bitcoin, and forking away the pow could drastically reduce their mining income and make the hardware useless. But gpu mining has no such downside - miners simply go to whatever makes them money (eth, zcash, lbry, paycoin, litecoin, monero, etc) and leave a trail of pump-and-dump carcasses behind"
+"I don't know... Here's how it my play out in my opinion, and I think a PoW change might actually be a very good idea (or the only idea) in this scenario:
+
+Core is very committed to SegWit and LN. We know that. That's where all there marketing has been going for years. And it's not really a bad idea either and there is certainly demand for a rapid and extremely scalable transmission layer backed by a blockchain. So let's say there is a hard fork to BU and only pretty much their own miners are still on their chain. They are no less legitimate as long as miners and users are following that chain, they are just different. They will likely need to manually reset difficulty with an update, but they can feel free to keep working on that chain. I could hard fork myself today if I wanted to and put my miner on my own chain and there is no one who can stop me nor should there be. But there is one problem with that. My mining potential consists of a few GPUs. Let's say people actually love my fork because of the features and they start using it. How much of AntPool's capacity would it take to absolutely obliterate my burgeoning chain with 51%? With my capacity, probably a single 1U in a rack somewhere. Only option would be to change PoW to something else... especially when there are a lot of pissed off people who hate my fork, not for any technical reasons, but because everyone called each other names on the internet for 2 years.
+
+If the miners follow BU and their dev team doesn't want to follow the miners, that's really their only option. And if an alt coin wants to have at least a lingering slightly successful existence, having a huge base of people already holding their coins and offering some compelling features that aren't in any coin yet with LN and using a mature codebase that is pretty trusted is a good way to do that.
+
+That said, I think it would just be Ripple 2.0 if they did that, but good luck to them. At least my transactions will start going through on the bitcoin blockchain again in a reasonable period for a reasonable fee."
+"I know that very well, I post the same dozen times for clueless folks. That is why I wrote ""PoW changed Bitcoin (lets call it BlockstreamCoreCoin BSCC)"""
+What are the things you disagree with? Genuinely curious
+"https://bitcoinec.info/    
+https://github.com/bitcoinec/bitcoinec    
+https://www.reddit.com/r/btc/comments/5zyc71/viabtc_glad_to_see_bitcoinec_an_implementation_of/
+
+/u/blocktracker is leading the effort, which was originally proposed by Samson Mow."
+It prevents a multi-hop trustless off-chain payment network. Which means it creates a certain pressure for on-chain transactions to happen. And on-chain transactions are what pay for Bitcoin's foundation - POW security.
+Who is developing that client? Any overlap with the Core developers?
+"> Can you name any others?
+
+Here is Gavin brainstorming on how to KILL the bitcoin chain post fork: https://archive.is/zjvh1
+
+"
+"> And it wouldn't from the ""honest"" miners?
+
+Yes. The difference is that for honest miners, mining is profitable."
+Ah... but you're forgetting this is Open Source. If Segwit is a good idea, BU can incorporate it.
+"BS Coin?
+
+Sorry, couldn't help it."
+"Well, the main one is the idea of the software as the specification. That kinda worked for BitTorrent and I think that's where he got the idea from but it doesn't really work for something like bitcoin. (It might have sort-of worked if there had been a true minimal client and a full client in existence but there was and is not)
+
+The other one isn't really so much a disagreement but it's how he implemented the block size limit as a simple limit when he didn't (in my opinion) intend it as a long-term thing. But that's been covered to death elsewhere."
+You are free to chose another coin if you think miners with their big investments are treating you unfairly.
+"> They ALWAYS are followers (incentivised by greed). The leaders are investors like you and me.
+
+But the miners are bigger investors than you and me. "
+"Hmm, some exchanges are run by folks that still have no clue how they have been hacked. Some are owned by Blockstream, so they would even ignore a 99.9% argument...
+
+And BTW, your Erik is always still giving BlockstreamCore the benefit of the doubt, even when everyone and his grandmother does already know their real motives. Don't wonder when one starts arguing that he is just a Blockstream shill."
+What irony? /s
+"> so the current set of aggrieved miners wouldnt have a significant advantage.
+
+Why? Be specific. It's not obvious to me."
+From what I read, they only want to change the PoW algorithm in case they are attacked as a minority chain. Looks like this new drama is blown out of proportion a bit...
+Agreed.  I absolutely prefer SF options and really want SegWit activated, but the talk of changing the PoW will be a disaster.  I honestly think it will simply create 3 coins instead of 2.
+Beautifully said!
+Wow.. where did you come from? Great post!!
+"> Defacto making Core the decider of 'bitcoin' and not PoW.
+
+If none of us run their code, it doesn't matter. But you know what? Most of us will be running their code.
+
+For us, the rules matter, not the miners. If the miners choose to ignore the rules, then we will ignore the miners with one simple phrase:
+
+*Bye, Felicia.*"
+"Technically, they do have a choice. They could reach some kind of compromise... or they could (very belatedly) come through with what they agreed to in HK.
+
+If most miners and exchanges put out a message RIGHT NOW saying any change to PoW will turn Core into an alt-coin, the Core devs will likely compromise."
+Can someone explain to me why would the minority chain die after an hard fork? Doesn't everyone continue on his road? Yeah, it would basically create two bitcoins, but isn't that what the blockchain is all about, consensus?
+"Note that Todd supports a change of POW _only_ if miners are actively attacking the minority chain. He doesn't consider a BU hard-fork an attack, but attempts to reorg and mess up the original chain post fork will leave no other choice and it only makes sense to be prepared. 
+
+> Having said that, _actually_ changing the PoW is a high-risk move; IMO best to only do that if an attack actually happens. https://twitter.com/petertoddbtc/status/843450186416365569
+
+
+> Unlimited is _not_ a 51% attack by itself. However some have proposed to _also_ attack the Bitcoin chain by mining empty blocks and reorgs. https://twitter.com/petertoddbtc/status/843455556753014784
+
+
+> I'm talking about proposals to _actively attack_ the Bitcoin chain, e.g. w/ reorgs; BU by itself is _not_ a 51% attack. https://twitter.com/petertoddbtc/status/843845222291460096
+"
+Why? I honestly don't think a >50% is likely to happen. They could take this chance of only change the difficulty and would likely survive.
+Just curious, does that mean you dislike EC, or dislike BU (genuinely curious)?
+Prevent an HF by doing an HF :S
+">""We're going to fundamentally alter what makes Bitcoin Bitcoin
+
+Isn't that pretty much what they've been doing this entire time, with literally everything? To the point that they've described Satoshi numerous times now, as a shitty programmer who scribbled some out of touch nonsense on a piece of white paper years back?"
+good one!
+"I don't think you understand my question.
+
+If the 'dishonest miners' out-power the honest ones, how do you expect your coin to keep existing? Willpower alone wont do it."
+because he speaks the truth, an unpleasant event for some people or lost the touch for reality. 
+I'll get it printed on a t-shirt, it'll get me all the ladies.
+Yep. This.  Upvote.
+It should be called Proof of Core
+"""Proof of work is why bitcoin works. If you abandon PoW when it makes a decision you disagree with, then you disagree with PoW inherently as a decision maker.""
+
+This should be emblazoned in golden letters somewhere... paging u/evoorhees and u/andreasma"
+So tired of drama queen BS from Erik. Why do yo7 guys worship this pitboss jackass? 
+BlockstreamCore actually does have no other choice. Without a PoW change their minority chain would 100% guaranteed be dead.
+I'm a core supporter, but I think I have to agree with this.
+"""We're going to fundamentally alter what makes Bitcoin Bitcoin in order to protect Bitcoin from that pesky alt-coin that isn't Bitcoin""  :-)"
+"[Erik Voorhees](https://twitter.com/erikvoorhees/status/843840537979445248)
+
+> I don't support anyone ""attacking"" other chains. **It's evidence that one has lost the argument...as is changing POW.**
+
+-
+
+>I don't support attacks either... but **I worry many would consider the 51% HF itself to be ""an attack""**
+
+-
+"
+"Don't agree with everything Erik says, but he is a voice of reason and understands what everything is about.
+Would have been a lot smoother, if more ""core supporters"" would have acted like him..."
+They've been publicly toying with the idea for more than a year, plus this was super predictable.
+i think some people are getting red pilled. 
+"I think we don't need to panic.  If they do it, they have already lost, and it's just a last-minute attempt to create an altcoin so they can continue living out their own delusional reality on some other chain.
+
+I welcome it. "
+[deleted]
+Core: If miners don't go along with our crappy solutions it means it's a 51% attack. 
+I don't find it 'so' absurd. They'd have to change the difficulty, what's a non backward compatible change concerning wallets anyways, so why not change PoW as well and guarantee their immunity against a >50% attack? Yes there's the major problem of ASICs, true. But it is not their problem, they don't seem to care. They'd be safer this way.
+Another gem from the Toddler.
+"Well, luke-jr goes his own way.  No one can control him.  It's easy to understand why the miners and BU fear him.  
+
+As long as Bitmain, the miners, and BU take luke-jr into consideration during their strategy sessions, they have no reason to feel guilt, regardless of the outcome.  They will have tried their best, with their eyes open."
+Is the proposed change in PoW being lauded at North Korea?
+"I find much more absurd that all the ""bitcoin luminaries"" like Erik Voorhees are utterly clueless and still cling onto every nonsensical piece of bullshit the core spawns. Grow some fucking balls and discard those core functionaries. No, you idiots still somehow trying to find ""compromise"" and sign some industry letter dictated by blockstream. Disgusting."
+What about changing the proof of work to protect your altcoin from being attacked?
+I really hope someone is taking super detailed notes on this schlemozzle. this would make for a great movie. 
+"note that Luke-jr is specifically afraid of this because it is something he would do.  Scratch that...it is something he has already done by unilaterally using his mining pool to destry coiledcoin without his miner's permission.
+
+  Luke is/behaves exactly like a religious fundamentalist in his promotion and defense of what he believes bitcoin should be.  If Core was the Catholic church, Luke would be the spanish inquisition."
+"> but attempts to reorg and mess up the original chain post fork will leave no other choice and it only makes sense to be prepared. 
+
+I find the willingness to abandon the very invention that made bitcoin possible to be short sighted. If you change the PoW because you lost you never followed PoW to begin with. **Without PoW what is there?** What has become of the political decision making process once you abandon PoW?
+
+From a technical standpoint what possible PoW change could they make to prevent an attack? If they lower the difficulty they are going to get 51% attacked. If they change the algorithm entirely, to what? What stops the majority chain from just using the new PoW algorithm to attack the network?"
+One of Bitcoin's value proposition has always been that it's the most secure cryptocurrency network. If Core changes PoW, that argument goes away for that fork of Bitcoin.
+"I got distracted by the great meme war of 2016. I avoided bitcoin discussions and subs due to the lack of progress being made, but I see light at the end of the tunnel so I'm participating again.
+
+"
+"Well.. welcome the fuck back!! I am really enjoy the thread or yours with /u/bahatassafus
+
+I'm just hoping you don't turn into one of those people ;)"
+"You do need miners. You need honest miners who enforce the protocol rules. Dishonest miners need to be fired so that honest miners can do the work of securing the chain.
+
+If a PoW change is needed, it's likely to be a mess, but it's preferable to having a coin controlled by dishonest miners."
+"I'm not sure how that undermines anything I said.
+
+Which PoW could they switch to where they can't be attacked? Serious question. What are they solving?"
+"> so they are taking steps to legally bind every company to them
+
+What's the point? Can't you see that bitcoin is irrelevant, if that's what it is?"
+"It's also worth noting that miners typically operate on pretty thin margins. Cutting there revenue to 25% will likely mean that they are operating at a pretty large loss.
+
+Since most miners are large companies or cooperative pools, you can bet that the vast majority of them will switch to BU almost immediately, which further slows down profits for the hold outs, which makes them even more likely to bail, and on and on and on, until no one is mining BTC-c.
+
+I would be pretty surprised if they ever hit the next difficulty reset. Especially if BU miners are intelligent enough to initiate the fork immediately after a reset. If they have 75% of the hashpower, they will only need 2 and a half weeks to reset, assuming no core miners switch (which they obviously will)."
+"Bitcoin mining is designed in such a way that there cannot be a minority chain, because the majority chain hash power could always double spend and completely rewrite the block chain of the minority chain.
+
+In other words, two Bitcoin chains are impossible.
+
+The current situation is similar to the hard fork from Bitcoin 0.7 to Bitcoin 0.8. No one continued mining the Bitcoin 0.7 chain after a few hours."
+"Makes sense, I appreciate your opinion. 
+
+I personally believe the solution to scalability is EC + LN + SW(or FT). I'm not specifically pro BU, but pro EC. BU to me is only a means to an end. I personally wish Core would implement EC, even with SW signaling.
+
+To me a fork to 2MB only still does not solve the overall problem, and if we continue to grow, we will just be in this same position again with the base block size."
+I do just want to drop by and point out that lightning network is different and distinct from bitcoin. Lightning does not equal bitcoin. Payment networks are awesome and one of the primary value props of bitcoin, but they are not bitcoin in and of themselves. 
+Do you understand how markets operate? Bitcoiners are flocking to Ethereum now in ANTICIPATION of Bitcoin being the MySpace of the crypto world. No one is or should be afraid of a fork. If anything, an actual fork would resolve the situation and would lead to new confidence (and value) within the Bitcoin network.
+">there is a real chance investors will flock to Ethereum during the chaos, dethroning BTC's top marketcap.  
+
+This has already happened.  There's a reason the price was crashing this week. I know numerous people that cashed out a chunk to go buy ETH. 
+
+Andreas blog post suggesting Bitcoiners diversity to coins ""that can actually evolve"" is what kicked me over the edge a couple days ago.  So I did it myself. 
+
+Now it's literally ""every single day this drags on, ETH grows, and BTC shrinks"".
+
+We are already at that stage."
+"Again and again, it is being confirmed that all those core supporters have no clue how Bitcoin works, how forks happen etc.. just repeating senseless drivel after their self-appointed ""experts"" with deity status in r.Bitcoin.
+
+battbot, I do mean no offense to you personally, but it is how it looks like. You are simply wrong. You say words and you do not understand their meaning."
+"""And I'm not sure about the universe""."
+The irony.
+"He did not.  
+
+The exchanges provided some clarity.  Someone with a scrap of objectivity would see that it was just an acknowledgement of reality.  They will list BTCu if it is dellineated (replay protection) and will continue to trade BTCc.
+
+That is good for BU.  
+
+You are just crying because they didn't hand over the title of One True Bitcoin based on an oligarchy of hashpower.  "
+In this scenario we are outside of Bitcoin's premise of 51% honest miners. If it doesn't recover on its own then changing the PoW will do nothing except maybe get some time until the next take over.
+"> What if the Chinese government takes over all the mining farms and start mining empty block only? Will you consider a change of POW algo short sighted? 
+
+I beleive economic incentives will drive the majority of the profit seeking hash rate to come up with a solution. It might involve a change to PoW (though I can't imagine what exactly) to cut out the state interference. I don't expect it to be contentious at all. Smooth is probably too much to hope for, but not contentious.
+
+The economic value will follow the 'minority' chain if it comes to this.
+
+> ASICs can't adapt to new algos, that's the whole point
+
+Ok, so what would Core's minority chain be processed on? GPU's?
+
+What do the miners on the minority chain have the the majority chain doesn't?"
+I didn't want to assume there was no solution, but I sure as hell can't think of one.
+"They would likely switch to one of the ""memory hard"" PoW functions. They could still be attacked, of course, but it would require new investment in mining hardware, so the current set of aggrieved miners wouldnt have a significant advantage."
+There isn't one. You can't secure a billion dollar network with thousands of dollars of mining. Which is what they intend. It will be trivial to attack by botnets etc.
+"Yes, but the exchanges are run by people (people like u/evoorhees, not incidentally), who are not stupid and can very quickly figure out what's going on.
+
+A fork in which 80% of the hashrate takes a stand is a pretty forceful and conclusive argument :-)"
+"Read those posts:
+
+https://www.reddit.com/r/btc/comments/60gtdn/erik_voorhees_changing_bitcoins_proofofwork_to/df69yva/"
+"> If you change the PoW because you lost you never followed PoW to begin with
+
+What if the Chinese government takes over all the mining farms and start mining empty block only? Will you consider a change of POW algo short sighted in such case? 
+
+> What stops the majority chain from just using the new PoW algorithm to attack the network?
+
+ASICs can't adapt to new algos, that's the whole point"
+"Don't underestimate Blockstream.
+
+Blockstream knows better than anybody else that their minority chain would be dead on arrival, and so they are taking steps to legally bind every company to them.
+
+Why do you think they tricked those exchanges into giving them some sort of blank check to blindly follow BlockstreamCore?
+
+"
+There are already almost 50% signaling for larger blocks. That number is likely to grow in the next weeks.
+"I am against BU primarily because the way things are now, it would 100% result in a contentious HF and 2 coins.  Which one will be ""BTC"" after is unclear... and there is a real chance investors will flock to Ethereum during the chaos, dethroning BTC's top marketcap.  
+
+I am not necessarily against increasing the blocksize to 2mb.  That being said, increasing the blocksize to 2mb is not a solution to scalabiltiy.  Segwit + LN actually is.  "
+"""Two Things Are Infinite: the Universe and Human Stupidity""
+
+(Einstein)"
+"And without miners your node sits there and does nothing. 
+
+So I guess, *bye motalicia*"
+[deleted]
+"How do you secure your coin without miners?
+
+Serious honest question. I don't see any security without miners. Without security... why does your coin have value?
+
+Your coin has a lot more value dead than alive it appears to me. Speaking from a realpolitik standpoint."
+Just a few days ago he was cheerleading for exchanges to stick with 'core' btc. He's an attention-whore, and a shady personality who got rich via shady methods. He never calls out /r/bitcoin mods for censorship and he never calls out core for supporting that censorship, and he still participates over there. I've lost all respect for him.
+"This hasn't been the case for a long time. While Bitcoin has the largest hashpower, it is mostly wasted on waiting for the next block. So Ethereum with 15 sec block times is actually more secure than the physically stronger Bitcoin with 10 min block times: https://eprint.iacr.org/2016/555.pdf
+
+TL;DR:  37 Ethereum confirmations (a.k.a. < 10 minutes) are equivalent in security to 10 Bitcoin confirmations (a.k.a. ~ 1.5 hrs)."
+"The majority of users support SegWit from my perspective. It's rare for me to find someone that supports BU especially with their recent fear tactics they've employed to diminish BTC.     
+It's not surprising that miners would support BU because BU will not have a lightning network (bad for miners, good for users)."
+Can. But don't in this case. So it basically makes zero difference.
+Then you'd probably best oust the toxic Blockstream/Core/Theymos alliance ASAP.
