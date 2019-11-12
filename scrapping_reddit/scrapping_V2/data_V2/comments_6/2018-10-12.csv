@@ -1,0 +1,1048 @@
+"This article is a great explanation of liquid. 
+
+> it isn’t possible to improve liquidity while maintaining full decentralization and trustlessness. So Blockstream cheerfully compromises both of these prized features. It appoints a small group of trusted institutions to validate transactions and submit them to the main Bitcoin chain.
+
+> A “Strong Federation” is a cooperative of market participants – called “functionaries” – who collectively validate transactions. Unlike Proof of Work, ... the paper talks about replacing the “dynamic miner set” with a “fixed signer set.” But it isn’t clear from the paper how the signers would be appointed. Who decides who should be a signer? Why should we trust them?
+
+Red flags as far as the eye can see.
+
+The article even has a tldr- skip to the last sentences."
+"Yep. Absolutely. Now what code has Adam Back written for core?
+What position does Vladimir hold at blockstream?
+
+How bad are you at venn diagrams?"
+Blockstream veto, you really crack me up.
+So do many other developers. But I suppose they don't count.
+correct
+Did you find a mirror?
+Block size was always one of the plans. Even satoshi talked about channels and sidechains and what we today call layer 2. I also believe that blocksize will have to increase. And once we reach the capacity of LNs, segwit, batched transactions, MAST, schnorr and friends it is time to do just that.
+Silly you, I'm a married man with young kids, I don't get to fuck anything.
+"Aggressive anti-ideology easily becomes a blinding factor as well. This sub is just as much of an echo chamber. Heck people constantly get upvoted while sprouting ""facts"" about LN that just one Google search would show is completely false.
+
+It's okay to be critical but it's also easy to slide into fanaticism. Everyone who disagree with anything here is automatically labeled a shill and a large percentage of the anti-bitcoin posts are pure strawmanship."
+"Here's a sneak peek of /r/NiceHash using the [top posts](https://np.reddit.com/r/NiceHash/top/?sort=top&t=year) of the year!
+
+\#1: [\[Upvote if you agree\] If NiceHash gradually repays us, we should continue using them](https://np.reddit.com/r/NiceHash/comments/7i2le0/upvote_if_you_agree_if_nicehash_gradually_repays/)  
+\#2: [Official press release statement by NiceHash](https://np.reddit.com/r/NiceHash/comments/7i0s6o/official_press_release_statement_by_nicehash/)  
+\#3: [Litecoin / LTC Payment Payouts \[Up Vote to get Nicehash Attention\]](https://np.reddit.com/r/NiceHash/comments/7tuzp2/litecoin_ltc_payment_payouts_up_vote_to_get/)
+
+----
+^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/8wfgsm/blacklist/)"
+And once the chain is so big that only a handful of entites can afford the hardware to run it they will be renamed to Versactions.
+I fully expect bitcoin to be superseded by gen 3 or 4 cryptocurrencies in due time. If it doesn't hardfork into such a currency in itself.
+Seems to be going really well. I mean you're not spending any time bashing Bitcoin.
+"Yeah well I don't see any bch miners raking in millions in fees either.
+
+Now at what point do you expect bitcoin to catastrophically fail without notice? I'd like to set up some shorts."
+Nah, milord Jess is pathological in his use of word games and silly rethorical devices in his relentless defense of the purity of this sub. He never once try to understand your point he's just looking for small bits to use as ammunition. Having to constantly defend positions you didn't actually take is tiring. So I stopped. I'm not going to dress up as his strawmen.
+"no they are not. They are paid workers. Sure if they hold they are stakeholders but many don't. 
+
+Miners absolutely are an evil necessity. We have no better way of preventing fraud than proof of work. But proof of work is wasteful."
+Yeah that's why I'm super stoked about mimblewimble.
+"There is absolutely a reason for the 1mb cap. There was a reason when satoshi set it and there's a reason today.
+
+Just because you don't agree with the reasoning doesn't mean it doesn't exist.
+
+BCH is almost completely unproven when it comes to handle large amounts of transactions over large periods of time. There are several other currencies, like the mimblewimble stuff, that could easily outpace every theoretical advantage that bch could ever have. So if transaction speed and cost was really important to you then why are you not over there?"
+We already established you think blocksize increases are the way to go and you have your own chain for that. For the rest of us who think 2nd layers are required theres bitcoin.
+it won't be bch, that is 100%
+I posted negatively on the first Liquid post on r/BTC. Didn't get banned. I was actually the first posters I think.
+Not really. But it depends on how it's used. If they try to get listed on an exchange or something it might be an issue but since it's supposed to be a 1:1 lock to bitcoin on chain I don't see the point.
+"I haven't written a single line of bitcoin code. I haven't worked for shit. I don't begrudge people the right to make a profit though, do you? Are you a communist? 
+
+What is this crippling that you keep going on about. Can you show me some code?"
+">  ... isn't breaking the chain.  
+
+It is per the Bitcoin white paper if it gets added without Nakamoto Consensus, like it has on ""BTC"". It's also not possible in a true soft fork."
+Yeah a global usage blockchain can't work conceptually either.
+I'm quite sure that the limits aren't set at 90% of complete meltdown on any real world API. As for the bitcoin protocol it has just gotten a capacity upgrade so I feel it would be best to let that pan out a bit before beginning the process of hard forking the entire system.
+"Because he presented no facts. You need to back up your claims not just state your opinions as facts. If people start sprouting bullshit facts I tend to respond with nonsensical arguments because it's exhausting to have to have to correct every stupid little mistake.
+
+If someone wants to have a reasonable discussion I'm mostly up for it though."
+This is a free uncensored forum. Asking people to fuck off kinda goes against the spirit.
+You mean Adam Back president-individial-president of blockstream? Who flew to China to convince the miners not to run any other bitcoin software than bitcoin core, in return for an empty, fake promise of increasing the block size limit?
+You think they are going to bite the hand that feeds? You really crack me up. 
+Sure, and if those developers were building subscription based products which benefit from restricted transactions on the main Bitcoin chain they'd hopefully get called out on it too.
+Why not raise it then?
+"Dude you literally just said implementing Segwit - which was practically a rewrite of the entire codebase - and *moving the payment layer to an entirely different network* which is still in the ""figuring out out"" phase was ""not changing the system"" and being ""conservative.""
+
+O_o"
+Him talking about 2nd layer solutions has NOTHING to do with having a block size limit.
+"That's probable but there are many facts about the lightning network which aren't false and their plans for the network come straight from their own blog posts.
+
+I think it's naive if you assume there aren't crypto shills given all that's at stake financially. It would be like going into r\politics and assuming you're having an impartial discussion with peers when it's common knowledge both sides are paying people to go online to forums like that and comment.
+
+That being said, calling someone a shill and not debating their argument on its merit is certainly a weak defense"
+[deleted]
+">  I mean you're not spending any time ~~bashing~~ **fairly critizise**  Bitcoin.
+
+FTFY
+
+And I don't see any problem with critics and quite the oposite in fact, don't you? 
+
+"
+We work on adoption with the real Bitcoin that is not limited on the useful applications that can be built on it and more are getting out every day. BTC have nothing left than Blockstream and long maxed out 1 mb blocks. You must be proud.
+Nah he's just calling you out on your self defeating arguments.
+Empty blocks /= full blocks you retarded shill. 
+Miners have a capital investment in equipment.  All schools of economics consider the people owning and operating mining equipment and associated infrastructure as businessmen, capitalists and/or entrepreneurs. They are not workers.  
+You are supporting layer 2 at the expense of layer 1.  No thanks.
+And that reasoning is!?!? You have no idea.  Anyway here's Satoshi himself's words on the initial block size choice in 2010: “We can phase in a change later if we get closer to needing it.”
+"Bitcoin is an economic system built using a structure of economic incentives.
+
+In April 2010 bitcoin literally had zero value, so its system of incentives could not function yet, the 1mb limit was added to protect this non-functioning system against people fucking with it at will.
+
+Now that Bitcoin has a non-zero value, to put it fucking mildly, the system can work as intended, which it did until BlockstreamCore took over and crippled it by abusing the long redundant cap."
+There was a good reason for Satoshi to set a temporary cap. It was never supposed to be permanent. There is no good reason for the cap now. Or I don't know, I guess according to you the cap is totally justified so a few hundred enthusiasts can run a rPi node that does absolutely nothing for the network and will crash anyway when mempool grows too large. It is such a good reason that it's totally cool that because of it people have to pay $100 fees to transfer their coins.. 
+"If you think that, it’s cool, I don’t agree because these aren’t facts, just magical thinking. But different from what you are saying, BTC unusable is a fact. It will fail? It failed as a payment system already. If it success to whatever it want to success it probably be as a speculative asset or a banking system 2.0. No dream of a true decentralized financial system.
+
+Good for you? I don’t think so! "
+"> Are you a communist?
+
+Having a single entity making a profit is pretty much what communism is. And you people  had to kill the entire ecosystem to achieve that. Congrats!
+
+>What is this crippling that you keep going on about
+
+Something something 1 mb 4EVR."
+"
+>What is this crippling that you keep going on about. Can you show me some code?
+
+static const unsigned int MAX_BLOCK_WEIGHT = 4000000;"
+Hey now, language!
+I'm of to Google then. Have a nice day.
+"How is bch doing these magical feats? It has a fraction of the the miners, a fraction of the users and a fraction of the volume not to mention price.
+
+I just don't see bch doing anything except trying to fling shit at Bitcoin.
+
+If bch had been successful we wouldn't have had this discussion because the ecosystem, the hash rate and I would have followed."
+Yes
+Paid workers are still citizens of the ecosystem.  There is no such thing as an evil necessity.  If you need something 'evil' in order for your ecosystem to function, then you did it wrong in the first place.
+You can't talk your way out of intentionally crippling the blockchain instead of letting the Bitcoin internal market decide on an appropriate blocksitze. Instead, you managed to turn it into let the market decide between intentionally crippled Bitcoin and anything else. Which is an extremely stupid way to frame the issue, one in which everybody loses. Loss/Loss/Loss solutions are retarded.
+"You can argue that a better coin might come out and dethrone Bitcoin Cash, but
+
+>The math is quite clear that a blockchain can't handle global scale transactions.
+
+Math is actually showing the opposite, see gigablocks.... "
+If BCH hits this scaling wall it means only one thing: it already won the adoption race.
+"Such a convulated mess off side chains requiring extra trust and complexity when a simple block size limit increase would have sufficed.
+
+There's no evidence that the increase would have been detrimental like some say, merely speculation. But these half working complex systems are somehow a better solution. "
+It doesn’t matter if bitcoin cash dumps now, a coin that actually works will overtake and hopefully that will be BCH. Bitcoin is a non sense Ponzi scheme at this point because they destroyed its practical use. 
+You are completely full of shit. There are plenty of threads over there about liquid right now. Which highlights the inconsistency in their moderation rules. So get over there, prove you’re not a dishonest troll, and post this article. You know what’s going to happen. Don’t play it off like you “just follow the rules”.
+Would you then say that it's a scam since they call it Liquid BTC or LBTC? Isn't that very misleading?
+But aren't you happy? This is the culmination of your years of free hard work to cripple the main chain so Blockstream can make a profit.
+I'm only responding. This particular thread is started by me and I haven't exactly been talking a lot outside of it. Feel free to tag me however you want.
+"I know that in your quest for adversaries you want Blockstream to be core but that doesn't make it so.
+
+Rearranging a block to put some witness data for some transactions outside the data structure used as a txid isn't breaking the chain. "
+"It's the peg that makes it a sidechain not the way it handles blocks and transactions.
+
+liquid absolutely is a layer 2 system. It uses a two way peg to the bitcoin chain that's trustless in and uses a federated trust out. It's a completely moronic system that only a fool would trust but it's still a layer 2  system.
+
+True two way pegging is not possible on bitcoin, not yet anyway. I'm not sure if theres any work being done to do something about that either on bch or btc. "
+"1mb == 1mb
+
+This does not change just because you are upset."
+Either bitcoin gets superseded by a next gen cryptocurrency or the bch codebase hits the wall of lightspeed communication and bandwidth like a fully loaded train hitting a mountain. The math is quite clear that a blockchain can't handle global scale transactions.
+Reading comprehension much?
+"True, but NPC has been a popular cultural term since the early days of WOW and probably even before then. Yet you never saw anyone calling each other NPCs on popular discussion forums. So I will agree that it is no longer centrally coordinated, but clearly some small group of people (cough, Russian political disinformation bots, cough) started the recent trend of labeling any kind of negative feedback as coming from an ""NPC"". 
+
+What I don't understand is why regular people are taking to what is and was a disinformation tactic. In the same vein, most regular people don't go around calling everything fake news - that's left to a certain rogue group of hired and brainwashed people."
+"It isn't done to optimize their own software, it's done to force others to optimize theirs.
+
+It's very common for protocols to have arbitrary limits to ensure that implementations don't use to many resources. More or less every API in existence has limits on request rates and data sizes."
+So will you change your mind if lightning leaves beta and begins to work? Because I kinda think you will move your goalposts in order to always have something to argue against.
+"Yes, of course. **All the decisions**. Must be tiring.
+
+Could you provide links? I mean it's all public over there at the repository."
+No it doesn't.
+"Those examples are products that those corporations have built and later open sourced. Those companies still hold copyrights and other rights to the product.
+
+Blockstream did not write bitcoin. It isn't even a custodian/maintainer of bitcoin. "
+Not changing a system is not crippling a system. Not changing a system is being conservative. Linus had complete freedom to do whatever he wanted to Linuxwise. Core devs who work for blockstream have the same deal.
+Ideology is important.
+"Yes I was alive less than a year ago. I also had plenty of transactions go through during that whole debacle. It didn't ruin bitcoin though. I
+
+n some ways the unfortunate slowdown might have prevented an even bigger meltdown. 
+
+Hopefully next time the better usage of batching and segwit will keep things more manageable."
+They can also avoid the hassle by using any other cryptocurrency. Although it really isn't a hassle. 1sat/bit are low priority transactions. If you're in a hurry you pay more as per the protocol laid down by satoshi.
+Yeah that's going to be a really big issue around 2100. I don't think I'll be around to experience it though.
+Oh bother, it's the High Lord Misinterpreter, cheif Justice and defender of the FUD. Quick, hide!
+Same
+You can have it.
+Good points... I won't be surprised if Blockstream will start a major ban sween in r/Bitcoin soon to eliminate all the concerned opposition given how they clearly neglected the LN. Their goal is almost accomplished anyway, and even if the remaining BTC supporters can't accept their excuses anymore, as BTC holders they are essentially Blockstream stock holders at this point and will keep defending BS.
+When Bitcoin (BTC) has high fees it's because its transaction volume has been artificially capped ridiculously low. There is no rational defence for the 1 MB blocksize cap. It's only there to cripple the base layer. When Bitcoin (BTC) has low fees, like right now, it's because nobody is using it. People just HODL and think that it will moon to MUH ONE MILLION. Bitcoin (BCH) has pretty low volume right now because nobody is using it either. However, Bitcoin (BCH) can handle very large volume without any problems thanks to scaling on-chain. Fees will not rise because there will always be space in those big beautiful blocks..
+They have control dumb ass they update the most popular client of bitcoin. Miners are greedy so they keep using whatever they think they need. When BTC fails, they’ll move somewhere else. 
+"""Nothing"" as in they set a completely idiotic tech roadmap for the entire chain that guarantees their position at the center of it charging tolls on the routes? 
+
+Right, you're a lost cause, I'm done even bothering with you. Fuck off.
+"
+">Much force.  Wow.  Such influence. 
+
+That’s your response?  One of the smartest guys in here just showered you with verifiable facts, and all you have are some retarded Doge references? 
+
+Why don’t you engage his statements and with facts to prove why hes wrong? 
+
+At least then we can respect you for being intellectually honest, rather than just here to jerk off to your own snarky comments to people you consider idiots.
+
+You make a huge stink about corporate influence over BCH, yet you ignore the plank in your own eye. Blockstream literally buying off the top Bitcoin developers who, yes, control the keys to the repository and make final decisions on what gets through. 
+
+You dismiss that and  “Pooh Pooh” it like it’s irrelevant. But you get bent out of shape over Roger who has been championing the same Bitcoin since 2010. And Bitmain who is **expected** to vie for the implementation of bitcoin that ensures miners get paid for their work.  Which is exactly how bitcoin was written. 
+
+But you’ve got people who are changing bitcoin into something that makes them rich, and pays back $151 million of investors who somehow wanted them to monetize a free decentralized network. And you’ve got no problem with that. No corporate corruption there. You’ve got to be kidding me."
+"(have you made any friends by using the term ""regular people?"" Just curious.)
+
+Npc = someone with no (real) skin in the game. It works for paid socks & shills. I like it.
+
+But yeah it's weird how it suddenly sprang up in this new usage."
+">  More or less every API in existence has limits on request rates and data sizes.
+
+All APIs that I know of set their limits just under the point at which their system falls apart. For instance, if 100 requests/second will crash their server, they set the limit to 90. No sane company that has an API will limit it to 1 request/sec if they can handle 100... The core morons want to keep the limit orders of magnitude lower than what the computers running the network can maximally handle, and it's hurting the protocol."
+"You realize LN is eternally ""out of beta"" in 6 months since 3 years. But even if that wasn't the case, LN can't work, conceptually."
+Blockstream was formed by the lead developers of bitcoin core. They are 1 and the same.
+Yes it does, no matter how hard you don't want it to be true.
+Their developers do however have a big influence on what does (or, more importantly in this case, does not) get included in Bitcoin Core - the most widely used Bitcoin client.
+Blocksize was always intended to be raised.
+">Not changing a system is not crippling a system. 
+
+""Increasing the amount of RAM in Windows systems from 640KB to 32MB crippled Windows.""
+
+- pretagonist
+
+""Segwit, a 4000+ LOC rewrite of the Bitcoin Core client, didn't change anything.""
+
+- also pretagonist
+
+You're such a pathetic shill. You just say whatever is convenient, truth be damned."
+"No dummy. The whole point is we want a fully functional and robust base layer as well as a layer 2. Not sure why you’re not getting this.  
+
+You’re in here trolling everyone. You’re not listening to anything anybody says. You’re just trying to come up with snarky shit to say in response. Which is why all of your responses are getting down voted.  
+
+Here’s the reality: BCH will have layer one and layer 2. BTC won’t. At least not for a long ass time because liquid has to pay back $151 million worth of investments first. 
+
+And you can’t make money off layer two if layer one works just fine for free. That’s the entire premise of our complaint.
+
+Please ask yourself why they refuse to address the concerns of $50 transaction fees and weeklong transaction times? Do you think that’s not going to come back over night in the next 12 months when the bear market starts to fade away? 
+
+This is when you’re going to see BTC facing it’s biggest reputation crisis. Because this shit is coming back as soon as usage picks up.
+
+BCH is doing what BTC was supposed to do. Why can’t you see that?"
+Increasing the block size was always the plan for scaling the system. The block size limit was a temporary measure to fight spam for a time when blocks had barely any transactions in them. Keeping it after blocks became full was indeed crippling the system.
+"No it's not. It makes people blind to obvious truths and bend every fact to fit their existing worldview.
+
+Having an open mind is important. Otherwise you get people evil people saying the ends justify their means. 
+
+Or stupid things, like echo chambers posting memes about lambo-moon while the BTC devs go around claiming Bitcoin doesn't work and that everyone should just use credit cards"
+"> I also had plenty of transactions go through during that whole debacle. It didn't ruin bitcoin though
+
+No one said transactions were not going through, so that's a deflection.
+
+It didn't ruin bitcoin but it came close. go to /r/nicehash and check out posts from that time. It's all people begging for options other than bitcoin because it made small transactions non viable. Maybe you can live with it but I can guarantee you the marketplace won't."
+"> 1sat/bit are low priority transactions.
+
+On BCH we just call these ""transactions""."
+Your kids and grandkids will, though.  Or do you plan on letting them stay in the fiat economy?  I thought the idea was to change the paradigm, not get rich quick and let Bitcoin die off?
+">Yeah that's going to be a really big issue around 2100. I don't think I'll be around to experience it though.
+
+Which is why we created BCH"
+The subsidy becomes insignificant well before that. But I guess a good dose of whishful thinking is gonna help you out.
+He didn't misinterpret anything. He's doing you a favor by pointing out circular logic.
+"Well, if ""longest chain rules"" then spv is obviously quite secure and there's no need to independently validate.
+
+If you independently validate, then you don't believe ""longest chain rules."""
+Without miners, there is no Bitcoin.  They are part of the ecosystem.  The Core mantra seems to be that miners are some kind of evil necessity.  They are part of the overall ecosystem, and are indeed citizens of Bitcoin.  
+"It had high fees because it's design* was crap.  It now has low fees because everyone recognizes that.
+
+*Just the 1MB part.  The rest is mostly elegance."
+"> But for some magical reason these things don't apply to, say, bch
+
+Correct.  Bitcoin-BCH has scaled by increasing the block size, so it will not have capacity issues (high fees or unreliable transactions) when usage increases.  This was always the intention of Bitcoin as a peer-to-peer electronic cash.  You have decided to back a version of Bitcoin that is/will be inaccessible to most people when high fees return (they _will_ return unless Bitcoin-BTC stagnates and dies).  It’s not what I or most early supporters signed up for.
+
+I’m here to participate in building new foundational monetary system for the world.  A high fee settlement system that recreates / reinforces rent seeking of the banking industry isn’t it for me, but to each their own.  Fortunately we can each back the coins of our choosing and the market is the cumulative consensus.  Unfortunately we’d be a lot of effective if we were unified."
+Keep fucking that chicken.
+"I don't owe miners shit. Miners are not the point of bitcoin. If miners has to turn of some mining power it doesn't bother me for a second.
+
+Mining as a system was built to be self regulating. If profits go down, so do hashrate. Hashrate will always have price parity with coin value. This also means that attacking the bitcoin chain will almost always cost a lot more than you get out of it.
+
+Miners are not a political force. Miners are not citizens of bitcoin. Miners are workers that are paid for their work. If they don't want out coin they are free to fuck the hell off."
+"> I tend to respond with nonsensical arguments
+
+No argument there dude. "
+Actually, it is in the spirit of this free uncensored forum to tell you to fuck off
+we are living in the present day, and in the present day btc works very well, and that is a fact. and also there is a shitload of transactions going through every second, also fact. so save your crystal ball predictions for some other subject.
+"Happy to help.
+
+I just gave my motivations why I didn't follow you into bch."
+Doing something productive perhaps 
+"They're not opinions, and the facts and evidence are there, and have been widely discussed for years on end now. If you're ignorant of them, that speaks to your uselessness, not the failings of other people to spoonfeed you.
+"
+Lmao. Roger Ver is squeaky clean compared to Core slimeballs.
+"If the bug is exploited, there will be a BTC chain split. Hence the latest version of Core is not backwards compatible. Therefore, it is a hardfork. 
+
+But anyway, it’s good that you’ve got a chain proceeding as you’d like, and I’ve got BCH proceeding as I would. Best of both worlds. "
+"> If 50%+ of miners on any cryptocurrency decides to change any rule they can. 
+
+And decide they did. That's my only point here."
+Perhaps Core / Blockstream's most successful and pervasive [propaganda lie](https://ol.reddit.com/r/btc/comments/7tnrvu/nist_report_confirms_bitcoin_is_a_fork_and/dtdyo5u/).
+"I think this is one of the biggest divides in philosophy between BTC and BCH.  BTC treats miners as the evil scum of the earth, and BCH treats it as a healthy part of the ecosystem.
+
+We'll see how things play out in the long term.  I'm curious to see what happens when every last coin has been mined and inflation no longer exists."
+[deleted]
+No,  I switched cell phone carriers.
+If the carrier said the design intent was to keep the loading high to drive up prices...  And another carrier is offering alternatives....  We'd call you an obstinate idiot for staying on the limited carrier.
+You failed to answer how the cap is justified now and who benefited from it last December..
+"Today you use anything and it works the volume of transactions is low and there’s no activity. Your focus should be Tomorrow not today. The next time BTC has big amount of transactions it will colapse just like last time because the problem was never fixed.
+
+Not even core devs consider today fees a solution because they know fees are not fixed. If you are happy with today’s outcome that means you are happy with no one using it. 
+
+"
+Where the fuck did this burn come from? Nice burn! Touche! All that.
+"If you aren't p2p ecash as per the whitepaper then you aren't the main chain. 
+
+I guess I burned /u/Ithinkstrangely with this one lmao."
+Where else would I be? This is entertaining.
+"That's just the point. No one here is ever presenting evidence. It's just well masticised propaganda that's almost always based on a flawed understanding of the system you are attacking.
+
+Having 10 people screaming their **opinions** at me isn't going to change anything, I'm not a teen peer-pressure doesn't bother me as much anymore."
+"Yeah and you should read up on the proponents of bch.
+
+Let's do both and meet back here in a year or two. Try to find some unbiased sources, though, not forum posts."
+You are free to argue. If the ecosystem disagree the ecosystem will change.
+"If bch could sustain say 20mb blocks for a year then perhaps that would be enough. The bug in core didn't cause a hard fork since the bug was in one implementation not in the protocol. Core may be the largest client but isn't the only one. If a core client had accepted an invalid block it would have forked itself off the chain.
+
+Bug fixes and hard forks might look similar to a novice but they aren't really. And since the bug was never exploited on the mainnet there never was any chain split nor any forking."
+I can find no previous examples of that statement could you please show me where I've copied this from?
+"If 50%+ of miners on any cryptocurrency descides to change any rule they can. This is a weakness of all mined cryptos. Heck with 51% of the mining capacity of bitcoin I could force bch to enable segwit if I wanted to.
+
+I can't say it's something that keeps me up at night."
+"The justification is the same as it's always been.
+
+Making sure that block usage is optimized and keeping the blockchain from ballooning."
+But they use the same protocol.
+And yet it will come again.
+Treating miners as political stake holders is like letting the police make the laws. It's not viable.
+No. Police are a function not a political entity in a well working system. When police and military goes political you get shithole countries.
+"If millions of people started to actually use bitcoin then the blocks would absolutely need to be bigger.
+
+That doesn't mean that segwit and LN doesn't help. Every smidge of optimization we add now means that every byte we add to the blocklimit later is that much more effective."
+You think morality comes from law? You must be a child.
+Both as police and as citizens.  Both roles are important in the decision making process.
+I better order that book from Amazon now because in two hours USA wakes up and the fees will increase a few orders of magnitude? Is that what you mean by usage optimization? If millions of people started to actually use Bitcoin (BTC) SegShit wouldn't help shit. 
+We are talking about today tech, right?. What happened in December? Were you there? There’s nothing to discuss with you in this topic. 
+"""You and the hordes of idiots like you are why we can't have nice things.""  
+
+
+But you have bch, isn't that a nice thing?  Yet you're still so ultra bitter that market participants want nothing to do with it.    
+
+
+Consider taking a break from crypto for a while.  Seems like you're not helping anyone else with this kind of vitriolic rant, only harming yourself."
+"I like how the core tard didnt reply to this. I guess his cognitive dissonance finally tipped him over the edge.
+
+I bet hes crying ""bcash bcash bcash"" right now in front of his adam beck statue."
+"Laudable?
+
+Right. I feel our moral compasses are too misaligned to continue this. Have a nice day."
+Yes but not as police. I respect miners who hold and use Bitcoin as Bitcoin users, not as miners.
+"I've paid for many things with Bitcoin, heck I even bought part of my home for Bitcoin.
+
+When block space is at a premium it forces heavy users to use the available tools to optimize their usage. Segwit usage is growing, multi-transactions are regularly used by exchanges and so on."
+It's easy. Segwit is backwards compatible.
+"there you go again, ""once there is"" ...you are beaten by facts in this conversation...come back ""once there is"" a problem again with the bitcoin...and december just means that bitcoin fended off an attempted attack by the bch shilling miner groip...failed miserably...no wonder you are so bitter..."
+That's more an indictment of them than Ver, if you know anything about the situation. In fact given what I know about it, those things are laudable for Ver. 
+Very good analogy.  
+Police shouldn't make the laws.  But they should have some say in the process, as members of the community.
+Actually, no.  TDMA and CDMA are different protocols.
+The ridiculously low cap is the opposite of optimization. Don't you understand what happens when blocks get full? Then the people who want to transfer their coins have to start competing with each other, paying higher and higher fees to get their transactions through. The ridiculously low cap discourages actual usage of Bitcoin (BTC). Or I guess you don't want for Bitcoin (BTC) to work as actual P2P electronic cash? Is that what you mean when you say that the cap optimizes block usage and keeps the blockchain from ballooning? God help if people actually wanted to use Bitcoin (BTC) to pay for things and stuff..
+"No, in the present day it doesn’t work well because once there’s just a small amount of too much transactions it will colapse. That’s today’s tech. Not yesterday or future. Get your facts straight. December is proof of that and it happened before. So what I am assuming is you prefer BTC to be unusable. Not mass adoption. Using it in a few stores or low quality websites (because bigger ones dropped it after last year mess).
+
+If that’s what you want, good! It sucks. "
+Sorry, was just following your conversation, not the dude you were debating/discussing with.
+I'm off work, sitting in my sofa. I'd rather do this than watch some stupid Netflix recommendation.
+"I read a lot of opinions on this sub. Just because many people have them doesn't make them facts.
+
+Most discussions here about LN for example are just completely wrong and a quick look at the available documentation would show that. The only spoonfeeding I see is the echochamber you have going here."
+Yeah. None of the most productive core devs have been in federal prison or been forced to leave the country.
+You are confusing an implementation with the protocol. Forks are protocol level events.
+"> I read a lot of opinions on this sub. Just because many people have them doesn't make them facts.
+
+The salient ones which you're unable to grasp clearly make your position untenable. And that is that the BTC sabotage was unjustified and idiotic from the start. There was never any legitimate reason for it, end of story. This is not an opinion, it is a fact.
+
+
+
+> Most discussions here about LN for example are just completely wrong
+
+The most commonly discussed failing of LN here is that it is impossible for it to be decentralised in light of the routing problem. This is once again not an opinion, it is a fact. The other stuff like ""can't get a payment through of size n given conditions x-z"" are interesting only for people who care about the function of LN given that *it is impossible for it to be decentralised*. That is not anyone who actually cares about the principles of a decentralised ledger to begin with, so of zero consequence to the discussion.
+
+> and a quick look at the available documentation would show that.
+
+The ""available documentation"" outright lies and obfuscates. The LN whitepaper sums up the solution to the routing problem as ""It'll be something like what happens on the broader internet"", completely negating the fact that's a trusted environment that doesn't have to deal with capacities and already has plenty of problems in and of itself. The ""documentation"" is largely idiotic propaganda.
+
+> The only spoonfeeding I see is the echochamber you have going here.
+
+The fact you think that given the idiocy you're so confidently parroting now in the face of the collapse of your interpretation of the state of the chains is exactly why I stick to my original diagnosis of you; You are a clueless fucking NPC unable to actually evaluate facts and come to conclusions on your own. You are seeking a truth that you will then regurgitate cluelessly and uncomprehendingly until the next time it is necessary for you to think independently, at which point you will seek a new propaganda fount which will tide you over to the next time, and so on, and so forth.
+
+Anything to avoid *actually having to think for your fucking self*.
+
+You and the hordes of idiots like you are why we can't have nice things.
+
+"
+"I'm not asking you to fuck off from this forum, by all means please stay and continue to make an ass out of yourself, your ignorance is all the argument one needs to discredit your position. 
+
+I'm telling you that I'm fucking done listening to your mindless npc bullshit, and not willing to continue this discussion given your lack of insight into the situation in question.
+
+"
+Mining will have to be replaced at some point. Otherwise we get a future where every piece of matter in the universe is busy mining. I don't actually know the solution though, proof of stake is a bit iffy and federated trust is violently bad.
+All in due time.
+But I'm not an NPC in your little game. I'm a player just like you. Your opponents are still human you know.
+"moooo
+
+
+:)"
+"So person who doesn't run bitcoin went to persons who are just doing busywork to keep the system honest (and are well paid) and said a bunch of stuff, allegedly, and this is supposed to mean something for me or bitcoin?
+
+Do you understand the concept of trustless consensus? Why is this sub so obsessed with supposed leadership. There has only ever been one leader figure in bitcoin and that entity stepped down or died. No one else can take that spot."
+You think the core devs aren't already plenty rich and extremely employable? Any one of them would have a new job before they are back at their homes. That theory doesn't hold up.
+"If you build a subscription based product and you manage to get idiots to use it while at the same time off-loading the main chain then who am I to argue?
+
+Exchanges and other financial players will become more and more irrelevant as the blockchain revolution continues. If they want to lock themselves up in a side-chain then I really have no issues with it. "
+Needs community buy-in, more testing and an ecosystem that has embraced segwit. A blocksize increase would require a hard fork and a hard fork would very likely make segwit mandatory. The ecosystem is far from ready.
+Yes. Changing an implementation and changing protocol is different. It's completely possible to rewrite a client completely while still following the same protocol.
+I love the way you actually know what satoshi was thinking. It's an amazing ability, please tell me more.
+"Of course there are unresolved issues with the LN. No one really doubt this. But instead of arguing solutions everyone here seems to actively wish for it to fail. It seems like a strange outlook in a tech focused forum like this. It seems to be a manufactured opinion. There are many alt-coins that have really cool ideas and I  personally wish them all the best.
+
+There's just no other crypto that's so obsessed with arguing what it isn't like bch proponents. Focus should be on what you aim to be not on negging what you aren't."
+If one company manages to ruin cryptocurrency then cryptocurrency deserves to die. Bitcoin is suppose to be anti-fragile, if it isn't it's doomed.
+"Well at least my client doesn't contain code to break me off from the chain in order to not die when it lost a majority of the hashpower. So I guess I'll  just keep on basking in my unbroken chain of blocks, following the longest chain with the most work into the bright future.
+
+I don't really have anything to be proud about though. It isn't like I made bitcoin or any bitcoin related systems. I did mine a few blocks on my CPU back in 2010 or 2011 though so that's nice. "
+Except that they aren't my arguments.
+You must live in a very weird world. Every single human system is a trade-off. There will always be some less than optimal byproducts. Mining is a tool to solve a problem. Mining isn't the point.
+That's impossible. Layer 2 is depending on layer 1 without layer 1 layer two can't exist. 
+Yeah. We aren't yet close to needing it. There's a lot of optimization left to do.
+So a cap that's been in place for years suddenly becomes an abuse just because you think so? Doesn't seem reasonable.
+"I don't think the cap should be permanent either. I still think the temporary cap is justified in some ways. 1sat/byte transactions go through every day.
+
+Having rpi level hardware able to run a node doesn't mean that the same rpi is going to work indefinitely."
+i am using it as payment every single day (fees 0.04-0.07$), so saying it is unusable, is a blatant lie.
+"1. I'm not opposed to raising the block size
+2. The Liquid Network is trustbased garbage
+3. Anyone can make profits on Bitcoin. It's a permissionless system. This is impossible to change."
+Did blockstream put that in?
+Always happy to help. It's pretty exciting what's possible :) 
+"> I just don't see bch doing anything
+
+That's because you are not paying attention. I guess that's to be expected from someone only coming here to troll and not caring about using bitcoin as cash. "
+Again you avoid all of the points being made. I can only conclude you either are incapable of getting it or are just here to troll. It's too bad.
+Yeah, it's just not a very nice thing to say.
+">Did blockstream put that in?
+
+Yes. That code is part of Segwit, which was conceived and largely implemented by Pieter Wiulle and Luke-jr both Blockstream cofounders."
+"1. Yes you are otherwise you would have upgraded like the rest of us.
+2. True
+3. It's a *congested* permissionless system. Congested means only a few can make a profit. And that ""few"" is Blockstream and a bunch of exchanges. That's it."
+"No, not a lie when it’s a joke for new users (not user friendly) and you can’t receive more than what you settle your node with. Not a good way to create a payment system If you want to receive more than you spend. A total disaster. The midterm plan is to create watchtowers and to fund accounts with 3rd party channels. Not even talking about L-BTC. All this mess when you could easily scale the blocks. 30MB makes BCH a system capable of almost handling the same amount of txs of PayPal and we are talking about only 30MB per 10 minutes. It’s incredible the non sense.
+
+"
+"Yes, it was all okay when Satoshi and the ""good devs"" had it in their code base but as soon as they left it suddenly became the very symbol of blockchain oppression."
+"I had similar problems around that time as well.
+
+So I guess that one time around new years eve when the 3g network was overloaded caused you to throw away your phone and never use a cell phone again, right?"
+"My recollection is that miners refused to implement the segwit upgrade for about a year before that. 
+
+I did quite a few transactions around last December and I never paid 100 dollar fees."
+what are you talking about? i am using main chain, not lightning. it works like a charm. minimal fee is usually confirmed in 1st or 2nd block. it is very user friendly, my friends open a mobile wallet, and i transfer them some btc...shows right up
+I follow the main chain. If you have to have replay protection then you aren't the main chain.
+Luke isn't a Blockstream co-founder.
+You’re still here? Lol
+"Then fucking act like it, be rational, evaluate and adjust your position based on presented evidence, don't just say ""Gosh, it seems like maybe these guys are up to no good, what am I missing?"" infinitely, regurgitating the shitty propaganda with which you've been unthinkingly indoctrinated, and expect to be handheld into why your position isn't as manifestly idiotic as it appears, when the consensus here is exactly that *it is that fucking retarded*.
+"
+You should read some of the history of bitcoin core and blockstream to see just how shady these people are.
+"> You think the core devs aren't already plenty rich and extremely employable?
+
+Most of them have missed the early boat big time and are massively butt hurt about it so they are now trying to extract fiat out of BTC. Namely Adam Back and Greg Maxwell. "
+"> If you build a subscription based product and you manage to get idiots to use it while at the same time off-loading the main chain then who am I to argue?
+
+Agreed, no problem with that. The problem is when you advocate against increasing capacity on the main chain in order to make your product viable."
+Yes, exactly. 
+Sure dude. Maybe you were away recently, but the inflation bug in Core already required a mandatory hard fork to segwit. And you know you're not going to get a better real-world test of bigger blocks than the Bitcoin Cash network building a 20mb block. But whatever you say.
+"Sure but that's not what segwit did. If 51% of miners decided to switch to a different [pre-segwit] client ""following the same protocol"" as you put it, it would lead to a massive wipe-out of funds not due to any sort of security vulnerability but because segwit was a fundamental protocol change."
+"You've got to be kidding me.
+
+[https://www.reddit.com/r/btc/comments/8n90qx/debunked\_we\_dont\_know\_what\_satoshis\_opinion\_was/](https://www.reddit.com/r/btc/comments/8n90qx/debunked_we_dont_know_what_satoshis_opinion_was/)
+
+&#x200B;
+
+&#x200B;"
+">Of course there are unresolved issues with the LN. No one really doubt this. But instead of arguing solutions everyone here seems to actively wish for it to fail. 
+
+That's because we're actually listening to what the developers are saying it's going to be. It's not going to be peer to peer, they openly talk about giving preference to big banks and making it resemble the existing financial system. None of them believe in Bitcoin as a peer to peer currency and they say so
+
+> It seems like a strange outlook in a tech focused forum like this. It seems to be a manufactured opinion. There are many alt-coins that have really cool ideas and I  personally wish them all the best.
+
+I form my own opinions, thanks. If you want to hear about all of the path planning issues with lightning I'll happily tell you. My Master's thesis was on path planning
+
+>There's just no other crypto that's so obsessed with arguing what it isn't like bch proponents. Focus should be on what you aim to be not on negging what you aren't.
+
+Everyone here is focused on making Bitcoin better. The stress test was a huge success, the fees didn't rise at all (still fractions of a penny) and we were doing 8x the transactions what BTC has been artificially capped at. 
+
+Multiple times the number of transactions BTC was doing when the fees went up to 55 dollars. This chain can now do more tx/s than PayPal normally does.
+
+The test pretty thoroughly discredited most of the small block arguments honestly
+"
+[deleted]
+"> Well at least my client doesn't contain code to break me off from the chain in order to not die when it lost a majority of the hashpower.   
+
+This would be a problem if it was a minority valid chain trying to pretend its still Bitcoin. When this definition briefly applied to BCH during August 2017, it was a self-announced minority chain called Bitcoin Cash (BCH), and **NOT** Bitcoin.  
+
+The only time I know of that a minority chain violated this process and tried to illegitimately claim the Bitcoin name was when SegWit1x continued in violation of a [~96% hash rate consensus agreement](https://twitter.com/mikebelshe/status/905737617718870018) at the supposed activation of 2x from the legacy BTC block chain. Instead, the < ~4% minority SegWit1x chain continued, usurping the ""BTC"" ticker, and (following widespread confusion) continued *illegitimately* using the Bitcoin name.  
+
+> I'll just keep on basking in my unbroken chain of blocks....  
+
+Unbroken by what standard? Not Nakamoto Consensus, and therefore the [Bitcoin white paper](https://nakamotostudies.org/literature/bitcoin/) no longer applies. If you want to **believe** your block chain is unbroken, you'll need to write a new white paper which can explain how going from the block before 2x activation to the first block of SegWit1x can ever be seen as **valid**. Good luck with that."
+"> There will always be some less than optimal byproducts.
+
+There are.  But mining is not a byproduct.  It's a central requirement for the product to operate in the first place.  If mining is inherently evil, and a core requirement for the Blockchain to operate, then perhaps we need to retire Bitcoin, and come up with a currency that doesn't require mining?
+
+It would be nice, if you could pick your miner for a transaction.  But that would create it's own set of problems, with people just bouncing it's own set of transactions back and forth to reap the block reward."
+"Yes that’s true.  Fees being artificially inflated to discourage on-chain transactions and providing off-chain mechanisms that require additional complexity or don’t exist yet is what I mean by supporting layer 2 at layer 1’s expense.
+
+Bitcoin was intended to be used as a peer-to-peer global cash at layer 1.  The contention seems to be around whether or not that is technically and economically feasible.  I for one believe it is.  Proponents of Bitcoin-BTC seem to think it’s not and therefore layer 2 is necessary."
+[deleted]
+"""suddenly""
+
+^ this guy, eh?!"
+"> 1sat/byte transactions go through every day.
+
+Fuck you.  In December 2017 I made a transaction with a large fee that did not go through for several days.  As a result I lost a substantial amount of money.  For me, this was visceral proof that BTC was broken.  A system that works ""every day"" when a few other people are using it but which fails to work when you need to use it is worth than useless.  It is dangerous."
+In what way is the cap justified now? Were you not there in December when fees spiked to $100 or so? Back then mempool grew so large that the rPi nodes crashed too. So, who exactly benefited from that cap in December? You don't recall Steam abandoning Bitcoin (BTC) for payments because the fees got so ridiculously high? How did that benefit Bitcoin (BTC)? December 2017 was the make it or break it moment for Bitcoin (BTC) and the outcome was a complete disaster. Adam Back, One Meg Greg and other Blockstream scammers single-handedly pushed crypto adaptation back years and didn't learn a thing along the way. Stealing the fees from the miners will eventually lead to a situation where the miners direct their hash elsewhere and nobody is left to secure the Bitcoin (BTC) network nor process any transactions.. this is probably Blockstream's goal though. It will be proof of stake of LBTC.. just trust Blockstream and their selected partners in crime
+You're still copy/pasting that talking point? Srsly bruh, you need to wake up. 
+"So when bitcoin has high fees it's because it's crap and when it has low fees it's because it's crap. If it has high volume it's because there are too many deluded sheep and if it has low volume it's because everyone has left.
+
+But for some magical reason these things don't apply to, say, bch.. Ok. sounds really legit."
+"Much force. wow. such influence.
+
+I don't buy your narrative. It doesn't fit. If blockstream had control over the system there are tonnes of other stuff it could have done instead of the nothing we have now.
+
+
+
+"
+"no, because Lightning has so way to many design limitations. from not being able to receive more money than you start with to routing issues to both client sender being online at the same time as well as the need for watch tower services.
+
+Lightning was built form day1 as an excuse that Blockstream is solving Bitcoin's fees, but reality is it was just a stopgap until Liquid. Lightning design is worst than any shitcoin's worst wallet experience. No way that can compete to anything let alone Liquid."
+">It's completely possible and even completely okay to build stupid things on top of Bitcoin and it doesn't make Bitcoin any worse in the process. Side chains are meant to be able to fail.
+
+So is the main chain if the restricted capacity experiment fail."
+Haha welcome to Bitcoin Cash, where on-chain usability still matters more than off-chain solutions. You should be fine here. 
+"> I'm a ""core minion"", at least according to the definition here, and I think this liquid sidechain is a centralized trustbased abomination.
+
+Congratulations on figuring it out three years after everybody else, at this point you are the guy in the group who is matter of factly commenting that the traitor having pulled the gun out and started loudly making demands ""is obviously up to no good"". That *now* you realize the plan is to destroy Bitcoin isn't any credit to your abilities in comprehension. Welcome to what many here have been saying for fucking years now. 
+
+> But I don't see what core and liquid has to do with each other. 
+
+Just when you were doing so well finally coming around to the obvious, now you're slipping back into ""yeah the guy holding the gun is bad and clearly has bad plans, but not necessary the bureaucracy he belongs to which was wielded like a weapon  in order to bring about the situation which we're currently in"". If BTC were not sabotaged as it has been, liquid wouldn't be useful. It's that simple; they created a problem by their own action and are now selling the solution. End of story.
+
+> It's completely possible and even completely okay to build stupid things on top of Bitcoin and it doesn't make Bitcoin any worse in the process. Side chains are meant to be able to fail.
+
+For bleating npcs convinced beyond all reason that there is only one true bitcoin and it is the coin with the blessing of the central core propaganda crew, that's exactly what it does. Without things like liquid and lightning due to the technical roadmap for  btc, it flatly doesn't work, end of story. So now those aforementioned npcs either need to wake up, realize that and move to an actual legitimate cryptocurrency that is not a transparent and obvious attempt to destroy the concept, or engage in yet further mental gymnastics that this is fine and all part of the plan. 
+
+Look at what you're doing and the even more clueless fools like /u/mrbitcoinman to figure out how your herd of fellow npcs intends to bleat. 
+
+It's over. You lost. "
+How about intentionally/needlessly crippling Bitcoin to make retarded/centralized sidechains viable?
+"> Anyone is free to build whatever system they want on top of Bitcoin. 
+
+This is patently untrue, for BTC.
+
+I was building a 0conf risk assessment algorithm in 2012-2015. My algorithm would have been able to determine whether it is safe within configurable loss margins to release a product on an unconfirmed transaction receipt.
+
+My efforts were resisted by Core developers on the grandest of scales, including personal attacks and hack attempts. My work was undermined not only by other ""cooperative"" coders that sought to mangle my work but by the BTC devs themselves.
+
+In 2015, when Theymos posted his fateful announcement banishing ""90% of Bitcoiners"" from the community, I counted myself among them. I threw away my code and my algorithm and concluded that no, Bitcoin is **not** permissionless.
+
+I am still bothered via PM from Core supporters to this day. Just two weeks ago I received and reported an unsolicited, harassing, and personally attacking PM. I gave up on the project and got rid of the code, but even that perceived threat I generated back then was enough to warrant such an extreme backlash that I am still personally targeted, despite having actually successfully produced nothing of value."
+">But I don't see what core and liquid has to do with each other
+
+Except that Blockstream has used heavy-handed social manipulation and coercion to gimp Bitcoins natural scaling solution into an abomination that will _force_ users to utilize 2nd layer solutions.
+
+I don't know what kind of hold Blockstream has over the Core team, but it's obviously enough to dictate the direction of development and snuff out all dissent, internal and external.
+
+Being along for the ride from the very beginning its nothing short of gut wrenching to see what Bitcoin was / promised and what it has been contorted into.
+
+"
+Given that blockstream maintain both core and liquid, there is a clear conflict of interest here.
+"I said this to you yesterday so I guess I’ll repeat it to you again: none of us has a problem with layer two solutions and people getting rich off of it. 
+
+**We have a problem with them intentionally crippling the throughput on the base layer so that most traffic has to go through their shit on the second layer.  To ensure profits for themselves.**
+
+Everything that’s been done to the Bitcoin block chain lately has led up to the creation of LN and subsequently Liquid. 
+
+At the end of the day this is about making Blockstream money, and paying back their $151 million in investors.  
+
+Literally every social and humanitarian goal that Bitcoin had (directly tied to a functional base Layer) has been sacrificed for this purpose. That’s what we have a problem with.
+
+How the fuck did they even get $151 million in investors for a completely free, decentralized currency system in the first place? 
+
+Well they had to find a way to monetize it. And the only way they could do that was to cripple it and force throughput through their products.   **You can’t make money off Layer 2 if Layer 1 works just fine, for free.**  
+
+Wake up. "
+"I guess this will come across as me being an asshole, but you are halfway to Bitcoin Cash. If you keep looking at it, you will see.
+
+BTC is effectively owned by ~~Blockchain~~ Blockstream and friends now. 3 or more years ago, people were already warning that the 1MB cap was so illogical that it must have another motivation - forcing a 2nd layer. Now here we are. And no, you will absolutely not be able to transact freely on BTC if there is any amount of adoption unless you have extremely low price sensitivity to fees. Additionally, mining is being disincentivized in the long term by the same situation - without a critical mass of miners, BTC will cease to be permissionless.
+
+BTC is captured. Please see the reality."
+Do you smartphone users really think that constantly running a high performance Linux workstation in your shirt pocket is necessary, practical or efficient in order to make a phone call?
+There's a much more efficient way that I can handle your money if you will just trust me and my friends. I promise that me and my friends will be cool and fair.
+"""We don't want to risk Bitcoin becoming centralized by having big blocks. But we do want Bitcoin to become centralized by forcing the need for institutions to serve as permissioned transaction custodians. That's so much better!"" - Signed, Blockstream and all the moron shills who support them."
+"I was reminded of Dash, but yes.
+
+In a way it's not that surprising. When we (some developers) can't see outside of the box then we think Inside the Box. And inside the box is trusted hierarchy. As much as we hate it... Well...at least we're familiar with it and our mind naturally conforms to plans that mimic it.
+
+THAT'S WHEN WE NEED YOU TO THROW A DRINK IN OUR FACE.
+
+- Bitcoin is money that works P2P. 
+- 10 years has proven that it works. 
+- *at the time* that it becomes smart to process less important transactions in a different way, the *then global userbase* will be thrilled to cooperate on the best way to go about that."
+That last question is the zinger. great point.
+"Can you explain a little more, ""protection of the Fulfillment of contracts?"""
+It's very tempting and understandable to want to do it this way, and one automatically falls into architecting in this direction if one doesn't understand Bitcoin.
+What would be telling and interesting is a list of the exchanges that have **not** 'elected' to 'participate' with liquid.
+This sounds like it could be the 2018 version of the 1913 solution to ~~bank~~ *exchange* liquidity. MMM... a central bank. 
+I'm happy to see that Binance and Kraken didn't fall for this BlockStream scam
+Perhaps. Do you know what federated sidechains are?
+Please elaborate.
+As usual you are seeing the world in black and white.  You can discredit BTC and improve BCH and more.  This community is made up of thousands of active individuals.
+"> Blockstream has no clue about economics and what people want. They just don't understand Satoshi's motivation for Bitcoin.
+
+That, or they just value other things more than you. Like decentralization, and the ability to be able to run a full node, and being able to run it 20 years from now. They are highly critical of arguments for increasing the block size while soft-forkable options are still on the table."
+"> it doesn't make Bitcoin any worse in the process
+
+Err, unless you hold up scaling for said stupid things? Hello?"
+">  love to develop overly technical stuff just for the sake of it
+
+That's what people do in their free time - not with their paid time after receiving millions in investment dollars."
+"When you so pointedly ignore Blockstream's massive complicity in breaking the base ""BTC"" system to create a market for their new ""revolutionary"" product, you all but confirm your status as ""core minion""."
+">But I don't see what core and liquid has to do with each other. Anyone is free to build whatever system they want on top of Bitcoin. Liquid would work just as well/badly on top of bch.
+
+Core made the first layer unusable to build and sell second layer ""solutions"" eg.
+
+> \[...\] make Bitcoin any worse in the process. 
+
+Awesome if you *can* make bitcoin worse by not allowing anyone else to change anything about it and then do indeed build stupid things on top of it."
+I'm ridiculously woke bro. FYI LN and Liquid aren't really related.
+"It's officially game over for Core minions. They cannot deny that they are doing the bidding of a scumbag corporation that has no interest in decentralized P2P electronic payment systems. Best quote of the article:
+
+&#x200B;
+
+>Strong Federations such as Liquid improve privacy, latency, and reliability without exposing users to the weaknesses introduced by third-party trust.
+
+**So you can eliminate the risk to sheep arising from wolves outside  the sheepfold by bringing the wolves into the sheepfold and giving them  full control of the sheep. What could possibly go wrong?**"
+"> We have a problem with them intentionally crippling the throughput on the base layer so that most traffic has to go through their shit on the second layer. To ensure profits for themselves.
+
+They don't only cripple the base layer, they're killing the mining industry by siphoning out all the potential future on-chain fees going to them.
+
+>and paying back their $151 million in investors.
+
+151 million? Maybe Liquid cost $1 million and the rest went on the PR and astroturfing propaganda campaign."
+"I disagree, of course. I follow the longest chain with most work just as I always have. These layer 2 systems will decrease fees if anything since they move transactions off-chain. Also 2nd layer services require a well working 1st layer. They are not able to decouple. A loss of critical mass of miners would also kill layer 2 so I fail to see how anyone would let it go that far. Miners, devs and runners of layer 2 services are all stakeholders for layer 1.
+
+My btc are owned by me and are sitting in a hardware wallet for which only I have the keys. No banker in the world can take them from me.
+
+Lately transactions in the 1sat/byte range has gone through every day so the high fee narrative doesn't hold. 
+
+And just take a look around you. Bch has only exchanged one set of potential masters for another set. And those vying for control of bch are complete loons.
+
+If at any point I tire of holding btc then bch would be my absolute last possible alternative. There are tonnes of cryptos with more features and a better structured development."
+and now we see Lightning was never planned to be finished, it was just a placeholder until they could announce Liquid.
+"Owned by Blockstream, not Blockchain ;-)"
+I don’t have to trust you if I don’t want, just like you don’t have to use Liquid if you don’t want. Beautiful thing eh?
+This doesn’t make bitcoin centralized anymore than cryptokitties make ethereum exclusively a kitty trading platform. This is a second layer solution that some people can use if they want. It’s a highly efficient solution for exchange to exchange transactions and nothing more. It will in fact free up block space for the rest of us. 
+Well, it was hard work crippling the legacy chain and coopting the dev team. Not to mention all the hours spent censoring and trolling! 
+looks like kraken was at least prior signed on - [https://www.coindesk.com/blockstream-commercial-sidechain-bitcoin-exchanges/](https://www.coindesk.com/blockstream-commercial-sidechain-bitcoin-exchanges/)
+"It's a guaranteed money maker for them.  They get the authority to sign transactions without needing to do any time and electricity consuming proof of work.
+
+I'm sure they have to pay Blockstream for the privilege.  But in this system, there is no block reward, and there is no proof of work.  There are only fees."
+as a bitcoin user, how does liquid affect me? i buy stuff with bitcoin online or from the local ads, do not use exchanges, and send bitcoin to other people...
+Crickets. 
+"And despite several teams working on it, Lightning has more problems to work around than even the worst shitcoin on the market now. 
+
+Show me a wallet technology from any of the 2000+ altcoins on the market that has Lightnings limitations or worse. Lightning is 3 years late from it's original announcement date and still has bigger problems than even IOTA's wallets problems and that's saying a lot."
+But everything is done so you don't have a choice
+You don't *need* to get pushed off-chain? The only way to avoid getting pushed is to push others.
+Thousands of years of trial and error but how many years have there been central bankers with this level of control? Probably less than 100 and look at how many market crashes and fiat currencies that busted since then. I think we can do better than central planning and fiat backed by nothing.
+Miners are also guilty of this. If they would have acted as guardians of the network as envisioned by Satoshi, Core developers would have been left behind long ago and none of this would have happened.
+"> Not really. Just waves. Bitcoin is unstoppable, but the cryptotree will sprong some bad apples on the way to global economic freedom
+
+You severely underestimate your opponent. "
+"> Nah, it just means that nobody at Blockstream has any vision.
+
+I disagree. They have plenty of vision. The same vision of the people who are paying them to fuck over crypto. Their employers are incredibly wealthy, and smart... and cunning. They understand human psychology at its lowest level. They understand psychology to the point that they have convinced the entire world that paper notes have value... to the point where humans literally kills one another over. Spend some time digesting that. Look what Blockstream has been able to accomplish in a very short period of time with very simple tactics.
+
+Humanity, the plebs mostly, the vast majority of the mob... the reproducing cattle if you will... are the downfall of us all."
+Yes. Me.
+I'm not banned, probably because I don't post there. But who knows. Might have got shadowbanned already or something
+"> Now you sound like a maximalist / supremacist.
+
+Looks like you don't understand these words. 
+
+/u/cryptochecker"
+"Bitcoin was intentionally crippled by Blockstream, because their core business is renting specialized hardware to exchanges for running Liquid.
+
+Without Blockstream there would have been no scaling problem and no need for off chain scaling. It's all cool, as long as it's optional.
+
+Also, minions are paid shills and volunteer trolls that often post here (we have them *a lot*). You're probably not a ""core minion"", just have a different opinion. It's ok to have different opinions."
+"ALL of them changed their opinion and they lie on the internet all day everyday there is so much shit cooming from them and their motive is unclear i really think if everything they did ""for bitcoin"" gets reavealed, bitcoin will die instantly cuz its so much fucking shady stuff."
+I think its foolish to ignore some simple facts like how Blockstream was largely funded by AXA Strategic Ventures. AXA has had Bilderberg members on its board in the past. Bankers are the ones who bankrolled Blockstream and low and behold, they did all they could to halt progress and perform a hostile takeover to mutate BTC into something else they control, and turn Satoshi's original version (now called Bitcoin Cash) into the butt of jokes.
+I felt similar as you. Nice to know we were right
+It would be fun to hear what Crypto Judas thinks about the article..
+"I don't belive this Blockstream = bankers/Bilderberg/government conspiracy shit.  
+I think they are total nerds who love to develop overly technical stuff just for the sake of it. Whether that is LN or this satellite joke.  
+Blockstream has no clue about economics and what people want. They just don't understand Satoshi's motivation for Bitcoin. "
+Nano just showing up bitcoin yet again. 
+"I recommend the lynx browser to suppress the auto-playing video
+
+Edit: article cuts off where author tangents into their personal history."
+Title is terrble. It's from some guy using the Forbes platform as his own blogging platform. He doesn't actually work for Forbes.
+"it's out-and-out community destruction from within
+
+would be best for the community if everyone involved were shunned and removed from all future efforts"
+">Didn't the authors learn anything from 2008?
+
+Favorite line right there."
+Wow what a surprise. It's what I've been saying since the beginning. 
+"> Far from reinventing the financial system, the cryptocurrency world seems to be gradually forming itself into a simulacrum of the existing system. Perhaps this is inevitable. After all, the existing system is the way it is because of thousands of years of trial and error. With all its faults, perhaps it is simply the best that humans can do.
+
+  
+No, we can do better. We refuse to accept the status quo and we will build a better tomorrow. "
+"BS completely ignores there's a price for decentralization. How can they ignore this? Was BTC meant to be just another Visa?
+
+This helps to convey what I said in my last post: Liquid is yet another proof Blockstream is building solutions which are built to only work securely when they get protection from governments."
+"Blockstream reinvents a worst central banking and calls it innovation. But expect shills to come here and say ""bcash is trash"", ""bitmain shit"", ""roger ver felon"", ""bcash devs are only 2 and suck"" as per usual ... 🤤"
+That was one helluva scathing article.  Adds more credence to the theories that block stream’s covert mission may actually be to destroy bitcoin. Unreal.  Just bought more BCH.  Bullish BCH.  
+"Go read ""the other sub's"" replies on this. It's hilarious. I'm surprised it hasn't been removed."
+"> Far from reinventing the financial system, the cryptocurrency world seems to be gradually forming itself into a simulacrum of the existing system. Perhaps this is inevitable. After all, the existing system is the way it is because of thousands of years of trial and error. With all its faults, perhaps it is simply the best that humans can do.
+
+It's sad that people from outside sees this instead of the BS takeover of Bitcoin. Reminds me [Stefan's video.](https://www.youtube.com/watch?v=tXBwcedQuQ0&t=769)"
+Not commenting on the article itself, but the writer is a contributor and not a Forbes journalist. The article even states, the opinion expressed is of their contributor own. Meaning not of Forbes.  Similar to the problem we have in crypto of biased media. 
+We could have avoided all of this by just increasing the block size of BTC. But noooooooo, we need banking 2.0, instead. 
+Oh this is absolutely delicious 😁
+">So you can eliminate the risk to sheep arising from wolves outside the sheepfold by bringing the wolves into the sheepfold and giving them full control of the sheep. What could possibly go wrong?
+
+I love this author.
+
+>Far from reinventing the financial system, the cryptocurrency world seems to be gradually forming itself into a simulacrum of the existing system. Perhaps this is inevitable. After all, the existing system is the way it is because of thousands of years of trial and error. With all its faults, perhaps it is simply the best that humans can do.
+
+THIS is the damage those assclowns at Blockstream are doing to cryptos as a whole."
+"""Far from reinventing the financial system, the cryptocurrency world seems to be gradually forming itself into a simulacrum of the existing system. Perhaps this is inevitable. After all, the existing system is the way it is because of thousands of years of trial and error. With all its faults, perhaps it is simply the best that humans can do.""
+
+Fuck me thats depressing."
+Wow! Blockstream invented Ripple.
+Anyone want to post this on r/bitcoin and r/cc to see if it gains any tracktion? 
+"Oh, great, Blockstream is planning fractional reserve exchanges. I'm not even joking, this is a quote from their white paper:
+
+> ""By moving business processes to Liquid, users may improve their efficiency and *capital-reserve requirements*."" [emphasis added]
+
+Capital reserve of an exchange must be 100%!! WTF is Blockstream trying to say with the above sentence??"
+"Brutally debunked
+
+>But the authors' unfortunate choice of example inadvertently reveals the real issue with this paper. Rather than disrupting prime brokerage, as the authors seem to intend, **the paper’s solution to Bitcoin’s liquidity problem in fact replicates the interbank market**.
+
+-
+
+>The interbank market pools and redistributes liquidity across market sectors, just as Liquid aims to do. And it has key “functionaries,"" known as broker dealers, whose job it is to maintain market liquidity and **act as gateways to the payments system**. Without a functioning interbank market, transactions can be very slow or even fail, and banks can literally run out of money. Just like cryptocurrency exchanges, in fact.
+
+-
+
+
+**Welcome to Bank 2.0 you brainless Core minions and shut up if you talk about decentralization again.**"
+I see /btc is still intently focused on trying to discredit BTC rather than prove BCH. 
+Pretty angry in here....you got your hard fork, and still cry.
+LMAO. the author does not have a clue what cryptocurrency is...
+"A good list of exchanges one should avoid by any means:
+
+> This is the full list of exchanges and other institutions participating in Liquid (from Blockstream’s press release):
+
+> Altonomy, Atlantic Financial, Bitbank, Bitfinex, Bitmax, BitMEX, Bitso, BTCBOX, BTSE, Buull Exchange, DGroup, Coinone, Crypto Garage, GOPAX (operated by Streami), Korbit, L2B Global, OKCoin, The Rock Trading, SIX Digital Exchange, Unocoin, Xapo, XBTO and Zaif.
+
+> Instead of holding all your funds in one corrupt and hack-prone exchange, a bunch of corrupt and hack-prone exchanges will link themselves together so that it is much easier to move your funds from one corrupt and hack-prone exchange to another. This also makes it more likely that if one goes down, so do the rest. Didn’t the authors learn anything from 2008?"
+Well, just more confirmation that peer to peer electronic cash is dangerous.  To the status quo
+"Even more so, Frances Coppala wrote many anti cryptocurrency articles in general, including BCH. If I remember correctly, she regards the differences between the any coin idiologocal and hates them all. 
+
+She is the last person people should be sharing articles off, Blockstream does a perfect job in damaging itself without her opinion."
+Yeah, also not commenting on the article - the title of this reddit post is disingenuous and misleading.
+"I read ""senior contributor"" as her being on staff, but giving her own opinion.
+
+Samson mow's article was classified as ""commentary"" with no such disclaimers:
+http://fortune.com/2017/08/07/bitcoin-cash-bch-hard-fork-blockchain-usd-coinbase/
+"
+"Built on top of a decentralized peer-to-peer network. You don't actually *need* to use Liquid, as you don't *need* to use LN. 
+
+Space in the blockchain has been overly cheap in the first ~10 years of bitcoin. It's cost will be more apparent when adoption continues to pick up. As such, use cases that are only viable with low cost transactions will slowly get pushed off-chain, like satoshis.place and Lightning Spin.
+
+---
+
+r/btc downvote brigade rate-limiter censorship: *you are doing that too much. try again in 3 minutes.*"
+So what advantage does Liquid have over Ripple in reality for the user?
+"> Perhaps this is inevitable. After all, the existing system is the way it is because of thousands of years of trial and error. With all its faults, perhaps it is simply the best that humans can do.
+
+This tough has been tormenting me for a while and now I see it written. It was kind of a shock. But maybe it's a common concern."
+"Indeed.
+
+Core developers took something that was *revolutionary* and started turning it into the *ordinary*. Permissionless and trustless into permisisoned and trusted as if they simply could not wrap their minds fully around Satoshi's original concept, and thus began rebuilding the code into a centralized piece of plumbing for Liquid and Lightning.
+
+Hopefully now more will see why BCH exists: we didn't want or ask for Core devs to turn BTC into Ripple."
+"> Fuck me thats depressing
+
+Not really. Just waves. Bitcoin is unstoppable, but the cryptotree will sprong some bad apples on the way to global economic freedom"
+Nah, it just means that nobody at Blockstream has any vision. But plenty of people in the BCH and ETH worlds have vision... it's just that it's never been done before. It's easier to ape something else, like Blockstream is doing. But long term success will only come from people who are willing to try new things rather than just reinventing the wheel and calling it progress.
+Bipple!
+"Of course! 
+
+Blockstream and its cloud shape the Core repository that fits with their product pipeline! That's why Adam Back and Blue head flew to Hong Kong to stall on-chain scaling and push for Segwit! 
+
+They stole Bitcoin's future!"
+I have been tracking Liquid posts over there since yesterday, and everything gets shot down within 2 hours.
+Is there someone who is not yet a Blockstream employee or a fawning sycophant left unbanned on /r/bitcoin ?
+"It should be 100%  but since exchanges own all the crypto they can do with them as they wish. No exchange has to give you back your money.
+
+If it isn't in your wallet that only you have the keys to, then it isn't really yours. People too easily give their money to exchanges."
+"> **Welcome to Bank 2.0 you brainless Core minions and shut up if you talk about decentralization again.**
+
+Now _you_ sound like a maximalist / supremacist.
+You do realize that Liquid doesn't touch the mechanics of the Bitcoin consensus network right? 
+
+Liquid is a less secure version, but that it's perfectly fine between trusted entities that don't want to pay for the extra security overhead. "
+"I'm a ""core minion"", at least according to the definition here, and I think this liquid sidechain is a centralized trustbased abomination.
+
+But I don't see what core and liquid has to do with each other. Anyone is free to build whatever system they want on top of Bitcoin. Liquid would work just as well/badly on top of bch. 
+
+It's completely possible and even completely okay to build stupid things on top of Bitcoin and it doesn't make Bitcoin any worse in the process. Side chains are meant to be able to fail."
+"Liquid sacrifices decentralization and trustlessness for the benefit of liquidity. When exchanges are only sending to each other, they can sacrifice decentralization and trustlessness. It's very impractical and inefficient to send transactions between exchanges as globally broadcast and confirmed transactions. Almost as impractical and inefficient as paying for coffee with a globally broadcast and confirmed transaction would be. This only benefits the main chain by taking transactions that don't benefit from being on the main chain off the main chain, which makes transactions that do benefit from being on the main chain cheaper and faster.
+
+Do you guys really think that paying for coffee on the main chain is practical or efficient? "
+EOS has come to BITCOIN
+"How is this different from a simple ""trusted blockchain""? Just because it's ""pegged""?
+
+Also, how in the whole world did it take them *years* to release a trusted blockchain?"
+I can't see how anyone could escape the conclusion Blockstream is building solutions which rely on the government for protection of the fulfillment of contracts.
+So, Liquid is Ripple?
+"> Who decides who should be a signer? 
+
+You need to ask permission."
+"> the paper talks about replacing the “dynamic miner set” with a “fixed signer set.”
+
+It's almost as if they don't understand the purpose of bitcoin or the security model."
+https://www.reddit.com/r/Bitcoin/comments/9nj2ks/blockstreams_new_solution_to_bitcoins_liquidity/
+"Blockstream doesn't maintain core. Blockstream has some high profile core developers on their payroll. There is a massive difference.
+
+Linus Torvalds used to work for Transmeta, he was still the maintainer of Linux. Only a complete idiot would claim this made Linux a Transmeta product.
+
+It's extremely common for large companies to have developers employed that contribute to open source projects. Of course these devs makes patches that help their company but they also help the community."
+I agree with you (and Blockstream) on the concern for centralization because of big blocks but the way Blockstreams handles it and the solution they offer, is not a good option at all.
+"Right, the blockstream mind control angle. Haven't seen that one before. Sounds super plausible.
+
+Or just maybe there isn't a big conspiracy and just maybe you are fighting shadows?"
+">	Blockstream doesn’t maintain core. Blockstream has some high profile core developers on their payroll. There is a massive difference.
+
+Paying core dev offer blockstream precious veto over bitcoin core protocols change.
+
+Very convenient when your business plan rely on onchaon restricted onchain capacity."
+"> There is a massive difference.
+
+Not that massive. It's like saying Chromium is a Google product, or CentOS is a Red Hat product. Not strictly true but they are very heavily influenced."
+"Was he paid by transmeta to cripple Linux to force users into using transmeta products instead?
+
+Bad comparison is bad."
+"Hey buddy stop with the FUD! The whitepaper does not say that we must trust ""federations."" It says ""*strong* federations!"" 
+
+I am absolutely probably sure that as long as the federation is **very strong**, it will be strong enough that we all can trust them with the new future global internet worldmoney."
+">If at any point I tire of holding btc then bch would be my absolute last possible alternative. There are tonnes of cryptos with more features and a better structured development.
+
+Well the fact that you're admitting to holding your beliefs purely on ideology explains a lot"
+"> so I fail to see how anyone would let it go that far. 
+
+Are you aware how high transaction fees got last year? The entire system ground to a halt. Anyone mining small amounts could not get payouts, anyone wanting to cash out could not do so unless it was worth paying the fee. It was a mess and adoption of alts went up a lot at the time. 
+
+>And just take a look around you. Bch has only exchanged one set of potential masters for another set.
+
+At least there is a chance for competition. Under liquid it sounds like you have to be chosen in order to confirm any transactions. The point of POW was to avoid that."
+"I have something that I greatly value. It is owned by me and are sitting in a porcelain wallet for which only I have the keys. No banker in the world can take them from me. 
+
+Everything is worth what it is. "
+"> Lately transactions in the 1sat/byte range has gone through every day so the high fee narrative doesn't hold.
+
+Looks like 1 sat/B transactions [haven't been reliably clearing the mempool](https://ibb.co/kiNEyp) for the last 8 hours or so. [It's estimated](https://bitcoinfees.earn.com/) you need 9-10 sat/B to reliably get your transaction into the next block right now. If you look back through [recent history](https://jochen-hoenicke.de/queue/#1,2w), these kinds of spikes are happening around once every 1-2 days. Maybe you can tolerate waiting several hours before your tx gets mined if you send it at an unlucky time of day, but for many people that is unacceptable. And they can avoid the hassle by [using BCH](https://jochen-hoenicke.de/queue/#2,2w)."
+"> My btc are owned by me and are sitting in a hardware wallet for which only I have the keys. No banker in the world can take them from me.
+
+In the long run either the fees remain low and the security model falls apart or the fees become so high it will eat up a chunk of your holdings. I bet on the first option."
+"> I follow the longest chain with most work just as I always have.
+
+So you disagree that users must validate the chain by running a ""full node"" and instead agree that spv provides equivalent of but better security?
+
+That's news to me. When did your change your position here?"
+"> These layer 2 systems will decrease fees if anything since they move transactions off-chain.
+
+This is where the fallacy comes in.  Mining is not cheap.  It requires the purchase of hardware.  And it requires electricity.  If there are less transactions, then miners will need to cover their costs of operation by charging more in fees.to offset the cost of electricity and hardware, if they can't cover their cost with block rewards.  And if miner competition forces fees so low that it's impossible to make a profit, then miners will either go mine another coin, or shut down their rigs entirely and stop mining.
+
+The best ways to keep fees low is with LOTS of transactions constantly flowing and a blocksize big enough to handle it."
+Transaction fees are down because transaction volumes are down because BTC isn't being used for anything any more. It just doesn't work as P2P electronic cash, mainly due to the ridiculous 1MB cap and let's not even get started with LN because LN is a joke. The real red pill is posting anything even remotely critical of BTC to /r/bitcoin and seeing what happens..
+"You get that only 1 out of 3 lightning implementations is even developed by blockstream! How do you think open source development works?
+
+Your troll account is highly active on posting lies.
+
+"
+"What if someone else is going to ""finish"" it? Won't it be worst case an open source Liquid competitor?"
+Seems about right to me.
+"This was exactly the thought going through my head when I was reading about Liquid. They don't even have to admit it, keep ""working"" on LN and shuffle users onto Liquid while they wait another ""18 months"". 
+
+Maybe we're being too cynical. It makes sense though. "
+Fixed! Thanks.
+"Okay so in your system there's two kinds of money. And according to you they're subtly different in very reasonable and interesting ways, but both totally cool. 
+
+And with Bitcoin cash there's one kind of money (and it's faster cheaper and easier to use than the median of your two monies).
+
+Okay I'm going to think about which money I want to use and I'll get back to you."
+Hi, Kraken support here.  We are currently not part of Liquid.  There are a lot of interesting and innovative developments out there, to be sure.  Thanks for the mention.
+">Blockstream has some high profile core developers on their payroll. 
+
+These also happen to be the developers that make all the decisions at core.
+
+Blockstream have a clear conflict of interest with their liquid product."
+And there is no P2P cash.
+"And yet what you got is LN which doesn't work in any meaningful definition of that word, and bscore liquid which is as you describe it a ""centralized trustbased abnomination"".
+
+If only those broken ""optimizations"" needed to compete with a well-working main-chain... wait. They do, it's called everything else but Bitcoin. There you go, you're welcome."
+"> Why is everyone suddenly using the term ""npc""?
+
+Like most new vernacular, it's a meme (in the original Dawkinian sense: ""an idea, behavior, or style that spreads from person to person within a culture"").
+
+So if it seems coordinated to you, that's because it is - but it's not *centrally* coordinated, instead it's a phenomenon of emergent coordination."
+"this may be too far back, but I remember when Adam Back and Greg Maxwell were interviewed together and one question was: so when will lightning be ready? Their reaction was looking at one another while giving some answer like 2 months, but that look alone told you, it was some fuck off answer and they weren't really serious about it.
+
+Today we confirmed Lightning was just a cover for getting people to stop complaining about no solution to high fees while actually never being a full supported feature."
+"Either that or they panicked when people realized LN won't ever see mass adoption. My understanding is that Liquid has quietly been used for inter-exchange transfers for over a year. 
+
+If the panic happened, the investors said ""just give them the door in the face"", which also isn't working..."
+You really don’t understand how an optional to use second layer application works, do you?
+FYI, I'm pulling all my money out of your exchange the minute I hear anything about your company's participation in this criminal racketeering. 
+you are all living in some make believe land, where there will be another (somewhat) successful attack on the bitcoin network by altcoin pushing miners...keep on dreaming, because it is not happening
+Lets just pretend for a moment that this will happen, there is still *nothing* that prevents you fron creating another sidechain if you dont like liquid, or just use LN.
+"only an idiot can cling onto what was obvious (unsuccessful) attempt to ruin bitcoin, and use the ""crystal ball"" logic why it will happen again...in your place, i would be worried about your own shitcoin value ""dropping"" - pun intended..."
+Oh? You sound like gold bugs all holding on to hope that the world goes back to a gold reserve currency. They literally say exactly the same thing.
+I don't post about non-bitcoin topics there. Liquid is a trustbased sidechain, it's very far from bitcoin.
+Probably not r/btc is about bitcoin and as far as I'm concerned L-BTC isn't bitcoin.
+Lackey or useful idiot.
+"Blockstream leadership are acting like cunts and the liquid network is a stupid layer 2 implementation that's obviously designed to put BS in the middle of a bigboy club for people who want Bitcoin to play nice with the obviously corrupt existing banking system.
+
+But hey if they want to pay me that's just fine."
+your spamming this whole thread with your nonsensical responses, so the only thing I'm gonna tell you is that I have tagged you as a troll.
+"> And layer one isn't even broken.  
+
+Again, by what standard? It's been epically broken on the ""BTC"" block chain per the Bitcoin white paper. Or do you have another document that explains how ""BTC""'s continued existence is somehow ""unbroken""?  
+
+You are again confirming your ""core minion"" status by refusing to see Blockstream essentially **is** Core.  
+
+Edit: spelling"
+"Liquid is not layer 2 dumbass. 
+
+Blockstream gives two fucks about LN. They sold that LN fallacy to idiots like you. Liquid is not even a ""side chain"" by definition if its not permissionless system. What an idiot."
+"It wasn't ""kept the same"" you moron.  Satoshi set the cap 100x utilized capacity."
+"What happens in ""a few more years""? "
+"> You’re blind if you haven’t noticed CSWs attempts to take over BTC on behalf of the gambling cartel. First by pretending to be Satoshi, then when that failed by forking off and trying that approach.
+
+""Attempts"" to direct the future of the chain by acting using the consensus mechanism of the chain, so what? If he wins, he's supposed to, if he doesn't, he wasn't. That's how proof of work actually works. Look at what you're now championing instead; a federation of centralised AMLKYC compliant crypto exchanges completely not subject to the aforementioned consensus mechanism, or anything more complex than the eternal rule of ""because I said so"".
+
+You are a fucking idiot.
+
+> Now, because the community is split and the cartel doesn’t have full control (because BitMain is a huge player) they want to fork off ... again.. this isn’t how decentralized networks work. You can’t just push your views down everyone’s throat and expect chance right away. This isn’t supposed to be CraigCoin right? Unfortunately it has become that.
+
+That's *exactly* how decentralised networks work. If you don't like the way the chain is proceeding you fork off, nobody can stop you from doing it and it's perfectly alright to do if you're convinced that it's necessary. In this way the chain is guaranteed to eventually succeed at one of its ends, and the forks that you're utterly convinced are worthless are effectively simply free offers to increase you stake in the fork you're convinced is the real thing.
+
+By contrast, forcing everyone to stay together on a chain that has now transparently descended to exactly the state everyone knew and said it would for years is not ""decentralised"" at all. It's a parody of decentralisation to retain the power structures of centralisation whilst being simultaneously cheered on by clueless hapless fuckwits like you.
+
+> Media has been twisting everything to make it hard to determine reality. We were told that if Segwit launched, bitcoin would crash and burn. A year in and ... gasp.. were completely fine. 
+
+By ""completely fine"" you mean the entire consensus mechanism of Bitcoin has been overriden completely, and the system is now nothing but a centralised shitty ripple clone still being loudly cheered for by clueless fuckheads who can't even tell that's the case.
+
+"
+You're flatly wrong. Blockstream sabotaged bitcoin by forcing through an idiotic technical roadmap that only the utterly ignorant support in order for their other products to actually have a purpose. That you still haven't figured it out at this stage means you're just a lost cause. Enjoy your idiocy, check back in 2020 for the whole story. 
+"Thats not how software development works.
+Think about it in literally any other light.
+
+Could you ever imagine a CTO saying:
+""Lets intentionally FUCK our product in a very hard way, just to force us to optimise it!""
+
+Or you know, they could just optimise it anyway if it needs it and not fuck the product."
+Will you be able when more users have adopted it and the blocksize stays at 1mb as dictated by the central btc authority? 
+Blockstream/core already showed that they will not increase block size. If $100 fees will not do it, then nothing will. AFAIR Bitcoin Judas tweeted that he would like to see $1000 fees. Luke would like even smaller blocks, etc. Aiding on-chain scaling goes directly against Blockstream/core profit making interests. Bitcoin (BTC) will never scale, but they will gladly sell their LBTC as Bitcoin and collect the fees..
+Then post it there and enjoy not being banned because /r/bitcoin totally isn't a censored Blockstream echo chamber..
+If you aren't a Blockstream employee then it's only because they aren't paying you directly. You're a lackey either way.
+"Because that narrative doesn't make sense. If you break layer one you also automatically break layer 2. 
+
+And layer one isn't even broken.
+
+Liquid is a stupid idea but that doesn't remove my support for small blocks in the near term.
+
+I like the bitcoin core implementation. I think blockstream are a bunch of buzzword-sprouting twats."
+/u/etherael wow savageeee
+So post it there and see how you are welcomed.
+Cracked across the face with a 2x4. Lol 
+"I thought the play was pay to access not specialized hardware. Do you have a link? 
+
+Personally I just don't see Blockstream having the kind of clout nor the capacity to pull something like that off. They tried to send bitcoin over satellite ffs. They seem to me to be more of a bunch of tinkering nerds than the tip of an international cabal hell bent on ruining bitcoin. 
+
+Heck if there really was some real dark organizations out to get bitcoin I'd expect a lot more people disappearing without a trace and a lot less arguing online. I mean the current state is so not the way to run a hostile takeover."
+Not at all, stronger opponent is - more time it'll take. But the outcome is the same: Bitcoin
+That's a matter of perspective. It can just as easily be looked upon as using a limit to force optimization.
+"> they created a problem by their own action and are now selling the solution. End of story.
+
+It's worse. The problem will get much much worse once the miners don't get paid in fees to maintain the blockchain because all the tx's will be off-chain. "
+"I was part of the big block movement when it was grassroots and within the community. I’m very well aware of both sides argument. 
+
+The problem is ... I watched the big block movement get taken over by corporations as a way to manipulate bitcoin to their needs. 
+
+Sadly, BCH has become what all the Big blockers were afraid happened to BTC. 
+
+You’re blind if you haven’t noticed CSWs attempts to take over BTC on behalf of the gambling cartel. First by pretending to be Satoshi, then when that failed by forking off and trying that approach. 
+
+Now, because the community is split and the cartel doesn’t have full control (because BitMain is a huge player) they want to fork off ... again.. this isn’t how decentralized networks work. You can’t just push your views down everyone’s throat and expect chance right away. This isn’t supposed to be CraigCoin right? Unfortunately it has become that. 
+
+Media has been twisting everything to make it hard to determine reality. We were told that if Segwit launched, bitcoin would crash and burn. A year in and ... gasp.. were completely fine. So now we know that was just propaganda just like we are seeing with wormhole and lightning. Suddenly the narrative is that only onchain matters? Wtf. This is a spartan idea brought on because .. if LN succeeds it basically makes BCH irrelevant. Sorry but to me this is how capitalism works. Adapt or die. 
+
+There’s some really cool stuff that can be done with drive-chains and second layer solutions. Don’t exclude yourself from this. You’re only going to fall behind. "
+Not removing a rule that's been in place for many years isn't making something worse, at most it's keeping something the same.
+Sure, for a few more years.
+"Cool story bro.
+
+The fact that Blockstream has been working on a for-pay side chain isn't news. It's been known for years, they haven't been hiding it.
+
+But blockstream can ""wave a gun around"" or whatever shit metaphor you want to use as much as it likes. It doesn't affect bitcoin. Blockstream is a bitcoin company. Bitcoin isn't run by blockstream."
+That we can do better is obvious to me. But most people I know think this is fine. They agree with every advantage of Bitcoin... and shrug. It makes me mad. Lol. Well, it made me mad.
+"You buy with bitcoin, you should be worried about scaling but core minions are so mentally retarded that they don’t remember last December, less than a year ago. Fees over $50. But “muh spam attack”. What a joke! Means BTC is not ready and won’t be ready for “spam attacks” (AKA massive use).
+
+"
+"Of [u/alsomahler](https://www.reddit.com/u/alsomahler)'s last **74** posts and **1000** comments, I found **31** posts and **900** comments in cryptocurrency-related subreddits. Average sentiment (in the interval -1 to +1, with -1 **most negative** and +1 **most positive**) and karma counts are shown for each subreddit:
+
+Subreddit|No. of comments|Avg. comment sentiment|Total comment karma|No. of posts|Avg. post sentiment|Total post karma
+:--|:--|:--|:--|:--|:--|:--
+r/NEO|2|0.06|2|0|0.0|0
+r/tezos|3|0.16|6|0|0.0|0
+r/litecoin|2|0.29 **(quite positive)**|2|0|0.0|0
+r/eos|1|0.24|17|0|0.0|0
+r/Bitcoin|160|0.08|554|18|0.05|683
+r/Stellar|1|0.0|5|0|0.0|0
+r/ethereum|605|0.13|3822|11|0.01|616
+r/ethtrader|53|0.09|242|1|0.0|4
+r/btc|40|0.09|85|0|0.0|0
+r/Ripple|5|0.2|2|0|0.0|0
+r/CryptoCurrency|21|0.09|120|1|0.0|31
+r/Monero|2|-0.07|7|0|0.0|0
+r/Iota|5|0.13|13|0|0.0|0
+
+***
+
+^(Bleep, bloop, I'm a bot trying to help inform cryptocurrency discussion on Reddit.) ^| [^About](https://www.reddit.com/user/cryptochecker/comments/7q3jum/faq_about_ucryptochecker/) ^| [^Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=cryptochecker%20bot) "
+"Layer 2 can't work if layer one isn't working. The chain of events you are describing is nonsense.
+
+Anyone is free to modify the bitcoin protocol, it's completely open source. The problem is getting the bitcoin network to follow you."
+Miners were always a tool to be used for their selfish economic incentives. Assuming a moral duty is the complete antithesis of what Bitcoin was supposed to be. The market will ultimately decide the value of BTC and the miners will reassemble to maximize their self-interest. The problem is that Core took the most popular, , secure, and ubiquitous distributed consensus network and totally bungled the whole thing up, now leading us down a less than desirable timeline whereby BTC is unlikely to succeed, which is needless and a shame. However, this was one possibility of events that has occurred and we can only move on from where we are and move forward. While it is a shame, there is not much to be done other than cooperate with people who do share that vision, and build something together. I think this is already happening so I feel this whole BTC issue will be a relative historical speed bump as well as serve as a glowing historical example of complete dbags who tried to con people for their own personal profit. 
+"Why is everyone suddenly using the term ""npc""? I guess it sounds better than calling people a ""bot"" or a ""shill"" or whatever. Just seems so strangely coordinated."

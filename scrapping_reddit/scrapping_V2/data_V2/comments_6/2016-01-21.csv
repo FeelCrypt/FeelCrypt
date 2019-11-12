@@ -1,0 +1,133 @@
+"Dear Rick,
+
+**Note: this post is in three parts.** 
+
+Thank you for starting up this dialogue and also sharing your insights into the unfolding events surrounding Bitcoin. As someone who has built and successfully guided the growth of the Pirate Party, your experience is invaluable. With this said, I would like to share my thoughts on some of the observations and statements you made here. 
+
+You said: “It doesn't help that people incumbent in positions of power tend to ""do what they must, because they can"" in order to safeguard the status quo, however small or insignificant that incumbency is - this includes everything from Theymos' deletion of discussions … 
+The toxicity will remain until actively removed by leadership”
+
+I agree with your statement condemning the actions of Theymos'. Acts of censorship are destructive and can’t be excused. But I would like to ask, is there a possibility that certain individual’s actions are used as justification to collectively punish and demonize a whole group, in this case specifically this individual’s act that was treated by some as representing the Bitcoin Core? 
+
+I find you to be a champion, defending liberty for the general population. You have informed the world how governments do these kinds of repressive things all the time, restricting free speech; silencing voices of those they do not agree with. I also see in those occasions, how politicians and law enforcement officers come in to act as ‘leaders’ to remove ‘toxicity’. 
+
+Do you see a possibility that what you allude to as new Bitcoin ‘leadership’ might bring another point of control, injecting another authority? Is it possible that any leadership without much careful examination of its role or where it comes from can create a system where we all become at the mercy of changing criteria of what these ‘leaders’ decide as inappropriate behavior? 
+
+**On Bitcoin Core** 
+
+You said; “From what I can tell, Core has made the common but crucial mistake of isolating itself from the community and taking on an expert attitude toward everybody else in trusting this inner vision compass over external criticism, where Core is somehow right by definition - the development happens as Core wants it, period. This is very dangerous in any open-source/free software project.”
+
+I can understand your perspective and how it can be seen this way. But would it be possible to see the Core developers’ ‘expert attitude’ as stemming from their commitment to their own principles and what is often depicted as stubbornness and inflexibility is showing an adamant refusal to easily sell out to something that compromises the ethos of decentralization? 
+
+What are regarded as admirable qualities by some, can easily be painted by others as if they are acting like power mongers and villains. 
+
+Next, is Bitcoin Core really not respecting diverse views? 
+
+Technical approaches of developers are different depending on one’s priorities. For instance, if one thinks of making a bicycle, one has a particular way of engineering the design differently than someone who is trying to make a tricycle. It might appear similar from outside, but their approach to security won’t be the same and they have different concerns. 
+
+I am not the one who witnessed how Core interacted with others, so I can’t really speak much about it, but I wonder if it is possible that the core developers feel that those who push a hard fork do not understand their values and what they see as serious security concerns. If one wants a tricycle, they may not see security flaws that can be applied to a bicycle etc. 
+
+In one episode of Let’s Talk Bitcoin with Peter Todd and Gavin Andresen, I got this distinct impression that Gavin indicated how not everyone wants privacy features and the ability to become one’s own bank. Peter Todd also pointed out how Mike Hearn’s goals for Bitcoin had “nearly 100% focus on low-cost, and nearly zero focus on censorship resistance”. 
+
+[Let’s Talk Bitcoin! #217 The Bitcoin Block Size Discussion](https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-217-the-bitcoin-block-size-discussion)
+
+All this has more to do with widely divergent visions of what Bitcoin should be – philosophical differences that shape each engineering approach. If one closely listens to what Core has been saying on the issue of blocksize increase, one could realize it is more nuanced. It is a question of  “how big right now is too big, how might moving too fast not be safe?” Depending on the vision of what Bitcoin should be, this question didn't even come up. Core has expressed concern about the trade-offs that comes with a certain approaches to block-size increase without careful examination, noting how it makes the system vulnerable to censorship as in platforms like Visa and MasterCard. 
+
+If one wants Bitcoin to be another glorified (centralizable) PayPal, one might have a different view on security and won’t care much about this trade off.  
+
+You said; “Other people are just as intelligent and may have considerable experience and ability to evaluate the claims made, and these should - no, must - be taken seriously”.
+
+I have no disagreement with you here, in fact I admire your inclusiveness and ability to recognize merits in others. At the same time, I think there is a space to honor knowledge that is tested and has gone through appropriate peer-review process. Bitcoin is like a flying ship carrying much more than its current 5 billion dollars in monetary value and I don’t want someone not so experienced getting into the pilot seat. When I say expert knowledge is needed, I am not discounting intelligence or insight of other people, but showing respect for those who have demonstrated in the community the capacity to steward the development of this software in past years. 
+
+I am glad that Core has been conservative and careful in their approach to making changes. I see this as a strength rather than weakness, showing how they care about the lives of people and integrity of the network on board and are trying to be responsible! It is also important to note that the Core has not been refusing to admit the need for scaling. They recognize it and have been working on it. They had a scaling conference in Hong Kong and an incremental 2-4-8 plan came out of it. Changes are now being prepared for launch via testnet. You can read the following articles elucidating what Core see as security trade and their primary focus. 
+
+Here are some articles that you might be interested in reading. 
+
+[The Decentralist Perspective, or Why Bitcoin Might Need Small Blocks](https://bitcoinmagazine.com/articles/decentralist-perspective-bitcoin-might-need-small-blocks-1442090446)
+
+[On Consensus, or Why Bitcoin’s Block-Size Presents a Potential Trade Off](https://bitcoinmagazine.com/articles/on-consensus-or-why-bitcoin-s-block-size-presents-a-political-trade-off-1452887468)
+
+So, when I hear many of those who support Bitcoin Classic portray the Core as if they haven’t done anything to scale the capacity of the network and put forward the hard fork, it only confuses me. If anything, Core has been trying to accommodate the needs for scalability, proposing concrete solutions that would not jeopardize security. 
+
+Are developers and supporters behind Classic willing to answer Core’s concern of a potential trade off and centralization by providing scientifically backed data and proof showing these concerns are exaggerated?  Developers' proposals need to go through peer-reviews and need to be cross-examined and tested. When supporters express their opinions, each view needs to be listened to in a manner that takes the other’s point of view into account. 
+
+For me, the real problem appears not that Core is acting as “know it alls”, but the difference is in the priority and security model they implement and when they debate differences in technical terms, often maybe developers won’t realize they are not speaking the same language. Maybe there is a need for developers to be speaking the underlying different vision directly and find a way for this discussion to be open and transparent to public. 
+
+To be continued ... 
+"
+"This is a continuation of Part I. 
+
+**On Democracy** 
+ 
+You describe what is taking place is now much bigger than a “a selection of features” and portray it as “an election of governance and stewardship into the future.” 
+
+With all due respect, I find it a bit disingenuous to call it an election, when this is not really a democracy. Bitcoin as it exists now is not democracy. I share the view held by some developers, who note how the current condition of the ecosystem is unhealthy, in that there has been centralization creeping into the ecosystem with the mining and decrease of full nodes. As a result it is harder for ordinary people to participate in Bitcoin consensus and a rash increase in block size without consideration for the security would likely make this worse. Adam Back and Peter Todd made this point clear. 
+
+[Adam Back on 3 Forms of Centralization That Have Crept Into Bitcoin](https://bitcoinmagazine.com/articles/adam-back-3-forms-centralization-crept-bitcoin-1442018963) 
+
+Some disagree with the contention that mining is already too centralized, but a question of how much of the whole system is centralized is all relative, depending on who you talk to. For instance, if you ask African-American in Richmond CA. (one of the poorer part of the US) about the state of democracy in the US, he might say effectively there is no democracy, while if you ask a rich white man in Marin County across the bridge, he might not see any problems with the existing governance. 
+
+In this state of Bitcoin “democracy”, this idea of ‘let the economic majority decide’ leaves me with a question of what about those who are not represented, who currently do not have a right to voice their needs. As you say, if this is about an election of governance and stewardship into the future, does this ‘governance’ include future generation (users), those who are not in the system yet, a population who still doesn’t have access to the infrastructure that you and I in the privileged first world have? 
+
+You mentioned remittance as one of features that you would like to see grow, but could the possible centralization that might come from changing the block-size limit bring the effect of furthering exclusion from the consensus process? Should a few developers and supporters rallying with them decide how migrants should use bitcoin for remittance? For me, one question is how can we ensure access to the consensus process for those who are not able to currently? But before we can answer that question, the question needs to be asked as to if we all think this inclusion is important. 
+
+What is Core being so “stubborn” about when they resist attempts to remove the block limit or increase it in a rash manner? I see them defending this innovative space to build a platform for a future real democracy (that’s a daunting task!). 
+
+Ultimately, who gets to decide who would be excluded and who gets to participate in governance? You might say, let free market decide or let this 'election' decide. But I argue unless rights of equality, an ability for people to participate in the democratic process is guaranteed, ‘free markets’ and 'elections' is often rigged and easily becomes just a charade representing the loud voice of those with wealth and power to influence the masses. 
+
+I see Core’s commitment to preserving the security and the blocksize cap to be about claiming the need for vital safeguards (anti-centralization measures). Just as founders of the US Constitution implemented the mechanism of checks and balance (no matter how imperfect and with levels of contradiction – i.e. slavery, genocide of natives and not guaranteeing rights to vote for minorities etc), maybe we can honestly examine both the ideal and possible security vulnerability inherent in this new form of governance and assess where it is now according to that vision. 
+
+Despite Core’s fierce commitment to keeping the system decentralized, it is disappointing to see the rhetoric used to characterize them such as ‘putting the future into the hands of the few” as if they are dictators. Is it possible that not only Core was wrongly smeared, but the group of people who accuse them are actually doing exactly that (with hardforking as a way to select themselves into a position of power?)
+
+**On Freedom** 
+  
+“Unfortunately, I believe bitcoin development has lost touch with large-scale rollout necessities over the past year or so. At the moment, there are three use cases which all new features should seek to improve”.
+You named for instance, remittance and drop-in credit card replacement and asked; The question of ""who's the customer?"" seems to have gotten lost in the process.
+
+To me, this question limits the imagination of this innovation and what it can offer. Yes, we are customers, but we are so much more than customers. When liberty is talked about in the context of Bitcoin, I regard it not something to only be defined in the commercial arena. It is civic power; free speech, privacy and the right to free association. 
+
+Creating an inflation-proof currency that can act as a form of digital gold and bring financial independence from the current oligarchy are vital parts of this. But they are not the only thing. 
+
+You said that Core doesn't offer any features that could be improved. If you are looking for something that has a price tag or a potential to increase profit margin, maybe you won’t be able to see it. 
+
+But to me, the Core’s vision of Bitcoin offers a permissionless and borderless First Amendment, which I say you have been fighting for all your life. You are the one who bought to my attention the US government's Internet kill switch and how Bitcoin can circumvent financial blockades like the one that happened to WikiLeaks. I value Bitcoin because it makes the First Amendment into an app that can be distributed to anyone around the world. With Bitcoin, I can exercise my free association right with an ability to bring value to any organization without fearing political retaliation. 
+
+Free speech is priceless, and people historically have fought for it -even sacrificed their lives for it. There is something larger than economic interests and market signals that drive people to act; just ask Julian Assange, Chelsea Manning and Edward Snowden. 
+
+I see in the work of the Core a true stewardship, placing safeguards for decentralization for all people. From outside, this act can be seen as 'undemocratic' and might feel they are putting restrictions on others interests, but ask those who never had proper representation; ask those who never had a capacity to become their own bank. If we listen differently, we might hear a different answer. 
+
+Perhaps, the divide centers around the question of freedom, how to define it. Is it just freedom to buy a cup of coffee, or carry unextractable value and transact with anyone we choose? 
+
+Personally, Bitcoin gave me an opportunity to truly learn about what money really is. I read Nick Szabo’s essay “Shelling Out” – the Origin of Money. It opened my eyes to recognize how the origin of money was not a market, but something larger as a social contract. When I interact with people, I am relating to someone as a human. I want to first guarantee a platform where I can exercise the equal human rights with the other person. I want to relate to others as equal peers. If I don’t have this right, I can’t freely transact. 
+
+Core is not refusing and denying people’s desire to scale and make Bitcoin a transactional currency. As I see it, they are now building a foundation of a new democracy, upon which truly free markets can be built. High volume/market cap currency can be implemented once the incorruptible foundation becomes solid. But if we lose this new form of democracy by allowing the system to be easily corrupted or centralized, it is harder to bring it back. 
+"
+"Finally,
+
+I share the sentiment described by **jimmajamma** in the post above. Hard forks are reserved for emergencies and as I understand it, they should not be done lightly. For me, the question is, what is this urgency, especially when Core is putting forth a concrete proposal for 2MB increase? Is there something else going on, disguised behind this rushed version of block increase?
+
+The US Constitution for instance is amendable, but the founders made sure to make it difficult to change. I see hard forks in a similar light. Once it is carried out without much consideration of undermining the security, it could set a precedent for easy derailment of the core principle of decentralization. Also, what happened after the ‘election’? We have a shortage of skilled coders. Alienating developers likely weakens Bitcoin in the end.
+
+Let us agree that we have a lot of adversaries outside of the Bitcoin ecosystem who are desperate to derail this. Can we recognize our common interests and work together? We are here talking about global superpowers that know cryptocurrency could take away their current God-like omnipotence; those who mercilessly indebt the world and commit fraud against sovereign nations as seen in Greece and many other countries. I am talking about the opposing forces against true democracy, those who drove Aaron Swartz to suicide, put Assange and Snowden in detention, imprisoned truth-tellers like Chelsea Manning and Jeremy Hammond and committed murder of millions in ruthless resource wars.
+
+If we work together, we can find solutions to these problems that we all have. We can make Bitcoin both a store of value and transactional currency and foundation stone of a true democracy.
+
+Bitcoin emerged in the middle of the first phase of the modern economic crisis. It was a promise and a solution to the existing financial system. But Bitcoin is much more than just money. Currency collapses and financial wars are just symptoms of a deeper social illness. What we are now facing is a crisis of democracy. Around the world, Western liberal democracy (its form of representation) and its outdated security model is showing the system badly needs a reboot.
+
+Real democracy can’t be bought and sold. It requires people’s participation in power. Satoshi gave Bitcoin to the world -a tool for us to build a world as we all can envision it together. I would like to see the future of Bitcoin development to be built upon this original deed of altruism. We now can create a platform for all people to be able to make real demands of any who represent us.
+
+This question about leadership made me realize something.... There is no ruler in open source. It is not a King, president, politician or group of technicians who govern. Satoshi, through the act of giving, opened society into a possible new world where there are no levers of control.
+
+The core of Bitcoin is anonymous faces of nobody, yet at the same time everybody, who are evolving and growing with hearts beating every 10 minutes.
+
+I am writing this from the United States, where so much of the current greed and darkness of the world emanates and much global terror is spawned. In the original American experiment in democracy, it was presented as a departure from the rule of monarchy and tyranny. In that new 'land of free and home of the brave', it was said that law is the King. Now the rule of law is increasingly subverted by oligarchies and civil liberties are globally threatened by faceless transnational corporations.
+
+Yet a new code of law is emerging. In Bitcoin, the rule of consensus is a Queen. It is like a queen bee dancing with the hive mind.
+
+**Consensus is different than majority rule**. It is not perfect and it can be messy. But democracy is chaotic, and out of this chaos, a new order can be made. Just as nature always organically finds its own balance of power, around this new queen, I see a swarm of bees; developers, investors, users, exchanges, working together in service to what is at the center “ …” which is constantly moving and constantly redefined by all of us.
+
+And you, Rick, you are one of those who inspired me and let me see the wisdom of this swarm and I deeply thank you for that. I hope this dialogue is a beginning of our new swarmwise.
+
+Best regards,
+Nozomi
+"
