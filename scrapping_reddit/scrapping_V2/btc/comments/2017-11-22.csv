@@ -1,0 +1,184 @@
+This is yet another example of why I moved some of my most valuable chips to the BCH side of the table. Here in r/btc we get intelligent conversation, sharp research and intellectual honesty while r/bitcoin censors anyone who doesn’t wave childish pro core meme-flags and give Thymos a Nazi kiss ass salute. 
+/u/tippr gild
+"The content of this post is excellent, and the amount of evidence is just staggering. However, doesn't anyone find the number of upvotes weird? I haven't seen any post with 1k upvotes on /btc, ever. We're now closer in at 8k.
+
+Obviously it's the bots at work again, but why would this post be chosen?"
+"Alright, I'll take a moment to look this over, if only to separate facts from speculation.
+
+Here we go.
+
+>When we first began looking at the massive downvoting attack as shown in BashCo's previously stickied thread last week, the first thing we noticed was that both of the bot-voted comments ( Image of #1, link to #2 ) would normally trigger our censorship notifier detection. Both ""censoring"" and ""censorship"" are trigger words we have found triggering automatic removal, something we later confirmed again. This would imply that either the comments were explicitly approved by the moderators at that time, or our understanding of the subreddit's policies needed updating. 
+
+Actually, both /u/4n4n4 and /u/StopAndDecrypt have been approved submitters to /r/Bitcoin for 5 months or more. So no, neither comment needed to be manually approved by the moderators, and in fact, as a moderator of /r/Bitcoin, I can say for a fact that **neither comment was manually approved by a moderator of /r/Bitcoin**. This is a fact. 
+
+So right there, your ""smoking gun"" (and your chief hypothesis) is out the window. Let's continue.
+
+>The bots which were downvoting comments and posts on /r/Bitcoin and upvoting posts on /r/btc began their attack on 11/14/2017 at around 18:00 utc. A similar unusual pattern of voting appeared on /r/btc around the same time the day before, though less dramatically. The bots seemed to be pushing people to buy Bitcoin Cash in such a blatant way that it even left a bad taste in the mouths of Bitcoin Cash supporters. Both the attack the day before and the /r/Bitcoin bot voting attack on 11/14/2017 ended before or around 22:00 utc [REF-3]. The bots attacking /r/Bitcoin upvoted posts complaining about high fees and downvoted about 30 other /r/Bitcoin posts. At the same time they upvoted posts on /r/btc. We identified 65 comments downvoted by bots in /r/Bitcoin and 2 upvoted. The conclusions appeared to indicate that the bots were promoting Bitcoin Cash and /r/btc and harming /r/Bitcoin.
+
+This is all true.
+
+>We began investigating into the comments that caught our eye at first, referred to as [CU-1] and [CU-2] for short. [CU-1]'s content can be seen here as it originally looked. Immediately we noticed the next oddity - How were people able to see votes in /r/Bitcoin to discuss voting in the first place? /r/Bitcoin has blocked votes from being visible on comments during discussion for years. When did that change? We found that it changed right before [CU-1] was posted. BashCo stickied a comment stating they would ""pull back the curtains"" at 20:49, and archive.org confirmed that scores became visible between 20:32 utc and 20:50 utc. That, oddly enough, was just 13 minutes before [CU-1] was posted at 21:02:25.
+
+So, to make sure the facts are straight here... the timeline here is that [this post](http://i.imgur.com/xrM39eb.png) was made, it was upvoted massively by a malicious bot army, [BashCo started a thread about it](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/) to call attention to it (and as you noted, [he temporarily enabled transparent vote-scores to highlight the attack](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dptn609/)), and the attack continued from there. Then darwin2500 chimed in *to make fun of BashCo for pointing out the attack*, and was immediately upvoted massively (by the same malicious bot army, it would seem). It was approved by StopAndDecrypt a couple of minutes later (almost certainly because he was replying to the comment, and it was *yet another example of vote manipulation* that served to highlight what was being done and reinforce BashCo's valid points), and later deleted by darwin2500, the original submitter of the comment.
+
+I don't see what you mean by ""oddly enough"", considering the entire episode was about *an ongoing vote manipulation campaign* that BashCo and StopAndDecrypt were calling attention to. In other words, none of the above seems to indicate *any* sort of foul play from *any* moderators of /r/Bitcoin *whatsoever*, but it seems like you are trying to imply that it does.
+
+>We have determined that [CU-1] was indeed blocked by /r/Bitcoin's automoderator rules as we expected. The screenshot taken by /r/Bitcoin moderator StopAndDecrypt clearly shows this, as the ""moderator approved"" checkmark is present. We also tested automoderator rules with an aged account with karma and confirmed that ""censors"" and ""censoring"" were both blocked [REF-1]. Note that the poster, darwin2500 (under control of hacker, please don't ping them; they aren't a Bitcoiner) could not have been an ""approved submitter"" - they seem to have only had one comment in /r/Bitcoin before the hacking.
+
+So you are aware of the ""approved submitter"" possibilities, and failed to even *mention* the possibility that either StopAndDecrypt or 4n4n4 were approved submitters in your very first paragraph when you said: ""Both ""censoring"" and ""censorship"" are trigger words we have found triggering automatic removal, something we later confirmed again. This would imply that either the comments were explicitly approved by the moderators at that time, or our understanding of the subreddit's policies needed updating.""? That in itself is rather telling.
+
+Readers, I urge you to re-read my previous paragraph until you understand the point I am making very clearly. OP is *very* deliberately trying to ""spin a narrative"" here, not mentioning the possibility of certain comments being visible because they were made by approved submitters (which I can tell you for a fact is the truth) and instead pretending like the **only** possible explanation for the comment(s) being visible was that they were manually approved by /r/Bitcoin moderators (they were not), *even though they obviously know about approved submitters on reddit and discuss this later on in their post*.
+
+>So why was the comment manually approved? 
+
+As I said above, /u/StopAndDecrypt *was replying to the comment in question*, and was obviously *trying to highlight the vote manipulation that was going on*. You can't very well reply to a comment that isn't visible, and it is completely obvious why this comment was approved, when you look at the context it was made in and what was going on.
+
+>We are not aware of any other approved or allowed comments that blatantly reference censorship like that in the last several months. 
+
+There are **many**, but admitting this doesn't help the narrative that you are trying to spin. I remembered (off the top of my head) an instance from just a few days ago, and [dug it up for you as an example](https://np.reddit.com/r/Bitcoin/comments/7dks5y/cut_the_bullshit/dpyif6k/).
+
+So once again, this is more evidence that you're presenting information *incredibly* disingenuously. Comments that reference the alleged ""censorship"" of /r/Bitcoin are allowed all the time, even on a daily basis, despite the fact that they are off-topic and usually made by troll-armies just to stir up drama and mislead newcomers.
+
+>Except this idea did not hold up. We found 10 similar comments from the same time period which were not approved or were explicitly removed unlike [CU-1]. Some of these were uncannily similar to the original comment. For example this one was submitted 8 minutes after [CU-1] and never approved. Another here supported neither subreddit and was blocked at 21:48 and never approved. This one accused /r/Bitcoin mods of being paid by Blockstream and was manually removed at ~22:35. A fourth was identical to [CU-2] and blocked at 00:12 and never approved. The same account of [CU-1] submitted a second comment 5 minutes after [CU-1] and was blocked and not approved. The other 5 things blocked or removed around the same time were: [1] [2] [3] [4] [5]. The existence or absence of most of these comments around the claimed time can be verified independently of the censorship_notifier, see [REF-2]
+
+What on earth? How does this paragraph *in any way* indicate that ""this idea does not hold up""? 
+
+Your argument in this paragraph seems to be: ""If you allow/approve *one comment* that is discussing 'censorship' in the subreddit (to highlight the vote brigading going on, then *you must also allow every single malicious comment made by every troll in the same thread!*"" 
+
+How does that make any sense? The point of the thread was to point out how obviously vote-brigaded things were being, and how the discussion was being manipulated. Letting one or two example comments demonstrate the point is sane. **Letting the entire thread be overrun by trolls would not be!** 
+
+The argument in this paragraph makes no sense! You say ""this idea did not hold up"" but it holds up perfectly. "
+Thank you for the analysis!
+Someone should let the reddit admins know about this. 
+/u/spez
+Crude and unimaginative execution by blockstream and their henchmen, they could have been more deliberate, more effectively meeting their devious goals over time. Idiots by any measure
+"Excellent work.
+
+Regarding /u/nullc, besides his comment being targetted by the bot, the ""sockpuppet"" of his could just be one of his many fans who imitate his writing style and talking points, and yes even sometimes have his back in comment threads. Unless either of the accounts start deleting comments there will be more room to analyze writing styles to see if it's just a fan or an actual sockpuppet."
+/u/tippr gild
+If r/bitcoin gets banned they will all come flooding to r/btc 
+"excellent post here! the amount of effort or data that went into making this post is awesome.
+
+very neat bot you have there!"
+oh boy...... it's so pathetic you may just be right op... lmfao.
+Spez is in the wind. Hasn't posted for 20 days. You all know that, right?
+This is the juciest thing I've read in a long time! Good detective work guys!
+"Nothing here is of surprise to me and shouldn't be to anybody really, but still I'm left speechless.
+
+"
+/u/tippr $21
+This is now the most upvoted post on /r/btc of all time! Link: https://www.reddit.com/r/btc/top/?sort=top&t=all
+Wow. You guys did some great work! Thanks for documenting this $5 /u/tippr
+STOP WASTING MONEY ON REDDIT GOLD PEOPLE! Tip BCH to OP instead
+The fact is, nobody wants to use Segwitcoin with it's high fees and weird confirmation times.
+"The sins of Blockstream and the cabal behind them should be archived on the Bitcoin Cash blockchain so that they're immutable and can forever be referenced. 
+
+Reddit is part of this house of cards too. This is a place that is bought and paid for and there is no rule of law. "
+crazy stuff
+[deleted]
+deleted  ^^^^^^^^^^^^^^^^0.2830  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/29001)
+"I totally agree, They sticked a comment calling me a liar while I was raising awareness about my case, totally unethical move by the mods.
+https://www.reddit.com/r/Bitcoin/comments/7bvbsa/bittrex_disabled_locking_120000_inside/"
+26 gilds? Hot damn!
+"$10 u/tippr
+
+"
+/u/tippr gild 
+I don't understand whats happening, can someone explain? 
+gold x30?! That's gotta be a record!
+"Wow just had time to go through some of this. Amazing. The writing is clearly on the wall for both /r/bitcoin and Bitcoin Legacy.
+
+/u/tippr gild"
+/u/tippr gild
+This is yet another example of why I moved some of my most valuable chips to the BCH side of the table. Here in r/btc we get intelligent conversation, sharp research and intellectual honesty while r/bitcoin censors anyone who doesn’t wave childish pro core meme-flags and give Thymos a Nazi kiss ass salute. 
+/u/tippr gild
+"The content of this post is excellent, and the amount of evidence is just staggering. However, doesn't anyone find the number of upvotes weird? I haven't seen any post with 1k upvotes on /btc, ever. We're now closer in at 8k.
+
+Obviously it's the bots at work again, but why would this post be chosen?"
+"Alright, I'll take a moment to look this over, if only to separate facts from speculation.
+
+Here we go.
+
+>When we first began looking at the massive downvoting attack as shown in BashCo's previously stickied thread last week, the first thing we noticed was that both of the bot-voted comments ( Image of #1, link to #2 ) would normally trigger our censorship notifier detection. Both ""censoring"" and ""censorship"" are trigger words we have found triggering automatic removal, something we later confirmed again. This would imply that either the comments were explicitly approved by the moderators at that time, or our understanding of the subreddit's policies needed updating. 
+
+Actually, both /u/4n4n4 and /u/StopAndDecrypt have been approved submitters to /r/Bitcoin for 5 months or more. So no, neither comment needed to be manually approved by the moderators, and in fact, as a moderator of /r/Bitcoin, I can say for a fact that **neither comment was manually approved by a moderator of /r/Bitcoin**. This is a fact. 
+
+So right there, your ""smoking gun"" (and your chief hypothesis) is out the window. Let's continue.
+
+>The bots which were downvoting comments and posts on /r/Bitcoin and upvoting posts on /r/btc began their attack on 11/14/2017 at around 18:00 utc. A similar unusual pattern of voting appeared on /r/btc around the same time the day before, though less dramatically. The bots seemed to be pushing people to buy Bitcoin Cash in such a blatant way that it even left a bad taste in the mouths of Bitcoin Cash supporters. Both the attack the day before and the /r/Bitcoin bot voting attack on 11/14/2017 ended before or around 22:00 utc [REF-3]. The bots attacking /r/Bitcoin upvoted posts complaining about high fees and downvoted about 30 other /r/Bitcoin posts. At the same time they upvoted posts on /r/btc. We identified 65 comments downvoted by bots in /r/Bitcoin and 2 upvoted. The conclusions appeared to indicate that the bots were promoting Bitcoin Cash and /r/btc and harming /r/Bitcoin.
+
+This is all true.
+
+>We began investigating into the comments that caught our eye at first, referred to as [CU-1] and [CU-2] for short. [CU-1]'s content can be seen here as it originally looked. Immediately we noticed the next oddity - How were people able to see votes in /r/Bitcoin to discuss voting in the first place? /r/Bitcoin has blocked votes from being visible on comments during discussion for years. When did that change? We found that it changed right before [CU-1] was posted. BashCo stickied a comment stating they would ""pull back the curtains"" at 20:49, and archive.org confirmed that scores became visible between 20:32 utc and 20:50 utc. That, oddly enough, was just 13 minutes before [CU-1] was posted at 21:02:25.
+
+So, to make sure the facts are straight here... the timeline here is that [this post](http://i.imgur.com/xrM39eb.png) was made, it was upvoted massively by a malicious bot army, [BashCo started a thread about it](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/) to call attention to it (and as you noted, [he temporarily enabled transparent vote-scores to highlight the attack](https://np.reddit.com/r/Bitcoin/comments/7cyj7o/i_just_got_257_downvotes_in_8_minutes_for_calling/dptn609/)), and the attack continued from there. Then darwin2500 chimed in *to make fun of BashCo for pointing out the attack*, and was immediately upvoted massively (by the same malicious bot army, it would seem). It was approved by StopAndDecrypt a couple of minutes later (almost certainly because he was replying to the comment, and it was *yet another example of vote manipulation* that served to highlight what was being done and reinforce BashCo's valid points), and later deleted by darwin2500, the original submitter of the comment.
+
+I don't see what you mean by ""oddly enough"", considering the entire episode was about *an ongoing vote manipulation campaign* that BashCo and StopAndDecrypt were calling attention to. In other words, none of the above seems to indicate *any* sort of foul play from *any* moderators of /r/Bitcoin *whatsoever*, but it seems like you are trying to imply that it does.
+
+>We have determined that [CU-1] was indeed blocked by /r/Bitcoin's automoderator rules as we expected. The screenshot taken by /r/Bitcoin moderator StopAndDecrypt clearly shows this, as the ""moderator approved"" checkmark is present. We also tested automoderator rules with an aged account with karma and confirmed that ""censors"" and ""censoring"" were both blocked [REF-1]. Note that the poster, darwin2500 (under control of hacker, please don't ping them; they aren't a Bitcoiner) could not have been an ""approved submitter"" - they seem to have only had one comment in /r/Bitcoin before the hacking.
+
+So you are aware of the ""approved submitter"" possibilities, and failed to even *mention* the possibility that either StopAndDecrypt or 4n4n4 were approved submitters in your very first paragraph when you said: ""Both ""censoring"" and ""censorship"" are trigger words we have found triggering automatic removal, something we later confirmed again. This would imply that either the comments were explicitly approved by the moderators at that time, or our understanding of the subreddit's policies needed updating.""? That in itself is rather telling.
+
+Readers, I urge you to re-read my previous paragraph until you understand the point I am making very clearly. OP is *very* deliberately trying to ""spin a narrative"" here, not mentioning the possibility of certain comments being visible because they were made by approved submitters (which I can tell you for a fact is the truth) and instead pretending like the **only** possible explanation for the comment(s) being visible was that they were manually approved by /r/Bitcoin moderators (they were not), *even though they obviously know about approved submitters on reddit and discuss this later on in their post*.
+
+>So why was the comment manually approved? 
+
+As I said above, /u/StopAndDecrypt *was replying to the comment in question*, and was obviously *trying to highlight the vote manipulation that was going on*. You can't very well reply to a comment that isn't visible, and it is completely obvious why this comment was approved, when you look at the context it was made in and what was going on.
+
+>We are not aware of any other approved or allowed comments that blatantly reference censorship like that in the last several months. 
+
+There are **many**, but admitting this doesn't help the narrative that you are trying to spin. I remembered (off the top of my head) an instance from just a few days ago, and [dug it up for you as an example](https://np.reddit.com/r/Bitcoin/comments/7dks5y/cut_the_bullshit/dpyif6k/).
+
+So once again, this is more evidence that you're presenting information *incredibly* disingenuously. Comments that reference the alleged ""censorship"" of /r/Bitcoin are allowed all the time, even on a daily basis, despite the fact that they are off-topic and usually made by troll-armies just to stir up drama and mislead newcomers.
+
+>Except this idea did not hold up. We found 10 similar comments from the same time period which were not approved or were explicitly removed unlike [CU-1]. Some of these were uncannily similar to the original comment. For example this one was submitted 8 minutes after [CU-1] and never approved. Another here supported neither subreddit and was blocked at 21:48 and never approved. This one accused /r/Bitcoin mods of being paid by Blockstream and was manually removed at ~22:35. A fourth was identical to [CU-2] and blocked at 00:12 and never approved. The same account of [CU-1] submitted a second comment 5 minutes after [CU-1] and was blocked and not approved. The other 5 things blocked or removed around the same time were: [1] [2] [3] [4] [5]. The existence or absence of most of these comments around the claimed time can be verified independently of the censorship_notifier, see [REF-2]
+
+What on earth? How does this paragraph *in any way* indicate that ""this idea does not hold up""? 
+
+Your argument in this paragraph seems to be: ""If you allow/approve *one comment* that is discussing 'censorship' in the subreddit (to highlight the vote brigading going on, then *you must also allow every single malicious comment made by every troll in the same thread!*"" 
+
+How does that make any sense? The point of the thread was to point out how obviously vote-brigaded things were being, and how the discussion was being manipulated. Letting one or two example comments demonstrate the point is sane. **Letting the entire thread be overrun by trolls would not be!** 
+
+The argument in this paragraph makes no sense! You say ""this idea did not hold up"" but it holds up perfectly. "
+Thank you for the analysis!
+Someone should let the reddit admins know about this. 
+/u/spez
+Crude and unimaginative execution by blockstream and their henchmen, they could have been more deliberate, more effectively meeting their devious goals over time. Idiots by any measure
+"Excellent work.
+
+Regarding /u/nullc, besides his comment being targetted by the bot, the ""sockpuppet"" of his could just be one of his many fans who imitate his writing style and talking points, and yes even sometimes have his back in comment threads. Unless either of the accounts start deleting comments there will be more room to analyze writing styles to see if it's just a fan or an actual sockpuppet."
+/u/tippr gild
+If r/bitcoin gets banned they will all come flooding to r/btc 
+"excellent post here! the amount of effort or data that went into making this post is awesome.
+
+very neat bot you have there!"
+oh boy...... it's so pathetic you may just be right op... lmfao.
+Spez is in the wind. Hasn't posted for 20 days. You all know that, right?
+This is the juciest thing I've read in a long time! Good detective work guys!
+"Nothing here is of surprise to me and shouldn't be to anybody really, but still I'm left speechless.
+
+"
+/u/tippr $21
+This is now the most upvoted post on /r/btc of all time! Link: https://www.reddit.com/r/btc/top/?sort=top&t=all
+Wow. You guys did some great work! Thanks for documenting this $5 /u/tippr
+STOP WASTING MONEY ON REDDIT GOLD PEOPLE! Tip BCH to OP instead
+The fact is, nobody wants to use Segwitcoin with it's high fees and weird confirmation times.
+"The sins of Blockstream and the cabal behind them should be archived on the Bitcoin Cash blockchain so that they're immutable and can forever be referenced. 
+
+Reddit is part of this house of cards too. This is a place that is bought and paid for and there is no rule of law. "
+crazy stuff
+[deleted]
+deleted  ^^^^^^^^^^^^^^^^0.2830  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/29001)
+"I totally agree, They sticked a comment calling me a liar while I was raising awareness about my case, totally unethical move by the mods.
+https://www.reddit.com/r/Bitcoin/comments/7bvbsa/bittrex_disabled_locking_120000_inside/"
+26 gilds? Hot damn!
+"$10 u/tippr
+
+"
+/u/tippr gild 
+I don't understand whats happening, can someone explain? 
+gold x30?! That's gotta be a record!
+"Wow just had time to go through some of this. Amazing. The writing is clearly on the wall for both /r/bitcoin and Bitcoin Legacy.
+
+/u/tippr gild"
+/u/tippr gild
