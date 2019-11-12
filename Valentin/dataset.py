@@ -8,22 +8,21 @@ import pandas as pd
 import os
 
 def get_labeled_bitcoin_price():
-    df_bitcoin_values = pd.read_csv("./csv/chart_price_bitcoin.csv")
-    df_bitcoin_values = df_bitcoin_values.drop("time", 1)
+    df_bitcoin_values = pd.read_csv("../Data/Bitcoin_Price/chart_price_BTC.csv")
     
     length = len(df_bitcoin_values)
     data = {} 
 
     for index in range(1,length):
-        value = float(df_bitcoin_values["priceUsd"][index]) - float(df_bitcoin_values["priceUsd"][index - 1])
-        data[df_bitcoin_values["date"][index][0:10]] = 1 if value > 0 else 0
+        value = float(df_bitcoin_values["priceBTC"][index]) - float(df_bitcoin_values["priceBTC"][index - 1])
+        data[df_bitcoin_values["dateMidnight"][index][0:10]] = 1 if value > 0 else 0
     
     return data
 
 def get_labeled_dataset(number_of_file, from_date = "2015-01-01", date_included = True):
     limit_year = 2021
     dataset = {"text" : [], "label" : [], "date" : []}
-    directory = "../LDA/Data/"
+    directory = "../Data/Reddit_Data/"
     count = 0
     
     max_number_of_files_number = len(os.listdir(directory))
@@ -42,6 +41,7 @@ def get_labeled_dataset(number_of_file, from_date = "2015-01-01", date_included 
         file = f"{directory}{date}.csv"
        
         if os.path.exists(file) and date in bictoin_price_dict.keys():
+            print("file", file)
             label = bictoin_price_dict[date]
             df = pd.read_csv(file, sep=";", header=None)
             
