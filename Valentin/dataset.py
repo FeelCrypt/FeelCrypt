@@ -23,7 +23,7 @@ def get_labeled_bitcoin_price():
 def get_labeled_dataset(number_of_file, from_date = "2015-01-01", date_included = True):
     limit_year = 2021
     dataset = {"text" : [], "label" : [], "date" : []}
-    directory = "../scrapping_reddit/comments_6/"
+    directory = "../LDA/Data/"
     count = 0
     
     max_number_of_files_number = len(os.listdir(directory))
