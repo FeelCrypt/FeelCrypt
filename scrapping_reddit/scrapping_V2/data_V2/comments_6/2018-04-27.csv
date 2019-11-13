@@ -1,0 +1,1570 @@
+***SPEDN!
+Fact. Keep working to get the hash power behind BCH, then claim the mantle. There's still alot of work to be done.
+"> Bitcoin Core is a useful name to identify the legacy chain. If you have a better name for it to remove the ambiguity with the client, then I'm open to it. 
+
+""Bitcoin"" is the best term for the BTC chain as we always called it. There are over 20 UTXo split alts that did exactly what bcc/bch did , none of them are Bitcoin. 
+
+even BCC creator Jihan with Bitmain disagrees and says Bitcoin is Biitcoin and Bitcoin cash is Bitcoin Cash. 
+
+
+
+"
+"> it takes very little effort to make that happen
+
+We don't talk about current hash rate, we talk about [POW](https://fork.lol/pow/work). If we would switch the hashrate BCH <-> BTC right now, it would take half a year. The longer BTC has a higher hashrate the harder it gets for BCH."
+So... politics?
+"What about Bitcoin Diamond or Bitcoin Gold or any other fork ? How do you separate this from your argument ? What about forks from Bitcoin Cash down the line ?
+
+I don’t understand why this particular fork of Bitcoin isn’t just trying focus in what it thinks will make it the best coin, rather than spending huge energy bashing other coins. No one attains respect by constantly sabotaging others just so they don’t have to work at being better.  "
+"So if I'm running Knots or Libbitcoin, what coin am I using?
+
+And if I was running any Bitcoin node before August 1, 2017, why does it sync to Bitcoin, not Bitcoin Cash?"
+"What's to stop someone forking BCH, going back to 1MB blocks, and then claiming it's the real BCH then?
+
+Personally I'm happy with Bitcoin being store of value, because there are already loads of other coins out there which do other things better (LTC & Dash for payments, Decred for Governance, VeChain for 3rd party transactions, ETH/ETC/Neo etc for smart contracts etc etc)
+
+Having 1 coin to rule them all is not decentralization."
+"Hashrate follows market price, and market prices can be horribly deranged by clueless newbs in the short term. Erik's statement is equivalent to saying Bitcoin is whatever branch temporarily has the highest price *for any reason.* 
+
+It's a completely untenable position, because every phase of exponential growth leaves the old investors as a tiny minority. It should have been obvious that as Bitcoin became more mainstream there would be times that newbs could be misled into supporting errant branches and thereby errant branches would at times accumulate greater total hashpower.
+
+Nothing in Satoshi's writings covers how to deal with a situation where there are competing adamant factions, and the community at large simply assumed there would never be a reason to split where both branches of an experiment could have major support. "
+"Yes, but it would need to rewrite history. You'd need to convince the majority of full nodes to accept you version of events, even though they already have a history of events and they're only really open to changing the last few blocks.
+
+I certainly think it's possible that if Bitcoin Cash becomes overwhelmingly dominant and the Bitcoin chain fades into obscurity, that we could just resort to just calling it Bitcoin without issues because it would be the expectation of newcomers that when they want to buy ""Bitcoin"", they would mean the majority.
+
+At present, when people (other than a few diehards) say ""Bitcoin"", they do not mean Bitcoin Cash.
+
+The lesson is, if you want to fork Bitcoin with new rules and get a majority, you need to majority before forking in order for people to generally accept you as the main chain and therefore be called ""Bitcoin"". Trying to retroactively call yourself Bitcoin, when the Bitcoin chain is still running at higher hashrate than you is exactly what the consensus mechanism of Bitcoin was designed to prevent."
+And arguably businesses which use Bitpay or Coinbase aren't really using Bitcoin (especially if none of their remittances are received in Bitcoin).
+"""Every merchant having a copy of the blockchain"" means it needs to be affordable for a self-employed person to have a copy running on his PC in his home office.
+
+If your single-person business needs to build a dedicated server with a large RAID, then you've failed to make it ""every business"". This isn't an inclusive financial system, it's exclusive only to businesses large enough to have someone do that for them, which is a terribly small fraction of businesses. It's also a non-start for someone wishing to start  a business without much initial capital.
+
+In other words. It sounds pretty much like the fucking system we already have."
+I don't consider it a bug, but I do agree that bitcoin cash had to do it to survive. These are evolving systems in hostile environments. Both chains are very different from the original bitcoin implementation, and that is as we would expect.
+"I agree. I was trying to point out that clinging to the white paper and ""satoshi's vision"" as a source of truth in the context of an open source software project is a stupid meme."
+I could not agree with you more. I'm sorry I can only give you 1 upvote. I actually like the coin itself (I like both) just as a like litecoin, eth etc. etc. but it's the toxic community that is soooo negative about anything... everything else that it's such a turnoff. Now that BCH is nearing parity with LTC as an example, all the bch people are attacking LTC like LTC is the problem with the world. It's crazy. LTC has been around longer, has better real world adoption  and serves a similar function so it must be attacked instead of embraced for being years ahead of bch and helping to grow crypto and be a potential real product market.  Heaven forbid I say this message. Here come the downvotes. It's so immature and petty.  
+"And the chain evolved to support segwit, even though that was not part of the whitepaper. I feel like there is major cognitive dissonance in this subreddit when it comes to ""SATOSHI'S TRUE VISION!"""
+"I don't think bitcoin cash is any more peer-to-peer than bitcoin. They both function almost exactly the same.
+
+The only real difference is bitcoin also has potential second layers running on top, while bitcoin cash is increasing the block size directly. Which by the way increases the cost of running  a node and increases mining centralization due to latency. The result being a chain that is increasingly less peer-to-peer as the block size increases.
+
+Trying to on-board an exponential number of new users with a linear scaling solution really doesn't make any technical sense unless you are ok with centralization pressure this puts on the chain. If you are ok with that, then that is cool, but you can't also claim to be more p2p when the opposite is what will occur."
+What do you mean, I don't understand.
+"Yeah because: https://en.wikipedia.org/wiki/ISO_4217
+
+Another example maybe?"
+"Why is he full of shit? We got a fork of Bitcoin, but it didn't get more accumulated work than the existing chain, so it's not Bitcoin.
+
+You can believe this and still be a staunch supporter of BCH."
+"He did exactly this.  He supported 2x.  Strongly.  He went to bat for it.  He was attacked mercilessly for it.
+
+BCH forked off too early.  BCH forked off without the economy, without the users, and without the businesses.  It had to build them all for scratch and, because 2x/BCH divided the people that wanted real scaling, Core got to keep them all for free.
+
+That was a colossally stupid move.  Because of that, BTC has kept by far the largest amount of the hashpower, to the point where BCH will not be able to catch up in the next 6 months even if the cashening happens.
+
+That means Core kept the BTC ticker, and the Bitcoin name.  It is Bitcoin. Cash is the fork.  That's all there is to it.  Eric acknowledges this.  It's time for the ""BCH is Bitcoin"" crew to recognize reality and accept what they cannot change."
+"[""Why Some People Call Bitcoin Cash ‘bcash’.""](https://medium.com/@jonaldfyookball/why-some-people-call-bitcoin-cash-bcash-this-will-be-shocking-to-new-readers-956558da12fb)"
+"Thank you, JFKfanboi, for voting on trolldetectr.  
+
+This bot wants to find the best and worst bots on Reddit. [You can view results here](https://goodbot-badbot.herokuapp.com/).  
+
+ ***  
+
+^^Even ^^if ^^I ^^don't ^^reply ^^to ^^your ^^comment, ^^I'm ^^still ^^listening ^^for ^^votes. ^^Check ^^the ^^webpage ^^to ^^see ^^if ^^your ^^vote ^^registered!"
+Can you point out where the chain has been broken in Bitcoin? As far as I know every necessary signature is still present in all the mined blocks... for Segwit and non Segwit transactions.
+Sorry didnt know you are parrot. Continue babbling.
+"Lol, this meme again.
+
+The information is still there, the chain is there, just because it's organized differently it's somehow no longer a chain of signatures? "
+I assumed the context was clear, the chains being discussed are BTC and BCH. 
+Ah OK
+"I think looking to the white paper which was written in 2009 to provide the definition of bitcoin is stupid. This is an open source software project, and therefore the code is where the real definitions are.
+
+
+
+"
+Yes! Who cares what it’s called as long as it works. 
+That complete fuckwit that was interviewing Roger deserved two middle fingers on both hands not just one.
+"I hold both coins and subscribe to both subreddits. However, the bitcoin.com renaming debacle has galvanized me against Roger. Not BCH, but Roger. I think both coins have merits, but I think this fight over the name “Bitcoin” makes everyone in crypto look bad, and it’s a losing battle. No one will gain from this. I emailed the site’s support staff about the issue as well and received a “technical vs. political” reply which was largely BS.
+
+So, Roger, your plan has backfired against me, a moderate on this issue. If that makes me a “Core Troll”, then whatever. I’ll continue to upvote and downvote as I see fit. Long live crypto, but down with the infighting. Please."
+you all backed out you spinless creep
+"So to clarify your position on ""I would publicly support a hard fork away from core's leadership"" in context of the present reality, does that mean
+
+A) You already did, and it failed, so you gave up and now you accept their leadership.
+
+or
+
+B) You would support any other hard fork away from core's leadship, but not BCH
+
+Because I don't see how in the context of the tweet you made disavowing BCH, you can be said to not be going back on your intent to support a hard fork away from core's leadership, unless you honestly think we'd be better off with three significant forks of Bitcoin?
+
+"
+"There's more than a hint of moral cowardice here. Early on, if influential and ethical people in the Bitcoin community prominently condemned unethical acts starting with when /u/theymos [launched massive censorship and unwarranted user banning in August 2015](https://np.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/), there's a good chance we'd not be in near the mess we find ourselves in now. I must've missed it when you came out vocally and prominently against such underhanded action at that time, or since. Perhaps you could link me to some examples?  
+
+More recently, I haven't heard you expressing any qualms about how activated SegWit on the BTC chain only got added illegitimately, since the ""2x"" portion of the consensus agreement has never come to pass. ""2x"" is the aspect of the consensus agreement that raised support for SegWit1x from the 30%-35% that it had languished in for months (never once exceeding 40% support), to the overwhelming 90%+ support SegWit2x had at lock in time. This shows the crucial aspect for earning most of the miner support was the ""2x"" component, not SegWit alone. You present yourself as a strong believer of what's expressed in the white paper. Why wouldn't you denounce this clear subversion of Nakamoto Consensus?  
+
+e: grammar"
+Is this what you call not backing out? https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-November/000685.html
+Where were you when the 2x predictably lost Core support after they got their precious SegWit?
+"I wanted to jump in to say that Roger and Bitcoin.com also supported the Segwit2x hard fork ABOVE the BCH fork up to the point that the 2x portion was terminated.
+
+I recall a myriad of tweets and comments flying at Roger regarding BCH after it forked, but Roger didn't budge on his position to uphold Segwit2x. I wasn't in the room at ConsensusNY when the agreement was signed, but if ordering of signatures is an insight into anything, Bitcoin.com was one of the first companies that did so, and it seemed that Roger was not going to back down on this promise. Hell, their company stepped up and offered to provide engineering support for the devs coding the fork alongside Bitmain and Bitfury: https://medium.com/@DCGco/bitcoin-scaling-agreement-at-consensus-2017-133521fe9a77
+
+This was corroborated further when Roger himself issued an update regarding all of the noise he was receiving during this period. (I recall it was issued as a PSA on their site, and I've been unable to find it via a light googling, but once I find it, I will be editing this post with a link to it). In this update, Roger stated that he was honoring his agreement with everyone, and regardless of what BCH was at that time, Bitcoin.com's full support was given to Segwit2x. This was after Segwit was activated, but before the 2x fork was due to activate. Roger closed the statement by highlighting his intention to see the agreement through UNLESS the 2x portion failed to activate. If this were to become the case, all of their company resources were going to transition and focus on BCH.
+
+After the 2x activation was terminated, Roger held true to his word and began working on BCH. This company transition was announced via another PSA: https://www.bitcoin.com/public-service-announcement
+
+You supported a potential hard fork, that's very true. You indicated this intention by signing the agreement alongside your peers, big blockers and small blockers alike. However, you were not given a hard fork. You were given one more instance of what the entire BTC community had been given for years: a broken promise."
+"Oh, don't worry. Our words are important, but our actions are defining.
+
+It is important to stand against misinformation and against trolls, but action might get bitcoin (bch) great.
+
+My defining moment was when I stopped trying to convince my highly biased friends to bitcoin cash and simply introduced them to  transaction on first electron mobile wallet.
+
+You should have seen they reaction (and mine) when one of my friends received bitcoin instantly for peanuts and said something like :""so I can send bitcoin without paying £5 fee?"" 
+
+Why in hell not?
+
+I'm bch baby.
+"
+"What you're saying doesn't make any sense. And it has been debunked countless times.
+
+Non miners nodes don't help the network at all. They are in fact completely irrelevant. Bitcoin doesn't work as a mesh network. Miners form a near complete graph.
+
+Wrong model, wrong conclusions, wrong understanding of how Bitcoin works."
+"> That is why full nodes are so important, consensus must come from the entire community,
+
+You know that the same people that mine ""centralized BCH"" also mine ""decentralized BTC"" right?  It's the exact same miners.
+
+These are the people your nonmining node ""protect"" you from, right?
+
+So one day, when a consensus of hashpower starts mining bigger blocks, your client will reject these blocks.  If anyone is still mining the smaller-block chain, it will be insecure and subject to constant reorgs or attacks.  That will be the chain you will be following.  It will eventually stall or require replay protection.
+
+Now tell me, do you:
+
+A. congratulate yourself for having foiled the evil miners by refusing to follow their invalid chain, or
+
+B. scramble to upgrade your client because the coins on the chain you're following are unspendable
+
+What is it exactly that you think your nonmining node is going to protect you from, and how is it offering that protection?  Be specific."
+[removed]
+"Bitcoin Cash is the real Bitcoin
+"
+"Something that isn't accepted widely by merchants as a form of payment isn't cash.
+
+Sorry, but thanks for playing."
+Redditor /u/mehannes96 has low karma in this subreddit.
+Surely karma is a filthy heathen concept anyway?
+"You're giving Luke too much credit here. Do you think if Bitcoin Cash had been a majority hard-fork that he would change his mind and agree that the chain with 1MB blocks isn't ""true Bitcoin."" He would be harping more loudly than anyone that the chain is invalid because his Bitcoin Core client rejects it and therefore the BTC minority fork is the true chain. "
+Run a 2010 node.  It won't sync any chain.   Therefore Bitcoin no longer exists.
+"Please note that I am advancing this argument simply because it was the argument foisted against large-blockers from 2015-2017 and the argument used to justify the ""UASF"" and ""NO2X"" movements.
+
+Small blockers have told us for years (particularly when it seemed like Bitcoin Unlimited was about to get a majority of hashpower) that *total hashpower wasn't enough -- it had to be valid hashpower to matter.* . That is why every user was encouraged to run a ""full node"" - so he could ensure that blocks were valid according to *his* definition of validity.  See [this](https://medium.com/@lopp/securing-your-financial-sovereignty-3af6fe834603) for an example of the dogma.
+
+Well, according to that dogma, then I, and others like me, determine what makes Bitcoin ""valid"" by choosing what consensus rules to follow.
+
+Fine.  By that definition, BCH is Bitcoin.  QED."
+"You could and you would be 100% correct if diamond had most POW. 
+
+"
+"This is not *my* philosophy, my friend.  I'm merely repeating Luke's philosophy back to him.  As Luke or any UASFer will tell you, you can't trust the hashpower majority, because ""miners don't make the rules.""  That is why  people [like this guy](https://medium.com/@lopp/securing-your-financial-sovereignty-3af6fe834603) have been telling us that you have to ""run your own node to protect your financial sovereignty.""  **Because just following the hashpower majority is a recipe for disaster**, according to them.
+
+Well neat.  That means that I get to say ""BCH is valid Bitcoin"" because those are the rules I enforce.
+
+They don't like that, so since they have a hashpower majority, they want to fall back on hashpower majority as the final determinant of validity.  OK great.  I agree!  Now remind us all again what that ""validation"" node is protecting you from?  It sounds like it's protecting you from accidentally following *the real Bitcoin.*
+
+All I can say is, checkmate."
+"A) Coins are still being minted and given away with each new block.  The fees are minor in comparison.
+
+B) Yes I did mine.
+
+C) The difficulty retargets in the next 24 hours or so, and will make BCH more profitable to mine than BTC.  So... there's your incentive.  "
+"Rising is not enough. Prices would have to be higher than BTC prices. 
+
+That's ignoring BCH's lower difficulty for now, but if miners switched en masse, difficulty would equalize or even surpass BTC's. You don't get any fees worth mentioning on BCH, and the number of coins per block reward is the same. So the only way this makes sense is when BCH is more expensive than BTC. Might happen one day, but we are a looong way from there."
+what the fuck?
+LOLOLOLOLOL
+"I understand how the truth can garner a lot of advocates, so what you ascribe to ""herd mentality"" from /r/BTC seems mostly like thoughtful, logically consistent people fighting against lies and deception."
+I am talking about the P.R. results not about what is truth and what is not.
+You linked to nothing of substance.
+Haha, yeah, I ordered some (maybe in the next batch - to Germany). Thanks!
+"No one is even trying to make it a religious text, except gaslighters like yourself. What it is, is the official document that invented and defined the concept of Bitcoin. It also lays out the Sybil-resistant mechanism by which legitimate Bitcoin is to evolve. If you object to any of that, why would you join the project instead of creating your own that does not have Bitcoin's ""flaws""? Why would you then want the name ""Bitcoin"" at all?  
+
+I know it's uncomfortable that the document so clearly shows why present-day BTC **is not** Bitcoin, but don't project your frustration on those that want to continue Bitcoin's original intent and system of evolution, and on the system that can *by nearly every criteria* really claim the name ""Bitcoin"".  
+
+e: grammar"
+Yeah, better give that little Bcash brain some work to do.
+"Interesting, but your response does not address the issue of most cumulative proof of work about which the final sentence of the white paper clearly states:  
+
+> Any needed rules and incentives can be enforced with this consensus mechanism.  
+
+To me, that is very concise and very definitive."
+I did support a HF. It was called SegWit2x. I didn’t back out on anything.
+No Bitcoin Core benefits  from inertia. It'll take time but BCH will take over because it's simpler and adheres to the original vision without distorting the economics. 
+"Erik has proven himself inconsistent thus to be ignored. It is just an excuse. 
+
+If the highest accumulated work is bitcoin, then when it happens, would he call bitcoin cash bitcoin?  Given the total domination of bitmain in mining space, it takes very little effort to make that happen. But I'm quite sure core trolls will use other excuses when that happens. And poor exchanges and merchants still have no idea what is bitcoin
+
+Architecture wise, bitcoin core is not bitcoin anymore, it ""changed almost every piece of software that has ever written for bitcoin"" - segwit inventor"
+"
+>Bitcoin Core did not 'steal' the name bitcoin. 
+
+>Pretty simple if you leave out the ~~politics.~~ facts.
+
+FTFY. The theft was real.
+
+https://www.reddit.com/r/btc/comments/7mg4tm/updated_dec_2017_a_collection_of_evidence"
+"> Because 'Bitcoin Core' is an implementation and not a protocol.
+
+This is false. Bitcoin Core is the protocol-defining implementation, as you'll find out when you visit bitcoin.org and look for the [protocol specification](https://en.bitcoin.it/wiki/Protocol_documentation)."
+"Saying ""Bitcoin Core"" is a useful and minimally offensive way to distinguish BTC now, from the chain that existed before SegWit activated and from BCH. In particular, it works because Core is the dominant software repository for that fork branch, and the only group allowed to make **any** consensus changes whatsoever. Calling either branch of the fork ""Bitcoin"" right now is simply less accurate. All other alternatives would likely be more offensive to those who choose to frequent /r/Bitcoin. I think Bitcoin (SegWit) is fine, or Blockstream Bitcoin. Bitcoin (store-of-value) would work as well. Or we could play /r/Bitcoin's game and devolve into calling it BCore or B-Fees at every possible opportunity and in every venue, and using an army of trolls and sock puppets.  
+
+EDIT: You can't identify the BCH block chain by saying ""Bitcoin ABC"" because there are many compatible implementations that run the BCH block chain, any one of which can achieve hash rate supremacy at any time. A reader wouldn't know you meant BCH, and not the ABC implementation. Saying ""Bitcoin Core"" doesn't have this problem because it's the monopoly repository, and the **only** one allowed to make any consensus changes. It's highly specifying, leaving little room for confusion."
+Redditor /u/noisylettuce has low karma in this subreddit.
+"> Besides, what you're arguing is purely hypothetical. BCH has to gain 10x it's current hashrate just to match Bitcoin, and that only if Bitcoin's hashrate stagnates. The chances of that, given the community bias towards Bitcoin as being the real bitcoin, and BCH being a fork, are negligible.
+
+Be careful that you don't view the Bitcoin subreddit (or /r/btc for that matter) as representative of the community.  You need to look wider, and consider the number of exchanges, wallets and merchants who are using something.  The odds of Bitcoin Gold exceeding the BTC hashrate are negligible -- you need to look hard to find anyone using it.  BCH on the other hand is supported by many exchanges, many wallets, and has support from BitPay and others.  I won't say it's a sure thing that it's hash rate will surpass BTC, but the odds are far from ""negligble""."
+"A purely on-chain solution is one where every note and coin effectively has a unique ID, and these IDs are recorded in every transaction.
+
+That's not cash.
+
+But I agree with you that a cryptocurrency must meet those properties, I think we just disagree on how to achieve it.
+
+Personally, I'd hope for something more like monero, where everything is confidential, however, Monero has bigger scaling issues than Bitcoin, because confidential transactions are currently much larger than a regular P2PKH transaction."
+If it gains and sustains more hashrate, it will eventually have more total PoW right?
+It’s logical in that sense that when you are using the network, you got to support it also by running a full node (and thus having a full copy of the blockchain)
+"No, but we do have access to his public posts and comments, most of which Bitcoin Cash are directly or very closely aligned with. As for the ""every business should have its own copy of the blockchain"" thing, by that I assume he must have meant merchants or intermediaries, since those actually need to be able to verify transactions themselves to avoid fraud. If you use Bitpay or Coinbase Commerce for your POS, then you leave that responsibility to them"
+"> Who are you to know for certain what his intentions and wishes were ?
+
+I'm not the fella you directed the question at, but speaking as someone who can read I can answer it:
+
+> #Bitcoin: a Peer-to-Peer Electronic Cash System
+
+> **Abstract**. A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.
+
+([source](https://bitcoin.org/bitcoin.pdf))
+
+> Satoshi also said a lot of dumb bullshit like that every business should have its own copy of the entire blockchain, which nobody would ever consider a good idea today.
+
+""Having its own copy of the blockchain"" means ""running a full node"" which the Core camp still claim *everybody* should do, not just businesses.
+
+> as if you have some sort of access to the innermost wishes and dreams
+
+All you need is access to his public writings, where he clearly spelled out his intent."
+"> It wasn't just the block size increase, but also the EDA algorithm
+
+True. One of the reasons why Segwit2x crowd took so much time to start working on BCH
+
+> Would you say that the EDA was Satoshi's vision as well?
+
+Good question. From my point of view it was like a bug in Bitcoin code, like when billions of coins were created. If EDA would persisted, BCH chain could spiral down for economical reason and from the loss of trust in the system itself, but new DAA is stronger than Satoshi's version: any chain with new DAA is more resilient than BTC to hashrate loss and don't vary from BTC's when hashrate is there. ~95k coins to miners ahead of schedule is another trade-off on the Bitcoin list"
+[deleted]
+"So you're saying the Bitcoin Whitepaper, didn't put out a clear definition on Bitcoin; peer-to-peer digital cash? Bitcoin Cash is per definition the closest thing to what Satoshi described in the whitepaper, and the changes that Satoshi mentioned he wanted to implement downt he road that currently exists.
+
+Bitcoin Core isn't Bitcoin, Bitcoin Gold, and all the other segwitcoins are not Bitcoin. I don't get triggered by the fact that an altcoin like Core tries to claim the name, and neither should you. Free market decides, and so far all the major merchants and developers have sided with us."
+"Another tedious slippery slope.  Not raising the block size WAS a change that put Core in violation of the definition of bitcoin itself.  
+
+""Bitcoin: A PEER-TO-PEER Electronic CASH system"" 
+
+not
+
+""Bitcoin: A Settlement Network for A Hub-and-Spoke Banking System""
+
+"
+Blocks as small as 1mb mean that smaller miners cannot get payouts without registering and possibly even getting payments in fiat/other cryptos.
+Feel free to open a thread about it then. Unlike on rbitcoin, moderation logs are open here and mod actions can be discussed.
+Good thing BCH isn’t based on the reputation of one man.  Good luck trying to debate BCH it n technical merits.
+"Easily. ""Bitcoin"" is broader than BTC chain and BTC community. Erik disagrees, I don't"
+Because it's in casH?  Bitcoin CasH
+How can bitcoin be XBT? There's no X in it
+There's no X in Ripple either.
+Don't even think about it.
+He did actually put Gavin in charge.
+"It's not hard to understand. I'm just pointing out that he's full of shit.
+
+Also: Why is it so hard to understand that SegWit is not bitcoin?"
+"> He can both support a hard fork ...
+
+But he hasn't. He hasn't shown support even after making very strong claims that he would do so. 
+
+Roger Ver often sticks his foot in his mouth but you can look at his actions and easily conclude that he's a person of integrity. He does what he says he's going to do, even if it takes him a while (and it did) .
+
+I have so much respect for those people who are willing to take risks in order to build the world they want to leave their ancestors. Ver is one of these people.  Voorhees probably is too. He's just taking his sweet fucking time."
+[deleted]
+Wow, you so smart! Much admiration.
+Yep, all of your old nodes follow the implementation that will soon be irrelevant. Everyone will recognize Bitcoin, but Blockstream and BTC and Core will be only in history books. We don’t control this, but we can predict it. 
+Don't mistake Roger Ver being great in general (a statement with which I agree, I am a big fan) with his P.R. results.
+"Apologies if I am wrong.   I honestly don't believe someone who understands why BCH exists would suggest that we stop calling it Bitcoin.  Or say that we're ""being annoying"".
+
+A lot of the core trolls come here and say things like that.  ""Heyyyy guys maybe we should tell roger to kick rocks, and give up on promoting Bitcoin Cash!  We are being kinda annoying ya know""
+
+But they aren't one of us.  They're just corrupt people who are attempting to manipulate sentiment here by pretending.   One version is a ""concern troll"".  Pretty common term.  "
+This is really simple if you just go with POW. No politics pure maths. Obviously a crippled coin cant hold POW forever. 
+Your hypothetical is ridiculous. Users wouldn’t/couldn’t use a currency with almost zero transaction capacity, so it would lose all value. Miners wouldn’t continue mining a chain with no value. So the market would migrate to a more sensible fork and that would become Bitcoin. **This has not yet happened with BCH**. Pretending that it has in the hopes that you can “fake it ‘til you make it” is just deceptive marketing bullshit.
+The soft fork happened because miners were afraid to mine a valueless coin and thats why they used the centralized NYC agreement as excuse to follow the money what they always do
+"That is why full nodes are so important, consensus must come from the entire community, not only the miners. Users decided with their nodes that Bitcoin + Segwit is more valuable than Bcash. Miners that were signaling for BU knew that they would lose money by mining the less valuable coin so they shifted to Segwit, that is the magic of multiple layers of decentralization, and not only the miners that decide. The coin is there for the users right? Miners only deliver a service, so it makes a lot of sense that users have the final say, and we learned that in this event. If you don't like it stay on Bcash, but don't call it Bitcoin because it simply isn't. I know that a Bcash full node will be soon too expensive to run for the common user, so Bcash doesn't enjoy multiple layers of decentralization. That's why it is a centralized altcoin.
+
+What looks more like a scam? Using a BTC Reddit to promote BCH (doesn't make any sense) or calling Bitcoin Cash (what is clearly technically NO Bitcoin) Bcash?"
+"> BIP55
+
+do you have a link for that? I can't find BIP 55 in the github repo or on google"
+Lightning is the real bitcoin cash!
+Good effort
+"If you weren't a bot, I'd reply with a really sarcastic ""No!  Really!?"""
+[deleted]
+"> I say I'm running ""Bitcoin.""
+
+Jesus I'm going to agree with /u/luke-jr here, but he's right.  This is just semantic nonsense dude.
+
+People use words to communicate **with other people**.
+
+You can't just change the definitions of words that the majority of people agree upon because you don't like it.  That's not how language works.  There are objective definitions that demonstrate that Bitcoin Core is Bitcoin - total proof of work and market cap.  Even disregarding that, there are simply many more people that agree that BTC is Bitcoin, not BCH.
+
+There's nothing wrong with BCH accepting the mantle that it is a minority fork and it must work to overcome the failures that lead to the fork in the first place so it can become the dominant coin.  But that won't make it Bitcoin - words don't just change definitions from year to year willy nilly, and the definition is pretty set in stone by now.  It's still a good goal - Have BCH become bigger and better, like Bitcoin should have done but will not do."
+"Run a 2013 Bitcoin Node and sync it with the Bitcoin Cash Network. 
+
+Wont work, not that hard to understand, is it? It will sync with the Bitcoin Network no problem because that's the network talking the Bitcoin Protocol.
+"
+How do you intend to differentiate between the 2 chains? As your argument, according to you, is equally valid for both chains.
+Could make exactly the same claim for Bitcoin Diamond, doesn’t make it correct. 
+">Difficulty determines length of solve time, not block size.
+
+Do you even understand how mining works?  What does this have to do with the miners incentive? Did you ever mine?
+
+Why would BCH accumulate more hash power than BTC in the next 6 month with lower fees and lower block reward?
+
+Let's make a bet if BCH has more hash power in 6 months I will say sorry, vice versa?
+"
+Pretty much nothing but sheer market domination.
+BCH prices that rise faster than BTC prices because of adoption.
+"> broke the consensus rules
+
+obviously, since there was a significant portion of the market who followed the BCH rules, there was no *consensus* on the rules to begin with. Straight up by definition.
+
+"
+I make my investments obvious because it’s the best.   I don’t have a single investor in real life that questions my selections at any significant levels. I know a lot of things you don’t know in terms what big money has their eyes on 
+Redditor /u/N-conspicuous has low karma in this subreddit.
+[deleted]
+If an individual is unable to distinguish truth from lie when the difference is clearly explained to them, no amount of PR will correct the issue.
+https://www.reddit.com/r/btc/comments/8er3md/petition_to_encourage_a_debate_between_roger_ver/dxxnubz/
+Honestly to the outside world Rodger Ver is on the same level as Charlie Lee as far as hurting the coins they represent, As a litecoin adopter in my business it took me a while to stop defending Lee and defending the damage he has done to his own creation. I really hope the BCH folks can step back and take the same look at Rodger and see the damage he does to the BCH brand.
+Tell us more about your Dear Leader.
+"Yeah the trolls are running this thread. That’s obvious.  
+
+They actually think Reddit is going to amount to a hill of beans in the crypto industry.  What a waste of their time mass downvoting pro-BCH comments, and mass upvoting (hundreds) anti-BCH content. 
+
+Shipping out another 500 bitcoin Cash bumper stickers next week.  
+
+Thanks for the continued motivation you corrupt fucks. :)"
+"> Roger Ver has an impeccable record in both the wider libertarian community and the bitcoin community. His reputation was dragged through the mud by a coordinated PR attack, paid shills, liars, and statist thugs (the ""criminal"" record).
+
+[Yeah right, great PR](https://i.imgur.com/lgZ1kmW.jpg)."
+"I have no problem calling it Bitcoin Cash or BCH as long as this absurd marketing campaign that BCH is Bitcoin (BCH) would stop.
+
+I also believe the Bitcoin Cash community would have been better off if they embraced the word bcash.  It's easier to say and much catchier.  As it stands I think the BCH community turns more people away because of the scammy marketing than it tricks into buying BCH."
+"[""Why Some People Call Bitcoin Cash ‘bcash’.""](https://medium.com/@jonaldfyookball/why-some-people-call-bitcoin-cash-bcash-this-will-be-shocking-to-new-readers-956558da12fb)"
+Yeah the point is that white papers, for those of us that have been developers for a long time, are a starting point. I think it’s fine if you believe some other coin is Bitcoin. However no one should be surprised when there is pushback against tricking newbies into buying a coin they don’t want. 
+The point is, by any measure that BCH “is Bitcoin,” then so is every other fork. 
+"That's the big lie. It only syncs to the same chain *if you give up capability you previously enjoyed*. Specifically, if your pre-SegWit client ever saw an Anyone-Can-Spend transaction, you're free to spend it to yourself. Now, once SegWit activates, and you see a SegWit Anyone-Can-Spend transaction, you can again spend that and send it to yourself. But what's the result? You'd find yourself forked off of the SegWit chain. But you never made any changes to your client. So the fact that you get hard forked is because of the changes SegWit made. This is one of the obvious ways to see it's really a disguised hard fork, and **NOT** a soft fork as repeatedly claimed.  
+
+EDIT: I offer far more detail on this throughout this thread:  
+
+https://np.reddit.com/r/btc/comments/7tnrvu/nist_report_confirms_bitcoin_is_a_fork_and/dtdyo5u/
+"
+"You deny that only Core can ever change the consensus rules on the SegWit chain further? If so, you're truly living in denial.  
+
+By the way, the claims that SegWit is a soft-fork that is entirely backwards compatible are entirely false. I explain in detail throughout this thread:  
+
+https://np.reddit.com/r/btc/comments/7tnrvu/nist_report_confirms_bitcoin_is_a_fork_and/dtdyo5u/  
+
+More specifically, in this reply:  
+
+https://np.reddit.com/r/btc/comments/7tnrvu/nist_report_confirms_bitcoin_is_a_fork_and/dte32ht/"
+"By every other criteria, I mean everything else expressed in the [Bitcoin white paper](http://nakamotoinstitute.org/bitcoin), beginning with the title itself. BCH is clearly ""A Peer-to-Peer Electronic Cash System"", whereas BTC is actively making itself into a high fee, high friction, low utility store-of-value-only system. Key Core developer Greg Maxwell prominently toasted ""champaign"" to celebrate as transaction fees crested $50 just six months or so ago.  
+
+The only criteria BCH does not yet have over BTC for claiming the ""Bitcoin"" name is total cumulative proof of work. And you're right, that's an important one. But I should also point out that you have to be a ""valid"" entity based on the rules of the white paper. Today's BTC has only gotten to where it is by pointedly and repeatedly subverting the white paper's prescribed Sybil-resistant Nakamoto consensus mechanism. This is no more obvious than in the fact that SegWit was illegitimately added to the BTC block chain. ""Illegitmately?"" you say? Yes, because the ""2x"" part of the SegWit2x consensus agreement was never added, so SegWit was essentially pushed on to the block chain in an end-run around Nakamoto Consensus. The ""2x"" aspect of the consensus agreement was the only thing that pushed miner support for SegWit from the 30%-35% range it was languishing in (never exceeding 40% at any point), to the overwhelming support SegWit2x had at lock-in time.  
+
+So by that measure BTC with activated SegWit is not a valid claimant for the ""Bitcoin"" name either.  
+
+EDIT: Clarified a bit"
+Except if things get corrupted if bitcoin terminates unexpectedly, you have to redownload the whole blockchain.
+And people are free to run their own solution if they want, but merchants need hard cash to pay their rent and employees. If Bitcoin Cash reaches total world domination and you can pay government taxes, your employees and your rent with it, then I see no reason to use intermediaries, but until that point, merchants are going to use third party companies to, if not handle their money (coinbase commerce gives you full ownership over your funds), at least run a node for you, and let you use their super user-friendly POS.
+[deleted]
+Same long term scaling plan that bitcoin use to always have and it is no where closer to getting unwieldy than it was 9 years ago.   I bought a 6tb drive for $110 last year.  I'm not seeing anything that would imply that Moore's Law isn't still working as planned.
+"You mean like graphene, pruning, UTXO bit-vector storage, and any other number of things I'm not even aware of yet?
+
+And you don't realize that the goal isn't to increase blocksize indefinitely as a one-trick pony?
+
+I'm assuming you don't read the developer mailing list at all based on your comment?"
+"White papers aren’t meant to place restraints on a project, they describe a project at a point in time. I recommend going back and looking through some Linux white papers and then considering how the projects evolved. Luckily the open source community has a long tradition of norms, so there is no need to guess about the intention of the Bitcoin white paper. 
+
+Another tradition of the open source community is that we don’t mind when a project forks off, so the Bitcoin forks don’t bother me and I hope they are able to accomplish what they want so long as they do it with honesty and integrity. Good luck. "
+"Hey, AcerbLogic, just a quick heads-up:  
+**futher** is actually spelled **further**. You can remember it by **begins with fur-**.  
+Have a nice day!
+
+^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment."
+That's some A+ self-reflection there. Keep it up, you might actually start thinking straight.
+Redditor /u/BitFast has low karma in this subreddit.
+Just curious, are you being paid now to troll reddit or is this your free time?
+So BCH is a joke to you?  If so, why post here?
+"The only use of a non-mining full node is for the individual owner only not for the network.
+
+Either for conducting research on the block chain, sharing analysis done on blockchains data or for monitoring that 0 conf transactions made to themselves are not double spended.
+
+But in no case they are affecting the network.
+
+The vast majority of the people and business don't have the need for a full node. The need derives from profit, not from altruism."
+tell it to Satoshi
+"You've not done good enough ;) Not on the naughty list yet.
+
+Jokes aside, that bot only detects _potential_ trolls. Not everyone it marks is a troll, nor are they marked as trolls."
+"> i´ll still take the one from 2013
+
+O_o
+
+You do realize the one from 2013 doesn't support segwit payments, can't validate segwit transactions, and will get 100% of your blocks orphaned if you try to mine on it.
+
+I would not advise that.  I know they like to say ""segwit is backward compatible"" but it's a bit more complicated than that."
+"They fooled thousands, maybe millions of people.  A lot of really smart people fell for this.
+
+Satoshi was correct!
+
+http://satoshi.nakamotoinstitute.org/emails/cryptography/6/
+
+> It is strictly necessary that the longest chain is always considered the valid 
+one.... The CPU power 
+proof-of-work vote must have the final say. The only way for everyone to stay 
+on the same page is to believe that the longest chain is always the valid one, 
+no matter what.
+
+Turns out I agree with that - always did - and by that argument, the BTC chain is definitely currently the valid Bitcoin chain.  No doubt about it.
+
+The reason that I use their argument against them is that it now works against them when we say, ""Bitcoin Cash is Bitcoin.""  There is no question that by Satoshi's definition, the BTC chain is the valid Bitcoin chain.  But by the small-blocker / UASF definition, the individual determines validity based on his choice of client, which means that we can say ""Bitcoin Cash is Bitcoin"" with a straight face to them: we're demonstrating the ironic outcome of their own logic.
+
+In reality, BTC is Bitcoin and BCH is Bitcoin Cash.
+
+Now.
+
+It's possible - some might say, likely - that Bitcoin Cash can significantly overtake BTC in hashpower.  Even for a while.
+
+As it turns out, the BTC chain ain't built to roll like that, so if / when this happens, then BCH will be ""Bitcoin"" because the BTC chain may well die."
+">The BCH chain is currently running at 14.05% difficulty compared to the BTC chain.
+
+>BCH/BTC .15056
+
+You do realize this means that despite BTC retargeting in about 3 hours, and getting even HARDER to mine, BCH is ALREADY more profitable to mine?  (14.05% of work, 15.06% of reward)
+
+Granted, that BCH/BTC number is from a site you didn't link, but the first one IS...."
+If that was the case, populism giving birth to dictatorships would never have been an issue.
+"Then why did he call it ""Bitcoin Cash"" on launch? Changing project names is confusing and not helpful to anyone.
+
+""If you actually understood what a fork is"" - was this necessary to your argument? I completely understand what a fork is and have forked dozens of open source projects to study or work on myself. But, thanks for the condescending reply. In return, I offer sarcasm."
+More block size more fingers more errything
+"Open my link. The blue line has to be above the orange line for BCH to have  the highest accumulated proof of work.
+
+Think of it as BTC drives 100km/h and BCH 20km/h (this is the hashpower). BTC made 1000km and BCH 200km in a certain timespan (this is POW). Now if BCH starts driving 100km/h and BTC only 20km/h it will still take some time until BCH overtakes BTC."
+And the theft was conducted by political reasons. Full circle!
+Bad bot
+What if you are using a bitcoin core client from before segwit existed? It still synchs with the same chain.
+Point taken. I'm not one who argues that highest accumulated proof of work matters though so I shouldn't have gotten involved. To me all that matters is the current hashing difficulty and thus the current security of a chain if one wishes to perform a transaction.
+What do you mean by Core-chain consensus rules? There's were no changes to the consensus rules. SegWit is fully backwards compatible.  Knots and Libbitcoin and bcoin are legitimate Bitcoin implementations.
+"I question if you know what a ***crypto*** fork is for the reason I stated.  Forks are intended by very definition to use the original name, and winner of the name is defined by hashpower and longest valid chain.  Whoever holds those traits gets the original name.  
+
+Bitcoin is not ""core"", and they do not own it.  Bitcoin is not software.  It is a concept.  And in a truly decentralized system, development is also decentralized across multiple implementations.  
+
+Claiming that a fork intended to redirect Bitcoin back to its originally intended purpose is 'misleading' or 'tricking' people conveys a complete lack of understanding of how all of this works. This is not the same as forks you may be familiar with. 
+
+You already know why they chose Bitcoin Cash.  There needed to be a temporary name during the ramping up/transition period.  I too wondered how this would play out because humans tend to become familiar with a name.  So I guess if Bitcoin Cash wins hashpower and valid chain competition, Bitcoin will be called Bitcoin Cash in the future.  
+
+Its likely that psychologically, people will view Bitcoin (BTC) as the slow, expensive Blockstream settlement layer coin that is now owned by Blockstream, and making them billions of dollars.  And Bitcoin Cash (BCH) will be the original Bitcoin on a philosophical and functional level.  The two will probably coexist indefinitely.   Much to your (and others) dismay.  Cuz this is a lot bigger than ""Roger""."
+"Great points, a few minutes' digging through the history reveals most of the Core supporters to be incorrigible goalpost movers. However, I don't really think Satoshi said anything to indicate he had considered the case where there are two *adamant* and persistent factions, and to me it's pretty obvious that the hashrate, as it follows what can be a very whimsical market price in the short run, is not a reliable way to determine the winner out of two *persistent factions* except in the long run.
+
+When people speak of nonsense like big-block attacks, I always say Bitcoin is a block-by-block hashpower vote where such noise can be easily thwarted block by block, but if stalwart factions form and persist, the chains split off and then we are in a longer term situation."
+"See here’s the thing about Roger. His intentions are good. Which is why I call into question any claims that he’s intentionally misleading or lying to people out of some sinister motive. I know that to be completely false. 
+
+I was here when he was doing this exact same stuff for BTC. For years and years. Same emotional outbursts, same narrative, only he was directing it at bankers and government officials.
+
+I have a very huge discomfort with a corporation coming in and delaying on chain scaling to force people off chain. That’s really what this is all about for me. It’s a conflict of interest that doesn’t belong in bitcoin, in any capacity. 
+
+They absolutely could have raised the limit a little bit to keep BTC usable. But they created a crisis to benefit their own profit goals. And that’s just abhorrent to me. 
+
+And the fact that you and I could not even have this conversation in the bitcoin sub because the corrupt moderators would remove me before I had a chance to even explain my thoughts. 
+
+That alone, puts a moral label on ***that*** side of this debate. That paints ***them*** as the corrupt party to me."
+I'm not offended.  I just think you're harping on terminology instead of adding to the discussion.
+"I don't care what you want.  I WANT A ""REPLACEMENT FOR CASH"".   That is what Bitcoin was presented as back when I first read about it and played with it in 2009.    Anything short of usurping the power the federal reserve systems have by making decentralized independent cash type currencies is not good enough and potentially could be worse than the systems we use today.
+"
+"I can see that you're very passionate about this. I'm passionate about crypto in general. The long-term possibilities are endless. There are going to be thousands, maybe millions, of approaches to solving the myriad problems that crypto can eventually solve. We've already collectively wasted so much brain power and energy fighting over the most trivial thing here - a freaking name.
+
+I don't think noobs are mindless idiots, but how long did you have to study the bitcoin protocol before you actually understood it? It takes time to get to the knowledge level that most of us here have. Most noobs coming in don't give a damn about the whitepaper or the ""why"" behind bitcoin. They just want to get rich because it's all over the news. The fanaticism comes later, if it comes at all.
+
+So, yes, while I understand Roger's motivations and can see the passion from so many people about BCH, I still strongly believe that bitcoin.com is actively scamming users. I will continue to hold both coins, because they are each attempting to solve problems their own way, and they both have utility and value."
+"> Has anyone but Core ever achieved consensus since Gavin gave up control of the repository
+
+What does this even mean? Core does not achieve consensus. Bitcoin has consensus, and Core develops software that fits \*\*within\*\* that consensus.
+
+>So if Core is the only significant SW repo
+
+""Significant"" is totally arbitrary.  All of this shit is compatible. It's like if 99&#37; of people use GMail, and you state that Gmail defines what email is, even though anyone can still use Hotmail or Yahoo Mail.
+
+> detailed explanation of why SegWit is a disguised hard fork
+
+It's backwards compatible. That's literally all that matters. Let's say Bitcoin Core doesn't even exist, and I secretly invent SegWit on my own. There's nothing stopping me from privately deploying it just for myself, without anyone's permission. It is full compatible with all the pre\-existing rules of the system."
+I'm sorry that you're offended I pointed out the glaringly obvious mistake you made
+BTW, to even call Moore's Observation a law of nature is fundamentally incorrect. You don't grasp anything in this sphere if this alludes you.
+"Right, I was being very conservative with those figures. Ideally we don't just want a ""replacement for cash"", but we want to make microtransactions a viable concept.
+
+For instance, the current web functions largely by publishers coercing users browsers to push their personal preferences to advertisers, and the advertisers compensate the publish for this. It's unethical, and neither the consumer nor publisher actually like the approach, but it's seen as really the only way to monetize publishing.
+
+Much more ethical approaches to publishing/subscribing could be made with microtransactions done by the browser, with a consumer's consent. User's will no longer have their privacy invaded by third-parties who add nothing of value between the publisher and subscriber.
+
+In this kind of system, a typical user would be making hundreds of transactions per day just browsing the web. They could also be the recipient of transactions with opt-in advertising models or for publishing content.
+
+It's not really any wonder that the advertising giants are afraid of cryptocurrency, because their core business model of selling data to advertisers is about to be disrupted."
+Hmm, can't argue with trying to optimize the presentation of truth, I suppose.
+"> When someone searches ""buy bitcoin"", can you honestly tell them that BCH is what they are looking for? No. 
+
+
+I understand that.  But again you don't get what is happening here.  So I will repeat for the hundredth time.  
+
+*If a corporation came in and literally hijacked the bitcoin code, strangled bitcoins functionality on-chain to make themselves wealthy by forcing transactions off chain, and thousands of people were AGGRESSIVELY angry about this, would you expect the owner of the dot com to promote the corrupted version of Bitcoin, or the fork intended to salvage its original meaning?*
+
+How minimal and silly is the ""temporarily confused noob"" complaint when Bitcoins ability to free people from corrupt governments, and provide financial sovereignty has taken a back seat to making Blockstream rich?
+
+*Where do your priorities lie?*
+
+Noobs will see both mentioned, and are capable of reading up on the corporate hijacking of BTC.  Hopefully they'll decide to buy BCH as a result, if they have an ounce of ethics, and standards.  
+
+This is not a random thursday in bitcoinland.  There is a war waging for the identity of Bitcoin.  And the name.  Its absurd to whine about something as pithy as ""noob confusion"" when people are suffering due to this delay introduced by Blockstream [for their own benefit](https://www.youtube.com/watch?v=cFOmUm-_DMQ).  
+
+I own thetimes03jan2009.com - the main website celebrating the Genesis Block newspaper Satoshi discussed in the first Bitcoin Transaction. I am going to put front and center that Bitcoin is now Bitcoin Cash because of all the aforementioned reasons.   
+
+Im more worried about people continuing to have their bank accounts emptied by corrupt governments, than I am about a noob getting confused for 30 seconds on the internet.  
+
+*Where do your priorities lie?*"
+"Has anyone but Core ever achieved consensus since Gavin gave up control of the repository (technically, even before that)? With the contingent of the community that supports on-chain scaling leaving BTC for BCH, Core's iron-grip on control of the SegWit BTC chain has only gotten stronger. There's no sign they will let up on their unethical leverage of censorship, troll armies, etc. If you are realistically arguing that any other SegWit BTC software repo will be the one leading a future consensus change I'd say you're just completely forfeiting any credibility.  
+
+So if Core is the only significant SW repo, and the only one in control of consensus for the SegWit chain, how does saying ""Bitcoin Core"" to refer to the SegWit chain risk any ambiguity?  
+
+You did not dispute even a single point in my detailed explanation of why SegWit is a disguised hard fork, and not an actual soft fork. Unless you do, your repeating the claim that SegWit is a soft fork is simply gaslighting."
+"Then call it ""computer storage law that is similar to Moores Law""   .. .  Go pound sand and go back to reading your dictionary all day."
+10 transactions per person per day is also very few.  I'd like a chain that can be used for all kinds of markets.  There are two kinds of markets that might drive large transaction volume: The securities market (stock/bond/currencies/futures/derivatives/etc) and the microtransaction market (where I can easily see 10k transactions per person per day if it's actually used for cost optimization.)
+in 5 to 10 years we'll have utxo commitments, sharding and layer 2 running on an unencumbered layer 1...done?
+">Well that would be the problem, then. In my world truth, **once recognized**, trumps PR.
+
+I missed this. But Eirenarchs point was that they don't necessarily do if you present the truth in a way that unnecessarily offends them or for some other reason doesn't speak to them. 
+
+(Of course, if you don't speak at all, you are lowering your chances dramatically unless they are already likely to find such or better information through other sources.)"
+"When someone searches ""buy bitcoin"", can you honestly tell them that BCH is what they are looking for? No. They'll see that some honest-looking site called bitcoin.com is selling ""Bitcoin (BCH)"" for 10-15% the cost of what they just saw quoted in the newspaper or on CNBC. Those users are getting scammed, in my opinion. The semantics of ""crypto fork"" do not apply in this very simple, easy-to-digest, **happening-today** example.
+
+And nowhere in the original fork discussion did anyone ever mention that BCH was going to try and keep the name Bitcoin. It was Bitcoin Cash from the start. ""Temporary"" never entered the argument until very recently as part of a PR push from Roger and friends."
+"Core can only change consensus rules if there is consensus. No one has to run their software. They can run an old version of Core or a different implementation.
+
+Yes, SegWit is backwards compatible. Like I said, I can run a pre-SegWit node, and it'll sync, send, and receive Bitcoins just fine with a SegWit node. That is, by definition, backwards compatible."
+"Yes, scamming is rife in the whole space. People accept that Bitcoin isn't a scam though, else the entire industry itself would be a scam.
+
+My main issue with Bitcoin Cash is the fraudulently claiming to be real Bitcoin. I get that there are some who don't understand the technology and will parrot what prominent people in the community say, but the people putting out the message do understand the technology, they know the statements to be untrue and are deliberately spreading them for their political reasons.
+
+I wouldn't have much of an issue if Bitcoin Cash just called itself Bitcoin Cash, carried on with its own research and development (which is valuable to everyone), and just stopped trying to polarize people with false statements."
+"Jesus Christ Moore's law has NOTHING to do with storage capacity 
+
+"
+"Picture this: Bitcoin takes off massively in the next 5-10 years, we have around a billion people using it, conducting an average of 10 transactions a day, using plain old P2PKH transactions which are  ~255 bytes.
+
+That's 2.55x10^12 bytes, divided by 1440 blocks per day. That's 1.7x10^9, or 1.65GiB blocks, 2.3TiB per day, or ~840TiB of storage per year.
+
+Think Moore's law can keep up?
+
+Those who thing ""long term scaling"" can happen purely on-chain are either seriously underestimating ""scaling"", or overestimating what ""long"" is."
+"> White papers aren’t meant to place restraints on a project...  
+
+Oh really? That's a very twisted interpretation, but explains a lot about your deluded thinking.  
+
+But even if your insane claim were true, the white paper provides Nakamoto Consensus for evolution. You can fairly get anywhere with that. If you need to cheat it, why ever pretend you're doing anything related to that white paper, and the name ""Bitcoin"" that it defines?"
+"projecting much? ;)"
+Uncensored discussion of BTC and BCH?
+I was referring to S2X :)
+The 2013 network...but nice try. 
+This is a savage take-down of u/luke-jr's own philosophy and its implications vis-à-vis Bitcoin Cash. Sadly, no one would ever accuse Luke of being unhypocritical. I think he will find it easy to dismiss your points given his immense capacity for cognitive dissonance and hypocrisy. 
+I like how you articulated that. Nice. Will use. 
+That might be a result of those individuals I referred to earlier in this thread that can't really be reached anyway. It's unfortunate that it's so easy for us to allow ourselves to be fooled. The best we can do is patiently and clearly demonstrate and explain the truth. We just have to hope at some point for most people, it eventually clicks.
+He said that more than 2 years ago.
+"Yes investors who didn't take sides needn't care, and those who did have made their bed already. New investors don't care much about the name, I think, so for them - and since ~90% of investors are new in every exponential wave of growth - maybe it really doesn't matter who gets the name. 
+
+What matters to old investors is they can just hold and not worry, which they can. What matters to new investors is to identify the best candidate to become the global ledger of civilization, and that will be increasingly obvious as one of them sees more commercial use."
+"> BCH, which already can claim every criteria for the ""Bitcoin"" name over BTC except total cumulative proof of work, would then be ""Bitcoin"" without any doubt at all. 
+
+The cumulative proof-of-work is **the decisive claim** to being the correct chain, and BCH fails to live up to that claim. I'm not sure what these 'every criteria' you speak of are."
+"Absolutely agree.
+
+Wish more people would realize the harm they are doing to their own efforts as well as the whole crypto environment as a whole.
+
+Also, we're probably far enough down the list in a downvoted thread that very few other people will see this I wouldn't expect any downvotes at this point. :P"
+"No, Gmail is the real SMTP! ;)"
+Wrong. The longer time goes on the more BCH gains. 
+it's also important to note that the difference in accumulated work on the 2 chains is not merely diverging linearly, but in fact continuously accelerating in btc's favor. 
+If BCH gains majority hashpower it has both the longer chain and the greatest proof of work. 
+[removed]
+Redditor /u/vakeraj has low karma in this subreddit.
+"Would you ever succeed in changing Bitcoin Core-chain consensus rules with either one?  
+
+That's why no one says ""Knots"" or ""Libbitcoin"" when referring to the SegWit chain. For better or (I think, mostly) worse, Bitcoin Core defines the SegWit chain, so saying ""Bitcoin Core"" to refer to it makes a lot of sense, is accurate, and is minimally offensive.  
+
+e: grammar"
+"> What's to stop someone forking BCH, going back to 1MB blocks, and then claiming it's the real BCH then?
+
+The prerequisites for wanting to. Lobotomies are scary and irreversible."
+"What's to stop someone? Nothing at all. It's just that if that party then claims their implementation is ""Bitcoin"", that claim would be entirely false unless it garners most cumulative proof of work. As the final line in the white paper states:  
+
+> Any needed rules and incentives can be enforced with this consensus mechanism.  
+
+It's simply how the Sybil-resistant mechanism in the system decides what ""valid"" is.  
+
+> Having 1 coin to rule them all is not decentralization.  
+
+What does this have to do with anything? Having the most cumulative proof of work defining what Bitcoin is has nothing to do with whether it will be ""1 coin to rule them all"". Even if Bitcoin does become that, the system is not centralized just because it's a dominant coin. As long as the mechanism of Bitcoin maintains enough decentralization to be censorship resistant, it will continue to be a successful ""Peer-to-Peer Electronic Cash System"" as originally intended.  
+
+e: grammar"
+"A stock split is the closest real world case if you comparing it with a hard fork. So from investor's point of view, they don't care, since they still hold shares in both sub-company. How in future those two sub-companies perform is another thing
+
+Architecture wise, bitcoin cash is more close to original white paper while segwit is not bitcoin due to that segwit inventor do not understand why bitcoin was designed like that thus wanted to change it. And over time, both chains will evolve thus both changed from the original white paper, but the change by bitcoin cash is magnitudes smaller than segwit, this is lower risk and higher integrity from architecture point of view"
+Well it is really hard to define. But what is really important on the whitepaper? The ideas or the most PoW=Bitcoin? Rules in the whitepaper are there to protect and incentivise the ideas. It is unfortunate that, the chain that holds on to one rule and ignores the ideas is still called Bitcoin.
+"I completely agree. But we can still objectively evaluate any claimant to the ""Bitcoin"" name relative to what is spelled out in the white paper, and decide whether it has legitimately evolved via the Sybil-resistant consensus mechanism laid out therein. That's why I think that except for the current (hopefully temporary) situation where BCH does not yet have most cumulative proof of work, it's still the crypto that most closely satisfies every other criteria in Satoshi's white paper."
+"History would never need to be rewritten, because the histories already started to diverge when the hard fork occurred on August 1, 2017. The only thing that would happen is the BTC chain would now be the minority chain that by every single criteria would no longer be able to claim the name ""Bitcoin"". BCH, which already can claim every criteria for the ""Bitcoin"" name over BTC *except* total cumulative proof of work, would then be ""Bitcoin"" without any doubt at all.  
+
+The histories of both separate chains would stay entirely the same."
+for a new poster, you seem to just get it, in a way that many do not. if bch becomes the majority coin, then the minority hashrate btc will die off b/c it will lose all its network effects. this is precisely a long distance reorganization attack, with year(s) worth of bitcoin transaction histories getting wiped out. think of the ramifications, crypto could not possibly be a viable payment system if such long distance rewrites were even remotely possible. the only reason bch has survived this long so far, is b/c btc has been intentionally crippled with 1 mb blocks. 
+"> You'd need to convince the majority of full nodes
+
+Non-mining nodes are irrelevant. Vulnerable to Sybil attack"
+"> Yes, but it would need to rewrite history. You'd need to convince the majority of full nodes to accept you version of events, even though they already have a history of events and they're only really open to changing the last few blocks.
+
+Thats not actually how it works: full nodes follow the longest chain that meets its consensus rules, even if that means changing many months or even years of blocks.
+
+BTC nodes would not accept a longer BCH chain because the BCH chain isn't valid under BTC consensus rules, which limits blocks to 1MB."
+Actually Coinbase Commerce allows you to retain full access to your private keys (and as a result, doesn't support instant fiat conversion), and requires you to enter your password to decrypt it when moving funds, etc. You only stop using Bitcoin after you've moved your funds to Coinbase's consumer site to sell it for monopoly money
+"Satoshi was famously pro big datacenters being the only ones running nodes, so it's very unlikely that's what he meant. A in-person store will likely use Bitpay or whatever else is already integrated into their POS software, and won't have to worry about it in the first place.
+
+
+If a online merchant, such as myself wants to integrate cryptocurrency into their checkout, they're free to reinvent the wheel with a 10TB expandable HDD on a $40/m storage server and be good for a few decades, or they can simply integrate commerce, bitpay or one of the other 100+ solutions made specifically for them.
+
+There's a reason stores don't have their own bank license to receive and verify payments."
+"But its like these people are saying it *didn't* and *can't* gain majority.   
+When in truth, **it is still possible and could** be that it gains more hashrate.   
+   
+Simply not wanting something to happen and saying it won't, doesn't mean it actually won't and a person would be foolish to continue those lines of thought/confirmation bias/personal delusions."
+Why would you need a large RAID for a 200 gb blockchain?   Or a terabyte blockchain for that matter (just for arguments sake)?
+So you think Moore's law doesn't warrant an increase from the 1 MB limit set almost 10 years ago?
+"Sorry but you are confusing decentralization with p2p. If Jihan was the only miner and never censored txs is bitcoin still p2p? Yes. And if Jihan decided to censor by leaving txs dangling in the mempool he would incentivize new entrants into the market because anyone with the resources can mine. 
+
+Because I can't put it any better than this guy: 
+
+""The block size is basically orthogonal to the proof-of-work, and the proof-of-work is distributed in the sense that anyone can do it. There is nothing stopping any entity from doing the proof-of-work if they have the resources and capabilities. So this idea that there will be one company that is the only one doing Bitcoin doesn't really make sense if it's cost competitive for other companies to be involved. Yet the boogeyman of centralization is repeated in censored forums. It misunderstands the bitcoin’s central economic conceit: it’s the greed of the miners that makes bitcoin work.
+
+""End users can still validate transactions via SPV, which is completely valid and provable without storing the entire block chain. Consensus relay nodes can do the same thing, although they will start dropping off the network when the bandwidth costs become prohibitive. So in a small block system we have an extremely limited amount of space for transactions, which means the cost will eventually be excessively high and result in settlement between big players. That's the choke point that allows for KYC and AML. You can submit a transaction to the network, but you can't afford to because there isn't enough bandwidth to service your request so you are forced into regulated channels, onto exchanges, or through third party choke points that can be audited. 
+
+""People who want small blocks for Bitcoin really need to be thinking about using an altcoin, it was never in the plans to have an extremely low bandwidth pipe to keep things decentralized when the proof-of-work is by default a centralizing force."" *
+
+Centralized  BUT still p2p. To the contrary LN is NOT p2p. It bottlenecked into hubs from the moment it was born and that will only get worse. 
+
+*quoting ""buttershakes"":  https://news.ycombinator.com/item?id=14788663
+
+"
+"As long as both chains are still accumulating work it's still undecided.
+
+In order to combat the fake tether pump of Bitcoin Segwit the hardfork has to happen in slow motion to give time for the tether pump to unwind."
+"> He did exactly this. He supported 2x. Strongly. He went to bat for it. He was attacked mercilessly for it.
+
+I can't really speak to this.  If it's true that he strongly (and publicly) supported 2x then my comment isn't entirely fair. That being said, 2x didn't happen.  When it failed to materialize, he should have immediately gotten behind BCH.
+
+> real scaling
+
+Can you define this term for me?  I have opinions about it but I'm curious what you think.
+
+> BCH will not be able to catch up in the next 6 months even if the cashening happens
+
+Why do you think this?
+
+"
+Segregated Witness was activated on August 24, 2017. Segwit broke the chain of signatures back to the genesis block: https://youtu.be/VoFb3mcxluY?t=9m18s
+Get a life troll. https://youtu.be/VoFb3mcxluY?t=9m18s
+">two middle fingers on both hands
+
+How many middle fingers do you have?"
+I'd say a spin-off is much closer. In a stock split, the newly created stock is for the same company (so it would be like increasing the 21M coin limit). In a spin-off, two companies are split off of a parent. For example HP and HP Enterprise.
+Apparently Theymos's three years (and counting...) of what must be the most brazen and devious campaign of censorship and debate manipulation in the history of the Internet didn't galvanize you against Theymos.
+"I love that you just got downvoted for saying that.   These losers .... lol.   
+
+The greatest part is they think manipulating sentiment on Reddit is going to actually have any effect in the real world.  They haven't realized that reddit isn't the crypto industry.  Its a miniscule subset.  
+
+The industry is still adding BCH en-masse because they are 100% unaffected.  And these bumper stickers are going out in the real world, to affect real people who don't even come here.   I love bypassing corruption. :)"
+The first several versions of BTC nodes did not have a block size limit.
+That sounds good and I'd agree that counts.
+"Satoshi wanted everyone to be running a full node.
+
+You don't need a big hard drive to run a full node. Just put prune=550 in the bitcoin.conf file. Your Bitcoin full node will never take up more than about 4 gigabytes of hard disk space. There's no reason why every single Bitcoin user isn't already doing this already other than everyone thinks running a full node is going to take up 200 GB of their hard disk space."
+"> Abstract: A **purely peer-to-peer** version of electronic cash would allow online payments to be sent directly from one party to another **without going through a financial institution.**
+
+**""Satoshi's Vision""**: Read past the parts of the whitepaper which don't suit your narrative, while claiming to follow the whitepaper and utterly failing to understand the motive behind it."
+"Yes, when you project how big it is going to be over 5-10 years (whatever would be the expected lifetime of your PC).
+
+Bitcoin will fit on a 2TB drive over 10 years. This isn't yet any need for concern.
+
+The issue is that there is no long-term scaling plan in place on Bitcoin Cash. You can't just ""keep increasing the block size"", because it won't be affordable to run a node.
+
+For reference, I'm not completely against increasing the block size by small amounts (I agree 1MB/4MB is too small), but I don't see Bitcoin Cash as having a feasible roadmap, and it's also full of scam-like/fraudulent behavior that I'd rather not be associated with."
+From 1MB sure, but indefinitely, no. My point was that bitcoin cash does not appear to have a scaling solution at all beyond increasing the block size indefinitely.
+"> it's still undecided.
+
+Rofl.  BCH is 6 months behind if the flippening happened *today*.
+
+Reality doesn't care for your nonsense.  /u/CC_EF_JTF and /u/evoorhees have it right."
+"> When it failed to materialize, he should have immediately gotten behind BCH.
+
+This is the folly of BCH forking 3 months BEFORE segwit2x failed.  BCH became a joke amongst the moderates and the Core supporters; Because it barely had any momentum - far less than it has today - it wasn't taken seriously by any businesses and most miners.  Coinbase, run by longtime bigblockers, said they wouldn't support it at all or allow it for trade.  Even Jihan said he wouldn't mine it until after others started.  Jihan also states that it is not Bitcoin.
+
+When you fork too early while many of your potential supporters are still supporting a different alternative, you create problems.  BCHers were warned of this and ignored it.  They have their reasons for doing that, which I don't agree with, but the reality remains the same, and that's how we got here today.
+
+> Can you define this term for me? I have opinions about it but I'm curious what you think.
+
+A mainnet proven ability to keep fees at a low amount under high transaction loads and while still processing transaction confirmations in a timely fashion.
+
+Core had the chance to do this and utterly failed in December, along with multiple failures before December.  I believe BCH's bigger blocks will perform fine, but it hasn't been real-world tested other than with Ethereum - Which is quite a bit different due to its faster blocktimes.  Ethereum choked a bit but did clear through and recover much smoother than Core.  That was also Ethereum's first real test whereas it was Core's 5th or 7th or so.  I eagerly await the real world test of BCH's capacity.
+
+> Why do you think this?
+
+[This graph.  To overcome BTC's total work lead](https://imgur.com/3HOu86t), BCH's line must cross the BTC line that it is way, way behind.  This is driven by miner payouts, which is driven by price whenever reward amounts are equal.  BTC's price has been ~6-10x higher for ~9 months now.  To simply catch up, BCH's price would need to be 10x higher for about 7-10 months.  But at this point, simply reaching price parity with BTC would be huge news, nevermind being 10x higher."
+Nope.
+"Your continued gaslighting that we are ""tricking"" anyone does not fly considering almost every facet of the white paper and it's designed mechanism for evolution backs BCH as ""Bitcoin"" over present-day BTC.  
+
+As a developer, you should realize if you can't operate within the bounds of a white paper, you have no business claiming what you are doing is part of that project. For Bitcoin, it actually goes further, since Nakamoto Consensus allows any manner of legitimate evolution and deviation from the original design laid out by Satoshi through a truly Sybil-resistant consensus evaluating mechanism. However, it's clear that present-day BTC was only able to get to where it is now via Core and collaborating censors cheating and subverting this mechanism: even stronger proof that today's BTC rejects everything the white paper defined as ""Bitcoin"". Not true, you say? OK, then tell me where the ""2x"" part of the SegWit2x consensus agreement is for the BTC block chain? Without it, SegWit inclusion is illegitimate and was backdoored in to subvert the Sybil-resistant aspect of Nakamoto Consensus (the 2x aspect of the consensus agreement was the only thing that was able to garner overwhelming miner support for SegWit inclusion).  
+
+e: spelling"
+That's Alex Jones lvl retarded
+"> lost Core support 
+
+You can't lose something you never had"
+"I think the full quote is ""I would support a fork but if it fails because it's a fucking joke, I'll roll over and give up"""
+"its exhausting dealing with the sheer volume of trolls Blockstream (i have to assume) has hired.  Or maybe they are just an army of Litecoiners.  I don't know, but its insane to me.  Literally hundreds of upvotes on the top comment here .... saying something nobody in this sub actually agrees with.  
+
+All I can do is shake my head, remind myself that Bitcoin Cash has a true, and honest goal that I support, and that the people involved have conducted themselves morally.  And I support ""good"" people.  Not corrupt people.
+
+And then I just ship out more Bitcoin Cash bumper stickers.  That's all I can do with my frustration I guess lol."
+When non miner nodes are runt by big players in the Bitcoin economy they are extremely important. It decides the value of the coin that miners mine, and miners will follow the value (proven in real life)
+When I run this client alone, I am f*cked, as you described. When the majority of the Bitcoin economy runs the same client as me, the miners will be afraid to mine a less valuable coin and shift to the same client. This is proven game theory that big blockers not seem to understand.
+thx!
+Technically if it is not tangible it is not cash.
+haha hilarious do me now :)
+"> Do you think if Bitcoin Cash had been a majority hard-fork that he would change his mind and agree that the chain with 1MB blocks isn't ""true Bitcoin."" 
+
+Of course not.  He's said as much.  But his wording didn't say that, and his wording is correct - By commonly agreed definitions, jessquit is running BCH software, not BTC software.  Jessquit is changing the definitions of the words here, not Luke."
+"> Therefore Bitcoin no longer exists
+
+Valid point - i´ll still take the one from 2013, you know, before the whole big blockstream takeover took place. Closest to the original, RIP 2010."
+Fuckin A
+"> That means that I get to say ""BCH is valid Bitcoin"" because those are the rules I enforce.
+
+> All I can say is, checkmate.
+
+I believe checkmate means ""I accept losing this argument.""
+
+Thanks, we accept your forfeiture!"
+Exactly, core guys fooled Erik through different angles 
+"... see you in 6 months. You don't know the basics of game theory. The ratio in the chart will be in 6 months similar to today...
+
+https://fork.lol/pow/hashrate
+
+https://fork.lol/pow/work"
+"I think you are correct for gradual increases in BCH's price relative to BTC.
+
+But, even though I don't know the fine details of the DAA, I think the closer the BCH price get to BTC's price, the more BTC gets vulnerable to quick increases in BCH's price, even if it doesn't surpass it, as we saw in November of last year for example."
+Well that would be the problem, then. In my world truth, once recognized, trumps PR.
+"If you actually understood what a fork is, you would understand what Roger is doing.  I will say what I said to someone else 10 minutes ago:
+
+-----
+
+*Think of a scenario where Bitcoin actually did end up hijacked by developers who were doing something that thoroughly offended you.  Maybe selling Bitcoin to the highest bidder in corrupt governments.  Pick a scenario.  Get offended by it.  Get enraged by it.*
+
+*Now how would you, and thousands of others deal with that.  Well ... you would use the feature called forking.  And your purpose in forking would be obvious.  To reclaim Bitcoin from corrupt developers who have been bought off by corporations and governments right?*
+
+*In this scenario you *care* about ***Bitcoin***.  *You believed in bitcoin for 8 years, and you put your life behind it, and hoped for the change it would bring.  And Bitcoin's name is famous now. And has power to change, but those in power ended up killing it.*
+
+*So you fork.  Right?*
+
+*Now ... would you name the fork Bitcoin, or something else that has no recognition, and no ties to your actual project? Would you let corrupt people steal the name from its original goal?  No.  You would fork, and as with forks, you'd call it fucking Bitcoin.*
+
+***Given ALL of this context, would you really have a problem if someone (LUCKILY!) owned the official dot com for Bitcoin and put your fork front and center as part of trying to reclaim Bitcoin away from corruption?***
+
+-----
+
+No.  You wouldn't.  And if you claim otherwise, you are being dishonest.   What Roger is doing is perfectly rational, given the context.  Taking the name is perfection rational, given what is going on.  And straight-up REMOVING it from bitcoin.com is also perfectly rational, if he chose to do it.   
+
+Why?  Because of what I just explained above.  Think about it.  Its not deception.  Its not misleading.  Its a very deadly serious ideology difference and this is a free market open source situation where a Corporation has strangled on-chain scaling for their own profit goals.   I can't think of a more offensive attack on Bitcoin.  And I support anyone who exercises their right to vote against it.
+
+"
+I know.. if the slow bleed continues that'll happen.
+Denying this is denying the central tenet of Bitcoin. If you don't believe in most cumulative proof of work defining what is valid Bitcoin, than why'd you ever get involved with it to begin with, and why do you still try to usurp the name for your store-of-value-only token?
+Neato
+"
+BCH has work to do but no doubt it will crush BTC and claim Bitcoin throne because it is the real Bitcoin "
+"I can assure you that he's not that shallow. He's made enough money during this crypto revolution, and isn't foaming at the mouth to charge fees for BTC to BCH conversions (or vice versa)
+
+**Edit:** I'd like to add that at some point, especially for people like Erik, making more money doesn't make you ""happier"". It's just something that happens, and you find that you're so busy that you don't even have time to spend all of this money you're making in the first place. The people who flash all of their wealth in front of you 99% of the time are the ones who don't have much to begin with."
+I tried for almost three years to prevent Bitcoin from fracturing off into these warring tribes. I obviously failed, but have never desired the forks. 
+[deleted]
+Look at the fucking name of your sub..
+/u/cryptochecker
+The folks here who parrot that line make this subreddit look like a scam at best. It does nothing but hurt Bitcoin Cash.
+"That's an utter joke. Why would the truth ever be damaging PR? The claim that what BTC has now morphed into is still ""Bitcoin"" is the lie that will eventually collapse.  
+
+e: grammar"
+There's no PR in a permissionless decentralized environment. Get used to it
+Roger Ver is a PR disaster. 
+a rational position which is much needed on this sub.
+I said this months ago and got downvoted. Nice to know opinions are changing. 
+/u/cryptochecker 
+"> what is so wrong about calling it Bitcoin Cash?
+
+How about asking Roger /u/MemoryDealers Ver himself? He seems to hide whenever shit hits the fan."
+Maybe you’re right. BTC did fail. It got infiltrated by scum. BCH has to be scum proof. 
+He’s using labor theory of value which is dumb
+"> He's got a fucking point
+
+No he doesn't - Roger did not state anywhere that ""Erik said BCH is Bitcoin"".
+
+People call things whatever they want to call them, and reference whatever they think is appropriate. As long as the quote itself is not fake, that outburst is childish, and unjustified."
+Bitcoin Core coins are not not a chain of digital signatures, therefore they are not Bitcoin, according to the white paper. 
+Agreed. Bitcoin.com calling Bitcoin Cash “Bitcoin” was needlessly antagonistic. We really don’t need the drama. When the longest chain switches to Bitcoin Cash, then change the name- but until then, they should stick with the name that everybody knows and work on building the brand up.
+"BCH and BTC both have legitimate claims to the name Bitcoin. Why not call them Bitcoin Cash and Bitcoin Core then? Why does Bitcoin Core get to steal the name ""Bitcoin"" to describe something that is not at all similar to the system described in the whitepaper and that I and many others originally put our efforts behind?"
+It also opens the fact that if someday BCH has more hash-rate than BTC, he has to accept BCH is BITCOIN
+"How is Bitcoin oldschool? They overcomplicated a easy solution, and forked themselves off to the point where the 70% of the whitepaper isn't even valid for them. We follow the rules in the whitepaper definition of Bitcoin, and are fulfilling Satoshi's wishes for Bitcoin as a digital borderless currency.
+
+The fact that we're a minority fork doesn't really matter anyways, considering we HAD to fork when we did, and people thought Segwit/LN was going to solve the issue. If most of the #NO2X #UASF crowd could go back in time I bet the majority of them would have supported BCH, and we wouldn't have to add replay protection and make ourself a separate coin in the first place."
+"This. Bitcoin Cash is a totally fine name IMO as it contains the main keywords of the whitepaper's title.
+
+Roger has done an excellent job especially when it comes to fighting the censorship, but with these silly naming games and unnecessary confusion he is burning his reputation.
+
+By all means, market BCH as ""Satoshi's vision"" or ""the original vision of Bitcoin"" and point to the whitepaper if you like. But namings like Bitcoin (BCH) vs Bitcoin Core (BTC) are nonsensical as creating excess confusion doesn't help the adoption of cryptos in any way.  "
+"Not even remotely a fact.
+
+BitcoinCash split the chain, because majority of the miners supported the compromised client."
+"Hey, SatoshisHammer, just a quick heads-up:  
+**alot** is actually spelled **a lot**. You can remember it by **it is one lot, 'a lot'**.  
+Have a nice day!
+
+^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment."
+"One man's thoughts on the matter:
+
+> Bitcoin Cash is what I started working on in 2010: a store of value AND a means of exchange!
+- [Gavin Andresen](https://twitter.com/gavinandresen/status/929377620000681984)
+________
+
+> [Andresen] was [declared](https://en.wikipedia.org/wiki/Gavin_Andresen) by Satoshi Nakamoto as the lead developer of the reference implementation for bitcoin client software after Satoshi Nakamoto had announced his departure.
+
+
+But agree there is still a lot to be done..."
+"If 15 months from now Core doesn't support a HF what would you say then? \(for the record\)
+
+**I would publicly support a HF away from Core's leadership. I will be watching it closely.**  *Erik Voorhees*
+
+[https://www.reddit.com/r/btc/comments/46rkq7/bitcoin\_roundtable\_consensus/d07jtsz/](https://www.reddit.com/r/btc/comments/46rkq7/bitcoin_roundtable_consensus/d07jtsz/) "
+Probably then he will redefine what bitcoin is to suit his narrative. 
+You get hash power when it's more profitable to mine, that's a fact.
+There would be a good argument that BCH was Bitcoin at that point.
+"I will be messaging you on [**2018-10-27 06:52:57 UTC**](http://www.wolframalpha.com/input/?i=2018-10-27 06:52:57 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/btc/comments/8f9cs3/erik_voorhees_roger_please_stop_referencing_me_to/)
+
+[**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/btc/comments/8f9cs3/erik_voorhees_roger_please_stop_referencing_me_to/]%0A%0ARemindMe!  6 months) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! dy1qwfv)
+
+_____
+
+|[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)
+|-|-|-|-|-|-|"
+"I have seen you use the *Bitcoin SL* term in the past but I have no clue what you mean.
+
+Care to elaborate?"
+This is a very dumb comment. It's about PoW, about the number of calculations that have been done on the chain. Bch is 7000 blocks ahead of Btc but is Far behind in hashed calculations. 
+"I have to disagree. The white paper clearly makes most cumulative proof of work the arbiter of what exactly is ""valid"" for ""Bitcoin"" (well, aside from the part where Satoshi conflates the longest chain with most cumulative proof of work). So even if someone made all the changes you describe, if that implementation earns the most cumulative proof of work, then by Nakamoto consensus, those are now the ""valid"" rules.  
+
+Personally, I'd add a few other restrictions for what could legitimately be considered Bitcoin. For instance, a candidate would need to issue from the original Bitcoin Genesis Block, and would still need to use SHA256 proof of work (barring some flaw or mathematical advance that renders the algo unsuitable).  
+
+e: spelling an grammar"
+"> The chain with the most PoW is not per se the ""real"" chain.
+
+I disagree.  I say,
+
+> It is strictly necessary that the longest chain is always considered the valid 
+one. Nodes that were present may remember that one branch was there first and 
+got replaced by another, but there would be no way for them to convince those 
+who were not present of this. We can't have subfactions of nodes that cling to 
+one branch that they think was first, others that saw another branch first, and 
+others that joined later and never saw what happened. The CPU power 
+proof-of-work vote must have the final say. The only way for everyone to stay 
+on the same page is to believe that the longest chain is always the valid one, 
+no matter what.
+
+(Ok, I didn't really say that, but whoever said it, they were right)
+
+If miners are able to
+
+> make a fork of bitcoin that removes the 21 million cap, reduces the blocksize limit to 50KiB and allows arbitrary TX reversals by a third party, and somehow base it on the existing chain **and accumulate more PoW**
+
+then that will be Bitcoin.  I bolded that last text because obviously it's trivial to code up the changes you suggest.  What would not be trivial is convincing the market to pay ~$10K/coin for these new coins being mined, which is the **only** way to accumulate more proof of work.
+
+But.  You were the one who proposed that the market would pay more for these new coins being mined when you said that the new chain would get more proof of work.  That's baked into your assumption.
+
+So. If this nearly-impossible feat of economic hoodwinking were to be pulled off, then yes, it would perforce mean that the market recognized the new chain as ""Bitcoin"" because it was paying for ""more proof of work."""
+"As /u/nashpredators already mentioned, Erik stated his position a couple of times in this thread. Here they are:  
+
+https://www.reddit.com/r/btc/comments/8f9cs3/erik_voorhees_roger_please_stop_referencing_me_to/dy2496r/  
+
+https://www.reddit.com/r/btc/comments/8f9cs3/erik_voorhees_roger_please_stop_referencing_me_to/dy24fm1/  
+
+EDIT: But he then contradicts himself in this comment:  
+
+https://www.reddit.com/r/btc/comments/8f9cs3/erik_voorhees_roger_please_stop_referencing_me_to/dy24hjm/"
+I didn't know that was you. Do you have a memo account yet? I know it's hard to use cause of the limited characters, but still. I don't want to miss anything you have to say.
+"he answered in this thread. when asked if he'd change his mind if BCH accumlates longest PoW chain:
+
+""I’d apply the same definition, thus wouldn’t need to change my mind. The white paper is pretty clear about what Bitcoin is. If BCH gained majority sentiment/market cap and this accumulated pow, there would be a strong argument it was Bitcoin at that point. I doubt that will occur now, but it might."""
+Actually the longest chain being the true chain is IN THE WHITEPAPER.  Bcash, being the shorter chain makes it far less the satoshis vision than retard ver can wrap his peanut mind around.
+No moral high ground? What about Roger being a fucking idiot and scammer?
+I’m not cowering away from any former statements. I did back a HF away from Core. It was called SegWit2x.
+I would
+"> ... only among nodes that follow the same consensus rules.  
+
+According to the white paper, I think this is backwards. The most cumulative proof of work *establishes* which rules are valid according to consensus, and that's how Bitcoin is designed to evolve.  
+
+So for Bitcoin Cash, we're currently trying to become ""Bitcoin"" by achieving most cumulative proof of work. In other words, BCH is demonstrating the process of Nakamoto Consensus in action, but it's still in the midst of trying to earn that consensus. If BCH never achieves most cumulative proof of work, it not only wouldn't be ""valid"" per the original ""Bitcoin"" white paper, there should probably be an addendum to the white paper written up legitimizing its own consensus rules in order to document what's ""valid"" for Bitcoin Cash, and how it can evolve by its own mechanism. That new document would then be the ""Bitcoin Cash White Paper"".  
+
+EDIT: Some changes for grammar and clarity"
+"I got you tagged as a troll. You been farming karma and been pretending to be on BCH's side. 
+
+RES is a bitch sometimes."
+Whatever....u/evoorhees has proven himself to be a spineless, equivocating  douche.   Roger should stop mentioning him because he has no credibility, not because it might piss him off.
+">maybe we should stop being annoying
+
+
+You’re not part of this community or effort.  Please stop saying “we”. "
+"Your stance on most accumulated work defines bitcoin is nonsense.
+
+1) Suppose the majority of miners would go and mine a chain that had the 21-million coin limit lifted, would you consider that Bitcoin then? No of course not. It's a consensus rule regarded as sacrosanct, you wouldn't care that that chain has more POW, it's meaningless.
+
+2) Suppose hypothetically a sudden and massive shift in hashpower would happen and BCH where to gain the majority hashrate. BTC would still have more accumulated POW, but it'd be functionally dead because barely any blocks would get found, nobody could use it at all. The time to difficulty adjustment would recedes to infinity while the price crashes to near zero before it becomes so illiquid you can't trade it at all. Would you still consider that Bitcoin then? No of course not.
+
+3) Suppose aforementioned hashrate calamity would happen forcing BTC to hardfork to introduce at least a dynamic difficulty adjustment such as the one that exists in BCH. They'd still have more accumulated POW but far less hashrate, but would you still consider that Bitcoin? Well maybe, but then, why isn't BCH?
+
+4) Same supposition on the hashrate calamity, do you think it'd make people who've already decided there's no other Bitcoin than the one BSCore peddles accept something else as Bitcoin? Well of course not, then why should people who accept BCH as Bitcoin be any different? Why don't we have the right to reject what BSCore has done to Bitcoin and reclaim what we understand Bitcoin to be and say it is Bitcoin?
+
+5) SegWit coin is on a functional level incompatible with Bitcoin. The reason is simple, a miner that is unaware of the extended block section and consensus rules (i.e. mines the original Bitcoin), will accept a transaction that violates SegWit rules and include it in a block. This block will then be rejected by SegWit miners. From the miners perspective this is no different than a hardfork. I.e. SegWit is effectively a hardfork, just as hardforks are hardforks. Just because something hardforks doesn't mean it's no longer what it used to be. BCHs hardfork was forced upon it because of SegWit. It was the only viable way to retain what Bitcoin is in the face that the majority of hashrate decided to mine something that wasn't.
+
+----
+
+Furthermore your stance on not supporting BCH is bullshit. Here's why: More than 2 years ago you said you'd support **a** HF away from Core's leadership. You didn't qualify your statement to mean ""only if the majority of hashrate supports it"" or any such thing. You tried your version of such a HF with SegWit2X, which failed. It didn't fail on account of minority hashrate, it failed altogether to attract any hashrate whatsoever. There is a fork that has some respectable/functional hashrate and that is BCH. Back 2 years ago you didn't qualify your statement as ""but only if it's the fork I make"". You said **a** fork. Well now we have **a** fork, that works, and is supported by some amount of hashrate, but still, you won't support it? And that doesn't strike you as some form of hypocrisy?"
+That's because trolls only care about price. 
+There's also blatant vote-botting in this thread, keep seeing posts with a lot of upvotes that don't agree with OP go from 30+ upvotes to 0 in the matter of minutes. They're getting really desperate it seems
+I’d apply the same definition, thus wouldn’t need to change my mind. The white paper is pretty clear about what Bitcoin is. If BCH gained majority sentiment/market cap and this accumulated pow, there would be a strong argument it was Bitcoin at that point. I doubt that will occur now, but it might.
+Bcash split off with around 5% consensus, Segwit happened with about 100% consensus, this means Bcash is a failed upgrade that is rejected by the MAINchain and BTC is successfully upgraded with Segwit via consensus. Satoshi left the project and left it to the community to further improve the code through consensus. Consensus was clearly SATOSHI'S VISION. BTC = Bitcoin and BCH is Bcash, everyone who claims different is a scammer. Try to synchronize the Bcash chain with the original Bitcoin software from a few years ago, won't work, BTC does.
+Run a node from July 2017 and let it sync, it will sync BTC chain, it will not recognize the BCH as valid blocks. 
+"I agree with Greg and Adam's sentiment here. Any chain must be valid for it's chainwork to even count at all. The problem is there is no authoritative truth on what exactly ""valid"" *means*. Everyone chooses what ""valid"" means to them and the market decides what's worth how much. Who is anyone to say that a particular chain is not valid because its blocks are too big? Ther're not too big for me so I call it valid, and that's my prerogative. "
+Which simply means BCH's chain is BCH, since you're running BCH, not Bitcoin.
+But you must have a majority of sock puppet nodes for your break with the mining cartel to count. /s
+The brigading is surreal today. It really makes me excited because it means bitcoin legacy knows its days are numbered
+Any post with r/bitcoin mods or big Core personalities has brigading.
+"Mining is an incentive system. Can you elaborate further why miner should switch? You get that 32 Mb blocks create more costs for miners with almost zero benefits in reward?
+
+Average block reward 
+
+Fees: $4,383 (0.49 BTC) , $10 (0.01 BCH)
+
+!remindme 6 months"
+Yep. And it is inevitable it will happen. Have the popcorn ready.
+I did back a HF away from Core. It was called SegWit2x.
+This guy is nothing more than a back peddling pedophile lol. who cares 
+Definitely no brigading going on here. No-sir-ee. 
+BCH is one thing: embarrassing.
+This thread is being spammed by rBitcoin trolls.
+Dont be a cuck Erik
+This is bullshit, I call vote brigading.
+Erik is kinda right. Roger is moving too fast, although he has every right to. I can understand both perspectives. But, HOLY SHIT, it's a civilized disagreement. So rare much wow
+Umm Erik, which fork has a chain of signatures back to the genesis block again?  u/evoorhees
+The first BitCoin Cash block was over 1MB, and therefore invalid from the point of view of BTC's chain, so that whole argument doesn't make sense in this context. BTC is not the real bitcoin for other, more apparent reasons.
+What I don't understand is why Erik said he would publicly support a hardfork away from Core's leadership if they didn't support a blocksize increase. Then, when they chose not to support a blocksize increase and Bitcoin Cash hardforked away, he remained silent.
+So when BCH has the majority of hashing power it will be Bitcoin? Sounds good to me.
+"From the white paper:
+
+>The proof-of-work also solves the problem of determining representation in majority decision making. If the majority were based on one-IP-address-one-vote, it could be subverted by anyone able to allocate many IPs. Proof-of-work is essentially one-CPU-one-vote. The majority decision is represented by the longest chain, which has the greatest proof-of-work effort invested in it. If a majority of CPU power is controlled by honest nodes, the honest chain will grow the fastest and outpace any competing chains. To modify a past block, an attacker would have to redo the proof-of-work of the block and all blocks after it and then catch up with and surpass the work of the honest nodes. We will show later that the probability of a slower attacker catching up diminishes exponentially as subsequent blocks are added.
+
+My understanding is that POW is a decision making system which only applies to chains **following the same rule set**. The total POW 'truth concept' is not applicable to chains post hard fork as the communities have decided to go their separate ways. Therefore, there is neither a need for inter-hardfork decision making post-fork nor a possibility that post-fork chains could ever reach consensus by definition.
+
+I think Erik and others have this wrong. 
+
+The 'True Bitcoin' is more appropriately defined by its economic vision of monetary sovereignty for individuals rather than by the details of the underlying computer code which enable that vision."
+"~~Time to stop referencing him then.~~ I see now that Roger was merely calling him out for not continuing to back hardforks in order to split from Core, such as he did himself. In any case it's probably not necessary to spend much time on. He may simply not have liked this particular fork as much as he did SegWit2X.
+
+In regards to which is the ""real"" Bitcoin, the difference is that some do not accept the SL chain as being the majority chain in context of all of the requirements. 
+
+Such as SegWit by some not being considered the chain of signatures defining a coin in the design and introducing a risk to the network, hence also to legacy addresses. Or even varying properties, such as the very important one of having a low fee which is influenced by another variable, the blocksize.
+
+In any case Bitcoin BCH is never Bitcoin BTC at the same time and the properties of both systems make it clear what we are speaking of.
+
+Saying that ""Bitcoin Cash is the real Bitcoin"" can be an obvious philosophical statement. Provided the context is right it doesn't have to be fraud."
+"Even though I agree with his sentiment, he is technically wrong. The chain with the most PoW is not per se the ""real"" chain.  If you could make a fork of bitcoin that removes the 21 million cap, reduces the blocksize limit to 50KiB and allows arbitrary TX reversals by a third party, and somehow base it on the existing chain and accumulate more PoW, that would still be an altcoin. The longest chain rule only applies to chains that actually follow the valid rules of the protocol. What determines the valid rules of the protocol? Consensus."
+"My as-yet unanswered [response](https://twitter.com/zbingledack/status/989702730619932672?s=19) to him on twitter:
+
+>Erik - we all know hashpower follows price and that ""the market can stay irrational longer than you can stay solvent"" (i.e., many months or even years).
+
+>This means the contest can last a long time.
+
+>Will you consider BCH Bitcoin if and when it emerges as the most-work chain?
+
+As a fellow supporter of Austrian economics, I invite Erik to read my post [How NOT to tell which is ""the real Bitcoin""](https://www.reddit.com/r/btc/comments/8f26vt/how_not_to_tell_which_is_the_real_bitcoin/), which covers a scenario I mentioned on forums years ago, where the next exponentially bigger wave of newbies are propagandized into supporting Keynesian policies and a ""Fedcoin"" branch of Bitcoin gains market dominance (and therefore hashpower dominance) for a time. That was before I knew Theymos and other ministers of propaganda would accomplish similar result all by themselves."
+"It's not the longest chain that matters in the short term. 
+
+What matters is adoption - the so called *economic code* of Bitcoin. If you win the network-effect then eventually you become the most profitable to mine, and will in future end-up accumulating the most aggregated pow. 
+ 
+The way to do this, is to be ready to take the transaction load when/if BTC fees again rise to some ridiculous amount, without any safety-valve with layer-two/Lightning. BTC devs have backed themselves into a corner on this topic.
+
+Also (and more controversially), someone is going to do second-layer stuff right at some point - but it is not clear this will happen quickly with vendors already leaving the system.  And it will probably need to bootstrap off of the network-effects and existing infrastructure of a high-transaction network - like Bitcoin Cash. "
+"Absolutely ridiculous and frankly embarrassing. Erik Voorhees /u/evoorhees attacks Roger Ver /u/MemoryDealers for something he didn't say or even imply. Voorhees, who is someone I used to have a lot of respect for (diminishing...) does not have the moral high ground here. It's easy to pick on the much maligned Ver and score internet points from troll and bot armies as well as from the deluded mobs of certain censored forums. He's cowering away from his own earlier statements and backstabbing Ver who ostensibly aims for the same ""toward peace, markets, and Bitcoin"" slogan Voorhees touts on his twitter page. Inexcusable IMO."
+the question is whether he will keep that opinion intact if and when Bitcoin (BTC) ceases being the chain originating from the genesis block with the highest accumulated proof of work. 
+"We really should stop obsessing about Twitter on-liners. But it's also important to point out the following:
+
+The chain with the highest accumulated proof of work is the authoritative chain, but **only among nodes that follow the same consensus rules.**
+
+Once you have a planned split such that there are two sets of nodes, each set having its own consensus rules, **each set has its own longest authoritative chain**.
+
+At that point we need to distinguish between the two sets of nodes. So we will need a hierarchical system, just like Internet domains. Just as you can have domains bitcoin.org and bitcoin.com, the identical labels ""bitcoin"" being in two different domain hierarchies, so can you have identical coins called Bitcoin, so long as we use some label to distinguish between the two sets of nodes.
+
+So we can call one set of nodes the Core nodes, and another the Cash nodes. And the longest chains can then be called the Bitcoin Core chain and the Bitcoin Cash chain respectively. Within each set of nodes, so long as the context is clear, we can simply refer to the Bitcoin chain without ambiguity. But globally we will want to always use the longer names Bitcoin Core and Bitcoin Cash.**‡**
+
+━━━━━━━━
+
+**‡**And a footnote should alert the reader that Core is often the default namespace."
+"Ugh, that hurrrts.
+
+Lesson to take from it:
+
+1.) Maybe we should stop being annoying to some people who already made their mind?
+
+2.) Miners are important. We know. High fees at btc chain will indeed secure miners profits and attention. Bch is moving cost of transaction from users towards miners. There is no incentive for them to switch to bch unless its difficulty is low and require small resources to mine, or.....we gain enough users to convince miners that bch has future to exist and grow!!! Btc with current model might never go above its ath price and adoption. It has hit the ceiling lately and now is a little under, but not much space to grow.
+
+Let's focus on adoption.
+
+3.) The Bitcoin failed to gain majority of miners. I agree to that, but is gaining them. Let's gain users first though.
+
+Edit: I would like to add, that currently btc is still powerful even though failed its purpose. If you think about it, as much as costly, it is still easy to sell btc to fiat pretty much any amount within 30 minutes. I can find buyer or seller to meet face to face probably in similar period of time. With bch things are much much harder. There is less of us. There is big propaganda against us. Our chain is better in every way, but we have soooooo much to do. Don't waste time.
+
+Edit2  I fell in love in bitcoin in 2011 and I will never forget that. I will also recognise my love even if core trolls will cover it in shit. Bitcoin (bch) is my love."
+There has been a lot of brigading this past week. Guess the price increase has riled up the trolls. 
+Bitcoin Cash hasn't gained majority yet, who is to say that it never does? Would Erik change his mind then?
+This is going to entertaining to revisit.
+"""No, Erik, the chain must be VALID for the proof of work to even count."" - Greg, Adam, and everyone who ever bought a UASF hat.
+
+Ok. Fine.
+
+*My* client tells me that the BCH chain is valid and the BTC chain is invalid."
+I never saw such brigading as here today.
+"So once btc loses enough miners and this chain passes the old chain, THAT'S when BCH becomes bitcoin?
+
+!remindme 6 months"
+"Remember that Erik has been one of the largest benefactors of Bitcoin splitting up into many forks as well as all the new money going towards altcoins.
+
+Had Bitcoin stayed whole and uncontested in market share, his business would not be nearly as significant as it is today. "
+The Bitcoin Cash is Bitcoin thing is total P.R. disaster that has done more harm to BCH than anything else 
+[deleted]
+If only life was that black and white. 
+WHY ARE WE UPVOTING THIS? SHUT IT DOWN!!
+This tweet will not age well. When Bitcoin Cash price goes above the parity level with Bitcoin SegShit/LolNet, all the hash rate will permanently flip to Bitcoin Cash as it will remain the most profitable, thus causing the old chain to slow to a crawl as it struggles for the next 2016 blocks to continue. The Chain Death Spiral will actually happen. Then the old chain will lose its majority proof of work and die off. We're already at 0.15 BTC which is higher than any alt coin. Just a bit more adoption to go.
+just wait Erik, just wait for a little longer and we'll have this talk then ...
+"I'm totally alright with the PoW definition. 
+
+Bitcoin Cash will be Bitcoin. "
+Ever hear of a 51% attack erik?
+"What happens if and when the chain that is currently called ""Bitcoin Cash"" (sepcifically, [this one](https://blockchair.com/bitcoin-cash/block/527761)) accumulates more chainwork than the chain which is currently called ""Bitcoin"" (specifically, [this one](https://blockchair.com/bitcoin/block/520162)) ? Does it become the ""Bitcoin"" then ? "
+"> “Bitcoin is the chain originating from the genesis block with the highest accumulated proof of work”
+
+that's a well formulated *opinion* you have there /u/evoorhees, it would serve you well to keep in mind that it's not a fact. If we're sticking to facts, then the chain originating from the genesis block with the highest accumulated proof of work is merely the *dominant SHA256 blockchain*. Whether that chain fits the definition of 'bitcoin' or not is another question entirely"
+Mo drama, mo money
+His argument seems sound, but it is flawed. Bitcoin is the *VALID* chain originating from the genesis block with the highest accumulated proof of work. What is valid is subjective, so it all depends on your point of view. 
+"No segwitcoin breaks the definition of a chain of signatures in the white paper as Peter Rizun explains: https://www.reddit.com/r/btc/comments/7tvk46/since_people_are_still_confused_about_the/
+
+Segwitcoin is not Bitcoin and is a new system with different and less security than Satoshi's design.  Bitcoin was always intended as a CASH system. And Erik got brainwashed to dump all his ""bcash"" right after the fork happened, so don't trust a word he says.
+
+Edit: replaced wrong link"
+[deleted]
+And now people are confused, thank you very much, Bitcoin Cash!
+No Eric, Bitcoin is a P2P electonic cash system with the highest accumulated proof work and this which mean Bitcoin Cash is the real bitcoin.
+Why do we care what Erik thinks anymore.  He's played his hand and chose not to support bitcoin peer to peer electronic cash and be an apologist for the subversion. Too bad.
+Nah, no thanks.  If you break it, you own it!!!  The name will live on in BCH.  How pathetic of you.
+So your saying when BCH gains majority Hash Power it'll be bitcoin.  But beforehand its it isn't.  Hmmm.. ok  Lets have this conversation in a few more weeks.
+I already lost most respect for Eric a while ago so this isn't as hurtful to me as when he originally didn't support it, oh well. 
+"You know, it just occurred to me that according to bitcoin.com terminology, this is now the Bitcoin Core subreddit:
+
+- Bitcoin (BCH)
+- Bitcoin Core (BTC)
+
+Therefore: r/BTC === Bitcoin Core Subreddit 
+
+:-)"
+Erik - please stop being a dickhole.
+I'm done with this spineless sellout
+/u/cryptochecker
+"While highest accumulated proof of work is likely the best measure, the white paper does say ""the longest chain""... so if your measure is the white paper then BCH is actually Bitcoin.
+
+Of course there's also an implicit assumption that the accumulated proof of work is a __valid__ chain. So if your measure is that SegWit breaks the chain of signatures that defines the digital currency then BCH is actually Bitcoin.
+
+It's kind of an inescapable conclusion when you actually take everything into account...
+
+...OK now I better duck."
+Yet.
+Roger is doing marketing and branding work. He knows getting this discussion on the burner raises visibility. It's not really about the tech specs for him. And it's working.
+Can I just say how hilarious this whole thing is.  Please?  Thank you.  This.  Is.  Hilarious.  Nobody gives 2 fucks anymore.  Seriously.  Throw in the towel and move on.  
+Maybe we should start this debate when BCH reaches 70% of BTC POW?
+If anyone has a problem with using the hashing power to decide which chain is the fork away from the original, you need to take a look at your own personal hang ups. If you believe BCH is superior, you should have no problem remaining patient and focusing on adoption. Turning into a zealot only lowers yourself to the level of the core trolls.
+"Now Erik thinks he owns the trademark.
+
+For fucks sake learn how forks work people. They are both bitcoin."
+Ouch. Well thanks to shapeshift people can exit blockstream easier now than ever
+It could actually be better calling it bitcoin cash, the mass's will never know what this debate is about anyway all they need to know is bitcoin cash in an upgrade.
+"> The Bitcoin Cash fork FAILED to gain majority, thus it is not Bitcoin.” (emphasis is mine)
+
+He says after BCH recently moved to 1/7 of BTC's value.  Wasn't it around 1/10 just a little while ago?
+
+Meh...  just an emotional comment.  Sad that he airs it publicly.    Haven't they worked together before.  Seems like it would have been more polite to have message him privately with his concerns."
+The longest weakest attack on bitcoin ever.  lol the whole  lot of you are sad.
+"You are completely wrong regarding miners - unless they are a charitable institution, the hash rate on bch and btc will be proportional to the ratio between the two. 
+
+So - focus on adoption...."
+Both of them. 
+"[""Why Some People Call Bitcoin Cash ‘bcash’.""](https://medium.com/@jonaldfyookball/why-some-people-call-bitcoin-cash-bcash-this-will-be-shocking-to-new-readers-956558da12fb)"
+The softfork happened due to the fear of the speculator masses and others of a split, and due to the promise of the NYC agreement 2X max blocksize increase which got things going (following the endless debate and other agreements years prior). An agreement Erik supported.
+"Load up a version 0.2 client.  It doesn't sync any chain.  OHNOES Bitcoin no longer exists.
+
+> Segwit happened with about 100% consensus
+
+LOL you're delusional.  At the time of the split, miners signaling Sewgit were at ~30% and miners signaling for larger blocks (BU + XT + Classic) were ~50%.  [BU by itself was 40%+](http://www.livebitcoinnews.com/bitcoin-unlimited-network-support-surpasses-40/)
+
+The real sign of a scammer is when he flashes his ""bcash"" sign."
+Run a node from 2010. it wont sync up to either chain.
+[removed]
+Run a node from 2010 and it will sync no chain.  OHNOES Bitcoin doesn't exist.
+Don't you have some free speech to silence?
+Semantics.
+Bitcoin Cash is the real Bitcoin, no matter how many other idiots you confuse over the subject. Bcore is not Bitcoin.
+Redditor /u/luke-jr has low karma in this subreddit.
+"I say I'm running ""Bitcoin.""
+
+My chain includes the original Satoshi genesis block and a *valid* chain of digital signatures extending from that point to today.  The alternative blockchain that calls itself Bitcoin does not have a *valid* chain of digital signatures according to my understanding of signature validity, as expressed in my choice of Bitcoin client. 
+
+Bitcoins that I purchased years ago are still visible in my wallet.  I am running valid Bitcoin."
+I had to delete a thread I made today because there were only the same posts and upvotes from dozens of users.
+"Difficulty determines length of solve time, not block size.  But by all means, keep spreading misinformation in the form of “questions”.
+
+Did you even read your own post about proof of work? "
+">evoor
+
+While maintaining majority HashPower, BitcoinCore succeeds in shrinking BlockSize from 1Mb to fit only one transaction per block. Would you still call that Bitcoin? How about no transactions per Block? Surely with that logic, and majority HashPower is still Bitcoin, no? With all due respect Sir, have you read the white paper? Do you comprehend concept of A Peer\-to\-Peer Electronic Cash System?"
+"Assuming miners operate under a pure profit motivation, they'll switch when the market determines each BCH token is worth more than a BTC token.  
+
+> You get that 32 Mb blocks create more costs for miners with almost zero benefits in reward?  
+
+What? This is entirely mistaking a **limit** with actual larger blocks. Even with a 32 MB block size limit, BCH will not have larger blocks than those on average on the BTC block chain, even if it absorbs BTC's entire transaction volume. So cost to miners will be almost exactly the same in both cases."
+This was supposed to happen a long time ago, but it didn’t and never will. 
+There is already enough good argument at *this* point. 
+Goalpost Movers Inc.
+"Here is the new narrative, courtesy of Theymos:
+
+> [""Bcash isn't Bitcoin because it broke the consensus rules.""](https://np.reddit.com/r/Bitcoin/comments/8f8bkz/erik_voorhees_roger_please_stop_referencing_me_to/dy1np8k/)"
+Not trying to throw shade, but you'd be taken a little more seriously with a less biased sounding name
+This is what delusional reads like...
+"> isn't foaming at the mouth
+
+That's not even what's required. When you are running a business with a bunch of people dependent on the success of that business, you'll have a bias, even if only subconsciously. "
+"Oh please, don't be naive. The word conflict of interest means anything to you?
+
+If my business is built on something, do you really think I would open my mouth to damage it? 
+
+Eric is an opportunist. Nothing more. 
+When he had little, he talked about idealism and fighting bankers. Now he is a banker, he no longer cares."
+"Saying that is like saying Jamie Dimon has made enough money and has no need to lie when he said Bitcoin is a fraud and people who bought it are stupid.
+
+As long as his business model is built on that, you have to watch the words carefully."
+"Address this comment:
+
+https://www.reddit.com/r/btc/comments/8f9cs3/erik_voorhees_roger_please_stop_referencing_me_to/dy2a2xb/"
+Maybe you should have not been brainwashed by the segwit justice warriors and could have supported common sense in the beginning. We are in this mess because of half measures, and because people did not have the guts to stand for common sense and Satoshi's vision.  People like me [fought hard and predicted and made BCH happen](https://www.reddit.com/r/btc/comments/68jja0/dont_forget_money_and_bitcoin_are_just_a_ledger/dgyysp0/) and was successful despite being abandoned by some prominent early Bitcoiners like yourself.  Where were you? We needed your help Erik.  The price of Bitcoin is eternal vigilance, and you were caught snoozing supporting segwitcoin.
+"Let's not forget where the fracturing began.
+
+https://np.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/
+
+You may have wished for the community to not fracture, but it's clear that a group of people with mutually opposing views must divorce.  You can't simultaneously want ample block space for green-field development and at the same time desire artificial scarcity to drive up fees.
+
+Be very careful which side you stand on.  You may find it impossible to keep one foot on each side of the fracture indefinitely."
+"Your protestations would be more convincing if you also take similarly consistent positions against massive censorship and other unethical acts in /r/Bitcoin and by Core and Blockstream, and also denounce the Nakamoto Consensus subverting addition of SegWit on the BTC block chain.  
+
+As a a prominent SegWit2x supporter, you should be particularly incensed that it ended up being a ruse just to sneak SegWit**1**x in against actual consensus.  
+
+e: emphasis added"
+What would prompt profit-seeking miners to switch from BTC to BCH?
+"Thanks for checking in Eric.  Just out of curiosity, because I really don't follow why people support one thing and not the other, why the support for 2x but not bch?  
+
+I'm sure there's a technical explanation, but I'd just like to hear your reasoning.  Thank you.  "
+I notice this on twitter and reddit a lot. Notice a core post or tweet and refresh the page a minute latter and the likes/upvotes has exploded. 
+"This is accurate, trying to take the moral high ground in a discussion where you are literally replying to yourself from a few years ago backing out on an assurance you made is a pretty disgusting thing to do.
+"
+I call it bcash (bcc), upgrade to bitconnect (bcc)
+[deleted]
+good bot
+"Exactly. ""We define an electronic coin as a **chain of digital signatures**."""
+It does, the signatures are all there. 
+Can you read the source feed before spouting nonsense? Seriously.
+No only one - https://youtu.be/VoFb3mcxluY?t=9m18s
+“Both” includes bgold, bdiamond, bprivate I assume?
+"Yes, I know. What I'm saying is that Roger probably thinks you should have backed the next hard fork to get away from Cores leadership, and the next, and the next, and so on to be consistent. But of course, that might not have been consistent in your case at all. 
+
+I get that you probably have your reasons for why you chose to not back this particular fork and you don't have to label or consider it ""Bitcoin"" in any sense. It doesn't bother me personally. I'm happy with the service that you provide."
+The chain with SegWit+Legacy transactions. 
+The white paper is not a religious text. Our understanding of Bitcoin changes with time. Look to people who were cited in the white paper (Eg, Adam Back) and follow their lead if you are uncertain. 
+I don't have a Memo account yet. Japan makes this very difficult taxwise at this time, as they require in principle every single transaction to be declared as either one to your own address or one to another's address, as well as other complications and ambiguities. Dealing with this for 2017 already took three weeks of my time. Any wallet devs and app devs looking to gain adoption in Japan should be aware of this. There is a big opportunity for someone to make accounting software that handles this. Though Japan will hopefully relax their policies soon.
+"Oh, so you believe in the white paper and its precepts, do you? So what do you say about the fact that activated SegWit on the BTC block chain right now is fully illegitimate because it only got there by subverting the white paper's prescribed Nakamoto Consensus? SegWit activation would only have been justified if the ""2x"" portion of the SegWit2x consensus agreement was added. That's the aspect of the consensus agreement that raised support for SegWit1x from the 30%-35% that it had languished in for months (never once exceeding 40% support), to the overwhelming 90%+ support SegWit2x had at lock in time. This shows the crucial aspect for support was the ""2x"" component, not SegWit, and therefore the BTC block chain with activated SegWit but no ""2x"" is not valid in claiming the ""Bitcoin"" name per the white paper's own expressed consensus mechanism."
+"Am I not?
+
+Why? How? "
+"Do you mean the Whitepaper that r/bitcoin refuses to [link in their sidebar?](https://www.reddit.com/r/Bitcoin/comments/7nz69v/can_we_get_a_link_to_the_whitepaper_in_the_sidebar/ds61skm/)  
+
+Also I agree, that longest chain/most work gives you the title to the true chain. That is why Core's approach, of sacrificing network-effects is so risky. That was the point of my post. "
+"Who was scammed?
+
+Bitcoin (BCH) clearly states the BCH fork.
+
+He doesn't say Bitcoin (BTC) then give them BCH in a switcheroo.
+
+Nobody has the right to the ""Bitcoin"" name. It's not trademarked. Both chains are competing to be ""Bitcoin""."
+You could have also started this in private if it's an honest request. You can say you support small blocks without bringing anyone else into it.
+So did /u/MemoryDealers and yet you tweeted an entirely false statement that Roger never supported SegWit2x.
+"This is what I find disappointing:
+
+1. Roger wasn't using your statement to claim your support for bitcoin cash, or to pretend it's your opinion that bitcoin cash is the real bitcoin - yet that was your response, and you knew it would be abused by trolls and touted all over the internet (and if you didn't you're incredibly naive).
+
+2. The reason an incompatible fork of ""core"" isn't the dominant chain is the direct result of censorship and (likely) Blocksteam led smear campaigns against anyone who stuck their neck out in support of one. XT -> Classic -> Unlimited -> Bitcoin cash. These despicable and anti-libertarian policies were at best mildly chided by you, rather than clearly and publicly condemned. Had the respected voices of bitcoin spoken out against the manipulations, core wouldn't have stood a chance. Instead we've been set back years, and you are partially responsible. You're not helping with such attacks now either."
+What a disappointment, Eric. What happened to that Eric Voorhees from 2011, so eloquently writing about how Bitcoin will bring freedom to the world? Have you completely surrendered and gave up?
+"> It was called SegWit2x.
+
+Yeah, and then called it off last minute and fully embraced the obvious bait and switch. "
+"Did you misread the statement here? Because now you are contradicting yourself from what you wrote in these two replies:  
+
+https://www.reddit.com/r/btc/comments/8f9cs3/erik_voorhees_roger_please_stop_referencing_me_to/dy2496r/  
+
+https://www.reddit.com/r/btc/comments/8f9cs3/erik_voorhees_roger_please_stop_referencing_me_to/dy24fm1/"
+"Erik I have to believe you're being intentionally vague here. To anyone reading, here's Erik's answer in this thread when asked if he'd change his mind if BCH accumulates longest PoW chain:
+
+""I’d apply the same definition, thus wouldn’t need to change my mind. The white paper is pretty clear about what Bitcoin is. If BCH gained majority sentiment/market cap and this accumulated pow, there would be a strong argument it was Bitcoin at that point. I doubt that will occur now, but it might.""
+
+"
+"A fascinating argument that I do not entirely disagree with. The whitepaper talks about a single chain split, i.e., two competing chains, but not a network split, i.e., two disjoint sets of nodes.
+
+Chains can split multiple times, like bacteria, leading to many subchains. At some point you might have two sets of chains, and a close competition within each set, but the two sets might be long-lived **if for some reason the nodes themselves split into two sets**. A set of nodes A might only be looking at a set of chains A. Likewise a set of nodes B and a set of chains B.
+
+Now within set A, chains compete for the status of longest chain. In parallel, within set B, chains compete for the status of longest chain. But since the nodes exist in two different sets, there is no competition between the longest chain in set A and the longest chain in set B."
+"> RES is a bitch sometimes.
+
+Certainly is. Welcome to my ignore list."
+Who cares if he's a troll or not? He's right.
+funny because i have you tagged as a troll.... I wonder who's right.
+"Really?
+
+Please do block me then and don't engage.
+"
+Wow, man, deep. Gotta think about that profound statement for a while. I'll get back to you when I've finished processing and analyzing it.
+"We follow Ver here? Stop drinking /r/Bitcoin's Kool-Aid. Just because Ver can often times think clearly and holds similar opinions as those that are popular here doesn't mean we're ""following"" him. I see him subject to quite a bit of criticism, some of it from me. To his credit he's quite receptive and responsive to it, unlike Core, Blockstream, /r/Bitcoin, /u/theymos, et. al."
+"Not really. Theres a small window of opportunity when you fork to convincingly claim the name. Either you kill off the original chain, or the original chain is left in a completely inoperative state, with no exchanges accepting it, little to no hashpower, no usage etc.
+
+The bitcoin name doesnt flip-flop between chains just because hashpower changes. Thats an absurd concept. Imagine it:
+
+> ""Well I had 1 bitcoin that you transferred to me yesterday, but today I have none because its no longer bitcoin. X is now bitcoin. Y might be bitcoin the day after"".
+
+or
+
+> ""Breaking news: Bitcoin transactions from 1 aug 2017 till now have been rolled back. A new history of bitcoin transactions have been established, as the old bitcoin is no longer bitcoin because that other bitcoin has become bitcoin"".
+
+Segwit2x had a chance at becoming bitcoin. If all exchanges and vendors had accepted it, and hashpower left the 1x chain I'd have to call it bitcoin.
+
+But when you fork off, call it bitcoin cash, change the difficulty algo to not die a fast death, wait months and months with no sign of ""flippening"" no one serious is going to view it as bitcoin no matter what happens.
+
+A whole other question is what if bitcoin decides to change mining algo? Then hashrates are incommensurable and you can't use that argument at all. Then how do you decide? Must bitcoin always be SHA256?"
+We had this sub before BCH was even launched
+">Roger has done an excellent job especially when it comes to fighting the censorship,
+
+https://gist.github.com/chris-belcher/c9f4b90bec1b2fbf8caaab178719ac24"
+"What Reputation does Roger have left?
+[x] Abuse admin powers to threatened users
+[x] Risk mail peoples life for silly profits
+[x] Trying identity thief instead of working to make bitcoin cash something
+[x] Makes a video debate on how crypto will free people from banks but in the same line says ""he was a millionare, he has more money, his has to be right then the guy questioning him"""
+How can Bitcoin be (BCH) when there is no H in Bitcoin. 
+Good bot
+">  alot is actually spelled a lot. You can remember it by it is one lot, 'a lot'.
+
+I always remember it by this:
+
+""A lot"" is two words.  You wouldn't say ""alittle,"" would you?
+
+Used to be somebody's signature on Slashdot, back in the day."
+Satoshi did not declare anything....he simply left and Gavin had access.
+"Why hardfork when segwit and LN are a blocksize increase? 
+
+/s"
+He can both support a hard fork and also recognize it's not Bitcoin. Why is this hard to understand?
+Stockholm syndrome.
+Core won't need to HF in 15 months, the chain won't be used
+Partly true. BCH mining has a higher ratio than it's price.
+Yup, the userbase dictates this
+Exactly. Adoption, adoption, adoption!
+">Bitcoin Cash is a totally fine name IMO as it contains the main keywords of the whitepaper's title.
+
+The words peer to peer come before those other words, suggesting primacy. To be a peer you need to run a node, the backbone of decentralization. Bigger blocks do not encourage ordinary people to run nodes on ordinary computers and be peers."
+"[""Why Some People Call Bitcoin Cash ‘bcash’.""](https://medium.com/@jonaldfyookball/why-some-people-call-bitcoin-cash-bcash-this-will-be-shocking-to-new-readers-956558da12fb)"
+"Accumulated PoW is not the same as having current majority hashpower. Majority cpu happens first. Then the chain is produced.
+
+It's also a different chain by now, which means that one will not necessarily eat the other."
+All are welcome here in r/BTC my friend
+Who did I sell out to exactly, and when can I expect my check?
+"Of [u/sumsaph](https://www.reddit.com/u/sumsaph)'s last **44** posts and **1000** comments, I found **1** posts and **223** comments in cryptocurrency-related subreddits. Average sentiment (in the interval -1 to +1, with -1 **most negative** and +1 **most positive**) and karma counts are shown for each subreddit:
+
+Subreddit|No. of posts|Avg. post sentiment|Total post karma|No. of comments|Avg. comment sentiment|Total comment karma
+:--|:--|:--|:--|:--|:--|:--
+r/CryptoCurrency|0|0.0|0|9|0.0|38
+r/gpumining|0|0.0|0|5|-0.18|29
+r/ethereum|0|0.0|0|2|0.05|4
+r/Bitcoin|0|0.0|0|25|-0.02|105
+r/btc|1|-0.25|551|182|0.16|-779
+
+***
+
+^(Bleep, bloop, I'm a bot trying to help inform cryptocurrency discussion on Reddit.) ^| [^About](https://www.reddit.com/user/cryptochecker/comments/7q3jum/faq_about_ucryptochecker/) ^| [^Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=cryptochecker%20bot) "
+"> Now Erik thinks he owns the trademark.
+
+No, he thinks that he shouldn't be referenced as credibility in an argument if he doesn't agree with the argument being made. 
+
+> For fucks sake learn how forks work people. They are both bitcoin.
+
+Roger doesn't agree. He believes that whatever fork is true to the vision of the creator is Bitcoin. "
+[deleted]
+https://pbs.twimg.com/media/DBWunVZV0AAvbL9.jpg
+I agree. It is embarrassing Core by showing them how to make a truly secure and decentralized system that scales.
+BCH PLS
+Redditor /u/greeniscolor has low karma in this subreddit.
+"There were plenty of people who joined this sub to get away from the over\-moderation of rBitcoin but want nothing to do with trying to make this ""Bitcoin Cash is Bitcoin"" thing happen. There are also plenty of people on here who actually wanted Bitcoin Cash to be Bitcoin but also acknowledge that the fork happened 8 months ago and it still hasn't become the predominant fork in software implementations, retail gateways, mining hash\-power, and public image."
+certainly not segwit shit coin 
+Can you read the full sentence before spouting nonsense? Seriously 😐 
+"If you are confused it's probably because Core didn't informed you well enough that they have forked away from being a P2P electronic cash system tricking you to think their fork is still somehow ""bitcoin"". But don't worry, that was done on purpose."
+"There is no such thing as ""rules of the whitepaper definition"". The only rules are in the code, and the ones that matter most are in the consensus code.
+
+Bitcoin Cash changed the consensus rules and thus forked themselves off the network, creating a new chain. It wasn't just the block size increase, but also the EDA algorithm. Would you say that the EDA was Satoshi's vision as well? Is so, why wasn't it in the code before?"
+Good bot
+"Agreed.  Especially about the more private currencies being worked on.
+
+Which I guess is why I am not as concerned about the scaling issue beyond the here and now as I think others are.  When problems become real, solutions happen.   The fee problem with bitcoin last year is a perfect example of this."
+"Because 'Bitcoin Core' is an implementation and not a protocol. It's like calling Firefox 'Http'. Also no one is calling Bitcoin Cash 'Bitcoin ABC'. 
+
+> Why does Bitcoin Core get to steal the name ""Bitcoin""
+
+Bitcoin Core did not 'steal' the name bitcoin. Bitcoin Core just implements  a Protocol and the name Bitcoin stays with the most accumulated work of any chain that originates from the genesis block. As of today, the most accumulated work is on the chain that uses the protocol that 'Bitcoin Core' implements.
+
+Pretty simple if you leave out the politics.  
+  
+
+ 
+**Edit**: It's like calling Firefox 'Http'
+
+Actually that's the wrong way around. It's like calling 'Http' Firefox, which is even more wrong."
+Because people who have not followed the debate automatically go to the other side. It is the reverse of being banned from /r/Bitcoin.
+[deleted]
+"Nope, just means that BCH will have overtaken Bitcoin in hash rate. 
+
+Besides, what you're arguing is purely hypothetical. BCH has to gain 10x it's current hashrate just to match Bitcoin, and that only if Bitcoin's hashrate stagnates. The chances of that, given the community bias towards Bitcoin as being the real bitcoin, and BCH being a fork, are negligible."
+"Of [u/my_next_account](https://www.reddit.com/u/my_next_account)'s last **50** posts and **565** comments, I found **0** posts and **32** comments in cryptocurrency-related subreddits. Average sentiment (in the interval -1 to +1, with -1 **most negative** and +1 **most positive**) and karma counts are shown for each subreddit:
+
+Subreddit|No. of posts|Avg. post sentiment|Total post karma|No. of comments|Avg. comment sentiment|Total comment karma
+:--|:--|:--|:--|:--|:--|:--
+r/ethtrader|0|0.0|0|3|0.02|8
+r/BasicIncome|0|0.0|0|1|0.09|3
+r/Bitcoin|0|0.0|0|9|-0.06|5
+r/btc|0|0.0|0|19|0.01|96
+
+***
+
+^(Bleep, bloop, I'm a bot trying to help inform cryptocurrency discussion on Reddit.) ^| [^About](https://www.reddit.com/user/cryptochecker/comments/7q3jum/faq_about_ucryptochecker/) ^| [^Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=cryptochecker%20bot) "
+I think Roger Ver is a net positive on the P.R. side but he has his ups and downs. CSW however is pure net negative.
+"Roger Ver has an impeccable record in both the wider libertarian community and the bitcoin community. His reputation was dragged through the mud by a coordinated PR attack, paid shills, liars, and statist thugs (the ""criminal"" record). *You've* been manipulated into thinking he's a PR disaster, you're the one incapable of impassionately analyzing his public record - the public record of someone who's been one of the main reasons **both** chains are largely a success today. What have you done? Oh that's right.... Nothing. When have you ever stuck out your neck for the betterment of world and unjustly suffered for it? All you're ""good"" at doing is parroting negative sentiment like a good little pawn of paid shills. Congratulations.
+
+Edit: now I'm being buried by the same truth haters that attack bitcoin cash."
+If you have a public facing website, you have PR.
+"I believe his position as from a YouTube clip is that he accepts ""bitcoin cash"" but hates calling it ""bcash."""
+Do you even know what P.R. means? Hint: it is not Pull Request.
+He won't, he will bring other excuses by then, this is already proven during the past segwit 2M debate
+100% true
+You are confusing hash rate with a total POW effort.
+"
+
+>We follow the rules in the whitepaper definition of Bitcoin, and are fulfilling Satoshi's wishes for Bitcoin as a digital borderless currency.
+
+Who are you to know for certain what his intentions and wishes were ? Satoshi also said a lot of dumb bullshit like that every business should have its own copy of the entire blockchain, which nobody would ever consider a good idea today. The only ""rules and definition"" he laid out was the Bitcoin network. If you don't like it, change it and do whatever you want to it to fit your needs, just don't act as if he would want that or as if you have some sort of access to the innermost wishes and dreams of a guy no one has ever met."
+"Of [u/Eirenarch](https://www.reddit.com/u/Eirenarch)'s last **92** posts and **1000** comments, I found **10** posts and **383** comments in cryptocurrency-related subreddits. Average sentiment (in the interval -1 to +1, with -1 **most negative** and +1 **most positive**) and karma counts are shown for each subreddit:
+
+Subreddit|No. of posts|Avg. post sentiment|Total post karma|No. of comments|Avg. comment sentiment|Total comment karma
+:--|:--|:--|:--|:--|:--|:--
+r/eos|1|0.0|0|14|0.03|16
+r/Bitcoin|2|0.25|2|0|0.0|0
+r/CryptoCurrency|0|0.0|0|36|0.09|129
+r/ethereum|1|0.0|21|1|0.03|3
+r/Jobs4Bitcoins|0|0.0|0|1|0.0|1
+r/btc|6|0.0|44|331|0.09|1327
+
+***
+
+^(Bleep, bloop, I'm a bot trying to help inform cryptocurrency discussion on Reddit.) ^| [^About](https://www.reddit.com/user/cryptochecker/comments/7q3jum/faq_about_ucryptochecker/) ^| [^Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=cryptochecker%20bot) "
+"> Why not call them Bitcoin Cash and Bitcoin Core then?
+
+Bitcoin core is merely one implementation among many in bitcoin that you can voluntary choose to run or completely ignore. 
+
+> Why does Bitcoin Core get to steal the name ""Bitcoin"" to describe something that is not at all similar to the system described in the whitepaper and that I and many others originally put our efforts behind?
+
+It was bcash that forked off to create their altcoin , not bitcoin. I can still sync back all my old nodes from 2013 onward and they connect to the BTC blockchain and not the BCash BCC one
+
+"
+"> Segwit transations didn't exist, so saying ""invalid segwit transactions"" makes no sense.
+
+That is incorrect. Please stop spreading lies. An old miner can and will include a SegWit transaction, it just won't know how to handle it.
+
+There are numerous guides, and numerous guides were posted, about needing to have a SegWit-aware edge node, or you'd run the risk of losing your block reward if you mined a transaction that was invalid.
+
+If SegWit needed an upgrade on miners/nodes, that makes it a fork. Was it an hard fork? No, it didn't add anything that was previously invalid. Therefore, it was a soft fork. What was made invalid? SegWit transactions, that previously weren't processed just included, that weren't valid under SegWit rules.
+
+It's that simple. No they weren't understood, yes they were included, and if they were invalid since a SegWit-unaware miner included them, the block would be dropped by SegWit nodes and miners."
+But fees are allowed to be zero, no?
+"> Either way the miner could jus t upgrade and not mine any segwit tx for their policy.
+
+Still requires an upgrade to be aware of segwit, thus making segwit mandatory.
+
+Whoever controls the nodes now controls which forks are accepted, since node-activated soft-forks have been shown to work and to be loved by the community.
+
+The Bitcoin Core community now supports the most dangerous attack on cryptocurrencies, a sybil attack, as a positive thing that can and should be used to push forward contentious forks.
+
+A Sybil attack managed to cause a split in the community and a hardfork, and they/you love it."
+It’s coming back up soon. 
+Ask yourself, is a spam attack expensive if you control a meaningful amount of hash power? All of the transaction fees come back to you. And you can bully other miners off the network who don’t have petabytes of SSDs, increasing your share of winning blocks. 
+">  But that's also the entire point of UASF and proves the point that miners are hired security, not rule makers.
+
+Doesn't prove anything, it proves that a sybil attack works, and the Bitcoin Core community for some reason sees that as positive.
+
+The most dangerous type of attack as it doesn't even require a lot of money being spent, just access to a few thousand IPs (which every single company and nearly every government has) to subvert the network by performing a sybil attack and dropping blocks that contain transactions they dislike (or, in that case, that don't accept forks they like)."
+Nah, most nodes drop zero fee transactions.
+"Seriously? Even if half comes back to you it would still cost a fortune (And you're breaking your own business model when you have that much mining power).
+
+If you have such a ""meaningful"" amount of hashing power you could just take over and destroy the network, no need for spam attacks, lol."
+Oh, so you're saying if a miner doesn't upgrade, then he can processes an invalid transactions.  That is true.   But that's also the entire point of UASF and proves the point that miners are hired security, not rule makers.
+Wy isn't the FAQ stickied anymore? I think it is more important that stickying the hard fork...
+"As the blocks get full, it's no longer the 1 satoshi spam transactions getting included in a block.  The attacker is just adding fee pressure and after a certain point, it costs nothing because everyone is outbidding them.   
+
+ 
+
+"
+"This is one of those situations where after nothing has gone wrong come may 15 and the uncertainty is over, it will be a massive positive price catalyst. I think the flippening is getting closer.
+
+Converted my alts to BCH in anticipation
+"
+"Segwit tx fail isStandard and cleanstack tho for old nodes. Either way the miner could jus
+ t upgrade and not mine any segwit tx for their policy."
+"> Invalid segwit transactions are valid under old block rules. 
+
+Segwit transations didn't exist, so saying ""invalid segwit transactions"" makes no sense.    Segwit transactions are NEW transaction format.  All old transactions still work.   Segwit is an OP-IN transaction type.  "
+You're getting downvoted but you're right, this is how hard forks work. 
+We already had this at 8 MB blocks with massive spam attacks.. guess what happened? Some actual 8 MB blocks were worked on and a few blocks later everything was fine again. Even though the fees are low, they are not that low, it would still cost millions to spam and cripple the network (And the moment you stop the large blocks quickly work through the transactions). Even with a massive attack we would just have a full mempool (Like Bitcoin) but it would get worked off in no time.
+"This but with a larger road  
+https://txhighway.com/"
+Yet again shifting goalposts. Comments above were saying LN was 6 months away and always was. 4 months later - live on main net. Win.
+"PS - when you say 'troll' I assume you mean 'someone who questions and doesn't just blindly agree with anything that suits the current narrative'? Me pointing out a piece of trash post in the thread that caused you to go stalking my comment history and land here (a bit trollish yourself don't you think?) makes you label me a troll. Wow.
+
+>I think you'll come around.
+
+I did - two years ago, as mentioned elsewhere I used to subscribe to this sub.  I don't think that you will though, with your 3 day old account you are already displaying wilful ignorance and self deception."
+... and BCH went way up :)
+"> So... what's your point?
+
+Take everything with a grain of salt"
+Ver is a brazilian jiu-jitsu brown belt, believe it or not.
+"I'll stop pointing out how much of a fraud he is when he stops showing up on the front page of this sub nearly every day. He is bad for the value of my BCH.
+
+"
+"At the moment Cointelegraph and Bitcoin.com.
+
+Trustnodes and CoinGeek are ok, but BCH biased which isn't necessarily bad. Trustnodes seems to be going downhill a bit in writing quality lately."
+"Yea coindesk understanding their goal is to generate a profit is not a good thing...lol
+
+If he wasn't an autist he'd say something like ""you won't continue to get clicks if these sensationalist and obviously false articles continued to get posted in pursuit of being the first""
+
+He didn't tho, because he's a weapons grade autist who doesn't understand the world around him. His april fool's day joke was good too, lol
+
+The guy clearly is on the spectrum"
+What do yo read now? 
+Also shouldn't forget this one for the surrounding events showing how it ties in with the full picture: https://www.reddit.com/r/btc/comments/7mg4tm/updated_dec_2017_a_collection_of_evidence/
+That flowchart should be all that's needed when someone starts arguing against BCH. Proof is in, forking and network splits are THE key feature of Bitcoin that allows it to avoid centralised control
+To be fair, it diminished dramatically.
+I would argue (perhaps against general sentiment) that value isn't what we should strive for with BCH. We want a long chain. We want transactions. We need to increase merchant adoption and ease of use. Those are priorities. Without those, there is no need to guess on value.
+there are much bigger threats than csw too bch value. such as the massive anti-bch disinformation campaign
+"Hear hear!
+
+I will stand with you, I feel the same."
+"No, it's worse than that:
+
+- Flowchart: https://i.imgur.com/iF3aD0r.png
+
+- Links & Proof: https://np.reddit.com/r/btc/comments/7m046d/how_the_bilderberg_group_the_federal_reserve/drqdq1p/ 
+"
+> AXA Strategic Ventures has announced its participation in Series A funding of $55 million for Blockstream, a leader in the sector, and invites us to discover the technology upon which cryptocurrencies rely.
+"Those were all Bitcoin BTC projects, at the time of the investment (2015-2016).  
+
+Yours & Joystream changed to BCH at a later date.
+
+Has DCG ever invested in a project that was BCH-only at the time of the investment?
+"
+"I completely stopped reading CoinDesk awhile ago.
+
+Very biased."
+"bitcoin.com is just as scammy. 
+"
+I am against the idea of Bcash but Coindesk is a cancer as well. Many people in crypto get their news directly through message boards, twitter etc. Coindesk is a ***crypto tabloid*** with high google search rankings. They must have good traffic from gullible investors and readers. Bad for everyone in general. As they hype things
+DCG has invested in many companies in the space that’s what they do. Pro-bch Yours.org got investment from them.
+"Vitalik is a weapon's grade wealthy autist
+
+""is speed more important than accuracy""
+
+Are clicks more important than accuracy? lol
+
+What the fuck do you think Vitalik? He doesn't seem to understand"
+Beware, Vitalik is a 2 faced bitch. He is yet to denounce Bitcoinmagazine  for spreading lies.
+Always wondered if I should trust coindssk just from the website layout and headlines they posted, seemed a bit off but I could never figure out why I thought that 
+not going to waste my time
+"Didn't AXA have something to do with their funding rounds for blockstream?
+
+https://group.axa.com/en/newsroom/news/axa-strategic-ventures-blockchain or separately as it turns out.."
+"They invested in Purse, Yours, Joystream as well. Barry was the one that pushed for segwit2x too.
+
+So... what's your point?"
+"Ownership is mentioned in their [editorial policy]( https://www.coindesk.com/editorial-policy/). Most of this policy are claims about how independent CoinDesk is from it's owner DCG. I haven't found any information about who is editor-in-chief though.
+
+Compare this to Coingeek.com and Bitcoin.com. Information about owners are easily found in the footer as well as information about employees and their roles. Neither of these sites seems make any bold claims that they are completely independent unbiased news sites. The [editorial policy] (https://news.bitcoin.com/about-bitcoin-news/) of news.bitcoin.com simply states that they strive to produce a balanced news feed."
+CNN of the Crypto space, establishment voice!
+Others are free to point those out. That does not make my point invalid. Look up the fallacy of relative privation. 
+When they were a BTC company apparently.
+"which every non-stupid people understood to imply ""coindesk prioritizes speed and clicks over accuracy, and this is not a good thing."""
+[deleted]
+"I can't make an ironclad case here without much more concrete information (possibly unrealistically insider info to boot), but for a long long time I've suspected that the ""blocksize debate"" from the small block side may have actually been a proxy war all along between some VC's and another group of VC's that includes a16z."
+Barry Shillbert?
