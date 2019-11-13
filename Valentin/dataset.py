@@ -41,7 +41,6 @@ def get_labeled_dataset(number_of_file, from_date = "2015-01-01", date_included 
         file = f"{directory}{date}.csv"
        
         if os.path.exists(file) and date in bictoin_price_dict.keys():
-            print("file", file)
             label = bictoin_price_dict[date]
             df = pd.read_csv(file, sep=";", header=None)
             

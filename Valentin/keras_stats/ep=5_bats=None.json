@@ -1,1 +1,16 @@
-{"epochs": 5, "batch_size": null, "number_files_used": 12, "tanh": 0.0, "elu": 0.589486837387085, "softmax": 0.6174384355545044, "selu": 0.5836462378501892, "softplus": 0.5648727416992188, "softsign": 0.5748852491378784, "relu": 0.0, "sigmoid": 0.6003337502479553, "hard_sigmoid": 0.6145181655883789, "exponential": 0.5698789954185486, "linear": 0.5832290649414062}
+{
+  "epochs": 5,
+  "batch_size": null,
+  "number_files_used": 12,
+  "tanh": 0.0,
+  "elu": 0.589486837387085,
+  "softmax": 0.6174384355545044,
+  "selu": 0.5836462378501892,
+  "softplus": 0.5648727416992188,
+  "softsign": 0.5748852491378784,
+  "relu": 0.0,
+  "sigmoid": 0.6003337502479553,
+  "hard_sigmoid": 0.6145181655883789,
+  "exponential": 0.5698789954185486,
+  "linear": 0.5832290649414062
+}
