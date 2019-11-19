@@ -23,7 +23,7 @@ def get_labeled_dataset(number_of_file = 0, from_date = "2010-01-01", date_inclu
     
     limit_year = 2021
     dataset = {"text" : [], "label" : [], "date" : []}
-    directory = "../Data/Reddit_Data/V3_more_attributes/btc/comments/"
+    directory = "../Data/Reddit_Data/btc/comments/"
     
     max_number_of_files_number = len(os.listdir(directory))
     
