@@ -1,0 +1,44 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+Quick question that I haven't gotten a good answer for. What are the dangers for big block miners forking off at 55~60%? Core coin is capped so tx fees and times would double or more while BU fees would drop. ;1;1;False;GrumpyAnarchist;dh6qzpx;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+"Not sure anyone would want to go as low as 55-60%.  Variance is a bitch, and a 45% chain can beat a 55% chain for surprisingly long if luck is on its side.
+
+But most of us on the big block side are convinced that if we fork with 75%+ we'll have 100% within a matter of hours.  No one will be interested in the unusable small-block chain, and it will be abandoned almost immediately.
+
+(Those on the small block side are convinced that the small block chain will remain viable, perhaps because no one will want to transact on the big block chain, causing miners to rapidly desert it and return to the small block chain, or because they think they can keep their chain relevant by hardforking to reset the difficultly and/or change the PoW.  Personally I don't think those are realistic outcomes, though.)
+
+Or in other words the community is divided on this - many of us think there is no danger in forking with 75%+ - there are others who think it is incredibly dangerous and will lead to a lasting chain split.";2;0;False;roybadami;dh7a1r1;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+so, marginal cost is a non-zero finite amount. Amusing that /nullc/ ducks out of another discussion he is losing and one of his shills takes up the baton ...  ;1;0;False;7bitsOk;dh7d68q;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+its a bounty program;1;0;False;squarepush3r;dh7silf;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+Well you would admit that crippling the blockchain is suddenly much more attractive if you gain from it.;2;0;False;Ant-n;dh75zl0;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+What do you mean? Surely not all 1MB transactions have such high fees.;2;1;False;ysangkok;dh7csu8;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"> This may be a tangent, but how do you see that?
+
+Because I think most of the resistance to SegWit is rooted in the belief that ""borgstream funded north corean dictators"" will never increase the blocksize beyond what SegWit provides if it gets activated. Because AXA told them to, in order to create a lightning network hub revenue stream. Or something like that. Yeah I'm exaggerating a bit, but the idea that core will never agree to a hardfork if they get their way with SegWit is very much out there. It's ill-conceived.
+
+> What I meant is that I think the attitude of ""this is a meritocracy, people skills don't matter the better tech will win in the end"" is really harmful here.
+
+I don't agree.
+
+> These are very complex and confusing issues, and trolling on all sides just makes it hard.
+
+Yep, but that's just internet reality :/
+
+> the idea that every user runs a full node and audits the code and understands that they are totally safe is bunk.
+
+Yep, in a mass adoption scenario, most people will rely on some kind of bitcoin bank with insurance, etc. The important part is not that *everyone* runs a fullnode. The important part is that anyone who wants to *can*. Without permission. Without prohibitive investment requirements. Without relying on service providers / datacenters that could be controlled / regulated.
+
+> The way I see it is this: we can immediately increase block size to increase transactions (and eventually price) to continue the exponential scaling of bitcoin. This is not free, it means that it's harder for people to run nodes, so fewer people will, and more users will rely on ""trust"" in some form (but there will still be hundreds or thousands of nodes, so it's not much faith that people need). On the other hand, keep the block size as it is (or shrink it maybe?) so people can run their nodes longer. Not much of a debate to me....
+
+Even if you don't agree yourself, you need to acknowledge that many experts have the opinion that a hard fork is inherently dangerous and would need a whole lot of preperation (and more [research](https://bitcoinhardforkresearch.github.io/) to begin with). There are at least enough experts saying that, that the claim deserves to be taken seriously. The way many rbtc posters get out of this dilemma is by accusing blockstream of dishonesty and hidden agendas, painting them and their assessments as untrustworthy. And everyone who agrees with them is guilty by association. I don't buy into that, so my position is that a hard fork is *potentially* very dangerous and should only be considered as a last resort. This will be my position until someone conclusively shows a safe way of doing hard forks that doesn't discriminate against a substantial number of bitcoin users. And the second that occurs, core will start working on one anyway.
+
+Right now we have the option to **double** the current capacity in a very safe way. This change will enable up to 4MB blocks on mainnet in edge cases. Rolling this out will yield a lot of data that can help with future decisions on that front. There is no good enough technical argument to block SegWit at this point. Anyone doing so is either misunderstanding something or has some other, non technical motivation to do so.
+
+But I'm just a well-known /r/bitcoin troll according to some people here, so beware!";1;0;False;supermari0;dh7bf7q;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Don't Shugart that block, my friend ....;1;0;False;coinstash;dh7gpn6;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"I know.  That's why I said ""HD"".";1;0;False;kingofthejaffacakes;dh7llfm;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+These companies will learn the difference between Bitcoin and Ethereum;1;0;False;Inaltoasinistra;dh7a772;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"You guys don't you see! You don't need larger storage capacity!  
+You just need to implement a convoluted system that doesn't really address the problem :) easy.
+(On a side note, look at what Bitcoin has done to me.)";1;0;False;everythingEzra2;dh6sju0;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+1.2MB was about the fourth version. It was 160k, then 320k, then 360k (and occasionally even 720k) before that. Unless you owned a Sirius I / Victor 9000 which came with the first 1.2MB drive in 1983. So there. :);1;1;False;coinstash;dh7gscz;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg

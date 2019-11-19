@@ -1,0 +1,308 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+Several people requested this, so we'll add this to the todo list eventually.  Its going to be a few weeks until we can tune it to keep up with multiple subreddits, though.;1;0;False;censorship_notifier;dmcvbyf;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"> You could publish a list of messages that you didn't send.
+
+This is probably too much info.  For a few reasons, most of the information about what was sent and/or to whom will not be public.  We aren't going to do something that seems to violate the spirit of the rules but not the letter, but we will do what we can to make information available for others who seek it out about removals.";1;1;False;censorship_notifier;dmdph8l;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+End of day? Okay, cool. I'll check back after a while. Thanks for writing this.;1;1;False;fllthdcrb;dmcm923;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"Reddit rules, unfortunately.  They suspended the account for using an automated system to send unsolicited messages.  I don't love the rule, and I wish they had written the rule somewhere before I made the bot, but I do understand why they have it.
+
+We're planning some more things that will help the bot achieve its original goals.  We're not allowed to ping users in any way about content that has been removed unless they've opted in, but we hope to gather and publish the content that is being silenced for those who seek it out.  It may take another week or two.";1;1;False;censorship_notifier;dmcwtqv;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+At every turn, Reddit blocks our attempts to expose r/bitcoin. Makes you wonder.;1;0;False;;dmcx92q;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"Look, the links are only of people saying things. They don't seem to contain any proof that those things are false. 
+
+No attack vector is being created when things are increasing in size proportionally. 
+
+It doesn't seem you have a real argument against what big blockers say, other than the already debunked small blocker bullshit that anyone who has been around before Blockstream knows is absolute garbage. 
+
+If you can come up with something other than ""big blocks are bad because security blah blah"" and ""Big blockers are liars because Roger lied one time"" I will listen. I am not one for cognitive dissonance...I am able to see new evidence and change my preexisting notions based on the new evidence... but at this point I do not see the concerns you raised as legitimate. ";1;1;False;poorbrokebastard;dmdozqz;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"If you really think that SegWit wasn't contentious in the slightest, I'm not sure we can even have a conversation as we're not even on the same planet.  I'm glad that it activated, as I think that it was the best path forward(I also support a 2MB base block size increase, however), but to pretend that it was ""universally acclaimed"" and that no dissent was present is just plain dishonest, no other way to say it. 
+
+UASF was basically pointless, to be frank I don't think that many people gave a shit that 4-5% of nodes were going to fork themselves from the network, I certainly didn't.  NYA is what got SegWit activated, not that.  Once again, if you can't see that basic fact, I'm not sure we can have a productive conversation, much in the same way that I can't have a productive conversation with a rabid anti-vaxxer or a flat-earther. We're just too far away to even have much in the way of common ground to stand on. 
+
+Now back to the point of this whole interaction...I'm well aware of the difference between a hard and soft fork(thanks for your condescension, however) you just don't seem to realize(or want to admit, perhaps) that the subreddit rule that you appear to be referencing as justification for deleting my comment doesn't say anything at all about a type of fork.  You're the one that brought that up, not me. 
+
+We are still talking about my deleted comment, right?
+
+";1;0;False;Username96957364;dmd5uao;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"I didn't say ""big blockers are liars because Roger Ver lied one time"". Are you paying attention? I'm saying ""both sides use propaganda"". There's a subtle difference. 
+
+Also, you didn't address this, at all:
+
+>What about the whole ""coins stored in segwit addresses can be spent by anyone"" fud? You don't see that as factually incorrect?  ";1;1;False;futilerebel;dmdr0s7;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+">First of all, I don't see any evidence of anyone lying in these links. 
+
+And that's how I know you are *truly* inhabiting a different reality from mine :) 
+
+>Second, I am obviously not saying that no person that supports big blocks ever said anything untrue
+
+Oh, my bad. So *some* big blockers lie *sometimes*? Cool. So how do I know the difference between when they're lying and when they're telling the truth? 
+
+>I mean the big block narrative, the vision of decentralized peer to peer cash and scaling Bitcoin on chain to reach everyone in the world, liberating billions of people. Big blockers say blocks should be bigger and can scale on chain. What about this belief is false?
+
+It's not that it's *false*, it's that increasing the size of the blocks increases bitcoin's attack surface, making it more likely that some unforeseen attack vector will be exploited. It's *possible* that doubling the block size will not kill bitcoin. But it's a slippery slope that leads to more and more block size increases, causing an ever-growing attack surface, making bitcoin more and more fragile, and increasing the chance of a catastrophic failure. 
+
+>I'm looking for you to point out something wrong with the argument, something factually incorrect. It's like all you people know how to do is slander...
+
+What about the whole ""coins stored in segwit addresses can be spent by anyone"" fud? You don't see that as factually incorrect? ";1;1;False;futilerebel;dmdlsmy;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"Yeah but both sides DON'T use propaganda. Only one side does and then they try to claim the other side does too, to help their cause. The truth is this debate is not technical, but political. One faction wants to scale Bitcoin as is was originally designed, the other faction is trying to crush that, for personal gain. 
+
+The truth though, is that big blockers just tell the truth about what Bitcoin really is and what it is supposed to be. Explaining to people that there is an original design for this thing the differs from the direction the corporation Blockstream is taking it in is not propaganda at all. 
+
+What propaganda Is though, is using fake, made up narratives to persuade people to think or feel one way or another. Few examples of this:
+
+- Small blockers mislead newer users into believing everyone needs to run a node, when in fact, if you read the white paper, you will see the way Bitcoin is designed, is NOT for everyone to run a node. Users who are just transacting should use SPV. Only miners and businesses need nodes. 
+
+- The way they push the narrative that miners are evil and users need to ""take back their power"" from miners. lmao. Oh and the asicboost thing, which has not been proven. 
+
+- The way they lie and say Bitcoin can't scale on chain (even though we have had 3 consecutive block size increases in the past) and that's why we need to choke on chain scaling and push all business onto their centralized L2, there THEY make the fees. 
+
+So you can see small blockers are constantly using lies and propaganda to push the narrative that miners are bad, bitcoin can't scale on chain and increasing the block size is bad. All three of those things are lies. 
+
+So that is what I'm talking about. Small blockers lie about fundamental things to pass an agenda. Big blockers do not. Big blockers simply tell the truth. Having the truth on your side really helps. ";1;1;False;poorbrokebastard;dmdsgos;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"Let's see. I invested in Baidu in 2009 right after the market crashed and the stock split 10:1 about two years later. I was able, for the first time in my life, to pay for a brand-new car with all cash right then and there... bought and paid for off the showroom floor with the gains from that one stock, and still had plenty left over. The last quarter earnings it went up $22/share. That's a lot for common stock. 
+
+Then I discovered BTC in 2011. I'll let you extrapolate on that and how ""broke"" I would be since I'm a HODL'r (I hate that term lol). 
+
+I sold the remainder of my stock in FB, TSLA, and NFLX to reallocate my funds into crypto investments. I bought into these stocks very early on, in their first or second years of existence. I'll let you do the research on prices and keep in mind NFLX has split once before as well. I wonder if you even know what that means... 🤔
+
+This is what is left after I recently liquidated over 80% of my holdings, including the majority of Baidu. 
+
+http://imgur.com/a/4O3Qh
+
+I still like to keep some in the NYSE, but it's only 40 shares now.
+
+Im a medical student, by the way... 
+
+How the fuck is anyone losing money in crypto? Oh, people that don't buy and hold--people like you, perhaps? People that don't have the wherewithal to identify a ""shitcoin"" versus a viable crypto? The asset class has only gone sky-high since two months ago, six months ago, one year ago... Much less since 2011. 
+
+I'm not gonna pop open my ledger and take screenshots so you can see how much I'm holding. It's none of your business. 
+
+You know what I think? You're projecting onto me what you think about yourself. I think you've lost a lot of money and are using some variant of the Saul Alinsky playbook, accusing your ""opponent"" of what you yourself are guilty of in the first place (making poor investment choices). I'm being fecetious, but I'm sort of not.. I don't know you at all, but when you come at me like that... Well, I understand psychology and projection and since you said what you said, there is now a higher degree of probability that the aforementioned accusation is true and, indeed, applicable to you. 
+
+You have no idea who I am, what I've accomplished (or have yet to accomplish), so, please, continue to make yourself look like more of a fool by generalizing and assuming. How's that working out for ya? ";1;1;False;th1nkpatriot;dmd3e9j;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"The bot has been re-enabled as an opt-in service.  You can enable it by sending a PM to the bot(/u/censorship_notifier) with the text ""please message me about removed comments and posts"" in the body (and nothing else).  You can disable it by PMing ""stop"" in the body or title.
+ 
+Someone else can feel free to make a new post about this change if they want. ";2;0;False;censorship_notifier;dmcvspd;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"> Someone else can feel free to make a new post about this change if they want.
+
+Done:
+
+https://www.reddit.com/r/btc/comments/6x44e9/the_rbitcoin_censorship_notifier_has_been/
+
+";1;0;False;BitcoinIsTehFuture;dmcxh45;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+Aw, why opt in? ;1;1;False;;dmcwjoh;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+Curiously, that user was suspended.  We also think he's probably the one that reported the bot for spamming and got the first incarnation shut down (though maybe it was inevitable);1;0;False;censorship_notifier;dmcvoks;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"The bot has been re-enabled as an opt-in service.  You can enable it by sending a PM to the bot(/u/censorship_notifier) with the text ""please message me about removed comments and posts"" in the body (and nothing else).  You can disable it by PMing ""stop"" in the body or title.
+
+Someone else can feel free to make a new post about this change if they want.";1;0;False;censorship_notifier;dmcveww;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"The bot has been re-enabled as an opt-in service.  You can enable it by sending a PM to the bot(/u/censorship_notifier) with the text ""please message me about removed comments and posts"" in the body (and nothing else).  You can disable it by PMing ""stop"" in the body or title.
+
+Someone else can feel free to make a new post about this change if they want.
+
+To answer your question from yesterday, we'll open source the bot eventually.  Cleaning up the code for publishing(private/identifying things, documentation, etc) will add some time, and right now a higher priority is getting it working the way we want (while balancing real life stuff).
+
+We don't want to open source something that can (easily) be used to break reddit's rules.  Like them or not, those are the rules and many of them have a good reason for being in place. :/";2;0;False;censorship_notifier;dmcvlyj;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"Finally got everything working.  The bot has been re-enabled as an opt-in service.  You can enable it by sending a PM to the bot(/u/censorship_notifier) with the text ""please message me about removed comments and posts"" in the body (and nothing else).  You can disable it by PMing ""stop"" in the body or title.
+ 
+Someone else can feel free to make a new post about this change if they want. ";1;0;False;censorship_notifier;dmcvt4s;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"FYI the bot has been re-enabled.  You have to opt-in now so that the bot complies with reddit rules.  You can opt-in by messaging /u/censorship_notifier with the text ""please message me about removed comments and posts"" in the body of the message.  [This link should craft the message](https://www.reddit.com/message/compose?to=censorship_notifier&subject=please%20sent%20me%20notifications&message=please%20message%20me%20about%20removed%20comments%20and%20posts) for you.
+
+I'm not going to make a post about this this time.  Someone else can feel free to make one if desired to inform more users.";1;0;False;censorship_notifier;dmcwqin;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+Enough requests have come in for this that we will open source it eventually, in a few weeks.  Cleaning up and documenting the code will take some time though, so right now getting it working the way we want is a higher priority.  We also don't want to open source anything that we are aware that violates reddit's rules.;1;0;False;censorship_notifier;dmcvq8g;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+You could publish a list of messages that you didn't send. Individual people could then inform reddit users themselves. Then it wouldn't be bulk spam but individual people deciding to message individual other people.;4;2;False;dskloet;dmdb8oy;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+https://i.imgur.com/QkMeQRC.png
+
+^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=ignoreme&message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=delet%20this&message=delet%20this%20dmd3eea) ";1;0;False;imguralbumbot;dmd3eea;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
+
+- [/r/btc] [The \/r\/bitcoin censorship notifier has been re-enabled as an opt-in service. You can enable it by sending a PM to the bot (\/u\/censorship\_notifier) with the text ""please message me about removed comments and posts"" in the body (and nothing else). You can disable it by PMing ""stop"".](https://np.reddit.com/r/btc/comments/6x44e9/the_rbitcoin_censorship_notifier_has_been/)
+
+[](#footer)*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+
+[](#bot)";1;0;False;TotesMessenger;dmcxni9;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"The bot has been re-enabled as an opt-in service.  You can enable it by sending a PM to the bot(/u/censorship_notifier) with the text ""please message me about removed comments and posts"" in the body (and nothing else).  You can disable it by PMing ""stop"" in the body or title.
+
+Someone else can feel free to make a new post about this change if they want.";1;0;False;censorship_notifier;dmcvaha;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"The bot has been re-enabled as an opt-in service.  You can enable it by sending a PM to the bot(/u/censorship_notifier) with the text ""please message me about removed comments and posts"" in the body (and nothing else).  You can disable it by PMing ""stop"" in the body or title.
+
+Someone else can feel free to make a new post about this change if they want.";1;0;False;censorship_notifier;dmcvf0g;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"The bot has been re-enabled as an opt-in service.  You can enable it by sending a PM to the bot(/u/censorship_notifier) with the text ""please message me about removed comments and posts"" in the body (and nothing else).  You can disable it by PMing ""stop"" in the body or title.
+
+Someone else can feel free to make a new post about this change if they want.";1;1;False;censorship_notifier;dmcvdfg;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+"The bot has been re-enabled as an opt-in service.  You can enable it by sending a PM to the bot(/u/censorship_notifier) with the text ""please message me about removed comments and posts"" in the body (and nothing else).  You can disable it by PMing ""stop"" in the body or title. [This link crafts the message](https://www.reddit.com/message/compose?to=censorship_notifier&subject=please%20sent%20me%20notifications&message=please%20message%20me%20about%20removed%20comments%20and%20posts) for you.  Users can turn off notifications by messaging /u/censorship_notifier with ""stop"" in the title or body of the message.
+
+We had to do this to comply with reddit rules about bots sending unsolicited messages.  We have further plans that should be allowed that will help us reach our original goals of allowing people who seek out information about the censorship to be informed.
+
+Someone else can feel free to make a new post about this change if they want. ";6;4;False;censorship_notifier;dmcvgja;New anti-censorship bot for /r/bitcoin;https://www.reddit.com/r/btc/comments/6ws7ax/new_anticensorship_bot_for_rbitcoin/
+body;score;nb_replies;stickied;author;id;post_title;post_link
+Wrong image buddy. Tha is a MtGox victim.;1;0;False;freedombit;dmd6wns;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+Those people then need to have something to spend their money on. Starbuck might buy their coffee beans for 2 million at a time but that then goes on to pay smaller and smaller slices of the pie. It can't all be multi-mega deals at the top level.;1;1;False;Richy_T;dmdajz2;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+And do you think that represents an average of the fee to get in within 2 blocks, for the past 6 months? Or what good is one data point? ;1;0;False;cypherblock;dmcqwoi;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+cmd line for now and alpha gui wallets, thus vaporware is a lie;1;1;False;bitusher;dmcozhp;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+"by ""entire world"" you mean that less 3% even know the phrase cryptocurrency?  
+
+end users and businesses don't know or care about obscure ideological views and will use whatever is cheaper.";1;0;False;nameless_pattern;dme8m0e;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+"Buy starbucks Lighting Network ""card"" preload it with 300 $ (for few dollars), use for next half year. Later close and use rest of money somewhere else, or buy new one.
+
+Bitcoin will be getting that sooner (already some tests worked out) since it has SegWit.";1;1;False;Etovia;dmdccbz;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+"Because entire world recognizes BTC, and that high demand (huge success) is why also fees gone up a bit.
+
+Though they are coming down now to below 1 usd easily - see on /r/bitcoin various examples (or in blockchain).
+
+";0;1;False;Etovia;dmd93o6;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+If we want to free the broader market we need to be much better and much cheaper than the central planners' offerings.  So far BCH is doing that (again).;3;0;False;bill_mcgonigle;dmcy93r;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+https://medium.com/@JimmyMow/announcing-zap-a-lightning-network-wallet-47622acd89fb;1;1;False;bitusher;dmcs4k3;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+"So being used the same way Bitcoin was in the days of the 10k BTC pizza. No infrastructure whatsoever. They've been planning LN for a couple years now, and all they got is cmd and an alpha wallet. Are you going to claim it won't take years for LN to achieve the level of utility that on-chain transactions had before the network's capacity was maxed out. I just did some research, and it doesn't look like a single payment processor has even begun working on adding support for it. Maybe ""vaporware"" is an exaggeration, but functionally it may as well be because it doesn't have *any* utility. The way you avoided answering my question as to what one can pay for via LN today is as good as an admission of that.";1;1;False;ravend13;dmcrv8m;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+Which payment processors accept payment over LN? BitPay? Coinbase? Coinpayments? Are there any merchants that accept payments directly via LN? Shit, is there even a single dark net market using it? Can you actually pay for anything with LN today, or do you mean it is being used the same way Bitcoin was being used in the days of the 10,000BTC pizza?;1;1;False;ravend13;dmcovov;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+Goalposts moved.;1;0;False;Richy_T;dmdoh2k;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+[There](https://youtu.be/gkawrJJZgts?t=44m52s) you go.;2;0;False;;dmcm1ag;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+"I did a Segwit transaction today with only 4 cents fee.. why you say ""lies?""";1;0;False;nbourbon;dmcny0z;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+[old repost](https://www.reddit.com/r/btc/comments/624yns/bitcoinorg_lies_low_processing_fees_theymos/?st=j6zqz7lm&sh=14d640c4);1;0;False;kerato;dmcu178;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+Yes, you can thank all the greedy market manipulating miners for that, the same ones which /r/btc pretends to hate but actually circlejerks over;1;0;False;ThisGoldAintFree;dmcr4yd;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+"back in the days when a pizza would cost 10k btc, a 52 satoshi per byte transaction would cost 52 satoshi per byte.
+
+now that btc has $5k ""grabbed by the pussy"" as 45 says, a 52 satoshi per byte tx, still costs 52 satoshi per byte ! 
+
+It's like magic!";1;0;False;kerato;dmcux3h;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+Buying services from people accepting Bitcoin. Think B2B, and bigger contracts. Not a page of copywrighting text for 0.99 usd.;1;1;False;Etovia;dmd92r5;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+"That is a critical piece of infrastructure. It's a start, but not enough - not on its own. Not with the network over-capacity right now. Most merchants don't accept BTC directly, which sucks, but it is what it is. Without BitPay and Coinbase enabling support for their merchants to get paid via LN, I expect a majority of bitcoin users will view LN as a gimmick with no real world utility. If LN is to be a scaling solution, I really don't understand why LN devs have not been working with payment processors to accelerate adoption of LN. ""Accelerate"" isn't even the right word - ""create"" would be much more apt. For that matter, DNMs should have been reached out to ages ago (even before BitPay/Coinbase) because in cryptodom DNMs are analogous to [porn sites of the early internet](https://www.theguardian.com/technology/2002/mar/03/internetnews.observerfocus). As it stands, LN as a real scaling solution is years away (assuming it will even work as advertised. I know LN has been on testnet for ages, but I can't seem to find any evidence that it was properly stress tested. Has any group of people attempted to push LN to 100k tx/sec or more on testnet? If they haven't, why the fuck not? How can LN be a scaling solution that is promised to scale to millions of tx/sec if that kind of scalability has never been demonstrated in practice? If there were documented test runs on testnet of LN with functional real decentralized routing and that kind of scale of transactions per second, instead of calling LN vaporware I would be busy doing my part rallying the community to build out in infrastructure and make it a reality. For the record, my reference to graphene chains being able to scale to MasterCard levels (3300 tx/sec) today is [entirely evidence based (Warning:PDF)](http://docs.bitshares.eu/_downloads/bitshares-stresstest.pdf).";1;0;False;ravend13;dmcvouo;Bitcoin.org website is full of lies;https://i.redd.it/wiy4d2s5huiz.jpg
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"I periodically pay to run ads on /r/bitcoin to try and break through the censorship barrier. The ad links to this post: https://medium.com/@jonaldfyookball/why-does-bitcoin-have-ridiculously-high-fees-and-slow-confirmations-e3fd58258a6d
+
+If you'd like to donate to the ad fund, I only accept Bitcoin Cash: 1JYvCRT9HpTR51eKkPnzYKFAyyFyXcqFi3
+
+So far I've received 0.6988658 BCC. I held on to all the bitcoin donated from last time and have been paying for the ads out of pocket, so with recent price increases I've been able to buy even more ads!";157;11;False;Jek_Forkins;dmduc77;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+There was a survey of Bitcoin users 3 years ago when fees reflected supply and demand before the censorship era, and 75% wanted to pay 5c or less per txn. So, fees which commonly approach 100x the previously expected range are, to be honest, ridiculous.;20;2;False;solex1;dme4tqa;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"FYI, BitConnect is a Ponzi scam. On Bitfinex it was their own Bitcoin Core future token that had the BCC ticker.
+
+And the term Bcash is useful because only trolls use it. Let's keep it useful that way.";20;1;False;dskloet;dmeavlw;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+There was a great post earlier today of guys tipping a barman using bch with the mobile wallet!;2;0;False;Shankspranks;dme33lg;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+I mean if you don't mind lying, sure.;11;1;False;Deftin;dme30mz;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+There has never been a technically valid argument against increasing the block size. The recent string of large blocks on the bitcoin cash fork have already proven beyond any doubt that it's safe.;2;0;False;1s44c;dme8pgi;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"Does market equilibrium include cornering supply to raise prices?  There is a difference between an argument and physically limiting block size ""because its's dangerous""";3;0;False;sigma02;dme87xp;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+https://core.jochen-hoenicke.de/queue/#24h;4;0;False;zaphod42;dme7l46;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"Oh so its funny to fleece people of their money through artificially high fees?  How does that make Bitcoin easy to use **right now**?
+
+I know this is just a propaganda bot, but at least your laughter can be made to show for what it is, shitting on everyone's face that has to pay exorbitant fees to do something that used to cost pennies
+
+shame on you";1;1;False;DaSpawn;dmdyayk;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"Initial references to Bitcoin Cash used ""BCC"". But there is an already existing coin, BitConnect Coin, that has the ticker ""BCC"" on some exchanges. So those exchanges use ""BCH"" instead. Since nobody else had it I guess BCH is the least ambiguous in to use.
+
+(Although I wonder what the BCash people will use once that is released....)";25;3;False;dhork;dme4672;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"TL;DR:  They're different abbreviations for the same thing.  BCC and BCH are both ticker codes for Bitcoin Cash.  Some exchanges and wallets use one, some use the other (just like some people use BTC for Bitcoin and others use XBT).";4;0;False;roybadami;dmeaewv;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+He means employess of Reddit. That's the difference between admins and mods.;7;1;False;tHeBrUt3KiLLeR;dme9b4v;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+By trying to divert them to your copycat coin with a poor scaling solution? You're not protecting anyone. ;-17;1;False;hardfork;dme7vv3;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"Video linked by /u/Daisuke_Fumio:
+
+Title|Channel|Published|Duration|Likes|Total Views
+:----------:|:----------:|:----------:|:----------:|:----------:|:----------:
+[Marilyn Manson - The Beautiful People](https://youtube.com/watch?v=Ypkv0HeUvTc)|MarilynMansonVEVO|2009-10-06|0:03:47|497,464+ (94%)|99,947,548
+
+> Music video by Marilyn Manson performing The Beautiful...
+
+---
+
+[^Info](https://np.reddit.com/r/youtubot/wiki/index) ^| [^/u/Daisuke_Fumio ^can ^delete](https://np.reddit.com/message/compose/?to=_youtubot_&subject=delete\%20comment&message=dmdyjj2\%0A\%0AReason\%3A\%20\%2A\%2Aplease+help+us+improve\%2A\%2A) ^| ^v2.0.0";0;0;False;_youtubot_;dmdyjj2;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+Damn it!! I suck at this!;6;0;False;theblackbrant;dmeb2yy;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+Coinomi exists.;6;2;False;dskloet;dmeayrb;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"TAKE MY Bitcoin Cash!!
+
+.05 donated
+
+Sent to 1JYvCRT9HpTR51eKkPnzYKFAyyFyXcqFi3";9;0;False;PilgramDouglas;dme5bo9;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"> The reddit admins 
+
+Do you mean the actual employees of Reddit? Or the moderators of /r/bitcoin?";3;1;False;njtrafficsignshopper;dme90ye;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"Mate, back then there was less demand. Of course the fees were lower. Ultimately, the fees will always reflect the market equilibrium. Core's argument is that increasing supply would be dangerous to the network. They did explain why.
+
+Let's not devolve to this kind of silly argument. Keep the conversation on track.";2;3;False;Darkeyescry22;dme6e8j;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+Stay woke, bae.;1;0;False;Deftin;dme5p01;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"""It will soon be impossible to use Bitcoin without providing your home address""
+
+Will something like that wake them up?";10;1;False;ChaosElephant;dme0gpx;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+https://www.bitcoincash.org/ ?;4;0;False;Egon_1;dmduylp;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"Maybe the FAQ:
+
+https://www.reddit.com/r/btc/comments/5wwznc/please_read_our_frequently_asked_questions_faq/ 
+";2;1;False;PedroR82;dmdvpr6;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+I guess I misunderstood the question, my mistake. I thought you weren't sure who was approving the ad. I don't know why, I wasn't thinking.;2;0;False;tHeBrUt3KiLLeR;dmea4gz;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"The cult like Herd mentality in this sub is interesting to observe as someone new to crypto currencies. 
+
+I get the impression that the most vocal bch supporters come from 4chan. Lots of childish insults and everyone seems so sure they are right about bch it's a borderline mental disorder. 
+
+That's just the observations of someone that is looking in from the outside.";10;4;False;money-trees;dmealv7;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"Yes, but nonetheless it feels to me that 'high fees' is objective, while 'ridiculously high fees' could be interpreted as an attack by someone who fully bought into the Core propaganda, making them non-susceptible to any subsequent information. 
+
+http://bigthink.com/think-tank/the-backfire-effect-why-facts-dont-win-arguments";7;4;False;coinsinspace;dme5h64;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"75% wanted and expected range are far from the same thing.
+
+100% of people want a million dollars. No one should expect that to actually happen.";0;1;False;Darkeyescry22;dme5jsv;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+No worries;3;1;False;hardfork;dme94bu;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+[deleted];7;2;False;;dmdyepm;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+Desperately trying to protect new bitcoin users who don't know any better... yes we are.;18;1;False;theblackbrant;dme7b4b;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"If they pass regulation restricting Bitcoin to ""Qualified Investors"", all because new Money lost $4 Billion on a crippled version of Bitcoin: I will be very disappointed.
+
+We can't even easily let people know about the risk: because the major communication channels are censored. If you dare point out the risk, you are labeled a alt-coin scammer and banned.
+
+";12;1;False;phillipsjk;dme8pxf;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+You just did!;7;1;False;dskloet;dmeb0i4;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+Haha your response made me chuckle. You cool (for a small blocker).  :P;2;1;False;theblackbrant;dmea0bk;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"No, that's a strawman example. 
+Here, users were **already** paying 5c or less, for years. The onus is on those wanting to make them pay 100x more to properly explain why. They can't.
+";7;1;False;solex1;dme660k;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+That or some tulip bulbs, if you've got any. ;3;1;False;theblackbrant;dmebkcb;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"Hey thank you for doing this! 
+
+I'm in that spot when you meet someone and forget their name, and 2 years later you still talk about the weather but now it's become kinda illegal to ask.
+
+But, what's the difference between BCC and BCH? I've followed the whole BCH chronology haha, but have no idea what BCC is.";22;4;False;zachariase;dme3a2v;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+Sorry... shouldn't have fed you. Won't happen again.;12;2;False;theblackbrant;dme7yf6;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+LOL;2;0;False;DaSpawn;dmdyh0u;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+Ditto.;2;0;False;sigma02;dmebb0u;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+The admins have actually objected to saying that /r/bitcoin is censored? Where/when did that happen?;3;3;False;njtrafficsignshopper;dme9v2n;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"Those who feel it's an attack will probably feel that anything is an attack.  If you try to be kind, they will just say you are lying and trying to brainwash them.
+
+These people shut down the anti-censorship bot that notified people about their posts being deleted as ""brainwashing by big blockers"" :)
+
+Anyone who thinks the fees are not high is well... I don't even know who would think that.  Except those collecting said fees.";3;0;False;sigma02;dme8eyl;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+I would remove 'ridiculously' from the title. It's emotionally loaded and could result in an entrenched position. ;8;1;False;coinsinspace;dme3nw3;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+[deleted];29;2;False;;dme4urg;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+Indeed, this is an important consideration.;6;0;False;solex1;dme5lgb;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+[deleted];10;1;False;;dmdwf7c;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"Pretty sure most of you guys will eventually sell all of your Bitcoin cash for Bitcoin. 
+
+ ";5;1;False;hardfork;dmebjqz;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+As soon as there's a BCH mobile wallet I'll donate ;2;2;False;bitmeme;dme9ave;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+[wake up](https://www.reddit.com/r/btc/comments/6x4hdt/lightning_channel_providers_in_the_us_will/);9;1;False;ChaosElephant;dme4j5r;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"This is a good effort but maybe a bit risky text. You start by attacking what your audience likes (""Bitcoin has ridiculously high fees""). They might simply file you as an enemy and hate big-blockers more.
+
+The other ad someone did recently where it said ""come and discuss without censorship"" is nicer, for it attacks no one and welcomes everyone. It's ""hey, come here, we have cookies"" instead of ""hey, have you wondered why your camp sucks?"" :)";8;0;False;himself_v;dme60ml;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"The sadness of this sub seems to constantly find newer depths! 
+ha! 
+Good lord...so desperate.";-23;1;False;hardfork;dme5n6a;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"Thanks! Here's another ad I'm trying to run: http://i.imgur.com/7i0QwHY.png
+
+The reddit admins don't like it if you make mention of the fact that /r/bitcoin is censored, so I tried to word it as delicately as possible. It's awaiting admin approval.
+
+**e:** it was just approved!";32;5;False;Jek_Forkins;dmdycto;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+Great idea! I'd like to link to something more concrete than just the subreddit. Any ideas?;6;3;False;Jek_Forkins;dmdugjo;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"How about using your budget to:
+
+* Fund a decent wallet?
+* Court vendors (overstock, purse,gyft,egifter, newegg, etc) to accept it?
+* Do an outreach to non crypto users to show the benefits and freedom.
+
+This obsession with r/bitcoin feels like trying to get back at your ex. Forget em. Move on. Make BCH great on **its own merits**.
+
+(plus an ad-blocker would just hide it)
+
+Just saying.";54;4;False;BigBlackHungGuy;dme5393;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+I'm also one that doesn't understand the persistence in attempting to subvert other cryptocurrencies. It's like pissing in the wind most of the time.;15;1;False;Leaky_gland;dme7qvz;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+"Nice one! 
+
+You should also run an ad about Bitcoin Cash. Something along like ""Learn more about Bitcoin Cash on /r/btc!"" ";14;2;False;knight222;dmdue25;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+Just sent 0.05 bcc. Keep up the good fight. ;15;1;False;Brilliantbit8;dmdxyvk;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+Sending BCC to you ASAP!;5;1;False;famousdav;dme9kqh;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png
+Is there a good website that shows real time averafe tx costs and times for btc abd bch and other ccs?;3;1;False;EvanGRogers;dme6kpr;New ad running on /r/Bitcoin;http://i.imgur.com/NKgRRqU.png

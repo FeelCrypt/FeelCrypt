@@ -1,0 +1,28 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"UTXO is just a database, it's no big deal. It's been a database for 2 years (and it's a small one). The entire set isn't needed in memory.
+
+> All smart contracts would get advantage from SegWit..
+
+Segwit hurts Bitcoin because it incentivizes off-chain resources, making those user's funds less secure and taking revenue away from miners. Also I'm not against Segwit as a hard fork, so long as a blocksize is increased, but as a soft fork it's a squid-like nightmare with tentacles all over the place. It's very dangerous to base Bitcoin's scaling on some LN idea that doesn't even exist yet as well. Super dangerous overall.
+
+Meanwhile, 8mb blocksizes would be safe at current network speed levels + xThin. Despite 8mb blocks being safe, the network has been growing slowly and would take years to get to even half of that size. Basically there is zero reason not to increase the blocksize unless someone wants to restrict on-chain transactions to make money off of side-chains. *cough*
+
+LN doesn't work without a larger adaptive blocksize, we've been through this. Think about it: blocks are full but a user is trying to get onto the LN to open a channel -> user makes expensive transaction. Then that user has to make a shit-ton of transactions and pray that a hub doesn't freeze or dispute the transaction (which requires that user to settle on-chain), then when the user is done they have to make ANOTHER on-chain transaction to close the channel. That's right, two transactions at a minimum for some sort of micro-payment utopia that won't happen. 
+
+You know why it won't happen? Because altcoins exist and people will just use other on-chain coins. Notice Bitcoin's share decreasing and other altcoins going up in price? It's because of BitcoinCore screwing people with high transaction fees and long confirmation times. New users have no idea what is going on it why it's just ""not working"". 
+
+This is why Segwit won't work, because people that actually use Bitcoin don't want it unless the blocksize is increased.";1;2;False;Annapurna317;dhb4kwx;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"The majority of industries and businesses have wanted larger blocks for two years - but core ignored that - where's your outrage there? hypocritical...
+
+There is a great way to increase the blocksize. It works and with core support it would have 95%. It's called a hard fork.
+
+> LN does not remove fees from miners since you need to open and close channels.
+
+You obviously have no idea how it works. Miners wouldn't make transaction fees on transactions after the channel is opened. This weakens those that have hashpower securing the network while helping those who don't secure the network and who want to be middlemen like permissioned side-chain operators (like Blockstream). 
+
+> There are no other blockchains right now that offer the same properties of Bitcoin.
+
+I'm starting to think you have absolutely no idea what you're talking about. Please learn about Bitcoin before you spout incorrect garbage on these forums.";1;0;False;Annapurna317;dhbylqk;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"The majority of the industries want SegWit now. Layers are the right way yo develop protocols... the blocksize will be increased, when we'll find a way to do it well. Now there are no options: a static increase does not solve the scalability problem and EC is a mess.
+LN does not remove fees from miners since you need to open and close channels.
+There are no other blockchains right now that offer the same properties of Bitcoin.";1;1;False;Inaltoasinistra;dhbg96b;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
