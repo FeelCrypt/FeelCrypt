@@ -1,0 +1,435 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+my bank has no fees including no ATM fees and atm reimbursal for third party atm fees. So... you can do better. (;1;0;False;DiNovi;def1r5x;"""Insane. I just paid $25 worth of Bitcoin and the suggested fee was $1.66! That's 6.6%. Who can seriously claim this isn't broken?""";https://twitter.com/crainbf/status/836170461016903680
+body;score;nb_replies;stickied;author;id;post_title;post_link
+Gavin, come back! 😭;100;2;False;aquahol;deed7ol;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+[removed];-12;3;False;;deeops0;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"People did starve and economies did fail. The only reason the bottom didn't fall out like in the great depression was due to multiple bailout's from tax holders to stop the bleeding, then the Central Bank printed more money creating record inflation. Even with the use of FDR era protections, a tax payer based bailout was needed in order to prevent keys banks from failing. (QE alone wouldn't have been enough).
+
+Those who have been unemployed since 2008, have seen less purchasing power when returning to the work force, so although the unemployment rate is going down the workforce earns less. 
+
+Additionally countries like Spain went from 1 in 10 people being unemployed to 1 in 4 from 2008 to now, indicating a completely downturn in the economy.
+
+This is why the first block in Bitcoin references the global bailouts from the UK perspective of the UK Central Bank bailing out Britain in 2009. 
+
+But whatever. Lets make a Bitcoin central bank with the miners in control! People are obviously too stupid to regulate themselves.";0;1;False;thestringpuller;deesljb;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"> obviously they are or 2008 crisis would have resulted in ATM's being empty and people starving as economies failed.
+
+Fear mongering like this proves your economic illiteracy.";-4;0;False;;deeodrk;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+it's not an argument. it's a very simple fact. but it's not surprising that facts don't go down well with the BU crowd.;-7;1;False;viajero_loco;deelkhf;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"You've now called FUD I think 4 times on me (twice here and twice elsewhere in this thread). At all times all I'm seeking is answers to questions and ones that are both obvious and are being asked by many in the community. 
+
+That you as lead dev of Bitcoin unlimited seek to flag any person who questions BU as a FUD spreader is just absolute insanity. That is a pure tactic to avoid real answers and get other readers on your side. It is no different than the current trend of calling ""FAKE NEWS"" on anything you disagree with. Here it is ""FUD"" for anything that questions your software. Just apologize, really that is your best move here.
+
+Placebo controls: You didn't answer the question, instead you sought to paraphrase it incorrectly. 
+
+>You and the author of that article seem to think that the controls given to a node should be able to control the behavior of the rest of the network
+
+Nope nothing of the sort. The issue is more like: I have EB set to 2mb and AD at some smallish number (number 4-30 whatever), blocks start arriving at 3mb. My node ignores until AD is breached, at which point my node starts accepting all those blocks. Does my node now start taking any size block? 4mb, 12mb without any wait period? If this is the case, that is why it is referred to as Placebo controls because with certain settings and a rising block size your node will just take whatever. Yes you can set AD to large value and fork off. Ok. Still you should admit that BU operators would have to be more aware of block size changes and adjust their settings appropriately (and restart I assume or can it be done on the fly?) during those periods. 
+
+> But the real question is will the minority fork survive and be economically significant? 
+
+Probably. There are enough core supporters out there to make this happen. Seems pretty likely to me yes. You didn't touch on Replay issues/attacks. Got anything for that?
+
+>Since BU is based on Bitcoin's Nakamoto consensus, the adversarial attacks are limited to what is currently possible 
+
+Well there was the discussion about the miner who sets EB between values of others miners. This didn't need 51% as described. I don't know how likely it is or what the impact is, but you shouldn't just hand wave over attacks even if unlikely or difficult. That is how we build up understanding of the security model.
+
+>I can't debunk every Aaron Von Wirdum comment here, but plenty of people already responded to this article.
+
+Well you might consider a medium post doing just that. Not sure who responded in thorough fashion. Maybe you can provide some links.
+
+>I don't think that you know anything about our strength or engineering experience, and very little about the Core team, so this is FUD
+
+Ahh one of your FUDs. No I don't know much about your team. THAT IS THE POINT. Calling FUD every few paragraphs is unlikely to make me think you are intelligent. Stop antagonizing curious people. 
+
+>Once BU proves that hard forks can happen -- that the network can be upgraded -- solving problems like malleability are simple.
+
+So a hard fork for that? Is BU in favor of hard forks in general over soft forks? Would soft forks be used for anything or generally avoided? These are pretty legit questions I would think.
+
+
+
+";0;1;False;cypherblock;defj9we;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"So let's look at context for the imagined scenario:
+
+>Additionally, a malicious miner can often split the network. Such a miner could monitor the EB levels signaled by other miners (which is not as easily spoofed), and intentionally mine a block that falls right in between what these miners will accept. **If some 50 percent of hash power accepts blocks up to two megabytes, and the other 50 percent supports bigger blocks**, a 2.01 megabyte block would be ignored by the first 50 percent, and accepted by the other 50 percent.
+
+>Assuming the default AD of four is maintained, the chain could split for more than an hour. As explained in the previous section, the Bitcoin network(s) would be very unreliable during this period, as the chain on either side of the split may be discarded.
+
+>An adversary controlling only 0.7 percent of global hash power...
+
+Yep, that certainly falls into the category of ""ignoring economic incentives and imagining that people will set their settings in a completely arbitrary and economically-irrational manner.""";10;1;False;Capt_Roger_Murdock;deel6s9;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Users pay millions in extra fees? GREAT PROBLEM
+
+36 seconds of spy mining? TURMOIL";13;0;False;steb2k;deel5ck;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+If you're not verifying the mathematics you're a LARPer;1;1;False;duckyourfogma;def1db7;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Scared of what...?
+
+More use cases? Faster adoption? Lower fees? Quicker average confirmations? Happier users? People not having to resort to ""tx accelators"" every day?
+
+**How on Earth does a larger or variable block size negatively affect *anything* you currently do with Bitcoin?**";19;1;False;thcymos;deent2z;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Epic counterpoint. :*yawn*:
+
+Your increasing desperation is hilarious.
+
+Should BU become the reference client, are you going to:
+
+a) Trade your Unlimited Bitcoins for CoreCoin, likely dropping your crypto holdings to about $0.00 shortly thereafter?
+
+b) Secretly hold onto your Unlimited Bitcoins, while publicly claiming to sell them and rage-quit bitcoin, to save face?
+
+c) Trade your Unlimited Bitcoins for some other cryptocurrency and start trolling their community?
+
+Inquiring minds want to know. My money, for both you and most Core fanatics, is on (b)...!";15;1;False;thcymos;deeodbn;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"That's not enough. I'd love to see him to come back and actively develop for BU and/or Classic.
+
+It doesn't have to be a full-time commitment: if he just spent ~10 hours a week actively participating in the development community (doing code review, commenting on high-level design, and maybe even doing some coding of his own), this would help a ton. Not only would he be able to share his expertise with the developers on these teams, but also his active involvement would boost the reputation of these projects, and make it easier for miners and full-node operators to choose to run their software.";7;0;False;timepad;def5xd5;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+just the same, 'money' is a central cause, if you broaden your description ;1;0;False;novanombre;deewfes;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"no, its not well understood. obvious, really.
+
+As for central banks being a viable practical solution - obviously they are or 2008 crisis would have resulted in ATM's being empty and people starving as economies failed.
+
+It does seem like u don't fully grok what you're writing or don't check before you submit.
+";5;2;False;7bitsOk;deenon9;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+It was FUD until you added some concrete reasons.   Thank you for taking the time to do so.;4;0;False;thezerg1;deetzxp;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Hi,
+
+I'd just like to clarify some things about Nakamoto consensus in this context. 
+
+First of all while Nakamoto consensus is often considered to be a direct solution to the Byzantine Generals Problem, this may actually not quite be the case.
+
+The Byzantine Generals Problem makes an a priori assumption about who the distinguished sender is (The sending general) and the goal is that all correct participants either agree on the general's message or that he is faulty. This problem is actually a Terminating Reliable Broadcast (TRB) in a Byzantine failure setting which is strictly harder than a set of processes wanting to reach consensus on a value or set of values in a Byzantine failure setting (there are some finer points here when some forms of consensus such as interactive consistency are actually equivalent and when not). I'll refer to this latter problem as **Byzantine consensus** since the term *Byzantine agreement* is ambiguous and in the literature often refers to either Byzantine Generals Problem *or* Byzantine consensus.
+
+Loosely speaking Nakamoto consensus is a mechanism for reaching (eventual) agreement or eventual Byzantine consensus by an unknown, possibly changing, set of participants in the presence of Byzantine faults, though the details and properties are much more complex and this is still an ongoing research topic in the scientific community. It is actually relevant over *what* you want to form consensus in this context - Nakamoto consensus over a distributed ledger that gets updated continuously has quite different properties to using Nakamoto consensus for reaching binary agreement. 
+
+This brings us to the two statements you made which are a misunderstanding about how consensus protocols generally work.
+
+> The big issue here is that Bitcoin was invented to replace the cumbersome, slow and costly human or user consensus in banking and finance with a predictable and more efficient machine consensus.
+
+""Machine consensus"" protocols have actually existed for quite some time. The precursory paper of the Byzantine Generals Paper (called Reaching Agreement in the Presence of Faults by Pease, Shostak and Lamport) was published in 1980 and may be seen as one of the very early works that played an important role in the field of distributed consensus. What you refer to ""machine consensus"" protocols are basically formalizations of what steps participants have to take to arrive at an outcome where certain guarantees are upheld. These can mostly also be conducted without computers by humans so the analogy is incorrect.
+
+The actual innovation of Nakamoto consensus and Bitcoin is that you have a **Decentralized** Byzantine consensus protocol where the set of participating nodes can readily change (and can be unknown!). Previous Byzantine consensus solutions generally assumed a static set of consensus nodes (weaker system models where only crash-failures can occur make dynamic membership sets significantly easier to achieve).
+
+Another important issue that has been creeping up recently in this context which I'm personally not happy with is the notion that fully validating nodes that do not provide proof-of-works (i.e. a non-mining full node) are consensus participants. By all means if you consider the mechanisms behind Nakamoto consensus the only way to extend the blockchain, thereby strengthening the agreement on previous blocks, is by publishing new valid proofs-of-work. A non-mining full node can only validate for itself and potentially gossip this information but in terms of the actual consensus only proof-of-work has any changing impact.
+
+> Now BU comes around and changes this single most significant breakthrough in bitcoin and goes back to a manually adjustable human ""consensus"" with all it's know downsides and with the need to trust the miners.
+
+The underlying problem here is actually very hard. 
+What you mistakenly consider ""human consensus"" is the problem that any node in a distributed system only effectively can trust itself that it runs protocol A and must assume that its peers are also following said protocol A. 
+Say there is another node that runs a slightly different version of the protocol called A' != A. Some of the behaviour may be the same but some may not. 
+Effectively A would consider A' a Byzantine node and vice versa.
+
+What you really want is consensus over the protocol rule set by participating nodes - that is to agree upon a protocol version C.
+Well how could one achieve this goal? The answer lies in proof-of-work and Nakamoto consensus. 
+Voting by computational power is an effective means to counter Sybill attacks and can support an anonymous and changing set of participants. 
+This is currently not done dynamically - i.e. the protocol rules your client adheres to is based on the software you chose to download and run and not through some evolving consensus process.
+
+I've been pondering about Gavin Andresen's definition of Bitcoin as basically the Chain with the most double-SHA256-proof-of-work that extends the genisis block and in this context it is a better definition that initially meets the eye.
+
+Sorry for the long post and I hope there was some helpful information here and there,
+
+
+";2;0;False;howbitcoinworks;deflvp8;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Yeah, I've heard this story before. I find it to be an *extremely* unconvincing argument. See the convo I had [here](https://www.reddit.com/r/btc/comments/5sq5fv/contentious_forks_vs_incremental_progress/ddzdy5m/) for an explanation of why that is.;13;1;False;Capt_Roger_Murdock;deekj8j;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+" > Some of the questions that arise are: what this will do to the existing bitcoin ecosystem? how the new ecosystem will arise and what problems might be caused by these new ""knobs""? and will this change effect the large economic power currently stored in bitcoins?
+
+This is more FUD in question format.  You could ask the exact same questions for SegWit, or even for doing nothing (and letting fees spiral out of control).
+
+>   ""Placebo Controls""
+
+The controls BU gives a node allow the node to affect ITS OWN operation.  Rather than being run over by the larger blocks, a node can choose to ignore the larger block fork.  You and the author of that article seem to think that the controls given to a node should be able to control the behavior of the rest of the network and therefore conclude that the controls are ineffective.  This is a fantasy in a distributed trustless network.
+
+> Permanent chain split
+
+No decision will ever get 100% agreement so a chain split is possible.  And a chain split can happen at any time given Bitcoin's architecture.  BU will be the majority fork by definition (it is programmed to follow the majority fork, so if BU is not the majority fork there will be no chain split).  But the real question is will the minority fork survive and be economically significant?  There have been many articles explaining why this will not be the case.  It basically boils down to the fact that a larger block chain can do everything a 1 MB block chain can do, but better.
+
+But if the minority fork succeeds, it must have found an economic niche (think darwinian evolution) that the other fork was not able to fill.  In this case it is better for Bitcoin holders to have a Bitcoin fork fill that niche than an altcoin.  This is the ethereum situation -- the fork persisted because there are 2 fundamentally different coins in philosophy.  One coin is truly trustless, the code is the law.  In the other coin, the ethereum foundation can unwind things if something goes really wrong...
+
+> Adversarial attacks by malicious miners
+
+Since BU is based on Bitcoin's Nakamoto consensus, the adversarial attacks are limited to what is currently possible (basically you need > 50% of the hash power).  And there are strong economic incentives for miners to not be malicious.  There are lots of other avenues for attack by entities that are not profit driven -- state actors could simply declare bitcoin illegal.  Other actors could artificially limit the transaction supply space to make Bitcoin's fees no better than legacy payment systems and its performance much worse.
+
+> Other points mentioned here
+
+I can't debunk every Aaron Von Wirdum comment here, but plenty of people already responded to this article.
+
+> Strength and size of the BU development team
+
+I don't think that you know anything about our strength or engineering experience, and very little about the Core team, so this is FUD.  And I am happy to provide my resume to any influential person or company considering running BU, I just don't feel like it needs to be plastered all over Reddit.   WRT size, there is a lot of research about how bigger is not better in software development.
+
+> malleability
+
+Once BU proves that hard forks can happen -- that the network can be upgraded -- solving problems like malleability are simple.  Malleability is a bug with a simple fix, IF you can change the transaction format.
+";11;1;False;thezerg1;deevu5f;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"with BU, only 0,7% of hash power is needed to wreck havoc on the network though!
+
+>An adversary controlling only 0.7 percent of global hash power could cause this level of turmoil about once every day. And unless the overwhelming majority of miners already agree on their EB anyways, that sweet spot to abuse the network should always exist. [source](https://bitcoinmagazine.com/articles/how-bitcoin-unlimited-users-may-end-different-blockchains/)
+
+";-8;2;False;viajero_loco;deejzcb;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"But miners can change the value of MAX_BLOCK_SIZE now - the only difference is that it requires a recompile.
+
+If you really believe that the only thing protecting us from malicious miners right now is the aforesaid malicious miners' inability to compile C++ source code, then you should give up on Bitcoin now.
+
+EDIT: Sorry, I misread your comment - I think we are in agreement here.";2;0;False;roybadami;defjyp8;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Yes absolutely! Related: https://www.reddit.com/r/Bitcoin/comments/5wvata/i_trust_bitcoin_core_a_lot_more_then_a_bunch_of/ded8jf9/;9;0;False;Capt_Roger_Murdock;deeidj2;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"No, you got it wrong. If you have to trust that it's trustless, it's not trustless.
+
+The only thing I trust are the laws of physics.";2;1;False;trrrrouble;deexcgk;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Surprise, some people here aren't developers or Githubbers. ;1;0;False;BitttBurger;def1wt5;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Last contribution from april 2016, not much happening there.;4;0;False;jerguismi;deeoc5n;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+You make me scared for the future of bitcoin......;-12;1;False;slvbtc;deenlid;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+[removed];-13;1;False;;deeobut;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"You know the BS/Core developers are totally dependent on politics.
+
+If you assumed all the technical aspects of BU and segwit is 100% sound. 
+
+what's left is economics and the BS/Core developers are politicizing those issues.";2;0;False;Adrian-X;deezw4k;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Unfortunately she can.;10;0;False;PilgramDouglas;deel63j;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+He was last active on Github three months ago. (You can check here: https://opensourcecontributo.rs/user/gavinandresen/events/1 );9;1;False;uMCCCS;deervmw;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+im sorry you feel that way;1;0;False;;deewuyp;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Once bitcoin is impossible to run on anything but a cluster, you have killed decentralization and censorship resistance.;-1;1;False;trrrrouble;deera8x;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+It is farily well understood that central banks are a fundamental cause in economic crises. It is only people with economic illiteracy who do not understand that mate.;-3;2;False;;deellit;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+I actually went through the code back in the day. True, I don't participate in code reviews today, maybe I should.;2;0;False;trrrrouble;def1t6t;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Please don't throw the word fact around like it has authority when you are too lazy to argue your point. Look at his link, there's an in-depth discussion on the issue.;10;1;False;_imba__;deem34q;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+I'm not an expert in any sense of the term. You would probably get good answers if you made a new thread with these questions. Perhaps make a thread in both subs to get a more balanced perspective. If you happen to do so, feel free to link them here, as I would b3 curious about the answers to your questions.;1;0;False;swinny89;defd27a;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"On a cursory examination by a layperson, looks nice. What are the reasons this isn't being merged into the reference client? Is there some conflict with another development? What are the risks? Does this introduce any new dangers?
+
+Also, this is a potential solution for large block propagation times, what about compute time as it relates to block size?";2;1;False;trrrrouble;def1982;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Neither BU Blocks nor SegWit Blocks are mined, you joker. ;1;1;False;Shock_The_Stream;defhddh;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Have you seen tests with compact blocks or other similar solutions? What do you think of this? https://medium.com/@peter_r/towards-massive-on-chain-scaling-presenting-our-block-propagation-results-with-xthin-da54e55dc0e4#.2e9ouxjyn;1;1;False;swinny89;def0ptm;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"> ViaBTC and others are mining with the BU implementation.
+
+they are not mining BU blocks. they signal for BU. Seems like you don't even understand those very basic but significant differences.
+
+>BU is Bitcoin. Core's backlog coin is the altcoin that is beeing tested at the moment. It doesn't work.
+
+yep, clearly bitcoin is broken and doesn't work. thats why the price keeps falling and all the darknet markets switched to ETH recently. /s";1;1;False;viajero_loco;defblao;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"A higher-end home internet connection must be able to handle the traffic. If it cannot, we have centralization. A higher-end home computer must be able to handle the computations. If it cannot, we have centralization.
+
+Where is that limit? Probably not 1 mb, but probably not much further than 4 mb. I'd like to see some testnet tests on  this.";1;2;False;trrrrouble;def0ao8;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+forks aren't going to be good for Bitcoin imho but if you don't care about Bitcoin then I see why you would advocate for BU;-1;0;False;BitFast;deeud7h;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+don't confuse reddit a centralized forum with Bitcoin kthx;-1;0;False;BitFast;deeuapn;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+">Emergent consensus is not new to Bitcoin.
+
+the degree of reality disconnection here is absolutely mind boggling!";1;0;False;viajero_loco;defcp6e;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"so you actually do agree with the fact, that BU replaces the nakamoto consensus?
+
+and people call that ""following (satoshi) nakamotos original vision"". literally replacing the core invention of bitcoin that bears his very own name.
+
+it really cant get anymore cringe worthy! it would be hilarious if it weren't so sad.";0;0;False;viajero_loco;deepxq4;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"ViaBTC and others are mining with the BU implementation. 
+
+> start your altcoin and then we can test your claims and my claims in real life.
+
+BU is Bitcoin. Core's backlog coin is the altcoin that is beeing tested at the moment. It doesn't work. ";10;1;False;Shock_The_Stream;deerxpo;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+If it's not about the crappiest nodes(which we can all agree is not a real issue for the usefulness/decentralization/scaling of Bitcoin), then where is the bottleneck specifically?;2;1;False;swinny89;deezr8p;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+You never know who's a maniac on the Internet. Better safe than sorry. ;3;0;False;steb2k;deev6c1;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"And presumably he would still find himself bankrupt thereafter.
+
+CoreCoin has nearly no value solely based on ""censorship resistance"". LiteCoin is equally censorship resistant. DogeCoin is too. So is Monero. So are hundreds of other potential coins. They're all 'digital gold' in a sense. They're all censorship resistant.
+
+When a better option to CoreCoin starts being widely used (Unlimited), CoreCoin will plummet to the value of most other alts. $15 or $20 tops. Most likely, closer to $0. And you can be kings of a crippled kingdom, one where Luke can run his node off his 56k modem and Intel 386. The rest of the bitcoin world will have moved on.
+
+Kudos for conning Blockstream into buying GreenAddress, BTW.";3;1;False;thcymos;dees18c;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Yes, Bitcoin doesn't need you and him. Censorship supporters are not welcome at Bitcoin. ;8;1;False;Shock_The_Stream;dees0nr;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"> ah, so the fact that BU exchanges the nakamoto consensus for the so called ""emergent consenus"" is not a fact anymore?
+
+Emergent consensus is not new to Bitcoin. It always worked like that. 
+New is the full block terror (consensus of the Politbüro members).";3;1;False;Shock_The_Stream;deepzxm;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"I take it you still didn't read it...
+
+>BU exchanges the nakamoto consensus for the so called ""emergent consenus"" is not a fact anymore
+
+ Thats not what anyone said, you, as well as everyone else talked about the impact of the swop, specifically human vs machine consensus and where the line lies. Stop with the strawman argument.
+
+And by the way, I am by no means convinced about what the correct approach for btc going forward is, but I am interested in arguments regarding the impact of any changes. This tribalism mentality really makes it hard to have a proper discusion on the subject.";7;1;False;_imba__;deepsll;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"I realize my point went past you but thats exactly what I'm saying. BU can't be rolled out before it hasn't been testet extensively.
+
+the only way to do that, is to start mining it. do it already. start your altcoin and then we can test your claims and my claims in real life.
+
+why are you so afraid?";-4;1;False;viajero_loco;deer23p;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Its not about ""the crappiest nodes"". Computational work increases exponentially with block size, not linearly.
+
+Bitcoin is nothing without decentralization. Go make your own govcoin and leave bitcoin alone.
+
+As it is already my node's upload is 2gb in 10 hours.";-1;2;False;trrrrouble;deesmph;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Kick you while you're down is not meant to be literal and I think you know that.;0;1;False;CosmicHemorroid;deetb4g;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Well you might have a financial Death Wish, I do not.;-4;0;False;CosmicHemorroid;deeszkf;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+presumably he would be selling because he believes that BU would lead to centralization and complete loss of censorship resistance;-5;2;False;BitFast;deerirl;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"ah, so the fact that BU exchanges the nakamoto consensus for the so called ""emergent consenus"" is not a fact anymore?
+
+seems like facts don't matter for BU supporters again and again. no news there. at least you guys are consistent in that regard...";-2;2;False;viajero_loco;deen6ja;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"> where are the tests that prove any of your unfounded claims?
+
+Where are the tests that prove any of your unfounded claims?";9;1;False;Shock_The_Stream;deepxmb;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Who says BU, or even just a slightly larger block size, has to be run on ""a cluster""? Most people have far better bandwidth than Luke Jr's 56k modem and 1GB monthly data cap. If people in the backwoods like him can't run a node, I really don't care.
+
+And why is decentralization of the main chain so important, when Core's ultimate holy grail Lightning will be anything but decentralized?
+
+Core has no answers anymore other than ""centralization"" and ""digital gold"". The notion of digital gold is perfectly the same with Bitcoin Unlimited, and the centralization boogie-man is speculative at best. It's not the end of the world if the crappiest of nodes no longer work with a larger block size.";9;1;False;thcymos;deerjh0;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+You should sell out before these freaks destroy the bitcoin price with their un-limitations. I'll even buy your coins from you at $200/ea, to help you save your wealth.;4;0;False;sojellyfish;deevdd4;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+">Then I will spit in your face and kick you while you're down
+
+I hope you get site banned for this.";5;1;False;steb2k;dees855;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"> so I shall certainly sell off
+
+Great. Censorship supporters are the least ones who should hold Bitcoins. 
+
+";13;2;False;Shock_The_Stream;deepvb3;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+I'm curious: where is this BTC Central Bank and how does it extend credit to anyone?;1;1;False;7bitsOk;deewjjp;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+where are the tests that prove any of your unfounded claims?;0;1;False;viajero_loco;deem9bu;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"All signs?  If you just want to say so; by all means.";1;0;False;;deexpzg;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Good for eth? Bitcoin is at parity with gold. and if it gets segwit price will go bonkers.;0;0;False;;deew9vi;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+">FTFU
+
+I read that as ""Fixed That Fuck You"" lol";5;0;False;BitcoinIsTehFuture;deegoxy;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+I like it when Gavin speaks his mind and steps out of the neutral zone;29;1;False;BitcoinIsTehFuture;deegsm7;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"It doesnt go down well here either.. imagine the mainstream media saying ""look theres 2 bitcoins now! See told you it was a joke"" because that will happen! How could anyone involved in bitcoin possibly want that to happen.. and why? Because they dont like the person on the other side?? Politics is BS, why destroy bitcoins (finally improving) image over school yard style, finger pointing, political in fighting.. its the most immature thing ive ever seen";-63;6;False;slvbtc;deeeczf;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"It's still not up on the other sub.
+
+I guess they want jratcliff's story to get some more play.";25;0;False;LovelyDay;deegzj8;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+You can blame it all on me, I was wrong;0;0;False;;def0sl9;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Appears he has.;12;1;False;HolyBits;deejsnd;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Gavin doesnt even develop for Bitcoin anymore. His 20mb fork proposal had basic math errors as well. He vouched for Craig Wright being Satoshi and he met with the CIA right before the real Satoshi disappeared. His opinion is deprecated.
+
+Dont forget about this one either: http://coinjournal.net/gavin-andresen-mike-hearn-will-be-the-benevolent-dictator-of-bitcoinxt/
+
+ ";-9;0;False;FluxSeer;deenacm;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+thats like saying central banks are a viable practical solution to economic crisis;-10;2;False;;deeinjt;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+yes.. and just how /r/btc is. ;2;0;False;;def2h0v;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Gavin goes to the CIA and Satoshi disappears.  Thanks Gavin.;-1;1;False;;deetppi;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Gavin is 1000% correct.  
+
+We need to give miners more control of the network to ensure they are happy.";-17;1;False;llortoftrolls;deeff6t;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+does bcoin support bitcoin unlimited?;1;2;False;agentf90;deelx1c;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+[deleted];-2;1;False;;deeq9xo;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Well this won't go down well in the censored sub, if the story is even allowed;59;2;False;novanombre;deeck4v;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+It's the Mr. Bean one again isn't it? ;12;0;False;Thefriendlyfaceplant;deej58w;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+BU will happen, it's just a matter of time. So so much with SW though which is already dead in the water. ;1;0;False;knight222;def2nly;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Wow, sort of surprised to see this. A few people have pointed out potential problems with BU. Haven't seen them all addressed. I would have liked to see Gavin discuss these before endorsing.;3;4;False;cypherblock;deee88z;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Looks like neither side will get miners majority support any time soon. Let's wait until fees reach 3-5$ then throw hard fork! It didn't kill Ethereum and with this thing what doesn't kill you make you stronger, free market and ppl with skin in the game will decide winner.;2;0;False;P4hU;deer4c4;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+I don't find this too surprising. I remember him writing somewhere that a good enough solution now is better than waiting forever for the perfect solution. I think I'm paraphrasing him correctly.;3;0;False;dogbunny;deeoaew;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"BU fixes the scaling debate once and for all time. This is so important. 
+
+Please run a full BU node if you are able to.";5;0;False;PatOBr1en;def8136;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"I'm running my full Bitcoin Unlimited node!
+";3;0;False;Annapurna317;def2ecn;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+If all arguments are set aside - whom do trust more - Satoshi's successor or  BlockstreamCore?;3;1;False;bitdoggy;deepahc;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Miners should (hopefully) wake up after the ETF approval pump & dump or ETF rejection dump & dump. BTC with 1MB max blocksize as a monetary product is shit. It has nothing going for it other than being first in the market with a giant headstart against the competitors. The supposedly ""Disruptive Technology"" is yet to put even a small dent in the legacy financial system. A technology whose success ends up liberating the entirety of humanity will end up being a technology whose failure to scale liberated a bunch of speculators.";10;2;False;bigcoinguy;deejjij;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Does Gavin contribute to BU or any other clients these days?;11;1;False;Blazedout419;deedxgw;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+I think most people are currently too busy with following the rollercoaster gif on the other sub.;31;1;False;MoBitcoinsMoProblems;deed9ah;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+A long term one too :). Thanks for your words Gavin!;16;0;False;Rawlsdeep;deect42;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Gavin right on the money as usual.;45;0;False;darcius79;deed32d;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"to the moon - Gavin when he first learned about BU he suggested mining on XT or classic and user nodes use BU - this is very positive news. 
+
+";21;0;False;Adrian-X;deed8m4;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Gavin please join BU team! I think BU team needs a recognized figure on the quality control.;31;0;False;xd1gital;deem0if;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Can someone explain to be how BU won't cause centralized mining to become even more centralized?  And if that was to happen, is that even a bad thing?;1;0;False;mikeyvegas17;deezno8;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"I have literally asked him that question four times in the last month. Including a private message on Twitter. 
+
+I even asked him directly in response to this tweet, publicly. He stays 100% silent and does not respond to me.";9;1;False;BitttBurger;deekgp6;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Sadly, he was too naive to realize that BlockstreamCore is an attack on Bitcoin.;16;1;False;MeTheImaginaryWizard;deej4gh;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"> BTC with 1MB max blocksize as a monetary product is shit. It has nothing going for it other than being first in the market with a giant headstart against the competitors
+
+Says who? With something like SegWit and Schnorr bitcoin will be getting a scaling boost that puts it far ahead of the competition. Aggregated signatures from schnorr is probably one of the most epic things to come to crypto currency in recent times. And bitcoin can have it, we have the developers who can make it happen. Just need SegWit. SegWit will also fix malleability, which enables lightning tech. It will also fix quadratic hashing - which again puts most bitcoin clones to shame, and allows for even bigger blocks. It is sad to see when people are saying bitcoin dont have shit going on for it they just need to open their eyes. ";2;1;False;;deercsn;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+No not FUD. Don't start down the track of nullc by attacking everyone that has questions or concerns. See my [reply here]( https://www.reddit.com/r/btc/comments/5x0p5k/gavinrun_bitcoin_unlimited_it_is_a_viable/deetce1/).;2;1;False;cypherblock;deetw2w;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"You are right. BU doesn't fundamentally change anything.
+
+>But by making this [block size] control more explicit and easier to handle, and assuming users actually use these options, Bitcoin Unlimited does rely on the human consensus aspect to a much larger extent. Rather than opting into a protocol once and relying on machine consensus from then on, users need to take on a much more proactive role. [source](https://bitcoinmagazine.com/articles/why-bitcoin-unlimiteds-emergent-consensus-gamble/)
+
+The big issue here is that Bitcoin was invented to replace the cumbersome, slow and costly human or user consensus in banking and finance with a predictable and more efficient machine consensus. The so called nakamoto consensus, a solution to the [Byzantines Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance#The_Byzantine_Generals.27_Problem)
+
+>Nakamoto consensus is a name for Bitcoin’s decentralized, pseudonymous consensus protocol. It is considered as Bitcoin’s core innovation and its key to success. **The consensus protocol doesn’t require any trusted parties or pre-assumed identities among the participants.** - [source](https://www.quora.com/What-is-the-Nakamoto-consensus)
+
+Now BU comes around and changes this single most significant breakthrough in bitcoin and goes back to a manually adjustable human ""consensus"" with all it's know downsides and with the need to trust the miners.
+
+This makes no sense whatsoever. It would be smarter to just stop using bitcoin all together.
+
+For more information, read:
+
+https://bitcoinmagazine.com/articles/how-bitcoin-unlimited-users-may-end-different-blockchains/
+
+https://bitcoinmagazine.com/articles/why-bitcoin-unlimiteds-emergent-consensus-gamble/";-8;2;False;viajero_loco;deejls1;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Putting the settings in people's hands is indeed a bold idea that is based on sound intentions (letting people decide what works for them). Some of the questions that arise are: what this will do to the existing bitcoin ecosystem? how the new ecosystem will arise and what problems might be caused by these new ""knobs""? and will this change effect the large economic power currently stored in bitcoins?
+
+Some of the more specific issues are:
+
+* [""Placebo Controls""](https://medium.com/@alpalpalp/bitcoin-unlimiteds-placebo-controls-6320cbc137d4#.4xy954a6h) or the idea that once AD is breached your node will accept any size block. So if you have EB at 2mb and AD at 4 then after 4 blocks of 3mb your node just goes along with any new block size. Now you have to reset your EB to 3mb and so on.
+* Permanent chain split and replay attacks/issues
+* Adversarial attacks by malicious miners
+* Other points mentioned [here](https://bitcoinmagazine.com/articles/how-bitcoin-unlimited-users-may-end-different-blockchains/)
+* Strength and size of the BU development team
+* How malleability will be fixed if at all
+
+In short, really understanding how these different settings play out in the real world is not well understood by most bitcoiners. Yes people will have different EB and AD settings otherwise what is the point?? What are the economically rational settings for these knobs?
+
+While BU ""doesn't really do anything"", one could also argue that all of software is about making things easier for people. Before word processors we had typewriters or pencil and paper.  So while it may seem like a small and also important thing to put people in charge of their own destiny, this will no doubt have an impact on security and value of bitcoin going forward. Had we started out with BU originally, we would have learned by now whether it works in the field. However, we did not so we must question this move thoroughly and not hand wave away these concerns.
+
+";1;1;False;cypherblock;deetce1;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+A lot of the arguments against allowing miners to decide this collectively among themselves  boil down to miners deliberately sabotaging the network, which goes against the central assumption bitcoin is based on (honest miner majority). ;19;3;False;cryptonaut420;deehhuf;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+THat's no true, you have to trust that it's trustless, but you don't have to trust anyone.;2;1;False;novanombre;deewcof;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Segwit, Schnorr, Lightning. Segwit, Schnorr, Lightning.Segwit, Schnorr, Lightning.Segwit, Schnorr, Lightning.Segwit, Schnorr, Lightning.Segwit, Schnorr, Lightning.
+
+Yeah. I'm sure you'll keep saying it for decades to come. Meanwhile ETH>$18.";2;1;False;bigcoinguy;deesg76;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"> Blockchain technology is here and fundamentally better than the legacy banking system.
+
+This is like the people who said that digital music downloads are here and fundamentally better than the legacy record label system.
+
+The legacy record labels are making profits hand over fist from digital downloads and have more control over the industry than they had in 1995, just as legacy banks will make profits hand over fist from blockchains.
+
+I agree the tech is disruptive but disruption does not always mean long term improvement for the customer or marketplace.  That is a classic error we technologists make.";5;0;False;jessquit;dees0gd;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Why ask when you can just look?
+
+https://github.com/gavinandresen";9;2;False;PotatoBadger;deekz3w;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Or he's just too diplomatic to say so;11;0;False;aquahol;deeqat6;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Sell your bitcoin and open an account with an AXA bank.;1;0;False;bitpool;def8u2c;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"> How could anyone involved in bitcoin possibly want that to happen.. and why?
+
+Because it feels very bad to be forced to stay married with totalitarian traitors of a libertarian project. That won't be possible. ";11;0;False;Shock_The_Stream;deeiajw;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"> look theres 2 bitcoins now! 
+
+That won't happen for long. If BU grabs 75% hashpower at some point, the remaining miners will switch out of self-preservation. Core can then deploy their ridiculous PoW change at that point to maintain bitcoin's analog of ""Ethereum Classic"" - something with little hashpower, little if any value, little trading on exchanges, and zero use among dark markets. Not to mention long confirmation times and a stagnant block size
+
+In other words, it won't be 2 bitcoins; it will be Bitcoin with Unlimited as the reference client, and Core's pathetic joke of a CrippleCoin with Keccak that will flame out within days. No Bitcoin user will have *any* reason to use CrippleCoin at that point. Even this idea of ""digital gold"" that Core supporters cling to is perfectly compatible with BU. So is SegWit. So is Schnorr signatures. So is Lightning, etc.";15;2;False;thcymos;deekzu7;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+[deleted];19;1;False;;deef1py;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Blockchain technology is here and fundamentally better than the legacy banking system. If Bitcoin is the implementation that makes the big dent or it is another blockchain is looking very uncertain.
+
+But if Bitcoin keeps failing to give its users what they want, then other blockchains will eat it for lunch. It is already happening, but Bitcoin has a chance to come back with its network effect and brand recognition advantage. But right now Bitcoin is definitely not the best blockchain from a technical standpoint.";5;1;False;mulpacha;deep02t;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+You can't be this ignorant unintentionally.;38;1;False;flamingboard;deefswp;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+you're ignorant if you think bitcoin splits over such a trivial issue. ;26;0;False;Adrian-X;deef3qy;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Coding again?;12;1;False;BitttBurger;deekfah;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"You don't realise core are team central bankers? 
+
+They're the ones constantly claiming some authority over bitcoin, they're the ones who believe they have a right to set the transaction limit as some sort of central banking economic tool. 
+
+If I wanted a currency run by central bankers with no economic expertise I'd buy naira. ";1;1;False;retrend;deemm40;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Actually, they are. I bet you also think a ""fee market"" needed to be created to save Bitcoin for the future ... Economic illiteracy is a major handicap in dealing with crypto-currencies and probably daily life.";4;1;False;7bitsOk;deekxo5;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Bitcoin is not based on trust.
+
+If trust is entering the equation at all, you are doing it wrong.
+
+
+Do not trust.";3;1;False;trrrrouble;deern6c;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"really, the cia knew about btc *and* gavin told us he was going. who was involved in btc slightly before and ramped up afterwards, who is easy to manipulate via politics ort religion, who was known computer hacker? 
+all signs say luke or greg is the cia plant";0;1;False;novanombre;deewege;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+😘❤️;13;0;False;BitcoinIsTehFuture;deegq2p;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+Does bcoin have some forn of fast block propagation yet?;1;0;False;LovelyDay;deessbm;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"Here's my standard take on the supposed ""potential problems with BU"":
+
+Basically, criticisms of BU boil down to doing the following: (1) pretending that people haven't always had the ability to modify their software to choose what size blocks to generate and/or accept; (2) ignoring economic incentives and imagining that people will set their settings in a completely arbitrary and economically-irrational manner; and (3) bikeshedding over the not-terribly-important details of BU's specific Accept Depth logic.  
+
+The reason that criticisms of BU fall apart under the slightest scrutiny is that BU doesn't really *do* anything.  It simply empowers the actual network participants by providing them with a *set of tools.*  More specifically, BU provides three simple configurable settings. These settings allow a user to specify the maximum size block they'll accept (the EB setting) and the maximum size block they'll generate (the MG setting) -- rather than having these limits ""hard coded"" at 1 MB each as they are in Core, which forces a user who wants to change them to modify the source code and recompile. The third setting (AD) provides a simple and *optional* tool (optional because it can be set to an effectively infinite value) that allows you to prevent yourself from being permanently forked onto a minority chain in a scenario where it's become clear that the network as a whole has begun to accept blocks larger than your current EB setting. (Once a block larger than your current EB setting has had AD blocks built on top of it, you begin to consider that chain as a candidate for the longest valid chain.) That's pretty much it.
+
+Or as another commenter explains:
+
+>BU is exactly the same situation as now, it's just that some friction is taken away by making the parameters configurable instead of requiring a recompile and the social illusion that devs are gatekeepers to these parameters. All the same negotiation and consensus-dialogue would have to happen under BU in order to come to standards about appropriate parameters (and it could even be a dynamic scheme simply by agreeing to limits set as a function of height or timestamp through reading data from RPC and scripting the CLI). Literally the only difference BU introduces is that it removes the illusion that devs should have power over this, and thus removes friction from actually coming to some kind of consensus among miners and node operators.";39;3;False;Capt_Roger_Murdock;deeg7vb;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"What potential problems?
+
+It's the usual and boring small blocker nitpicking to stall progress.";8;0;False;MeTheImaginaryWizard;deej5bl;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+FUD, don't make us guess what you think the problems are...;9;1;False;thezerg1;deeri9o;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+no. they leverage the current Core codebase.;6;0;False;solex1;deemvtm;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+you mean like /r/bitcoin **is**;1;1;False;novanombre;deewd5i;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848
+"FTFU
+
+>A few people have pointed out potential **FUD** with BU. 
+
+honestly what are the problems, - the biggest one that comes to mind is the censorship and false claims over on N Corerea. ";12;1;False;Adrian-X;deef61y;"Gavin:""Run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.""";https://twitter.com/gavinandresen/status/837132545078734848

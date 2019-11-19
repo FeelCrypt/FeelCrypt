@@ -1,0 +1,201 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+--s;1;1;False;marcoski711;d0dziq2;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"/u/gavinandresen /u/KoKansei /u/olivierjanss
+
+It will be translated into Chinese and published in CN community, confirmed by 8btc site admin
+
+(as when I asked if you dont translate it, I will). 
+
+
+Will let you know once the translation is done!
+
+*also community's feed back from China";23;1;False;nextblast;d0e40qf;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"> On-chain scaling puts every transaction on the block chain
+
+That's a false dichotomy. On-chain scaling puts _more_ transactions on the blockchain, but we could use both on-chain and off-chain scaling together.";2;1;False;Explodicle;d0esfga;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Thanks for this comment. I think EVERYONE in the community feels anger towards someone or something within Bitcoin. This is why boardroom meetings aren't live-telecast. Bitcoin is open source, and all its dirty laundry is there for viewing. Andreas spoke to this in speaking about Bitcoin's anti-fragility:
+
+https://www.youtube.com/watch?v=Rw8W92iIHZ8
+
+But we have a choice about whether or not to vent that anger on these forums. There's a chance for these forums to be productive and rewarding spaces. But that depends on us not standing in our own way because of anger. Basically: We can't let whatever anger exists (no matter how ""legitimate"") overtake the opportunity for meaningful dialogue. ";2;0;False;D-Lux;d0ec6y6;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Are you arguing coins with better fungibility mechanisms like Dash and Monero also sacrifice confidentiality with on chain transaction scaling? Because I think your pants are on fire.
+
+This is typical of core devs in this argument though - take a current technical limitation and instead of addressing it as its own problem, use it as the basis for an argument to support the status quo. ";1;0;False;nanoakron;d0euxle;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"""Debunked"" _in the specific case of large multipliers_. In the large-multiplier case, I agree that median is better. For small multipliers (1.5-3) I'd still prefer average (not that it matters much, but I really like the philosophical ""purity"" of having the ""state"" of the adjustment algorithms being extremely small, which an EMA can do, whereas with a median the state ends up including the previous 2016 blocks [and I'd argue difficulty adjustment should also be EMA; the ethereum blockchain's [extremely steady block time](https://etherchain.org/statistics/basic) imo proves the case]).";3;1;False;vbuterin;d0ek6wm;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+I still don't get the point you're trying to make in relation to my initial comment on the fact that most businesses want on-chain scaling.;1;1;False;knight222;d0es407;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"/u/gavinandresen /u/KoKansei /u/olivierjanss
+
+It's done and published: 
+
+http://www.8btc.com/bitcoin-classic-2016
+
+
+/u/KoKansei Can you help check if the translation is accurate?";15;7;False;nextblast;d0e6hkc;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"> When you really sit down and work through possible options with businesses, as I have done, they typically don't want on-chain scaling.
+
+Yeah? Which ones? You obviously didn't sit down with Coinbase, Xapo, Circle just to name the biggest ones who all support on chain scaling. 
+
+How scaling on chain transactions is preventing businesses to use Bitcoin for off chain usages? You're not making any sense.";8;1;False;knight222;d0f1c5s;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Find the time! The future of Bitcoin could be in your hands!
+
+;-)";5;0;False;AlfafaOfAnguish;d0dx6h1;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"When you really sit down and work through possible options with businesses, as I have done, they typically *don't* want on-chain scaling.
+
+Think about it: if you are a business, why would you *want* a solution that involves your competitors being able to figure out how much you are paying your suppliers, or how much your customers are spending on your product? On-chain bitcoin transactions, even when used well, do a piss-poor job of hiding this information. I know it may run counter to the mob wisdom of this subreddit, but this is actually *preventing* a number of industries from adopting bitcoin.";-1;8;False;maaku7;d0ewnqb;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Never forget [Poe's law](https://en.wikipedia.org/wiki/Poe's_law);2;0;False;tobixen;d0e91ui;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+/u/changetip 8888 bits;3;0;False;randomfoo2;d0edbwx;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Dude that pitchfork has seen better days, methinks you need to make a visit to the /r/pitchforkemporium .;2;0;False;ferretinjapan;d0e4d1u;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Then good riddance. Childish devs can go away.;1;0;False;knight222;d0elvi4;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Really great work -- thanks for stepping up.;3;0;False;D-Lux;d0ec2si;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+/u/ChangeTip 10000 bits;4;0;False;tepmoc;d0efoo6;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+I don't think taking the median of 2016 numbers is too complicated but you're right that an (exponential moving?) average is a simpler algorithm. I think the stability of a median is preferable but in the end both will probably work fine. In this case I was mostly interested, and I still don't have the answer, whether this change was a conscious decision or whether it's more arbitrary.;1;0;False;dskloet;d0f06i5;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+No businesses have use for commercial confidentiality?;-8;2;False;maaku7;d0ebigx;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Thank you guys! Although I think 8btc should take most credit. 
+
+Anyway, I'll keep my efforts translating / communicating to make the two largest bitcoin communities a bit more synced and close. ";5;0;False;nextblast;d0ed978;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Great stuff, man! /u/changetip $10
+
+The translation looks superb. Might I suggest 在链 as a possible candidate for translating ""on-chain,"" in the same way 在线 is used for ""on-line""? e.g., 在链交易 for ""on-chain transactions."" Just an idea! For me part of the fun of translating is occasionally having to invent new words. =)
+
+Edit: I see /u/kcbitcoin went with 链上. I guess that works, too!";12;0;False;KoKansei;d0eaia3;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+/u/ChangeTip $20;14;0;False;bdarmstrong;d0ea1pd;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Are you saying commercial confidentiality is the opposite of on-chain scaling?;2;1;False;nanoakron;d0eki7f;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Not sure to understand your point. Are you suggesting that Core devs listen only to businesses exploiting confidentiality? Are you also suggesting that big block proponants and Classic don't care about privacy?;7;1;False;knight222;d0ec6x7;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"What they most likely think is that a hard fork to 2 MB would open doors for further blocksize increases and hard forks. Thus they think it's risky and want to nip it in its bud.
+
+Also maybe more importantly it makes Core lose its control over the protocol development, which would make their long term plans for new features harder to implement.
+
+Of course I'm just speculating here. It would be interesting if one of the Core devs could shed some light on the real motivation for opposing 2 MB.";2;0;False;uxgpf;d0ext6f;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Nicely said. I think that's a valuable perspective.;3;0;False;D-Lux;d0ec9b2;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Right on!;5;0;False;swinny89;d0dzgc3;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Fly peacock fly!
+/u/changetip 1 peacock";8;1;False;MeowMeNot;d0dzmuq;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+There was no roadmap until now. This is firs proposal. Up until now there was only short term goal of increasing the block limit.;2;0;False;homopit;d0egsf1;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"*pecuniology* received a tip for 1 peacock (2,371 bits/$1.00).
+
+
+
+
+--
+
+[^^what ^^is ^^ChangeTip?](https://www.reddit.com/r/changetip/wiki/tipping-on-reddit)";3;0;False;changetip;d0dzn0j;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"What do you mean ""exploiting confidentiality""? I'm just talking about the need for privacy by all participants. Ideally there is no need for anyone except you and the person you transact with to know the details of who paid whom how much, or even that a transaction occurred at all. That's an ideal, and there's a whole spectrum of solutions with various tradeoffs trying to achieve that idealistic goal. In the space of possible options, on-chain transactions doesn't rate very well.";1;1;False;maaku7;d0epcgi;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"On-chain scaling puts every transaction on the block chain, with at best pseudo-anonymity and little value privacy, both of which can be compromised by people downstream of you. So yes, ""immutable public record"" and ""commercial confidentiality"" _are_ at odds with each other.";1;2;False;maaku7;d0ep6n9;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"*nextblast* received a tip for 4096 bits ($1.73).
+
+
+
+
+--
+
+[^^what ^^is ^^ChangeTip?](https://www.reddit.com/r/changetip/wiki/tipping-on-reddit)";2;0;False;changetip;d0e8nww;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+">Yeahh... I guess I should rephrase that to: Someone other than large block supporters having a conference ;)
+
+You might want to rephrase that again. :-P";4;0;False;Explodicle;d0e5e9v;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Can you eat gold?;2;0;False;catsfive;d0e0i7c;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+/u/ChangeTip 4096 bits;4;1;False;tobixen;d0e8ns9;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
+
+- [/r/btc] [We should stop saying its Core vs Classic, and start saying On-chain vs Off-chain](https://np.reddit.com/r/btc/comments/47m5np/we_should_stop_saying_its_core_vs_classic_and/)
+
+[](#footer)*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+
+[](#bot)";5;0;False;TotesMessenger;d0dwo6v;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+This.;1;0;False;D-Lux;d0ec9xe;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+**QUESTION:** Will we, the users, be able to watch that conference live on YouTube or something?;3;1;False;;d0eaegb;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"wow. I absolutely **love** this roadmap.
+
+It get's me excited, to-da-moon-style.
+
+I have some questions:
+
+ * regarding Weak blocks: miners constantly preannouncing the blocks they mine would greatly reduce 0-conf risk and ensure those business models can continue existing? I'm hoping RBF wont make it into Classic.
+
+ * I would love to see Peter Wuilles optimized secp256k1. Will it be included in the 0.12 version?
+";3;0;False;moleccc;d0een6h;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+[deleted];4;1;False;;d0dxl7i;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+What can an incentive be for a non-mining full node? It's all voluntary unless used for verifying your own/your business transactions. That's why I don't see a point of running a node used only for relaying transactions and storing a blockchain. Clients better to connect directly to miners, and miners need to put out more well connected nodes, like BTCC is doing.;1;1;False;homopit;d0egqn3;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Thanks, made the changes! Feel free to edit and submit a pull request if you see anything else.;3;0;False;olivierjanss;d0e3qe0;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+We just need to get this translated ASAP and posted on the Chinese forums.;2;0;False;dogbunny;d0dw5j0;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+It's should be stream live in contrast of Closed-Door-Dealing;3;1;False;speedmax;d0eapix;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+">But i think it is lacking privacy enhancement, normal users(not miners or companies) have been requesting it for years but Core/Blockstream is completely inert in this subject.
+
+To be honest Core has been working on Confidential Transactions (also adopted by Monero).";1;1;False;uxgpf;d0ezs92;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Glad to see that you're staying open minded.  Note that nothing in this roadmap prevents offchain scaling.  Rather the folks on this side of the debate believe that both are avenues that we should be pursuing in protocol development.
+
+Please pass the news on to others who might not be reading this sub!";4;2;False;SeemedGood;d0e7kmu;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+I would like to see some incentives for running a full node in that road map even if it's in the longer term...  ;1;1;False;Ghosty55;d0e7hwd;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Why are we even discussion about this roadmap or classic's roadmap? It's not comparable. This is a professional roadmap that answers the needs of the community / economy, expresses a clear agenda, shows several approaches to solve the problems and delivers clear time-goals.
+
+While the other roadmap is a confusing e-mail bei gmax about anything but scaling and without any clear time-goal (except SW ""asap"")
+
+";1;0;False;;d0eeiez;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+This is leadership in action!;2;0;False;SeemedGood;d0e7lmg;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"So happy that they chose Stephen Pair's ""Adaptative Block Size"" proposal for phase 3.
+
+I have been arguing for a dynamic limit since BIP101 came out.... it is the most reasonable solution.
+
+Overall this roadmap looks excellent. A **global peer to peer cash system** is indeed what we all hoped Bitcoin would become. Nobody (except a tiny segment of people already working in payments) cares about a faster settlement layer only accessible to big companies and institutions. P2P is what we are here for!";1;0;False;flix2;d0elyto;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+I will let my thermos decide for me;5;0;False;Btcmeltdown;d0e7nyg;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+I don't think we get to be bulls again until Classic starts approaching a majority. Still, it's nice.;3;1;False;AlfafaOfAnguish;d0dx376;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Did you really page all miners? Please do ;-)";1;0;False;AlfafaOfAnguish;d0dx3m9;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+I just read it as bullshit as fuck..... lol;4;0;False;Btcmeltdown;d0e7gbu;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Your last sentence make very little sense;1;0;False;btcmbc;d0e4d9r;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+[deleted];-14;1;False;;d0e6ks0;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+">On-chain vs Off-chain.
+
+Off-chain vs. On-chain **and** Off-chain";2;1;False;blackmarble;d0eh9nz;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"    The best leaders are those their people hardly know exist.
+    The next best is a leader who is loved and praised.
+    Next comes the one who is feared.
+    The worst one is the leader that is despised …
+
+    The best leaders value their words, and use them sparingly.
+    When they have accomplished their task,
+    the people say, “Amazing!
+    We did it, all by ourselves!”
+
+    Lao Tzu Tao Te Ching quotes (17)";9;0;False;catsfive;d0e09rf;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Very happy to see the dynamic block size in there.  This feels right.;3;0;False;loveforyouandme;d0e5u7w;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Great news. A friend was over when I read this, I'm glad to finally feel like I can speak of promise in Bitcoin's future again, rather than vilifying internal politics.
+
+Great Roadmap from the guys at Classic. Congratulations - I look forward to hearing how the Satoshi Roundtable goes!";3;0;False;Mbizzle135;d0e0zfy;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Someone should post this in North Korea;2;0;False;Btcmeltdown;d0e7zjz;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Good idea to call it ""*On-chain* Scaling Conference"", because that is a crucial detail that was missing from Bitcoin Core's several ""Scaling Conference(s)"" and ""Roundtable meetings"". I look forward to the governance and on-chain scaling proper hard fork. And I'm sure that the economic majority is too.
+
+This year will very likely be an exciting year in Bitcoin history as we evolve away from the tiny 1 MB limit. This is the road map that should have been written in the first place!";3;0;False;todu;d0e07p1;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+[deleted];39;3;False;;d0dy7hu;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Alot of ppl share the same view. But we need to take small step to break away from Blockstream gang. bitcoin is already at its knee.
+";4;1;False;Simplexicity;d0dy27g;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+And Lightning by a couple nanoseconds after that?;4;0;False;catsfive;d0e0k0s;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+I guess some recording would be good too.;1;0;False;uxgpf;d0f0ajj;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+There is only a white paper, no code;1;0;False;;d0ezvda;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"That's exactly how I feel. I actually prefer ""large block vs small block"" to ""on chain vs off chain"" because I think both on and off chain scaling are important. I guess I'd consider myself a moderate, and this roadmap reduces the risk of a slippery slope to unlimited block sizes.";2;0;False;Explodicle;d0e82qp;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Yep, Let BlockSteam own the sidechain market, Bitcoin Classic bring back Satoshi's Vision to scale on-chain.
+
+Both solution = Win-Win for Bitcoin Ecosystem";3;0;False;speedmax;d0ear6m;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Yeahh... I guess I should rephrase that to: Someone other than *small* block supporters having a conference ;)
+
+edit: oops.";1;1;False;AlfafaOfAnguish;d0dx13m;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+I used to think us smaller miners wouldn't budge if the larger pools didn't and that may still be the case but perhaps we can show them the way...  I'm willing to turn my few miners towards Classic and just maybe if enough of us do that the larger pools will follow!  Both waiting for the other to take the first step...  Let's take the lead and see what happens ;5;1;False;Ghosty55;d0e6bhk;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Thanks!;2;0;False;kcbitcoin;d0dxe4k;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Well, it's lot easier to support Classic now.
+
+These are much needed positive news.";2;0;False;uxgpf;d0ezzjx;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Certainly. And in fact, one could say that this is the first step towards developing it in public!
+
+I was just curious how the process occurred up until now.";3;1;False;toomim;d0dwlf8;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+I've been a Core supporter so far, but this is a really good roadmap. Definitely food for thought!;3;1;False;Explodicle;d0e5kd8;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Kcbitcoin, can you translate the whole roadmap ? I think its very important for the chinese miner to understand fully.;2;0;False;Btcmeltdown;d0e2rip;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Plz chill with the anger, it's contagious and it turns off everyone's higher brain functions. I'm not invalidating why you are angry, I'm saying it is likely hurting you/us more than helping you/us.;11;1;False;ganesha1024;d0ebk7r;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Thanks, that was my complaint too.
+
+1000 bits /u/changetip private";1;0;False;Explodicle;d0ej38x;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Sounds great. Let me know when it's up and I will translate the comments / feedback.;16;1;False;KoKansei;d0e4z5s;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Show me which *businesses* would not want on-chain scaling. Herm.. let aside Blockstream.;10;1;False;knight222;d0e8tvr;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Agreed, that would be maybe even better.;6;0;False;coin-master;d0e13c3;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+Can you ELI5 what's the difference between exponentially moving average and just average in calculating the next limit?;3;0;False;ommdb;d0dy470;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md
+"Harder
+Better
+Faster
+Stronger";3;0;False;Odbdb;d0dx4uz;Bitcoin Classic 2016 roadmap announcement;https://github.com/bitcoinclassic/documentation/blob/master/roadmap/roadmap2016.md

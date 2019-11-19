@@ -1,0 +1,61 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"u/cdn_int_citizen and u/Cherla
+
+below is a link to an explanation for the context of the quote you are discussing on r/bitcoin.
+
+https://www.reddit.com/r/btc/comments/5poe8j/can_any_bitcoin_unlimited_devs_preferable_peter_r/ 
+
+I am sorry I can not respond directly but along with many bitcoin enthusiasts who ask critical questions and BU proponents I am banned from r/bitcoin.";2;1;False;Adrian-X;dctbg6q;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
+"u/CBergmann 
+>depends on your point of view. For an investor, and for someone interested in sound money - yes. For the system to work - no. Sometime in the future it migh even be an obstacle for the system to continue working.
+
+you've got it backwards, Investors realize they don't read code, investors investing in in sound money know its not the centralized control of the code that protects the limit but investor interests. 
+
+making the 21M coins user configurable is not a threat nor is the developers ability to change it. 
+
+the non censored discussion is happening here:
+
+https://www.reddit.com/r/btc/comments/5poe8j/can_any_bitcoin_unlimited_devs_preferable_peter_r/";1;1;False;Adrian-X;dcsup3u;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
+body;score;nb_replies;stickied;author;id;post_title;post_link
+">These fees in the short term are almost irrelevant, the miners are still getting their primary income from the block reward.
+
+we know the blockchain is subsidized now - It's only with economies of scale in transaction volume and a resulting increase in block size that we can maintain or increase the existing level of security as the reward drops.  LN does not increase block chain use it increases the number of transactions users can do without paying fees to miners.
+
+this post is a good read :https://bitco.in/forum/threads/gold-collapsing-bitcoin-up.16/page-878#post-33579
+
+here is my take on fees:  
+
+it's a little frustrated to see all this attention on the fees. - just extrapolate limited block size and forced fee market growth in a liner chart and pick the point when most users abandon bitcoin, that's how the fee market ends.
+
+Now and for the practical future fees are largely irrelevant to scaling bitcoin, it's about increasing the network of users. I agree some mandatory fee is necessary in the case the network is being abused with spam but it need not be greater than $0.005 for fresh transactions to be effective.
+
+Bitcoin has an inflation subsidy given to miners to lubricate cooperation between network participants thus creating and giving the bitcoin network value.
+
+The subsidy comes from the inflation of the money supply paid by all those invested in bitcoin's success, it is a tax that subsidized security and writing of transactions to the blockchain.
+
+At the moment the cost per transaction is over 96% subsidized. bother sides of this debate are focusing on the fee per transaction as if it's too cheep or too expensive, that's not an issue today or in the practical future, nor is the networks under threat of huge blocks that can only be processed by data-centers.
+
+Looking at manipulating fees now is ludicrous and incredibly shortsighted, especially using fee pressure, created by limited block space, to justify a fee market.
+
+How can any rational person look at <4% of the bitcoin transaction cost and come to a definitive conclusion about what the total fee should be. Whatever method is used it will be wrong given the subsidy is decreasing by 50% every 4 years. An instant 50% increase in cost is sure to disrupt an existing supply and demand equilibrium in a free market no mater how predictable it is due to limited knowledge of every market participants future fee tolerance.
+
+If fees were an order of magnitude cheaper or more expensive they would still be largely irrelevant and most notably distorted by the subsidy. How can a free market determine a value for a service when the service is >96% subsidized.
+
+BS/Core Fundamentalists are being incredibly irresponsible by enforcing a fee market by limiting block size now and big block proponents are being naive complaining about the transaction cost when the fee paid is +-<4% of the subsidized cost.
+. 
+>I have a hard time taking this seriously.
+
+Core say it's not to get users to upgrade to segwit - although that is a what happens in reality so we have to trust them. ";1;1;False;Adrian-X;dct96ln;"Charlie Shrem on Twitter: ""If we don't implement bigger blocks ASAP, Paypal will be cheaper than #bitcoin. I already pay a few dollars per tx. Stop hindering growth.""";https://twitter.com/CharlieShrem/status/822189031954022401
+"> moving fee paying transactions away from miners and onto separate networks is undesirable and will impact the economy and bitcoin in a negative way.
+
+These fees in the short term are almost irrelevant, the miners are still getting their primary income from the block reward. Something like SW/LN is about making massive adoption possible in the short to medium term and having enough throughput to support this level of adoption. 
+
+If massive worldwide adoption *did* happen, then larger blocks are still required to give LN enough transaction throughput and as I recall, LN still requires two Bitcoin fees per payment channel. 
+
+If there are billions using Bitcoin at that point, those fees would begin to add up as channels would be opening and closing all the time. 
+
+But I'll admit I don't know where this will go emphatically but I've been on this Bitcoin ride for a while and SW/LN seems like a path forward to me. Is it perfect? Of course not and I would be surprised  if no compromises came even if BU were to be the ideological victor.
+
+> https://www.reddit.com/r/btc/comments/5p35z3/urgent_alert_key_compromised_upgrade_required/
+
+I have a hard time taking this seriously. We only have a potentially biased person asserting something happen with no actual evidence of such. What am I supposed to take away from this?";1;1;False;Next_5000;dct1un3;"Charlie Shrem on Twitter: ""If we don't implement bigger blocks ASAP, Paypal will be cheaper than #bitcoin. I already pay a few dollars per tx. Stop hindering growth.""";https://twitter.com/CharlieShrem/status/822189031954022401

@@ -1,0 +1,169 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"
+The bottom line is none of this would be a problem if mining was still being done on millions of people's CPUs around the world. 
+
+Large quantities of people tend to make proper important decisions.
+
+The only reason the developers have any pull right now is because mining is so centralized and too few people are making the decision whether to adopt what core wants.
+
+And that goes both directions. If there were millions of miners making the final decision, it may go full-bore towards SegWit. 
+
+But at least then I would feel comfortable that a large number of really smart people (with probably some dumb ones mixed in), made the decision. 
+
+The way the design intended.";1;1;False;BitttBurger;ddkx3de;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
+
+- [/r/bitcoin] [Are miners powerless to the consensus?](https://np.reddit.com/r/Bitcoin/comments/5t9dkd/are_miners_powerless_to_the_consensus/)
+
+[](#footer)*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+
+[](#bot)";1;0;False;TotesMessenger;ddl3mgz;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+">experience with Sphinx
+
+I haven't needed to use it yet but I'm aware of it. Not sure how much of a help I can be, but I'm willing to take a look. What's the weird behavior?";1;1;False;Garland_Key;ddk6z4b;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"Thinking there is a fixed hierarchy is where you went wrong.   CEOs code, Mark Zuckerberg, Bill Gates are probably the most successful ones.  Then theres the Steve Jobs, Woz combo, which again defies your worldview because without Woz's passion for building cool shit, Jobs wouldn't have anyone to lead the technical aspects.  
+
+If anyone here is overrating their importance in society, it's you. 
+
+Scientists build cool shit because they want to, and the rate of innovation is only accelerating because we've been actively reducing the barriers to entry by encouraging FOSS.   Did CEOs or managers think FOSS was a good idea???   Nope, It was a threat to their profits!
+
+FOSS is a movement of people that don't need permission or top down guidance to innovate and change the world.   Bitcoin is just another one of those projects that break the barriers to entry and allows the next generation of coders to build on top of our hard work for free.
+
+Our fight for decentralization ensures that Bitcoin remains accessible to developers in as many countries as possible for innovation.   We're still in the early days of Bitcoin, and focusing on hardforks and 20 cents fees is completely missing the forest from the trees.
+
+Miners will come and go,. eventually they'll be commoditized anyway.  I'm not worried about their health.  They appear to have entered into the game without understanding the system.  They're locked in an arms race(dynamic difficulty), and a race to the bottom at the same time(reducing block reward).
+
+They'll try fighting us a few more times before they realize they are powerless to the consensus.
+
+
+      ";4;2;False;llortoftrolls;ddkzpm7;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+[deleted];3;1;False;;ddjwt3l;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"In their Javascript notation, I would define an EventEmitter's event like:
+
+    .. js:function:: ClassName Event 'update'(item, other)
+
+But... Using that same syntax in their Python domain doesn't generate a function ID. I can't link directly to it.
+
+    .. py:function:: ClassName Event 'update'(item, other)
+
+The first one generates a method like [this](http://dev-docs.p2p.today/javascript/chord.html#js2p.chord.chord_socket%20Event%20%27add%27). But in the Python implementation, it generates [this](http://dev-docs.p2p.today/python/chord.html#py2p.chord.chord_socket)";3;1;False;ThePenultimateOne;ddk9xck;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"> Where does Ryan X Charles say that?
+
+I'm not sure if you know this, but Twitter is a public social media platform.  When you tweet something, everyone on the planet has a chance to access and engage with that tweet, unless blocked by the user.  Ryan X Charles doesn't afford me that right, the nature of Twitter does.  Block is meant as a protection against harassment and it was just abused by Ryan X Charles for whatever reason.
+
+>You'll now no doubt argue that /r/bitcoin doesn't make such claims either.
+
+No doubt: Where does /r/bitcoin say that?  Hint: it doesn't.
+
+>That strongly suggests that it's a discussion forum for bitcoin rather than a very specific interpretation.
+
+Unfortunately, reality doesn't operate in the way that you think it should - it operates in the way that it does.  A specific person founded the subreddit and it's controlled by moderators that were trusted by that original creator.  They get to decide what discussions take place there - not anyone else.
+
+Do you see how I'm using your own arguments against you?  Are you willing to concede that Ryan X Charles is a disingenuous hypocrite yet?  Again, the nuance is important.
+
+>You may not accept that view but surely you'll concede that the act of deleting comments without trace (without notifying the user as you found out yourself) is underhand.
+
+Hypothetically, if allegation x is true, I think that it would be courteous of them to provide a brief canned explanation so that people have a clear understanding of why.  This would solve a lot of problems and guarantee there are no misunderstandings.";2;1;False;Garland_Key;ddk3jlu;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"I don't see anything wrong with the syntax, so I'm not sure what's causing it.
+
+Might be a bug in Sphinx involving [inheritance diagrams](http://www.sphinx-doc.org/en/1.5.1/ext/inheritance.html).
+
+[You might have some luck here.](https://github.com/sphinx-doc/sphinx/issues)
+
+Sorry for being useless :D";1;1;False;Garland_Key;ddktveo;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+[deleted];1;1;False;;ddkehw6;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+Yeah, the inheritance diagram is a bug with my web host. They aren't copying some image files. What I was referring to was just underneath that mess (like I said, can't link directly to it);1;0;False;ThePenultimateOne;ddkuoz8;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"My argument is simply that Ryan X Charles is a douche and a hypocrite.  I understand the difference.  One is a platform for many to gather and discuss under specific banners and the other is platform for individuals to discuss publicly under their own banner.
+
+>As I said before, until you grasp that, there is little value in continuing this conversation.
+
+I've already admitted the differences and now I've explained them.  If you want to cower out of a discussion where you have to admit that Ryan X Charles is a hypocrite, then do it.  I'll accept my victory and go home.";1;1;False;Garland_Key;ddknueu;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+[deleted];1;1;False;;ddkq1zp;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+">'Them' implies plural. You've only listed one.
+
+Congratulations on pointing out something that doesn't help your argument in any way.  I apologize for not proof reading.
+
+>Is that the only difference you think is relevant?
+
+Why don't we fast forward to the part where you simply explain where you think my line of thought is faulty?  Please be specific, otherwise we're wasting each other's time, which you've made clear that you'd rather not do.";1;1;False;Garland_Key;ddkue36;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+[deleted];0;1;False;;ddjvxrc;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"Fair enough. I know the feeling.
+
+By the way, do you happen to have any experience with Sphinx (the python doc tool)? I'm running into this weird problem that I can't quite figure out.";2;1;False;ThePenultimateOne;ddk6lnn;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+Um... the comment doesn't *say* it was edited.;2;2;False;ThePenultimateOne;ddjw22d;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+Love him! So much!;2;0;False;new-ite;ddk7l92;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+So what's the difference between that and him simply not responding to you? Far as you're concerned, isn't it the same thing? And since one is *clearly* not censorship...;2;1;False;ThePenultimateOne;ddjwo8q;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+Is there a proof-of-burn forum, where you can choose to ignore the posters with a low burn rate?;1;0;False;ErdoganTalk;ddkjrso;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"Seems to me the guy that doesn't even know what the term ""opportunity cost"" means in Business, is the real idiot. 
+
+But I'm sure you can code something fucking awesome with your ""super awesome coding skills!""
+
+Because the real world is totally going to change for the better because of how good you are at C++
+
+Clearly you're smarter than all those idiots that know how to run businesses and make things actually get used by real humans.";3;1;False;BitttBurger;ddk4jq0;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+Thank you for the response Ryan.;3;0;False;BobsBurgers3Bitcoin;ddjvs2m;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+[deleted];1;1;False;;ddky1xy;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+Where the heck do you get this stuff from? Instead of dismissing the whole article outright and saying it has a hidden agenda, why don't you point out its specific flaws?;2;0;False;aquahol;ddk3ec7;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"Make any statement stating another core conspiracy, you get upvotes.
+Make any statement stating how awesome BU is, you get upvotes. 
+Make any statement about promoting segwit, you get downvotes.
+Personally, I feel that apart from a handful of people who advocate /r/btc, many are here to upvote/downvote and promte some chaos. 
+I mostly use r/btc when I am not allowed by the rules of r/bitcoin";1;0;False;sanket1729;ddkflg0;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+">So what's the difference between that and him simply not responding to you?
+
+Difference is that if I could respond to his comments, other people would be able to see them and engage.  When you're blocked on twitter, you're not allowed to see someone's tweets, follow them or engage in any discussion on their tweet chain.  Again, block was meant as a protection against harassment, not as a form of censorship.
+
+>Far as you're concerned, isn't it the same thing?
+
+No.
+
+>And since one is clearly not censorship...
+
+You've done literally no ground work to establish this claim.";1;1;False;Garland_Key;ddk4p3q;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+I meant /r/btc :D.;1;0;False;satoshis_sockpuppet;ddkfxo2;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+Reddit's been viciously banning and censoring people for over a year now.;3;0;False;BobsBurgers3Bitcoin;ddjvp8n;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+[deleted];3;1;False;;ddjv9ou;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+It's not noise, actually. It's all signal...except the signal is almost exclusively about conspiracies ;1;0;False;MotherSuperiour;ddk1bs8;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"Code runs the world dipshit.  Do you have any skills besides spewing your naïve world views? 
+
+Clearly I am smarter than these idiot businesses that didn't understand bitcoin's scaling characteristics.";1;1;False;llortoftrolls;ddk4u28;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"> When you're blocked on twitter, you're not allowed to see someone's tweets
+
+Ah. I was unaware of that part. I thought it meant they simply didn't see *your* posts.
+
+> You've done literally no ground work to establish this claim.
+
+So him ignoring you would be censorship? That was the claim there. I think you'd be hard-pressed to find anyone who agrees on that front.";2;1;False;ThePenultimateOne;ddk5t3w;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+That's what is meant by [ninja-edit](https://np.reddit.com/r/OutOfTheLoop/comments/1vb62u/what_is_a_ninja_edit_and_how_is_it_different_from/).;0;0;False;nagatora;ddk1jzi;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+An edit within a minute or two doesn't get marked as edited. I do it all the time when I save a reply only to think of a few more things I wanted to say.;2;0;False;justarandomgeek;ddjz6qg;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"LOL, epic response, but sadly way off base.  I'm sure it made you feel good, since I can tell you have some pent up aggression against smarter people than yourself telling you ""No, you're a fucking idiot and it doesn't work that way.""
+
+So here it is again.  
+
+Bitcoin is not going to hardfork to big blocks.  It's the dumbest thing you could ever wish bitcoin to do.   
+
+Nick Szabo explains here. 
+
+http://unenumerated.blogspot.hr/2017/02/money-blockchains-and-social-scalability.html
+
+So go get fucked, shit for brains.  BU is headed to the trash heap along with everything else you've been preaching for the past 2 years.   Too bad you didn't evolve your view of bitcoin and learn what makes Bitcoin great.  Instead you double downed on stupid, probably sold your coins when Hearn did, fomo'd the top and now you're paid by Roger Corp to spread stupid.";2;1;False;llortoftrolls;ddk9bs5;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+Lol. Judging by the response, you really hit a nerve there! *High five*;2;0;False;steb2k;ddkk8oz;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"Actually ~~/r/bitcoin~~ /r/btc has less noise imho.
+I don't miss the 50 meme posts every day, the price moves for more than 5 $.";5;1;False;satoshis_sockpuppet;ddjugsc;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+">So him ignoring you would be censorship?
+
+No - I guess I misunderstood what you were getting at.  Brain fried from coding all day and responding to /r/btc and /r/bitcoin comments.";1;1;False;Garland_Key;ddk6aou;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+">Actually /r/bitcoin has less noise imho.
+
+Yeah, that's what's being said.  Sure, /r/bitcoin has less noise, but it has censorship, preventing open discussion.  Fuck that.";5;1;False;ZombieTonyAbbott;ddjybmp;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+You are now a moderator of /r/NorthCorea;5;0;False;BobsBurgers3Bitcoin;ddjvw7m;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+[deleted];6;2;False;;ddk56n8;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+[deleted];0;1;False;;ddkk6he;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+Serious question. I prefer /r/btc due to the lack of censorship, but why not both? I've found good information on /r/bitcoin before, even if it's not the whole picture.;1;0;False;oarabbus;ddkeiu7;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449
+"> If I go to the effort of detailing where I think your reasoning is faulty, can I assume good faith and that you will try to understand in such a way that there is a *possibility* of you changing your mind?
+
+Accepting and adapting to new information is my default state.  Ask yourself the same question before moving forward.
+
+>We can do this by direct message if you prefer so that neither of us is under the scrutiny of an audience.
+
+I have no desire to hide these ideas from the public.  Stupid apes will be stupid apes - I'm willing to accept the continued backlash.  If you'd rather pm me, then please do so.";1;0;False;Garland_Key;ddkyp9i;"Cofounder and CEO of Yours, Ryan X. Charles on Twitter: ""I have to come out of the closet about something. I read r/btc, not r/bitcoin. Would rather have low quality than censorship.""";https://twitter.com/ryanxcharles/status/829147883047784449

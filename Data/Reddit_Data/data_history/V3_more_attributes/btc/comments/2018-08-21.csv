@@ -1,0 +1,3 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+You do realize you just replied to a 3 months old comment right..?;1;0;False;Okymyo;e4jmlpb;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"The activation threshold was 95% so realistically there are no ""old"" miners. And even if there were, segwit TX fails the isStandard check for those nodes, so they'd have to craft invalid segwit tx manually and include it.";1;1;False;0xHUEHUE;e4jlqcj;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/

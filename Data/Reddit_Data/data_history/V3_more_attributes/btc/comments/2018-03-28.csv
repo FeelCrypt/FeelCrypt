@@ -1,0 +1,128 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"Iirc there was a roll back when Bitcoin qt changed database formats too.
+
+Or more like a fork that then everyone quickly downgraded to fix";0;0;False;gburgwardt;dwdzlu9;Comedy gold over at r/bitcoin;https://i.imgur.com/btTEoOA.png
+"I support bitcoin and bitcoin cash , also xmr and every other crypto currency that sticks the middle finger up to the banking systems. Fuck them .
+
+ I don’t understand why bitcoin and bitcoin cash supporters seem to wanna argue over who’s is the best crypto . Surely we are all on the same side here . Maybe im missing something ? ";1;0;False;catnamedkAlamazoo;dwea72l;Comedy gold over at r/bitcoin;https://i.imgur.com/btTEoOA.png
+body;score;nb_replies;stickied;author;id;post_title;post_link
+Ok ok. You got me. You win the internet argument. ;1;0;False;basicchroot;dwebd0i;Ross Ulbricht turns 34 on March 27. It's his fifth birthday spent in a cage.;https://www.reddit.com/r/btc/comments/85y9im/ross_ulbricht_turns_34_on_march_27_its_his_fifth/
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"Does it work? Yeah, let's assume it does (there are still a few hurdles)
+
+Is it practical to do everything on the public ledger? Not really. There are a handful of uses that benefit greatly by moving off-chain and only settling on occasion to the blockchain. (Such as a pay-per-minute smart contract that signs a small value transfer hundreds of times per day)
+
+I look forward to the day when multiple approaches can be combined for the ultimate currency. (Bigblocks, LN, sidechains, ethereum-style contracts, blended pow/pos, etcetera). I'd rather applaud novel ideas and protocols then to say ""that is stupid, ___ coin does ____ better / without ____ protocol change""";1;1;False;klondike_barz;dwfbrg6;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+So? That doesn't make his posts less valid.;7;0;False;sweet-banana-tea;dwdz7in;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+I wouldn’t want to be any shopper who finds a sweater exciting.;1;0;False;Dead-Eyes;dwehxjc;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"My second paragraph is about keeping safe from fraud, not performing transactions.
+
+LN is an instant micropaymet system, it's designed so that you can purchase cheap services and goods instantly and securely. Your client opens channels to nodes with good uptime and good, cheap connections and fees.
+
+Running an LN node doesn't make you centralized. I can run one from my home internet connection and a low powered computer easily.
+Centralization is a spectrum, not a binary. LNs are slightly more centralized than regular bitcoin but very much less centralized than exchanges, web wallets, bitcoin payment services or any type of fiat payment processor.
+
+You wouldn't open a channel from your phone app to a friend's phone app, no. No one is claiming that. If you wanted to pay your friend for the pizzas you would route your payment to him via the lightning *network*.";3;1;False;Pretagonist;dwdz5zr;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+It would be nice, I agree.;1;0;False;N0tMyRealAcct;dwfnmi8;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"You do know why Satoshi called them confirmations and 0 confirmations mean no confirmation. 
+
+If they where not required to ensure that a tx is irresponsible why even put them in blocks? 
+
+0 conf is means by the definition of zero that it is not confirmed and this you are risking funds not being inserted into a block. ";0;1;False;mcr55;dwe3p2f;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"Yea I know. Getting a VISA card sounds awful. First I have to get a bank. Then I have to get my money into the bank. Then the bank has to have a separate deal with a large global entity allowing them to create this plastic and silicon card they have to physically send to me. And every few years I have to get a replacement. 
+
+Sounds awful.
+
+With bitcoin/LN I just have an app with my spending money on it. Scan a qr code and the payment is done. Of course I don't keep all my money on my phone, that would be silly. I have a hardware dongle, a ledger, where I have most of my money.";-1;1;False;Pretagonist;dweij6j;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Bitcoin isn't money?;-1;1;False;Mattcwu;dwehyub;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+[deleted];2;1;False;;dwebzhf;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+It means your crypto currency is broken and can't achieve any of its original purpose.;8;0;False;jdyhrberg;dwecbfw;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"I see receiving funds as a critical feature in a complete payment system. 
+
+You CAN receive funds in LN, you just need to run an always on server to do so. Being able to use neutrino for half the equation is nice but it does not eliminate the need for each user to run their own server. ";1;1;False;BMahon9;dwfl2jn;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"We should be allowed to choose the cheapest and best option for every payment. I left BTC because I needed cheap, fast, instant settlement. Bitcoin (BCH) allows me to do that - and direct Lighting channel when I have the right micro-payment requirement.
+
+The big worry of my post is that BTC is saying that LN is a fix-all, and on-chain scaling doesn't need to happen - the no hard-forks policy. If LN is only economical for sending, then it doesn't solve the scaling issue.";1;0;False;MountainKey;dwfe7g9;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"as the consumer, there are no transaction fees for me to get a visa card,  the security is outsourced to the Visa network (I don't have to do a ton of research on apps/hardware/encryption).  There are no transaction fees for the consumer to use a visa card.  Converting my dollars to visa is frictionless and has zero transaction fees.  If I were one of the proud minority who pays my card off monthly, the entire thing would be free to me. Your analogy fails on many levels.  
+";1;1;False;saconomics;dwelyoh;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"> You wouldn't open a channel from your phone app to a friend's phone app, no. No one is claiming that. If you wanted to pay your friend for the pizzas you would route your payment to him via the lightning network.
+
+People are claiming that, since that is the only way this network could have a truly decentralized topology, without dependency on centralized hubs (a.k.a banks).
+
+> it's designed so that you can purchase cheap services and goods instantly and securely
+
+You can do that onchain. That kinda is the whole point of Bitcoin.";4;0;False;caveden;dwe0vp6;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Hasn't anyone implemented bitundo for bch yet?;1;0;False;boldra;dwdzsfg;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"I specifically phrased it that I want some of my ""money"" available for LN transactions.  ";1;1;False;saconomics;dwelttd;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+That’s silly.  LN is a second layer scaling solution for BTC.  If there is no BTC involved, what value is being exchanged on LN?;3;1;False;Churn;dwectjd;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"What's the nonsense? LN is a new tech that is particularly effective at (only) a handful of usage cases, and in beta state. Improvements to the protocol and UI/UX will come with time
+
+It will excel at microtransactions and certain types of smart contract, but it's not going to be particularly beneficial for 1-time payments anytime soon (or ever)";1;0;False;klondike_barz;dwf7lq7;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"Don't generalize but that said LN doesn't scale bitcoin or make it more usable. 
+
+It's an innovative idea and all it's just wrong to insist on keeping the 1MB limit and claim LN is a solution capable of accommodating new users now.";3;0;False;Adrian-X;dwe6uae;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+It's funny that you don't think visa has fees. It's just that you don't see them.;2;1;False;Pretagonist;dwenqx2;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+">  but still don't feel like I understand it well enough to convert any of my money to bitcoin or bch or prl or anything else)
+
+Ok, I was just confused by this statement.  
+
+>  but still don't feel like I understand it well enough to convert any of my money to bitcoin or bch or prl or anything else)   
+
+It sounded like you were trying to distinct between ""money"" (fiat) and crypto in that sentence. I apologize.";1;1;False;Mattcwu;dwf5f6h;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"I think you are right but LN advocates will say just maintain a small separate wallet.
+
+I guess it's kind of like how I keep two months of bills worth of money in my checking account instead of my net worth.  Anyways I enjoy your posts and your name is ooooldd";2;0;False;erck;dwejlxb;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Yeah they haven’t needed anybody but sock puppets and noob parrots for the past couple of years.  It was a different place before the first halvening.;-1;0;False;laustcozz;dwe5g71;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Would that app run its own node? If not, wouldn't it require giving your private key to whoever runs the node? ;5;1;False;;dwe58oq;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"when we're talking about adoption, the consumer is key.  you have to hide the fees from the consumer.  Very few vendors (outside of gas stations) have different prices for visa or cash.  (I said it's free to me)
+";3;0;False;saconomics;dwenugx;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+It's liberating to be able to call out non-sense within Bitcoin again. Good to be here!;3;1;False;MountainKey;dwdy9xn;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"> 1. Your LN wallet will not have access to your BTC on chain.  
+
+Really?  You really thought this through?  Then you tell us all.  How will my BTC ever be transacted to ever pay the person on the other end of my channel?  Further, if LN wallets don’t have access to private keys, how could I trust the person on the other end of my channel?";1;1;False;Churn;dwe70gd;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+this period in time seems like just before release day the competition hacks your code so it looks buggy in front of your potential investors and makes you look like a tool. ;1;0;False;immortalslapdog;dwelum9;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+How about spending some fiat on spinning an LN node... it's the future;1;0;False;flowrye;dwersub;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+You can run your own node, but it doesn't have to be on your phone. ;1;0;False;boldra;dwdzn2t;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+They are, actually.;1;0;False;Anen-o-me;dwe4csp;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"That particular app uses a light node called neutrino developed by lightning labs.
+
+";3;1;False;N0tMyRealAcct;dwe9g1i;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+What if the coin in question confirms all transactions and has a mechanism (increasing block size) to handle increased demand;1;0;False;;dweihyk;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+It could be, we've seen on chain fees that high so yes empirically it could be true and in time it will be true after more users compete for block space.;1;0;False;Adrian-X;dwe70qe;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Neutrino isn’t a full solution. It cannot receive funds. You still need to run a full always on server to receive funds. ;1;1;False;BMahon9;dwexad6;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Geez imagine that, it doesn't fit every situation...;1;1;False;klondike_barz;dwf7cm1;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+What does spinning up a lightning node mean? ;2;1;False;abedfilms;dwe6m0d;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Why go through all that? Especially with multiple alternatives that don't require you to jump through as many hoops.;1;1;False;zefy_zef;dwdziis;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"Yeah technically you can be offline when you receive a payment, but in practice unless you trust the other person, or you don't exchange anything for the payment (eg. donation), you'd want to be online to see the transaction coming in at least.
+
+I think LN lends itself really well to person-to-business transactions, which is the right thing to optimize anyway as that's the bulk of the on-chain traffic.";6;0;False;0xHUEHUE;dwe0amu;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Shit is RETK by Core.;1;0;False;TruValueCapital;dwew9dy;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+I was specifically addressing the watchtower thing. It's the same energy impact compared to a wallet notifying you when you receive a bitcoin payment.;1;0;False;0xHUEHUE;dwdyv70;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"As an interested novice (I've been reading about Bitcoin since 2011, but still don't feel like I understand it well enough to convert any of my money to bitcoin or bch or prl or anything else).
+
+This sounds awful.  
+
+If I want some money available for LN transactions, I have to to convert some dollars to BTC (not sure how expensive that is today). then convert some BTC into LN.  I have to have 2 or more different clients running on my phone (if I'm going to buy a cup of coffee).
+
+What am I missing?  (Besides the gains if I would have bought in when I first started following BTC)";8;2;False;saconomics;dwe136y;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"This is one of the few shitposts I approve of, it's really this ridiculous, and not because the LN couldn't work eventually, but because **Bitcoin Cash is working seamlessly right now** and when BTCers say BCH is stealing the brand name what they are saying effectively is that they **can't compete with a better technology**. They can whine all day long that it's ""not ready"", but in the real world you can't tell competitors ""hold on I'm working on it!"".";0;0;False;unitedstatian;dweqhi5;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Months ago it was fun to lurk here and read the btc bashing. But you guys literally do nothing else. Just focus on BCH further development and growth. Don't waste so much time & energy bashing on a dead soon coin. ;1;0;False;amirmusa;dweom86;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"This is so 2018 Feb. In march they a thing called ""nanopos"" ";1;0;False;yogibreakdance;dwe3glh;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Holy shit that's funny 😂;1;0;False;Anen-o-me;dwe46ew;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+50 bucks isn't an exaggeration, that is historically how high the fees got on BTC, and can get there again.;4;0;False;Anen-o-me;dwe49wx;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Tabs;3;0;False;Anen-o-me;dwe472a;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"I don’t need to receive funds on my cell phone.
+
+Do you see that as an important feature?";1;1;False;N0tMyRealAcct;dwfkthc;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Weird, on-chain scaling works fine for thousands of transactions per second.;1;1;False;MountainKey;dwf8axe;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+i don't know what to say with this.;1;0;False;BTCMONSTER;dwexc8l;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Exactly! That's why Lightning Network is uneconomical: there are better, cheaper options, like Bitcoin (BCH).;1;0;False;MountainKey;dwdzq7f;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+If both sides of the channel must be online as in a phone call, what you say in your second paragraph only holds true if you keep your channels with always online entities. You know, like centralized services. The fake idea often sold of individuals opening channels between themselves wouldn't work.;2;1;False;caveden;dwdygx9;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+"It is, sure the client tries to verify things on its end but if all nodes it contacts collude to lie it's possible to perform a lot of different fraudulent things. You could easily hide the latest blocks at least.
+
+In any way SPV involves a lot more trust than running your own node. We mitigate this vulnerability by asking multiple nodes.";1;0;False;Pretagonist;dwdybnp;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+Holly shit hahahah it’s called commitment lolz;0;0;False;Boniya;dwebgag;Wouldn't wanna be this shopper.;https://i.redd.it/vzqlu8h4zbo01.png
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"Perhaps you're not using Bitcoin Cash to send money. It's cheaper, faster and simpler than almost all fiat-based alternatives. Bitcoin Core also used to be good, until Core/Blockstream messed it up while trying to ""fix"" it.
+
+As for the bankers and regulators, they usually just point out the failures at exchanges while conceding that blockchain is a better design and something they're investigating. ";1;0;False;7bitsOk;dweg1u5;"""We've tested Bitcoin Cash vs Lightning Network and... LN feels so unnecessary and over-complicated. Also, still more expensive than Bitcoin Cash fees - and that's not taking into account the $3 fees each way you open or close a $50 channel. Also two different balances? Confusing"" ~ HandCash";https://twitter.com/handcashapp/status/965991868323500033
