@@ -1,0 +1,173 @@
+"I don’t disagree with you at all. The point isn’t to compare gold with investments; rather, it’s to contrast gold with fiat money and show how fiat loses value over time - which is why things get more expensive in fiat terms. 
+"
+What are the odds of winning the lottery.
+"That I cannot tell, other proposals are made like FT, etc..
+
+"
+"I'm legitimately impressed by your ignorance. Enjoy your coin of choice.
+
+At least I can be confident that if someone without their own head up their ass reads this conversation, they'll understand basic math and see how wrong you are."
+You’re looking at it one sided. The original unspent outputs must exist first, before being used as inputs. Making the change the exact same as before batched or individual for for 100 transactions. Batching does not change the amount of change, even with multiple batched transactions that are 100. The bytes are exactly the same on both ends...
+"The number of outputs **per single transaction** raises... that is correct... if you batch 1,000 transactions into 10, each single transaction has 100 receiver outputs. It also goes from 1,000 transactions with 1 change output each to 10 transactions with 1 change output each.
+
+Therefore in that case, you dropped transactions by 990 (from 1,000 to 10) and outputs also by 990 (from 2,000 to 1,010 since each batch transaction has 100 receiver outputs and 1 change output)
+
+It's alright to admit you didn't understand this... I'm not explaining it to make you look stupid, I'm trying to educate."
+"Sigh you're a lost case here. I'm stupid because just now I realize that you're just retarded. I explained it myself and offered two sources but you still say that I'm wrong and also the posts (from Bitcoin BTC fork supporters) I provided are also wrong. Only someone retarded wouldn't understand such detailed explanation. The funny thing is that the outputs.today website was provided in one of those posts. 
+
+You've only had 1 argument from the start: ""I'm right and everyone else is wrong because I say so and I don't need to provide a source"". Just like you said earlier, since you can't provide another argument or source, my job is done here. You're wrong and you know it. I provided several arguments along with supporting posts. 
+
+But I do agree with you in one thing: I was wrong saying that you should be the Blockstream CEO instead of Adam. Even though I used the /s I admit it, I was wrong. Why? Because even though it would be great for you to be the CEO because it would mean that Blockstream would die faster, I don't want anyone to suffer the consequences of dealing with such person. I prefer Adam. Cya! "
+"I already explained it and you didn't accept it because that would require you to admit you were wrong. But let me allow someone else to do it again for me. But yeah you can just ignore this just like the first link. Go read:
+
+https://bitcointechtalk.com/saving-up-to-80-on-bitcoin-transaction-fees-by-batching-payments-4147ab7009fb
+
+Especially the part ""A more efficient way""
+
+> This allows us to create a quick function for computing the amount of bytes used per payment as **the number of payments (outputs) in a single transaction increases.**
+
+Yeah he must be wrong as well... This analysis was applauded and retweeted by Blockstream CEO for being awesome but yeah they're both wrong, just like me. You should be Blockstream CEO instead. /s
+
+ 
+
+Good night buddy. "
+I’m on my phone so it’s hard to do a thorough comparison but last 24hrs Bitcoin did 152,878 transactions. Ethereum did 730,528. Ripple has done 931,527 and i know steem and bitshares average over a million. So bitcoin tx volume is barely top 5 at *best*. The reason tx fees have gone down is because not as many transactions are happening on btc network (because it was so expensive). That’s what the fee is for, to make it expensive so fewer people spam the network. In bitcoins case, even sincere txs qualify as spam due to exorbitant fees. It’s cool. source bitinfo.
+"Non-change outputs relate to transaction fees. The amount of “change” should not change even if transactions are batched or not. This should explain it better for you. 
+
+https://bitcointechtalk.com/saving-up-to-80-on-bitcoin-transaction-fees-by-batching-payments-4147ab7009fb
+
+Direct quote I’m referencing
+
+> Looking closely, we can see that the only difference in byte sizes between a single payment and a batched payment is the number of non-change outputs"
+"> i would love to see data to back up the batching claim, I haven’t heard thats been widely implemented at all.
+
+In case you're serious about wanting to see it, and not just being patronizing:
+
+I could point to [ZebPay](http://bitcoinist.com/how-zebpay-managed-to-lower-bitcoin-transaction-fees/), [Quedex](https://bitcointalk.org/index.php?topic=2717636.0), [BitPanda](https://blog.bitpanda.com/full-segwit-transaction-batching-on-bitpanda-5c8c7daa21ca?gi=16559ea2bd71), [Shapeshift](https://info.shapeshift.io/blog/2018/02/22/shapeshift-now-batching-bitcoin-transactions), or a number of others... but it makes more sense to look to batched transaction count. Fortunately, Blockchain allows us to look that up by month. Check out the last four months:
+
+## Transactions with over 100 outputs, by month
+
+* January 2017: 6463 - https://blockchair.com/bitcoin/transactions?q=output_count(100..),time(2017-01)
+* February 2017 - 5538 - https://blockchair.com/bitcoin/transactions?q=output_count(100..),time(2017-02)
+* March 2017: 6486- https://blockchair.com/bitcoin/transactions?q=output_count(100..),time(2017-03)
+* April 2017 - 6837- https://blockchair.com/bitcoin/transactions?q=output_count(100..),time(2017-04)
+* May 2017: 7937 - https://blockchair.com/bitcoin/transactions?q=output_count(100..),time(2017-05)
+* June 2017 - 6615 - https://blockchair.com/bitcoin/transactions?q=output_count(100..),time(2017-06)
+* July 2017: 6754 - https://blockchair.com/bitcoin/transactions?q=output_count(100..),time(2017-07)
+* August 2017 - 6539 - https://blockchair.com/bitcoin/transactions?q=output_count(100..),time(2017-08)
+* September 2017: 6210 - https://blockchair.com/bitcoin/transactions?q=output_count(100..),time(2017-09)
+* October 2017 - 7562 - https://blockchair.com/bitcoin/transactions?q=output_count(100..),time(2017-10)
+* November 2017: 9885 - https://blockchair.com/bitcoin/transactions?q=output_count(100..),time(2017-11)
+* December 2017 - 15550 - https://blockchair.com/bitcoin/transactions?q=output_count(100..),time(2017-12)
+* January 2018 - 17141 - https://blockchair.com/bitcoin/transactions?q=output_count(100..),time(2018-01)"
+"I see a trend of increased batched transactions, however, that only explains some of the decline. 
+
+If we look at the USD value of outputs, you can see that has dropped off. 
+https://blockchain.info/charts/output-volume
+
+Given that the overall USD value of outputs and the decline in the total number of transactions, it would seem that Bitcoin is less popular as a form of payment. 
+
+Is there something I’m missing? "
+"From the link you provided:
+
+> The total value of all transaction outputs per day **(includes coins returned to the sender as change).**
+
+So if change outputs are lowered, it follows that if you include their value in the data, it should also go down."
+you are using a useless metric and i would love to see data to back up the batching claim, I haven’t heard thats been widely implemented at all.
+Not being patronizing that’s very cool. Will study the  txs. Thank you for the  detailed sources. If the batched txs really are making the chain efficient enough that the fees really are dropping significantly because of it I am very impressed. That’s a huge  deal and totaly counter my knowledge/intuition (and original snarky comment sentiment!).
+"> bitcoin tx volume is barely top 5 at best.
+
+""TX volume"" is transaction count. I'm talking about Volume, as in the actual value of all coins moved. By that metric, Bitcoin is number 1, as you should easily see from (like I already explained) go to CMC and sort by volume.
+
+> The reason tx fees have gone down is because not as many transactions are happening on btc network
+
+Yes, there are less transactions because transactions are now being batched by exchanges, lowering the overall transaction count massively."
+The discount is against what the price would be without segwit.  Nobody can tell you what that is but it's huge.
+"> the only difference in byte sizes between a single payment and a batched payment is the number of non-change outputs
+
+You're talking about individual transactions. Yes, a batched transaction which batches together (for example) 100 normal transactions has the same number of change outputs as the original transactions, while having a different number of non-change outputs than each individual original transaction.
+
+But when you consider the overall change, you've removed 99 transactions out of the 100. Those original 100 had two outputs (one to the receiver which is the non-change output, and one that is the change output) and you only need the one change output in the batch transaction, so you've gone from having 200 total outputs to 101.
+
+You lowered transactions from 100 to 1, and outputs from 200 to 101... each lowered by 99."
+Batch transactions don’t reduce the change outputs. They reduce the number of non-change outputs. 
+I appreciate the turn-around. I know how much misinformation is going around, so I'm used to people being very resistant to my claims. It's rare someone actually reads them and understands them enough to change their opinion. :)
+"> At least I can be confident that if someone without their own head up their ass reads this conversation.
+
+Oh that's why you never understood this in the first place, because you had you head up on your ass. Make sense. Yeah everyone will see that you were wrong when they see all my sources vs your ""I'm right, you're wrong because I say so"" attitude. Grow up."
+"> Batch transactions don’t reduce the change outputs. They reduce the number of non-change outputs.
+
+How do you figure? If I have an address that I'm sending money to 1,000 people from, and I'm not batching, each of the 1,000 transactions has a change output in addition to the receiver output. 2000 outputs total.
+
+If you batch those 1,000 transactions into 10 with 100 receiver outputs each, you only need 1 change output each, bringing your total outputs from 2,000 to 1,010.
+
+You just lowered transactions by 990 (1000 to 10) and change outputs by 990 (1000 to 10)
+
+-----
+
+I think your confusion is that you might think I'm talking about per-transaction, but I'm talking overall."
+no i’ve just noticed i’m getting more cynical every day. really thought batched txs were not prevalent yet. it actually is amazing for bitcoin lol!
+No, it does not. Simply because the traffic drop started weeks before e.g. Coinbase started batching. 
+although it is nice, does this really have the feasability to make money for the person running it? are people there buying and selling stuff in bitcoin at all? i just dont get the use of the ATM
+"No that's separate.  I've travelled there along with other parts of Central America and South America.  Costa Rica is full of backpacking hippies from America and Europe ""taking a break"" from school and jobs.  Tourism is their main economy."
+I'm not a shill lol 
+"Of [u/chairDesk692](https://www.reddit.com/u/chairDesk692)'s last **28** posts and **109** comments, I found **4** posts and **45** comments in cryptocurrency-related subreddits. Average sentiment (in the interval -1 to +1, with -1 **most negative** and +1 **most positive**) and karma counts are shown for each subreddit:
+
+Subreddit|No. of posts|Avg. post sentiment|Total post karma|No. of comments|Avg. comment sentiment|Total comment karma
+:--|:--|:--|:--|:--|:--|:--
+r/litecoin|0|0.0|0|4|0.15|2
+r/dogecoin|1|0.0|8|0|0.0|0
+r/Bitcoin|1|0.0|2|7|0.1|2
+r/btc|2|0.24|59|34|0.11|90
+
+***
+
+^(Bleep, bloop, I'm a bot trying to help inform cryptocurrency discussion on Reddit.) ^| [^About](https://www.reddit.com/user/cryptochecker/comments/7q3jum/faq_about_ucryptochecker/) ^| [^Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=cryptochecker%20bot) "
+Who did he scam?
+Your efforts are appreciated lol
+I'm pretty sure it's just the coke industry mang
+Easy there fuckwad.
+Busted. Let the downvotes begin
+u/cryptochecker 
+"SCAMMER
+
+https://imgur.com/a/qEJA5"
+"Costa Rica has tons of tourism. It's overrun by backpackers.  ""Middle of the Jungle"" isn't the same here as it is in other surrounding countries."
+[deleted]
+"Ask them to accept Bitcoin Cash
+
+*Lol at the downvotes. damn my life is ruined "
+Fair enough
+I see what appears to be a cash dispenser. Can you sell BTC to this ATM and withdraw cash?
+Going to live there now, all my accomodations have been met :D
+huge dip coming this week
+What's happening there in the jungle? Shall I pop over?
+Beware of anaconda attack while making transaction
+Cool. Does it offer Bitcoin Cash or just Bitcoin?
+Ah yes, btc returns to it's black market roots. <3
+Can we all just agree that place is the new heaven on earth
+"> Elev8 your life
+
+Ugh."
+this is just amazing
+Haha Envision is a typical white kid “hippy” festival. Not suprised to see this. LA folk 
+"From 2015. Still reflective of US Banking sentiment.
+"
+Could you elaborate?
+Lmao. Jamie dimon has caused the deaths of millions of people worldwide with his instruments of mass financial terrorism. 
+While giving an award to WW2 Windtalkers, Trump told them that he calls her Pocahontas.
+I don't think anyone on this sub thinks there is any reason to trust an Evil Bankster any farther than we can throw them, assuming we are throwing them off a cliff, and this is the Ur Evil Bankster himself, mister fSk the world every 5-7 years, practically the very villain that Bitcoin was created to slay. I have thought about whether crypto is a bubble, or if fiat is failing, and I have decided crypto is indeed a bubble, just because there is still no use case, or RL acceptance, and almost all Crypto is owned by the Crypto One Percent. Believe me, when fiat actually starts dropping in value fast, we will know, because all the prices will be going up. I think someday it will happen, and then the crypto-ing of the world can also happen.
+She’s not the smartest person out there... lol I love Dimon. He’s brilliant and also that line “So hit me with a fine, we can afford it,” is priceless.
+HAHAH fuck pocahantos 
+She doesn't have a clue
+a disgraceful move 
+These are the people we are supposed to trust. Leads to question if crypto market is a bubble, like they say, or anticipation of the US dollar dropping 99% value.
+pocahontas? 
+"Correct into 'hit me with a fee' and uncork the champeign!
+
+Bilderberg jargon?"
+I don't care what side you're on. Any time you see a politician promise to be a reformer, drain the swamp, a maverick or whatever and they're not talking about going after these guys, they're just more of the same.
+"While I'm not a fan of either, that line certainly is gold...
+
+Did it wake Warren up to the realities of the state though? Most likely not."
+I read SSD but my brain interpreted it as USB. That'll be normal one day too . Crazy.

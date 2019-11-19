@@ -1,0 +1,1176 @@
+is it possible to resign this so that Bitcoin Cash miners can take advantage of it?
+Yes, this is a known weakness in segwit that was never fixed.  It doesn't mean that segwit coins are _necessarily_ insecure, but it absolutely does mean that the security model for segwit coins is strictly weaker than for bitcoins.  
+"You're right about that: Most ""Core devs"" have made hardly any contributions to actual code at all. LOL!
+
+> /u/vampireban wants you to believe that ""a lot of people voted"" and ""there is consensus"" for Core's ""roadmap"". But he really means only 57 people voted. And most of them aren't devs and/or don't understand markets. Satoshi designed Bitcoin for *the economic majority* to vote - not just 57 people.
+
+https://np.reddit.com/r/btc/comments/4ecx69/uvampireban_wants_you_to_believe_that_a_lot_of/"
+">but the pt is that you'd have a majority hash suddenly on a previous implementation with a longer chain.
+
+But being a longer chain is not really a relevant metric when both chains are following different consensus rules. To the Segwit nodes, any miners not mining Segwit aren't mining Bitcoin. "
+"> Under what circumstances is the ""segwit data"" (witness data, presumably) separated from the blockchain? What exactly does that mean?
+
+It is in a different data block that gets delivered in a different request/response.
+
+The vulnerability ultimately hinges upon the main data block being delivered and available and the second data block being withheld and/or invalid.  The attacker can game the situation by pinning increased orphan rates on the correctly validating miners.
+
+But they can't do any real damage until they get 51% nonvalidating, and at that point a simple counter attack completely destroys the game theory payoff table and punishes all non-validating miners."
+Seems you have no clue how segwit works.  I would start by reading this: https://bitcoinmagazine.com/articles/segregated-witness-part-how-a-clever-hack-could-significantly-increase-bitcoin-s-potential-1450553618/
+The point is that it can be used to attack the network.
+"If your scaling solution hinges entirely on a feature that is optional and people don't want to use it because it's less secure (or worse, they do use it and then lose funds), then it's worth looking at other scaling solutions or at least solving the security issue.  Core have been selling SegWit as a scaling solution for a while because it enables ""bigger blocks"" and Lightning Network.  However, that's all premised on the idea that people use SegWit and solutions which build upon it.  They have simultaneously denied the community other scaling options."
+"> anyone doing serious business online had better run their own validating node anyway.
+
+> If anything this fixes an incentive problem with Bitcoin - we need more node operators.
+
+You say two true things here.
+
+Let's tie them together.
+
+In order to have more node operators, we need more businesses to be using Bitcoin.
+
+Now, earonesty, can you take the next step?
+
+To have more businesses using Bitcoin and running validation nodes, should we:
+
+1. limit onchain capacity, or
+
+2. increase onchain capacity
+
+c'mon man, you can do this...."
+Greg, I notice you posting all over any thread about yourself using both /u/nullc and your alt account /u/midmagic. Are you okay?
+"You don't have to receive 750kb due to compact blocks/xthin.
+
+You need to retrieve at minimum:
+
+1. Which txs are in a block.
+
+2. The non-sig data of txs not yet in your mempool.
+
+3. The sig data of txs not yet in your mempool. 
+
+With SegWit, 3 becomes no longer necessary to claim fees.
+
+Hence, as we can expect 3 to grow in the future, SegWit is less secure.
+
+Why I don't complain about other bugs? I do. But this is not some game where you can waive my arguments because I didn't distribute them fairly."
+"Interesting, I read the ""yes"" as to refer to the weakness, not on your supposed actions."
+"> Both Peter Todd and I pointed out that segwit is no different than non-segwit there.
+> 
+> 
+> To quote Peter Todd's post: ""but they're also realistic without segwit in those scenarios""
+
+""also realistic"" is not the same as ""is no different"".
+
+But fortunately everybody here knows your 'discussion' style. 
+"
+"How about  you address these flaws found by Bitcrust dev Tomas van der Wansem:
+
+Here's the blog post by Bitcrust dev Tomas van der Wansem where he describes the same flaw with SegWit - ""a simple yet disastrous side effect caused by SegWit fixing malleability in an incorrect manner"":
+
+The dangerously shifted incentives of SegWit
+
+https://bitcrust.org/blog-incentive-shift-segwit
+
+> SegWit transactions will be less secure than non-SegWit transactions
+
+> If the flippening occurs for the 20% smallest (e.g. most bandwidth restricted) miners, a 31% miner could start stealing SegWit transactions!
+
+> We cannot mess with the delicate incentive structures that hold Bitcoin together.
+
+Oh, I understand. That's just too hard for you to do. Instead you'd rather talk about Peter Rizun's job title and business associates. Oh and also some guy named u/deadalnix misattributed something in the Bitcoin Classic repo.
+
+Way to deflect, Bro.
+"
+"It's the result of the paid shills not being very smart. They read the first few words, decide whether the post is on ""our side"" or not and vote accordingly. This isn't a discussion, it's a popularity contest."
+"I think he was simply confused.  [The PR](https://github.com/bitcoin-core/secp256k1/pull/425) that removed the code cited that the existing code doesn't commit to the public key, it didn't go on to explain that in Bitcoin this didn't matter but we wanted to change the layering post segwit, and yadda yadda.  I can see how the PR text was a bit confusing and made it sound like the vulnerabilities it mentioned next were a result of the design feature it mentioned first, but that isn't actually the case.
+
+"
+"No, it's a review of the account's posting history that resulted in my down vote and the vitriol in the post itself.
+
+"
+"He was until Craig Wright schooled him in the basics of bitcoin mining:
+
+https://hoaxchain.com/media1.html
+
+Now apparently Craig Wright has cancelled plans to work with BU because Peter R is too stupid.  "
+[deleted]
+"And Peter Rizun also said another point - which of course you are very artfully failing to mention here:
+
+- Validationless mining with SegWit is _economically more incentivized_ than validationless mining without SegWit.
+
+Why?
+
+Because validationless mining _with_ SegWit lets you include _transactions_ in the block - and get the fees for that block.
+
+But validationless mining _without_ SegWit does _not_ let you include transactions in the block - so you cannot get fees for that block.
+
+This means the _economic incentives_ encouraging validationless mining _with_ SegWit are more powerful than _without_ SegWit.
+
+He proves this - using simple and obvious highschool-level mathamatics - in his video, here:
+
+https://youtu.be/hO176mdSTG0?t=687
+
+Frankly, if you haven't yet published a frame-by-frame response, attempting to address every point raised by Peter Rizun in his devastating video exposing the lower security of SegWit, then you're a miserable failure who is not doing his job as CTO of Blockstream, and as one of the prime people guilty of pushing this abomination of SegWit onto the community.
+
+There are a _lot_ of attacks described in that video _which are only possible with SegWit_.
+
+And just because I haven't taken the time to quote and discuss every one of those attacks here on Reddit does _not_ mean that those attacks don't exist - and does _not_ mean that there aren't attackers out there who are ready and waiting to perform those attacks, once a significant amount of money is using SegWit.
+
+So you are being grossly irresponsible here - and you're not even dealing with the major issues.
+
+Some guy like me, who posts breathlessly on Reddit about attack vectors I heard about that exploit SegWit - _I_ am not the main vulnerability here.
+
+The main risk is that _you_ - with your hubris and your pride, with your millions in fiat funding, with your censorship bubble that isolates you from real feedback - have carelessly allowed such deadly vulnerabilities to creep into your roadmap.
+
+There are now hundreds if not thousands of people who now know about the vulnerabilities which SegWit will introduce into your ledger (but fortunately not into _our_ ledger - Bitcoin Cash - because _we_ are smart enough to _avoid SegWit like the plague that it is).
+
+You're not going to fix any of that by engaging in a Reddit keyboard battle with me - since I'm just some guy that is doing my best to keep up on all these vulnerabilities as they get reported by devs who are in many cases much smarter (and much more psychologically ""balanced"") than you are.
+
+You _think_ you fixed the ""SegWit validationless mining"" attack vector, by posting some irrelevant link, talking about some ""voluntary"" signaling mechanism which you yourself admitted ""MUST NOT be strongly relied upon"" - but [Peter Todd already pointed out (succintly) that your so-called solution is _not_ a solution](https://np.reddit.com/r/btc/comments/6qdp90/peter_todd_warning_on_segwit_validationless/dkwvyim/), and I also pointed out (long-windedly) the same thing, [here](https://np.reddit.com/r/btc/comments/6qdp90/peter_todd_warning_on_segwit_validationless/dkwwc2e/?context=1) and [here](https://np.reddit.com/r/btc/comments/6qdp90/peter_todd_warning_on_segwit_validationless/dkwt5yl/?context=1).
+
+So you need to step up your game. The dynamic is different now.
+
+- Before, there was only one Bitcoin chain - the one you lorded over, forcing everyone into believing that your dead-end roadmap was inevitable, and your buggy SegWit was inevitable.
+
+- Those days are about to end as of August 1 - when we will finally have two Bitcoin blockchains: 
+
+   - Bitcoin Cash, which _preserves_ Satoshi's original definition of Bitcoin (""a chain of digital signatures""
+
+   - Bitcoin SegWit, which _destroys_ Satoshi's original definition of Bitcoin - replacing it with Core's dangerously bastardized definition (""Segregating the signature data allows nodes to avoid downloading it in the first place, saving resources."")
+
+From that point on, it's no longer going to be enough for you to write a few hand-waving comments on Reddit, bullshitting naive people into thinking you have any fucking clue what you're talking about.
+
+From that point on, people are going to be able to attack your crippled (1 meg) buggy (SegWit) shit-chain.
+
+And investors who foolishly trusted your handwaving will finally discover just what kind of dev (and person) you really are - when tens of billions of dollars evaporates on the Bitcoin SegWit ledger due to your incompetence and corruption.
+
+At that point in time, the new slogan is going to be:
+
+**Bitcoin SegWit investors jumping out of windows - Bitcoin Cash investors unaffected**
+---
+
+
+"
+"""also realistic"" is not the same as ""is no different"".
+
+But fortunately everybody here knows your 'discussion' style. "
+">I think he was simply confused. 
+
+>  I can see how the PR text was a bit confusing 
+
+Then why were you such an arrogant flaming prick about it? "
+"I could become a Bitcoin ABC dev, simply by (I don't know how this works, so I might get the process wrong) submit a PR to correct one letter from the ""bellow"" which should correctly be ""below"".
+
+If I had found this in the ""Core"" code and successfully got that changed and attributed to my github persona, I would then be considered a ""Core dev"". Then Blockstream could use this fact to include me in their disingenuous claims that ""hundreds of devs"" are writing code and are involved in the governance of Bitcoin Core.
+
+There are not hundreds of developers involved in the governance of Bitcoin Core, there are maybe, a couple dozen that are involved in the governance over any length of time and mostly less than a score. Of that score the majority of those involved in the governance are employees, contractors, partners, or founders of Blockstream.
+"
+"> in a different data block that gets delivered in a different request/response
+
+Can you be more specific?
+
+In [this article](https://bitcoinmagazine.com/articles/segregated-witness-part-how-a-clever-hack-could-significantly-increase-bitcoin-s-potential-1450553618/) that was just referred to me by /u/cryptorebel it says that the segwit witness data is sent to non-segwit clients who interpret it as ""meaningless text"" and ignore it.
+
+If old/non-segwit clients receive the witness data, how can it require a separate request?
+
+I think you're confusing the fact that the witness data is moved to a different *part* of the block with it being moved *out* of the block."
+"I have read that...
+
+> Segregated Witnesses are completely ignored by old nodes, but recognized by new nodes. Moreover, the data they carry is not hashed along with the other parts of a transaction into the transaction ID
+
+...
+
+>  the Segregated Witness Merkle Root changes the transaction data of the coinbase transaction, its transaction ID, therefore influences the block header and, ultimately, the makeup of the blockchain.
+
+You seem to have taken ""out of the transaction hash"" to mean ""out of the block,"" but that's not the case.  It's in the block, and it's in the hash, leaving... what?  So in what sense is it ""separated from the blockchain""?"
+"> The point is that it can be used to attack the network.
+
+Lots of things can be used to unsuccessfully attack the network.  Bitcoin is designed around them.  All attacks cost the attacker and non-validating miners a very large amount of money and have essentially no ability to disrupt the normal operation of the network.  This isn't any different and at most involves requiring 1 extra confirmation for SPV nodes to ensure validation-less fork isn't likely to be orphaned."
+"1. Less secure doesn't mean insecure.
+2. Less secure doesn't mean people won't use it.
+3. Cheaper transactions mean that people *will* use it.
+4. SegWit doesn't preclude other scaling methods."
+lol...
+Love this reply!  This is such a fundamental point that so many people seem to miss. 
+"To have more businesses using Bitcoin and running validation nodes, should we:
+
+1. increase capacity onchain, making it harder to run a full node, or
+2. increase capacity offchain, not making it harder to run a full node"
+"You keep trying to deflect from your _own_ problems which _you_ have created with SegWit - in this weird attempt to make everything about Peter Rizun. 
+
+You sound like Trump constantly trying to deflect all the time talking about Hillary or Obama.
+
+Grow the fuck up dude, and try to act like the CTO of a major corporation. 
+
+Start by admitting that the ""SegWit validationless mining"" attack vector can be exploited to append invalid transactions to the chain.
+
+And then follow up by discussing realistic alternatives which could _prevent_ this.
+
+We're dealing with a market cap here in the tens of billions of dollars  - which could be jeopardized by the ""SegWit validationless mining"" attack vector, exposed by three respected devs.
+
+Investors are not going to be impressed if they see you continually engaging in these highly unprofessional attempts at distraction, saying ""Look over there! Peter Rizun has a weird job title, and he works with someone controversial!""
+
+Address the fucking point: the ""SegWit validationless mining"" attack vector, exposed by three respected devs.
+
+Or be prepared to see your reputation as a ""professional"" and as a ""CTO"" continue to get flushed down the toilet."
+"> You don't have to receive 750kb due to compact blocks
+
+Compact blocks sends is only usable with full transactions (they use the witness IDs), and provides you with the witnesses.
+
+You have completely ignored my point about miners communicating a few thousand byte output bloom filter.  Why have you ignored this point?  As it shows, signature data has never been necessary to ""claim fees"", directly refuting your conclusion.
+
+> Why I don't complain about other bugs? I do. 
+
+Show us; I'll gladly retract my remarks on that front and apologize if you can show you'd complained even half as vigorously about the far more concerning validationless behavior in other implementations.  I looked, however, and could find nothing.
+
+> But this is not some game where you can waive my arguments because I didn't distribute them fairly.
+
+I am not complaining about fairness, I am complaining about your intellectual integrity.   You are making a big deal about a rather obscure corner case (which you are also wrong about), while apparently ignoring BU and Classic directly building in validationless behavior, or classic's ""flexible transactions"" making the same split, since it also segregates the witnesses from the txids ... I think this shows that you are maliciously exaggerating your concerns for political reasons, and as a result providing a distorted and disingenuous expression of your views.  This is important because many people here do not have the time or background to understand the discussion on its technical merits, and they will worry about it if you say it's important.  In order to give them a truthful perspective it isn't sufficient that I show how you're wrong about the technology, I must also show where you are being misleading about the general level and class of concern."
+"Ydtm, why do you 'cite' your dishonest repetitions of the source material, rather than the [material itself](https://np.reddit.com/r/btc/comments/6qdp90/peter_todd_warning_on_segwit_validationless/dkwvyim/)?  Do you think the reader's here are so stupid that they'll believe your claims are proven true just because you linked to where you wrote the same thing a few minutes before?  I don't.
+
+Peter Todd was saying that _validationless mining_ isn't fixed.  But he was quite explicit that it isn't changed by segwit: ""but they're also realistic without segwit in those scenarios""
+"
+Peter__R is just parroting scammer craig wright and his paid shills...
+Umm...see the OP, the one whose comments you're typing in?
+"Have you watched the talk?  I was skeptical, too, before I did.  I suspect if you watch it you'll find that the point Peter is making is not *quite* what you're assuming it's going to be.
+
+EDIT: Just to add: I'm a big blocker, and I have a lot of respect for Peter Rizun's work. My point is just I had preconceptions about what he was going to talk about. You know how it is - there's so much being put out in this space, it's easy to ignore stuff assuming it's making a point you're already familiar with. If it was anyone other than Peter I probably won't have bothered to listen to the talk - I'm glad I did!"
+Why is it that the only way you seem to communicate is by insulting me? Is it something I've done? Are you capable of normal technical discourse?
+"The reasoning you make there is flawed.
+
+They cannot just sync txid's with  because they cannot verify which outputs are spent. Pre-SegWit, they can *only* verify which outputs they spent after downloading the full txs.
+
+Similarly, the  compact blocks argument and pre-synced txs is certainly a softening factor as I clearly explain in my post, but it doesn't solve the problem."
+"As noted in the linked thread it's not addressing the case of malicious miners, so the weakness remains.
+
+> Disagree with it if you like, but Peter R and ydtm both dishonest claim that I ""admitted and agreed""-- the direct opposite of the truth!
+
+Peter's comment does not mention anything of ""admitted and agreed"". Simply that the weakness remains.
+
+> I mean how freeking clear do you need ""This was resolved a long time ago"" to be?! 
+
+Since you're not addressing the malicious miners attack in SegWit I guess you need to be more clear."
+"You tell 'em Greg!  Peter R is the biggest idiot in Bitcoin.  He claims that ""a bitcoin is defined as a chain of digital signatures"" and cites his fucking hero ""Satoshi Nakomoto"" as though we haven't learned anything since 2009.
+
+A segwit coins is _better_ than a bitcoin because it is _not_ a chain of digital signatures as defined by Satoshi.  This makes the protocol way more flexible and will allow the developers to do all sorts of cool things in the future.  Peter R only thinks the security is weaker because he doesn't realize that it is FULL ECONOMIC NODES that make bitcoin secure NOT FUCKING CHINESE MINERS.  
+
+"
+Apparently not...
+"> Projection in perfection.
+
+Like that time Greg inadvertently admitted that he stays up at night thinking about how Bitcoin could be ""jammed up?"""
+"> I say ""This was resolved a long time ago"" and give a link
+
+Yeah, and then Peter Todd (briefly) and I (long-windedly) exposed the fact that the problem was _not_ resolved, ever.
+
+Seriously, dude - how stupid do you think people are?? Peter Todd's response - saying that your link did _not_ solve the problem - is printed in black-and-white at the top of this thread. 
+
+Do you think you can just lie to people's faces like this? Do you think people don't know how to _read_?
+
+---
+
+Plus, not only did Peter Todd say that your link did _not_ solve the problem.
+
+I also said the same thing, in 3 other longer comments which I wrote - demolishing your bogus claim that the ""SegWit validationless mining"" attack vector had been ""solved"":
+
+https://np.reddit.com/r/btc/comments/6qdp90/peter_todd_warning_on_segwit_validationless/dkwukgm/?context=1
+
+https://np.reddit.com/r/btc/comments/6qdp90/peter_todd_warning_on_segwit_validationless/dkwwc2e/?context=1
+
+https://np.reddit.com/r/btc/comments/6qdp90/peter_todd_warning_on_segwit_validationless/dkwt5yl/?context=1"
+">  He claimed to, but that isn't really true. The trivial 'change' he made was adding the pubkey to the hash, but it Bitcoin the pubkey is part of the message hash already; so nothing was functionally changed.
+
+actually verifying it is beyond my level of expertise, so you are saying that he only added the pubkey to the hash, but since its already part of it, functionally nothing changed.  So, he made the small trivial change just to avoid claims of copying and not needing to attribute?  Or he is just confused/made some mistake and thought he fixed something but in reality he didn't change anything?  
+
+Well, I guess you would have to be psychic to know that, but do you have any opinion on which scenario you think it would have been?
+"
+"> Making a trivial change
+
+Isn't this what created some of the most important Core developers? Those that make trivial changes to correct grammar in comments?"
+"I have not, but then I don't follow his every post like he's some kind of messiah; quite the opposite in fact. I did not down vote a single one of his posts in this thread until I saw that self-aggrandizing Edit. 
+
+Here's my issue... I am a dick. **All** my friends tell me this. I'm a dick because of the way I communicate, both in-person but especially in print, is forceful and comes off as condescending (even when it's not meant to be). But holy fucking hell, I have nothing on the way Greg communicates. 
+
+It's like he goes out of his way to compose his messages in the most condescending and obfuscating manner possible. If he's admitted to an error (I'm sure he has at some point and I'm sure if he reads this he'll have some links to post to show that he's admitted error, but those proofs will be hollow) I haven't seen it. When you point out the errors that his own words convey, he denies, denies, denies. Because of these traits he has, because of the github mis-attributions (I was involved when it was first noticed), because of the shenanigans at Wikipedia I simply cannot trust this person. For close to 4 years I have not seen him exhibit an ounce of honor."
+"clearly the one that has retained the chain of signatures; as originally envisioned by Satoshi."
+"One of these days we'll all be filthy rich and cracking up over stories of ""remember that time when Greg Maxwell said...""
+
+Looking forward to it"
+"> But those blocks would be invalid according to Segwit
+
+of course.  but the pt is that you'd have a majority hash suddenly on a previous implementation with a longer chain."
+"Followed your link, show all, Ctrl-F merkle ... merkel ... tree ... no results.  So, literally nothing about that, but that would still be changing the subject, anyway.
+
+Under what circumstances is the ""segwit data"" (witness data, presumably) separated from the blockchain?  What *exactly* does that mean?  Can you show me the difference in a hex dump?
+
+> Segwit separates the data into 2 merkle trees
+
+Each block has exactly one Merkle root.  If you mean that the tx hashes and the witness data are each hashed together first before then being hashed together to form the merkle root... so what?  That's how a Merkle tree works.
+
+In the sense that a SW block contains ""two Merkle trees"", it's also true that there are some `log2(transactions)` Merkle trees in every block."
+What is the metric here? I honestly don't have  time to sift through videos and huge threads.
+"> if you read the OP carefully you will see segregating the data has other consequences that change the Nash Equilibrium. 
+
+I read it, I even started working on the game theory payoff table as I was initially convinced.
+
+Until 51% turn off validation, the attacker must increase his own orphaning rates to try to coerce validating miners to turn off validation.  After that moment the Nash Equilibrium is completely ruined the first time a counter-attacker punishes the miners who are skipping validation.
+
+> It has to do with the latency of the segregated data and how it permeates though the network.
+
+That doesn't matter when most nodes, particularly merchants and exchanges, will not treat a segwit block as valid without valid witness data.  If an attacker and 51+% of non-validating miners attempted to do this they'd be forking off to form a theft-coin fork which would then have to compete in the marketplace against Bitcoin.  Exchanges would not follow it, and it would have no price.  Since a miner turning off validation is not even comparable to a miner deciding they are going to support a risky theft-coin fork, the non-validating miners would defect almost immediately and turn validation back on.
+
+The attack COULD cause re-orgs on the main chain but only up until a counter-attacker forks all of the non-validating miners off to punish them for skipping validation.  At that point the game is over, as the non-validating miners won't make the same mistake again after the huge losses it caused."
+"> My point is this can only get out of hand with segwit transactions. If there has been no or very few segwit transactions, the post does not apply.
+
+It doesn't matter, because miners who attempt to take segwit outputs end up on their own chain.  Peter R's attack has a simple counterattack that disables it entirely."
+"When did ""optional"" become ""literally nobody will use it ever""?"
+"https://www.google.com/search?q=define+inevitable
+
+Did *you* read the OP? Nothing the discusses even comes close to qualifying as ""inevitable harm""."
+"Yeah, I did.   Even if the majority of the miners get sucked into an invalid chain, because they are idiots that don't validate transactions - all that will happen to Bitcoin is slower transactions.  SPV users can get harmed by this.   But anyone doing serious business online had better run their own validating node anyway.
+
+If anything this *fixes* an incentive problem with Bitcoin - we need more node operators.   "
+"> All non-witness data if it cares about fees with SegWit.
+
+Transfering the that is 750KB, vs the compact block which is 30kb... so you're back to arguing that 25 times more data is faster, without any explanation again. 
+
+You also went on above about not being able to assume protocol changes, but ignoring my point that miners could adopt a protocol where they require a commitment to a tiny bloom filter... if they cared about not-trusting, which they don't in validation-less mining today: they trust.
+
+You're also still failing to explain why you give flextrans a pass.
+"
+"> Are you capable of normal technical discourse?
+
+No. *You* are not capable of normal technical discourse. That is why people write for the benefit of someone *other* than you when they respond to you.
+"
+"Implicitly, you argue that miners would gain an advantage from transferring 750KB instead of 30kb.  Can you at all justify that? On it's face it seems to make no sense.
+
+Can you explain why miners would bother with any of these things when they could send a 3kb bloom filter to match spend outputs instead-- which has no relationship to segwit as it's true either way... and why you think they'd have an advantage sending 750KB instead of 3kb (or maybe even a single packet, at the expense of being able to include fewer transactions)? 
+
+Can you explain why if you are concerned about validationless mining you did not sound any alarms over classic's implementation of it? Why you do not sound any alarms over BU's validationless-everything for blocks with older miner provided timestamp values?  Why you do not sound alarms over BU's ""emergent consesus"" argument that no security must be provided against a malicious hashpower majority? Why do you not complain about FT leaving the witnesses out of the TXID's."
+"> Peter's comment does not mention anything of ""admitted and agreed"". 
+
+Sure it does: 
+
+>> Holy shit! Greg Maxwell and Peter Todd both just ADMITTED and AGREED that NO solution has been implemented for the ""SegWit validationless mining"" attack vector, [snip]
+
+> Yes,
+
+See?  He could have happy responded with ""No, they didn't; they're wrong because X"". Instead he just supported the false claim, but in a weak enough way that he could deny doing it later. Same as he did about the false attribution and unlawful copying the other day.
+
+> Since you're not addressing the malicious miners attack in SegWit
+
+Both Peter Todd and I pointed out that segwit is no different than non-segwit there.
+
+To quote Peter Todd's post: ""but they're also realistic without segwit in those scenarios""
+"
+"LOL!
+
+touché"
+"Wow, this comment by u/byzantinepeasant got massively downvoted.
+
+Nobody notices that it was obviously sarcasm without the /s at the end?
+
+This is the result of years of censorship and propaganda, I guess.
+
+"
+It is perfectly logical to use character traits as a basis for assessing people when discussing matters involving the human race. It is not a matter of ethics. It is a matter of deducing the truth from the data that you have.
+And if nobody uses SegWit, we don't get any scaling efficiency and can't even use LN. Great. 
+Fucking crickets
+No, it's a review of the account's posting history that resulted in my down vote and the vitriol in the post itself.
+"> We are paying attention, and we did notice that SegWit validationless mining is more economically incentivized than previous types of validationless mining.
+
+I thought we established last go-around with your lying attacks that you are not technically competent to be making these sorts of pronouncements..?
+"
+"It's possible. In some of these guys' cases, it's even likely.
+"
+"Hahaha you're cute.
+
+Lightning will require 100+MB blocks if it takes off.
+
+Good fucking luck."
+"So your reply is ""it's already bad""?  Edit: and you're back to u/jessquit's point btw"
+"You say that like that is a bad thing.
+
+The die-hard 1MB blockers will not be using segwit either.
+"
+"I didn't ignore it. I clarified that it only applies to txs already in your mempool, which I also explained in my article.
+
+For a tx not in your mempool you must download all (non-witness) data.
+
+With an efficient transfer method such as shortids the difference still applies to txs not already in, which we cannot assume stays as few as it is now."
+"I think everyone here can recognize my fake quote as a paraphrase of your mantra for the last few years.
+
+>  highly hypothetical attacks on SPV clients that have existed since day one but not yet been exploited
+
+... are *exactly* the logic you've used to successfully derail the powerful, elegant SPV scaling plan as put forth in the white paper written by Bitcoin's creator, Satoshi Nakamoto.
+
+Your bamboozled a lot of people, but you didn't bamboozle all of us. We're moving on without you. May the best ideas win."
+"I actually think your criticism of other implementations is totally fine, but isn't it a bit off topic? You're defending your argument by complaining about how people aren't currently complaining about other implementations' problems.
+
+It's fine to point out shared issues, but it seems people aren't really accepting that as an answer.
+
+>why have you not raised a fuss
+
+Why haven't you raised a fuss about climate change (for example)? That's an issue too but why haven't you brought that up? Of course the climate change thing is rhetorical, I'm just pointing out that your arguments are turning into shared, and valid, but slightly off-topic issues with other software you don't speak for."
+ydtm not long ago: SegWit is dangerous because of anyonecanspend. He was pushing those lies. It is interesting how people still take him serious.
+"Are you saying that Bitcoin with LN will require bigger blocks than Bitcoin without LN?
+
+If so, why so?
+
+And if not doesn't that mean that without LN Bitcoin is even more doomed than with it?"
+My reply is that we already have offchain transactions, but that we can and should make them trustless. And that having trustless offchain transactions doesn't reduce the importance of running a full node.
+"It's not a good or a bad thing, it's just a fact. A neutral thing. You can't increase the blocksize limit without splitting the chain into two forks.
+
+The die-hards will be using the same chain as everyone else using Bitcoin, but not enforcing the SegWit rules."
+"> I didn't ignore it. I clarified that it only applies to txs already in your mempool, 
+
+I think you must have misread something because you're off in space now.  There are no bloom filters in compact blocks.
+
+This was explained in the post that you should have read above, but I'll reiterate for clarity since I think you just must be skimming.
+
+I am suggesting that if miners want to include transactions without transferring transaction data in their SPY mining, they could receive from others a very tiny bloom filter build over the vins that got spent, so they will know what not to spend.  And in doing so send only a thousand bytes or a few.  Do you understand?
+"
+">>     Validationless mining is ... isn't changed by segwit
+
+> See what you did there? You just admitted - again - that validationless mining can be exploited by SegWit.
+
+I pretty explicitly did not.  Validationless mining is a security problem for lite clients.  It's one that is unrelated to segwit and not made better or worse by it, it's simply unrelated.
+
+Again, you fail to respond: If you're concerned about miners not validating why have you not raised a fuss about classic's efforts to implement that, the BU pool software implementing it, BU cutting out validation on regular nodes, FT making the same design change as segwit that you're complaining about here... etc?
+
+"
+">  think everyone here can recognize my fake quote as a paraphrase of your mantra for the last few years.
+
+I'm pretty sure you don't know what the word, ""paraphrase,"" means."
+No, troll, I'm not saying that. You'll have to start thinking for yourself. I'm tired of playing stupid games with idiots today. Good night.
+The entire point of off chain solutions is to avoid direct use of the Bitcoin network.  Read that a few times and let it sink in.
+"Segwit nodes will studiously ignore (BIP148) nodes not claiming compatibility.
+
+It seems to me that if 1MB non-segwit bitcoin has a lot of hash-power, a split can occur with transactions the segwit nodes do not know about.
+
+However, In practice, many of the ""segwit"" nodes may simply be legacy nodes claiming compatibility (but ignoring segwit -- like p2pool). In that scenario, segwit nodes learn about legacy transactions, but may fork when the majority of the hash-power builds on top of an invalid segwit hash.
+"
+"I understand, but I do not understand how they can verify them. What prevents an attacker from providing the wrong vin?
+
+The assumption of validationless mining is that an attacker doesn't waste an invalid block, not that peers can be trusted."
+You need to correct your punctuation.
+"Your entire rebuttal is a constant string of ad hominem attacks.  For anyone able to identify logical fallacies, your posts come off as a huge red flashing warning that you are incapable of actually defending your position.
+Debate the ideas, not the messenger."
+"I think you're just saying context is important, and I agree with that, even here. It's a fair point to say that the issue exists in other implementations, and it's silly not to mention it when criticising Segwit (as it *also* has the problem, not *only* has the problem).
+
+So I guess the reason you've engaged people here was to focus on how they are using sidestepping language tricks and ""raising a stink about a fring problem which was not created by segwit?"" I'm not criticising; you're totally within your right to do that... I didn't think I would jump into this conversation just to do that, but here we are debating language instead of software."
+This is how it always goes trying to talk sense into a big blocker. They can never make their point and end up doing the whiny ragequit thing.
+"I understand.
+
+It's analogous to how you might go to the bank once a week and withdraw a bunch of cash, then use that cash each time you want to buy something instead of making a separate trip to the bank for each purchase.
+
+There is really no need for every transaction to be on the global blockchain when we have a more efficient trustless alternative."
+"> Segwit nodes will studiously ignore (BIP148) nodes not claiming compatibility.
+
+BIP148 is nothing about ignoring nodes. It is all about ignoring blocks which don't signal for SegWit."
+"> The assumption of validationless mining is that an attacker doesn't waste an invalid block, not that peers can be trusted.
+
+oh no!  Validationless mining works by connecting to another trusted pools' stratum port,  in their stratum response you see the new blockheader they're giving out, and you take that and replace the coinbase transaction with your own.  There is no way to verify that the data in that header is correct (e.g. the prevhash value), and in fact slush apparently used this to cause f2pool to mine some invalid blocks a while back causing them to stop spymining off them.
+
+Though if they wanted stronger validation for it then they could simply commit to it in their block. 
+
+(also, ... still not going to say anything about flextrans...)"
+https://lightning.network/lightning-network-paper.pdf
+"I am aware of stratum polling but it deviates from the point, which I think you understand perfectly well.
+
+If a miner wants to rely on a block being valid without trusted peers it needs:
+
+* Only the header if it doesn't care about fees.
+* All data if it cares about fees
+* All non-witness data if it cares about fees with SegWit.
+
+How hard is it to acknowledge this without bringing up all these different points?"
+"I think you misunderstand.
+
+I am not criticing other implementations.  I am saying that Peter R, Tomtom, etc. are raising a stink about a fring problem which was not created by segwit and is not specific to or exacerbated by segwit.  They are going on about it because its complex enough to go over people's heads but you can tell their concern is not genuine because the issue exists-in and was actively made worse by things they support and promote, but they say nothing; similarly FT is exactly the same as segwit for their purpose of their handwaving yet they support and promote it too.  This strongly suggests that they do not believe the issue is real at all but they will claim otherwise in order to attack the work of the Bitcoin project.
+
+It's as though you showed up to the office wearing a pink flower pin, and I start yelling about how it's culturally insensitive to wear a pink flower pin, that no one should ever do it..  and that you need to be sent to HR for a reprimand.  But you notice that I'm wearing an identical pin, and in the office behind me half the people are wearing similar pins... but I'm not saying anything to them.   Without having to understand the details of this pin-political-correctness issue, you've got a pretty good suspicion that the pin isn't actually the problem I have with you.
+"
+"I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
+
+- [/r/bitcoin] [This is how I feel browsing the other sub](https://np.reddit.com/r/Bitcoin/comments/6qi7t0/this_is_how_i_feel_browsing_the_other_sub/)
+
+[](#footer)*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+
+[](#bot)"
+"Nice fake quote.
+
+If you're not concerned about SPV nodes getting ripped off, why aren't you screaming at peter__r and friends about the stupidity of this thread, at it only concerns highly hypothetical attacks on SPV clients that have existed since day one but not yet been exploited? "
+"Do you think that doubling the capacity from 3.5 tx/s to 7 tx/s is going to be enough? Hint: it isn't.
+
+Back in 2009 Satoshi wrote:
+
+> The existing Visa credit card network processes about 15 million Internet purchases per day worldwide
+
+Bitcoin currently can process around 1500 tx/block and 144 block/day, giving 216k tx/day. To scale to Visa's 2009 level purely onchain we would need 69 times bigger blocks. If it currently uses 3% of your bandwidth, it would need 3*69 = 207% of your bandwidth just to match Visa's 2009 tx rate.
+
+If only there were some smarter way of scaling which didn't require every node to have a copy of every transaction, and take an average of 10 minutes to confirm..."
+"> Start by admitting that the ""SegWit validationless mining"" attack vector can be exploited to append invalid transactions to the chain.
+
+Except it can't.  Validationless mining is an risk for lite clients created by the day one design of Bitcoin, but it isn't changed by segwit (at least not anymore).
+
+Ironically, you pretend to be so concerned about this but never made a peep about Bitcoin Classic implementing validationless mining, or BU implementing validationless-if-miners-say-so.  You waste thousands of hyperventilating words in concern about majority miner attacks, yet are completely unconcerned with Bitcoin Unlimited and faker dundee saying that miners define the protocol and that attacks by hashpower majorities are by definition out of scope. And you vigorously advocate ""flextrans"" even though it has the same design property that segwit has here (signature data not covered by the txids)...
+
+It would make me wonder, ... if I didn't already know you were corrupt and dishonest."
+Classy :)
+"> you're a miserable failure who is not doing his job as CTO of Blockstream
+
+???
+
+His job is mostly to hang out on Reddit and keep the community divided in order to ""jam up"" Bitcoin.
+
+I'd say he's batting better than .500"
+"> since I'm just some guy that is doing my best to keep up on all these vulnerabilities as they get reported by devs who are in many cases much smarter (and much more psychologically ""balanced"") than you are.
+
+Is that so? Just some guy? Your ""best"" is to ignore superior, updated, and factual responses, and then..  never change your mind in the face of these superior updates. This is why nobody takes your huge massively voluminous posts seriously or bothers to attempt to refute them in their entirety. You lie, and then when caught in a lie, you refuse to update your assertions, and instead double-down on them.
+
+In other words, your ""best"" is following a clear, obvious, and in some cases libellous, agenda and refuse to correct yourself after being proven wrong—no matter how absurd you must make your position to continue to rationalize it.
+
+"
+"... lol
+
+You have no idea what you're commenting on. There was a question about why deadlanix would claim he made fixes in the code he ripped off and fraudulently published under his own name when he didn't actually fix anything; and I explained that this likely happened because our description of it was confusing.  In other words, because he was utterly dependent on the people he was rippling off in order to have any idea what he was doing.
+"
+"> In this article that was just referred to me by /u/cryptorebel [+1] it says that the segwit witness data is sent to non-segwit clients who interpret it as ""meaningless text"" and ignore it.
+
+> I think you're confusing the fact that the witness data is moved to a different part of the block with it being moved out of the block.
+
+Lol, I never rely on news articles as being a solid source for extremely technical distinctions like this one.
+
+The original block structure doesn't have any places for witness data to be moved to.  What it does have is a place for the merkle root hash of the witness data to be required(coinbase string), which is probably what that article was referencing.  Non-upgraded nodes don't have the ability to receive and discard the witness data, instead they are only sent legacy transactions that function as 100% compatible so long as 51% of miners are applying the new meaning of ""anyone-can-spend"" rather than the old meaning.
+
+Segwit compatibility is negotiated with service bits by peers, and then witness data is sent in a different set of messages.  See here:
+
+https://github.com/bitcoin/bips/blob/master/bip-0144.mediawiki
+"
+Ok so lets put a single hash in every block and segregate everything to be controlled by AXA BlockStream Core.  This is exactly what they are working on with Mimble Wimble and aggregate signatures and its a nightmare.
+Losing a bunch of miners or a spv wallet is vastly different. I don't understand why you compare it.
+3. Yes to both
+*Having* off chain capacity reduces the importance of running a full node.
+"To anyone downvoting dooglus's comment: can you please explain why you think it's wrong?
+
+On the face of it, making blocks even larger makes it more expensive to run a full, validating wallet node."
+"Great-GP post was claiming serious businesses will run full validating nodes of the segwit data anyway.
+
+If you need to validate Bitcoin blockchain+segwit data anyway, you can avoid the complexity by just making the blocks larger.
+"
+"Oh my it's so hard to do right now. So hard!!! Just imagine when I have to use twice my bandwidth to run my node??? 
+
+...oh right, it uses like 3% of my current bandwidth. Aka nothing."
+"> You seem to say there is no problem because there is currently no efficient P2P message which excludes the witnesses? That is a very strange and risky assumption. Nobody controls the protocol so we can only assume
+
+Quoting from the message you replied to,
+
+**You have completely ignored my point about miners communicating a few thousand byte output bloom filter. Why have you ignored this point? As it shows, signature data has never been necessary to ""claim fees"", directly refuting your conclusion.**
+
+Your ignoring of it is pretty conspicuous now. 
+
+And you're also misunderstanding my point: It's not that compact blocks ""includes"" the witness data, its that it it efficiently transmits blocks without transmitting signature data or witness data at all-- the transactions are transmitted with 6 byte short IDs.  Switching to something else that somehow excluded witness data wouldn't be an advantage, it would be significantly less efficient to send non-witness data instead of short IDs (as I mentioned, about 750KB compared to 30KB).   Communicating a spent output filter would be more efficient, but that applies universally, segwit or not. 
+"
+"You seem to say there is no problem because there is currently no efficient P2P message which excludes the witnesses?
+
+That is a very strange and risky assumption. Nobody controls the protocol so we can only assume that in a decentralized network, the P2P protocol converges to whatever brings most value to its users.
+
+If at some point in the future some miners may profit from excluding witnesses they aren't going to be  stopped by Core not implementing it."
+It's very frustrating for someone to respond frequently on this subreddit. Can we do something about the response throttle?
+"I think it's getting downvotes from both sides:
+
+The small-blockers downvote it because the point he is making (sarcastically) is wrong. Using SegWit doesn't mean breaking the chain of signatures unless you explicitly ask it to. The default is to maintain the signature chain.
+
+The big-blockers downvote it because they aren't smart enough to recognize the sarcasm."
+"> Except it can't. Validationless mining is an risk for lite clients created by the day one design of Bitcoin, but it isn't changed by segwit (at least not anymore).
+
+Except it _can_. 
+
+As you yourself just went on to admit.
+
+In the very same paragraph.
+
+Where you said:
+
+> Validationless mining ... **isn't changed by segwit**
+
+See what you did there? You just admitted - again - that validationless mining _can_ be exploited by SegWit. (You also tried to ""deflect"" - by saying that there are _other_ ways of doing validationless mining - **but you did not at any point, here or elsewhere, ever _deny_ that SegWit can be exploited to do validationless mining**).
+
+Second of all: Peter Rizun showed in his talk that the ""validationless mining"" which can be done by exploiting SegWit is very _different_ (ie worse) than the kind of validationless mining that can be done by other methods, before SegWit.
+
+Namely, validationless mining previously _could not earn fees_.
+
+But with SegWit, now validationless mining _could_ earn fees.
+
+Maybe you think people were too stupid to notice that ""little detail"" (which, as Peter Rizun also pointed out, will end up having _massive_ economic consequences - just skip forward to his slide with the formulas involving P for probability and Fees - the math is very easy, any high-school student could understand it) - but, don't try to pull a fast one on us like this: We _are_ paying attention, and we _did_ notice that **SegWit validationless mining is more economically incentivized than previous types of validationless mining.**
+
+And finally, there is another level to all this - the level where we do _not_ assume all miners are non-malicious. We need to consider the case of _malicious_ miners as well. In this case, ""Segwit validationless mining"" is actually an attack vector - which could be exploited to corrupt the SegWit Bitcoin ledger.
+
+So far, you have very studiously avoided talking about ""Segwit validationless mining"" in the setting of malicious miners - you have only talked about it in the setting of non-malicious miners. You do not have the right to make this assumption.
+
+And your link, where you say that the problem has been ""solved"" - it's obvious to anyone that the ideas at that link _only apply to the case of non-malicious miners_.
+
+So - once again - you're glossing over an entire chunk of the problem space.
+
+And by now, we've seen you do this time and time again.
+
+The point is: you're toxic. You have some kind of ego problem where you just want to be right all the time - even if it means destroying half of Bitcoin's market cap with your fatally flawed ""roadmap"" - and now even if it means destroying Bitcoin's security model with your fatally flawed SegWit.
+
+I know it can be delicate veering off into these more ""psychological"" areas, but you're a special case - a toxic dev with an immense amount of sway over less-informed members of the Bitcoin community - and you've been abusing their trust in you as a way for your to satisfy these psychological ""issues"" you have - where you have this absolute mania to impress people and maintain this image that you're always ""right"" - when the reality is that you have been _wrong_ about a lot of things (wrong about mathematically proving that Bitcoin would never work, wrong about blocksize, wrong about your roadmap which destroyed half of Bitcoin's share of cryptocurrency market cap - and now wrong about how the ""Segwit validationless mining"" attack vector could destroy Bitcoin's security model).
+
+This is why it's important for people to call you out. You're influential - but you're wrong - about some of the most important issues in Bitcoin: its viability, its blocksize, its scaling roadmap, and now its security model - which no less than three respected devs have conclusively demonstrated would be significantly damaged by your precious, poorly programmed SegWit.
+
+Any self-respecting human being would have bowed out long ago after being exposed as so utterly incompetent and corrupt as you are.
+
+But we know that you are immune to concepts such as decency or a sense of shame.
+
+You only to to be ""right"". Even when you're dead-wrong - to the tune of tens of billions of dollars.
+
+Due to this serious psychological problem that you have - where you literally do not give a fuck if you destroy tens of billions of dollars in investor wealth - you will have a very special place in history.
+"
+It's like he's being paid to post these things
+Why are you using a sock puppet, Greg?
+"BIP144 adds new messages types, but those aren't separate, they're the replacements.  This is how it's backward compatible, so the witness information *that's in the block* is not delivered to peers that would not be able to parse it, instead they will receive a block with random-seeming scriptPubKeys (witness commitments) and no witness data.  But a segwit-understanding client will receive the entire block, which is made up of transactions and witness data.
+
+See [BIP141](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki):
+
+> Transmission of signature data becomes optional. It is needed only if a peer is trying to validate a transaction instead of just checking its existence. 
+
+There is no ""other block.""  All the witness data is in the block and included in the block header hash so that it cannot be modified without making the block invalid.  It simply doesn't need to be sent to everyone all the time.
+
+> so long as 51% of miners are applying the new meaning of ""anyone-can-spend"" rather than the old meaning.
+
+There is no change in the meaning of anyone-can-spend transactions, it's simply that if you were to construct a transaction using that as an input it would be rejected by the network.  If there's a 51% attack, *any* consensus rule can be broken, so that's not the one you should be worried about."
+"I'm not sure what any of that has to do with anything.  I'm not interested in conspiracy theory, just technology.
+
+I'm going to take that non-response as confirmation that the original statement "" the segwit data being separated from the blockchain"" is incorrect, and that you don't really understand the details here, you just pretend to be an expert.  It's ELI5, not ELY5.
+
+After studying it for a while, I believe the correct description of the problem is this: the witness data moves ""down"" / later in the block, so that miners must download more data before validating and beginning to mine the next block on that one.  Extra every millisecond it takes to download and verify the signatures is another billion (or whatever) hashes in which they might find a valid block.  So they're incentivised to mine on un-validated block headers... for the tiny amount of time it takes to receive and validate the part of the block after the ~~header~~ edit: transactions.  But this is only because they can actually start mining *earlier* because downloading just the transaction part is faster."
+"Miners are multi-year investments.  They get ""lost"" in fires or by going out of business.  They don't get ""lost"" because they temporarily applied an incorrect set of rules on some software they were running."
+Right answer! SegWit allows for both - it gives us a modest onchain increase, and paves the way for almost unlimited trustless offchain increases by fixing transaction malleability allowing the chaining of unconfirmed transactions required to make LN run smoothly.
+"The vast majority of transactions already happen offchain. Every time you trade on an exchange. Every time you bet on PrimeDice. Every time you transfer money between coinbase accounts.
+
+The problem is that these offchain transactions all rely on trusting a third party.
+
+Payment channels are the solution to this. They remove the requirement to trust anybody.
+
+You will still need to run a full node to validate the base layer. There's no getting away from that. Otherwise you're left trusting a third party and may as well use a traditional bank."
+Implementing two new transaction types with new validation rules makes it more complex to employ a fully validating node in an application. Implementing a larger block capacity simply makes it more expensive.
+Downvotes are what people use when they don't have an argument to make.
+Not without a hard-fork you can't.
+"
+>I am not complaining about fairness, I am complaining about your intellectual integrity.   You are making a big deal about a rather obscure corner case 
+
+Hahaha Greg
+
+""SPV doesn't work as designed so every user needs to run a full node and we need to completely and radically change Bitcoin architecture""
+
+*....even though you cannot point to a single instance of an end user or business being defrauded because they were using SPV.* 
+
+Making big deals about obscure corner cases is your bread and butter.  Literally."
+My point is this can only get out of hand with segwit transactions. If there has been no or very few segwit transactions, the post does not apply.
+"> Why is it that the only way you seem to communicate is by insulting me? Is it something I've done? Are you capable of normal technical discourse?
+
+Because you implicitly support dishonest and untrue claims and then complain about my tone, while  [evading the actual technical discourse](https://np.reddit.com/r/btc/comments/6qftjc/holy_shit_greg_maxwell_and_peter_todd_both_just/dkx1wck/).
+
+If you want my respect, you'll need to earn it. If you don't care about it, that is fine too. But it seems to me to be a bit foolish to complain that you don't have it while you continue to do evade defending your claims..."
+The point is that anyone who attempts to take it ends up on their own chain. 
+Basically miners can be incentivized to mine without validating all of the data.  Currently it happens without segwit, but there exists a Nash Equilibrium (in game theory), where the incentives make it so it does not get out of hand.  If the % of validationless miners gets too high as it is now, it becomes unprofitable, and easy to attack.  But under a segwit protocol, this greatly changes things.  The incentives are changed, the segwit data being separated from the blockchain enlarges the problem, resulting in a change to the Nash Equilibrium and an unstable and less secure system where miners are encouraged to do validationless mining at higher rates.  Also segregating data from the blockchain compounds and enlarges the consequences of validationless mining making it much more dangerous.
+"Yup. Here's a million dollar tx in segwit on litecoin. Attack away!
+
+https://www.reddit.com/r/litecoin/comments/6azeu1/1mm_segwit_bounty/"
+"Ah yes, the ""never happened so never will"" fallacy. "
+Has litecoin had a single segwit transaction?
+"Its not a serious issue because peter todd expects to provide an additional soft fork fix. Thats why they think its not a serious issue. Now you think about that for a while. 
+
+Push a hacked job called segwit as soft fork, realize that its not ideal and it will be attacked, just tell everyone to just accept it for now and later they'll patch it up some more. You know. Play the wackamoly game "
+There is no problem.
+">""I found a fix that can be implemented with a soft-fork: if miners try to exploit it a UASF can be done to fix the issue. It's better if we fix that in advance of course, but at worst we'll get a temporary problem"" - Petertodd
+
+
+I like Ptodd
+
+but
+I mean he hasn't provided anything other than his claim that he's found a fix. He's also suggesting segwit can encounter a 'temporary problem' which could be disastrous. If he cares enough about the segwit project why wouldn't he do everything possible to prevent this?
+
+We've got definite proof of a problem, but without Ptodd presenting **a fix** we don't have proof of a solution. This is a flaw wouldn't you say?
+
+EDIT: it's been explained quite unconvincingly in that thread that the quote is from."
+pls point out the PR containing ptodds fix?
+"And... has the fix been implemented?
+
+Not according to Peter Todd, and Peter Rizun, and Bitcrust dev Tomas van der Wansem.
+
+Not even according to Gregory Maxwell.
+
+Go read the quotes. (I've quoted them enough times, not going to quote them again here.)
+
+There ""is"" a fix in the sense that there is a concept, an understanding, an idea of how a fix _could_ be implemented.
+
+But it has not been implemented yet.
+
+So there _is_ a solution which _could_ solve the ""SegWit validationless mining"" attack vector.
+
+Greg Maxwell implemented something which he says would _disincentivize_ it. He says that a (non-malicious) miner would be incentivized to prefer to use Compact Blocks (which only take up 30kb), rather than SegWit blocks (which take up 750kb).
+
+But what about a _malicious_ miner? That would require a solution which not only disincentives exploiting the ""SegWit validationless mining"" - it would require solution which actually _prevents_ it.
+
+And Greg Maxwell admits that no such solution has been implemented.
+
+---
+
+Of course, there _is_ a simple solution staring everyone in the face.
+
+**Just don't use fucking SegWit at all - because it is shit code which was improperly designed from the beginning.**
+
+Previously, we had to beg and plead with guys like Greg to not destroy our Bitcoin ledger like this.
+
+Now it doesn't matter so much any more. Because there are going to be two separate, forked Bitcoin ledgers now - one using SegWit, and the other not (Bitcoin Cash).
+
+So let Greg continue to fuck up his fork of the Bitcoin ledger - the SegWit fork.
+
+The Bitcoin Cash fork will continue as the one which we _will not_ let Greg fuck up - because Bitcoin Cash will _not_ add SegWit.
+
+
+
+"
+"""Holy shit!"" sensational bullshit, as usual.
+
+I never believe any nonsense from this lot unless I quadruple check. I come here to see what fresh lies and propaganda are they coming with. Gotta prepare."
+"> I agree this is a problem with SeqWit. The question I have, is there a remedy to this problem? Can something be added to SW, or removed, that will avoid this problem?
+
+This is not really a problem with segwit.  If the attacker games this correctly, suffering higher orphan rates himself for doing so and potentially lowering the price of Bitcoin he depends on, he might get 51% of miners skipping validation of witness data.
+
+At that point, if a counter-attacker(trying to reduce his orphan rates/deal with re-org problems) simply releases an actual invalid block instead of turning off his validation, all of the non-validating miners will be forked off and begin bleeding money.
+
+The success of the attack depends on the attacker building up an overwhelming majority of non-validating miners.  Even then segwit coins could only be stolen if the non-validating miners were actually willing to fork off permanently, and if they were willing to do that then we suddenly have theft-coin fork that is competing with bitcoin's chain.  Miners who never wanted to attempt such a risky and potentially disastrous fork would defect back to the main chain (re-enable validation) almost immediately and the fork would be dead.
+
+At most miners could accomplish one re-org and cause SPV wallets to accept invalid transactions, but they'd probably end up losing hundreds of thousands of dollars when they get forked off, along with every other non-validating miner.
+
+The presence of a counter-attacker and exchanges using full nodes completely ruins the attack game theory payoff table."
+">  If I understand correctly, large volumes of transaction data could accumulate before the discovery, then causing a massive unraveling of the SW ledger. If this is the case, the damage to Bitcoin's reputation could be irreparable.
+
+That's precisely the possibility that worries me the most.
+
+In fact, Peter Todd also said basically the exact same thing, when he first warned about this vulnerability:
+
+> Peter Todd warning on ""SegWit Validationless Mining"": ""The nightmare scenario: Highly optimised mining with SegWit will create blocks that do no validation at all. **Mining could continue indefinitely on an invalid chain, producing blocks that appear totally normal and contain apparently valid txns.""**
+
+https://np.reddit.com/r/btc/comments/6qdp90/peter_todd_warning_on_segwit_validationless/
+
+"
+When Greg Maxwell and Blockstream had a hand in creating it?
+"I thank God we're no longer forced to use SegWit Bitcoin, which violates the very definition of Bitcoin in the whitepaper:
+
+> Satoshi: ""We define an electronic coin as a chain of digital signatures.""
+
+> Core: ""Segregating the signature data allows nodes to avoid downloading it in the first place, saving resources.""
+
+https://np.reddit.com/r/btc/comments/6qb61g/just_read_these_two_sentences_and_youll/
+
+Fortunately, we now have a choice.
+
+- You can either listen to Satoshi and use the original Bitcoin - now called Bitcoin Cash. (Bitcoin Cash does _not_ support SegWit.)
+
+- Or you can listen to Core and r\bitcoin and use SegWit coin - an alt-coin developed by Core, which (as they openly admit) ""allows nodes to avoid downloading"" - and avoid validating - the cryptographic signatures which are the only thing providing the security of Bitcoin.
+"
+Why not both?
+"I explain it in detail in my talk at TFOB.  It's only about 20 min long, if you're interested:
+
+https://www.youtube.com/watch?v=hO176mdSTG0
+
+"
+"I think the answer to this is that miners *can* do the same thing today, but that segwit gives them an extra incentive to do it, and potentially gives them a chance to get away with it.
+
+That second half is controversial, though. The economic majority clearly wouldn't let miners hard fork and take *everyone's* coins. I don't think the economic majority would let miners hard fork and take all segwit coins either, but there is at least an argument that people using segwit are knowingly taking this risk so it's somehow less of an unacceptable thing for miners to do. (I hope the economic majority wouldn't buy into this argument, but I can't completely rule it out.)
+
+Also, you have to remember that not *all* wallets know about segwit. At this point I think the vast majority of wallets being used in the most economically significant situations (e.g. the wallets being used by exchanges and major merchants) know about segwit, though. And that's probably enough."
+">Bitcoin's creator
+
+You fucking knob, there you go doing that again. Fun fact for the noobs: Greg Maxwell refuses to ever use the name ""Satoshi nakamoto"" and instead only refers to ""bitcoin's creator.""
+
+Like when he described proof of work as ""Bitcoin's hashcash function"" (it's never been called that), these are more of their gaslighting attempts to have people associate Greg and Adam with the invention of bitcoin.
+
+Greg, you are a pathetic and dishonest little man."
+Hey, you're only at -4 down votes, This MUST be an indication that your up vote bots are working. Good job on coding those up votes bots of yours.
+">[Edit: 8 downvotes in <4 minutes, I see rbtc downvote bots are working again. Wouldn't want anyone seeing any factual corrections or disagreements...]
+
+Bots or not your response here was not the best. Called him being dishonest but failed to show where he was both saying something false and that he knew it was false. Called him out on ""Chief Scientist"" title for no reason (just distraction) and you did not elaborate on how the 'segwit specific differences were fixed' which might have been interesting.
+
+Claims of lying and dishonesty should always be backed up by showing evidence that the person is aware of the flasehoods they are spreading (he could just be wrong for instance which is not lying or being dishonest)."
+"> similar to how you lied to the people here a day ago by suggesting that deadalnix's hundreds of lines copied from us with attribution stripped and his name added wasn't plagiarism... 
+
+I don't know, I'm still up in the air of the situation.  Most of the code was just commenting, which wasn't changed.  The big stink on twitter ""wow the code looks the same!!"" was based that the commenting was identical.  However code should be measured by actual logic and programming, Deadal made fixes and changes to the logic so it is different code."
+Hey can you do that dragon den thing and just type the word FALSE! at the start of all your posts.
+"The downvotes are because you're being a total shit-bag - trying to deflect from the issue at hand, going off on some bizarre tangent about Peter Rizun's job title and business associates (??!?), or accusing some other dev of misattribution in an entirely unrelated incident.
+
+I mean, seriously: You're the motherfucking CTO of Blockstream, and 3 major devs have all exposed a major attack vector enabled by errors in the buggy implementation of your precious SegWit which you've been trying to force on the community for years (while now we find out that you apparently _have known this whole time about this deadly attack vector and you didn't attempt to do a goddamn thing about it_) - and all you can do is deny and deflect and whine like like a little bitch that people are _downvoting_ your bullshit?!?
+
+
+"
+[removed]
+I love how your mind finds bot downvotes more likely than humans who disagree with you. 
+"I think dishonesty is your middle name Maxwell Smart. You should invent your own altcoin and leave Satoshi's vision alone. Oh yea, and you're FIRED. 
+
+And the above is a clear example of why Gavin calls you a troll."
+"He made three statements that are patently true.
+
+> Yes, this is a known weakness in segwit that was never fixed.
+
+Fact.
+
+> It doesn't mean that segwit coins are necessarily insecure,
+
+Fact
+
+> the security model for segwit coins is strictly weaker than for bitcoins. 
+
+Fact."
+"Oh, that's rich - hearing u/nullc call someone _dishonest_ LOL!
+
+> Here's the sickest, dirtiest lie ever from Blockstream CTO Greg Maxwell u/nullc: ""There were nodes before miners."" This is part of Core/Blockstream's latest propaganda/lie/attack on miners - claiming that ""Non-mining nodes are the real Bitcoin, miners don't count"" (their desperate argument for UASF)
+
+https://np.reddit.com/r/btc/comments/6cega2/heres_the_sickest_dirtiest_lie_ever_from/
+
+---
+
+> Mining is how you vote for rule changes. Greg's comments on BU revealed he has no idea how Bitcoin works. He thought ""honest"" meant ""plays by Core rules."" [But] there is no ""honesty"" involved. There is only the assumption that the majority of miners are INTELLIGENTLY PROFIT-SEEKING. - ForkiusMaximus
+
+https://np.reddit.com/r/btc/comments/5zxl2l/mining_is_how_you_vote_for_rule_changes_gregs/
+
+---
+
+> ""Bitcoin .. works .. because hash power is NOT law. "" - /u/nullc
+
+https://np.reddit.com/r/btc/comments/69tc2c/bitcoin_works_because_hash_power_is_not_law_unullc/dh9inuv/
+
+---
+
+> 2 more blatant LIES from Blockstream CTO Greg Maxwell u/nullc: (1) ""On most weeken[d]s the effective feerate drops to 1/2 satoshi/byte"" (FALSE! The median fee is now well over 100 sat/byte) (2) SegWit is only a ""trivial configuration change"" (FALSE! SegWit is the most radical change to Bitcoin ever)
+
+https://np.reddit.com/r/btc/comments/6cmtff/2_more_blatant_lies_from_blockstream_cto_greg/
+
+---
+
+> ""There is nothing wrong with full blocks"" -Greg Maxwell, CTO of Blockstream and Core contributor
+
+https://np.reddit.com/r/btc/comments/65hx1n/there_is_nothing_wrong_with_full_blocks_greg/
+
+---
+
+Meanwhile, u/nullc seems to be afraid to attempt to actually respond to the points raised by Peter Rizun in his presentation:
+
+1. SegWit coins have a different definition than bitcoins, which gives them different properties.
+
+2. Unlike with bitcoins, [with SegWit coins] miners can update their UTXO sets _without_ witnessing the previous owners' digital signatures.
+
+3. The previous owners' digital signatures have significantly less value to a miner for SegWit coins than for bitcoins - because miners do no require them [the digital signatures] in order to claim fees [when mining SegWit bitcoins].
+
+4. Although a stable Nash equilibrium exists where all miners witness the previous owners  for bitcoins, one [such a Nash equilibrium] does _not_ exist for SegWit coins.
+
+5. SegWit coins have a weaker security model than bitcoins.
+
+---
+
+In fact, u/nullc (inadvertently?) _confirmed_ everything Peter Rizun said, when he admitted (as quoted above in the OP) that no solution for this has been implemented yet.
+
+So... Greg has admitted that he's been trying - for 18 months! - to deploy SegWit, knowing this whole time that it enables the ""SegWit validationless mining"" attack vector discovered by Peter Todd - **and yet Greg did nothing to attempt to prevent this attack vector** - basically saying that he have a solution in your head, but he can't be bothered to implement it until _after_ disaster strikes.
+
+So... what's Greg's strategy been here this whole time? ""Security through obscurity"" - hoping people wouldn't discover this attack vector?
+
+It's just so sad that Greg has been prepared to jeopardize a ledger holding tens of billions of dollars in investors' coins - apparently because he's such a sleazebag that he'd rather shit-post weasel-words in defense of his corruption and incompetence, rather than openly discussing _and fixing_ the problems which several devs (not only Peter Rizun - but also Peter Todd, and Tomas van der Wamsen of Bitcrust) have exposed in SegWit.
+
+If u/nullc had a shred of honesty and decency, he wouldn't be talking about Peter Rizun's job title or business partners here - which are entirely irrelevant to this SegWit attack vector.
+
+Notice how u/nullc carefully avoids actually talking about _fixing the goddamn attack vector which Peter Todd and Peter Rizun and Tomas van der Wamsen have all confirmed_. Instead, like a typical toxic bully, he tries to deflect - talking about irrelevancies like Peter Rizun's job title and business partners. And then he has the nerve to call _other_ people unprofessional? 
+
+Remember, u/nullc - the CTO of Blockstream - is desperately trying to deflect attention away from a deadly attack vector caused by the crappy code which _he_ has been trying to force on everyone for years now - and he has the _nerve_ to call someone ""unprofessional"" for merely exposing this deadly attack vector in his code. Really?!?
+
+Let's try to stay on-topic here - and try to be ""professional"".
+
+Three major devs have exposed a deadly attack vector which would be enabled by SegWit - enabling miners to add invalid transactions to the chain, without being noticed. 
+
+Are you going to _address the fucking problem u/nullc_ - or are you going to try to deflect and blather this irrelevant nonsense questioning Peter Rizun's job title and business associates.
+
+Seriously? Have you no sense of decency whatsoever at this point?
+
+
+"
+"That's a lot of text telling Peter he's wrong (while piling up insults) but you're never pointing out how he's wrong.
+
+> Yes, this is a known weakness in segwit that was never fixed. 
+
+Correct.
+
+> It doesn't mean that segwit coins are necessarily insecure,
+
+Correct.
+
+> the security model for segwit coins is strictly weaker than for bitcoins. 
+
+Correct.
+
+Where is he being ""highly unprofessional"" and ""dishonest""?"
+"Maybe you are downvoted because you are responding with completely unrelated stuff about deadalnix and Craig?
+
+The SegWit specific differences are clearly *not* fixed. Otherwise Peter and I wouldn't still be addressing them.  Maybe you should read/watch it."
+Read your first paragraph again. Remove the personal attacks and just get to the point.
+I'm willing to give you the benefit of the doubt, but I'm not seeing a factual rebuttal here. I'm just seeing a naked denial, some name-calling, and shade-throwing. Do you have a logical argument for why this is not a threat to bitcoin? If so, I'd love to hear it.
+It doesn't take a bot to click the downvote button when the first sentence is an unjustified and inappropriate ad hominem.
+http://rationalwiki.org/wiki/Tone_argument
+They need to control everything so that control is decentralized.
+"In that first link, Peter Todd and Gmaxwell speak as if they are the Federal Reserve, with ""political"" power to ""cause a UASF if the need arises"". Pretty disgusting."
+"Bitcoin is built around the idea that the hash _is_ the id - so the right way to handle multisig transactions which are awaiting approval sigs, would be to label them as ""pre-transactions"", and send them around as a message that is listened to by other signees wallets .. then when approved, that becomes a real, valid, signed transaction with a totally un-malleable hashid.  No crazy workarounds, no breaking the fundamental assumptions of the whole system.  Just admit a partially signed transaction, is _not_ a transaction.
+
+A side issue is the protocol should be flexible enough to handle propagating data of various kinds, not only blocks or transactions. This allows for smoother upgrades, as the protocol is future-flexible [ wont need as many hard-forks to upgrade ] 
+
+There are a vast number of engineering and performance improvements to be built around the essential blockchain ideas .. particularly better data management, so less bandwidth, storage and ram is wasted - and this can be done in a way that doesn't break the fundamental assumptions of the whole system.   I think we now have a chance to engineer those improvements, with bitcoin cash initiative."
+Yeah I always [show everyone this](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-December/012103.html), and I love how everyone says ohh but Peter Todd explained it away at the end and everything is fine.  What bullshit.
+You noticed that too huh? But they had so much more to do during that time, like stall.
+ELI5?
+so Litecoin is currently open for attack? 
+"Hey lets cut petertodds quote short, because it says things that don't fit our narrative! 
+
+> The real reason why this problem isn't a major problem is precisely because I found a fix that can be implemented with a soft-fork: 
+
+-
+
+> Notably, if the political situation is sufficiently screwed up that very few users are running full nodes due to blocksize increases making that too difficult, /u/ydtm's scenarios are realistic... but **they're also realistic without segwit in those scenarios because Bitcoin is broken** if users aren't running full nodes.
+
+At least you properly cite nullc with the reason for it not being included yet afterwards.
+
+So your entire post is based on nothing yet again. Your point is not about segwit, it is about nodes. Yet you don't realize it yourself."
+Has SegWit for Litecoin been exploited yet using this attack vector?
+"I like how you replace Peter Todd's third paragraph, explaining why this isn't a serious issue, with [...]
+
+I hope you go all in on BCH"
+I still don't see the problem. Even if a majority of miners blindly build on an invalid block, nodes will orphan that chain.. No exchange would accept bitcoin mined on the invalid chain. No business would accept payment with coins mined on an invalid chain. Miners would lose lots of revenue. So what's the problem?
+deleted  ^^^^^^^^^^^^^^^^0.3026  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/33055)
+because they don't give a shit about Bitcoin, they just need to get their poison pill activated at any cost
+"> [...]
+
+It's very easy to find supporting quotes for anything, if we just throw out the parts we don't like, right?
+
+For those interested in the actual discussion that took place rather than OP's FUD, click through that link and read the parts the OP removed."
+If you see Peter's full post(which you omitted in part) you will see that it's not a big problem.
+"I agree this is a problem with SeqWit. The question I have, is there a remedy to this problem? Can something be added to SW, or removed, that will avoid this problem?
+
+My greatest concern with the Validationless weakness is the subtlety of the problem. I would call it an attack vector if someone can deliberately use it as an exploit, but my greater concern is the more damaging unforeseen consequences. If I understand correctly, large volumes of transaction data could accumulate before the discovery, then causing a massive unraveling of the SW ledger. If this is the case, the damage to Bitcoin's reputation could be irreparable."
+When is a protocol improvement not an improvement?
+BTC and BCH are a complete trainwreck. I am starting to hope the fork goes completely to shit, the price falls back to low three figures and greed meets wall.
+"+1
+
+It is indeed terrible.."
+"When are you going to stop breaking Canadian authorized access law and abide by your permanent ban from channels on Freenode?
+"
+"I'm trying to understand the attack you outline and summarize it here:
+
+https://www.reddit.com/r/btc/comments/6q149z/bitcrust_20170703_the_dangerously_shifted/dkuc7ti/
+
+Is there anything I missed?
+
+If not, how would you respond to the claim that the Bitcoin Core segwit implementation (not the BIPs) neutralize the threat by refusing blocks from  non-segwit-capable nodes?
+
+https://www.reddit.com/r/btc/comments/6q149z/bitcrust_20170703_the_dangerously_shifted/dkwtqul/"
+"Sorry Peter__R you are being outright dishonest again. Please cut it out. It is highly unprofessional and dishonest conduct and doesn't really seem appropriate for the ""Chief Scientist"" of anything (even something associated with the guy fraudulently claiming to employ Bitcoin's creator...). The fact is that both Peter and I pointed out that the situation is the same for segwit and non-segwit, because the segwit specific differences were fixed.
+
+You're effectively doubling down on your dishonesty here by supporting ydtm's outright untruthful claims about Peter Todd's and my remarks; similar to how you lied to the people here [a day ago](https://www.reddit.com/r/btc/comments/6pzrg0/murchandamus_is_accusing_deadalnix_of_copying/dktwsxu/?context=3) by suggesting that deadalnix's hundreds of lines copied from us with attribution stripped and his name added wasn't plagiarism... 
+
+I raise this to just highlight Peter__R's repeated practice of responding to really dishonest claims in a way which makes it look like he's endorsing them, but if called to the carpet on them could plausibly deny doing so; trying to protect his reputation from the dishonesty he's spreading.  I don't think that is fair, so by calling it out I hope to take away that bit of free lunch.
+
+[Edit: 8 downvotes in <4 minutes, I see rbtc downvote bots are working again. Wouldn't want anyone seeing any factual corrections or disagreements...]"
+Why can't miners do the same thing today? Just hard fork and take everyone's coins...
+"> it absolutely does mean that the security model for segwit coins is strictly weaker than for bitcoins
+
+I liked your at TFOB, but I don't think it showed this. What you showed was that Segwit gives miners an incentive to mine without validating the signatures of segwit transactions (probably more accurately, it lowers the disincentive to not validating those signatures). This is bad because it could cause orphans if a minority of miners are doing it and an invalid block is produced, or could cause a long-term chain split if a majority of miners are doing it and an invalid block is produced.
+
+But that harms all of Bitcoin. It only changes the security model for segwit coins if your wallet isn't validating the blockchain (e.g. SPV wallets)."
+Core always says Core is not in control. Yet they're apparently in control enough to issue UASF whenever they want? 
+"Thanks for clarifying that, Peter!
+
+This also shows that your assessment (which you recently presented in your [excellent video](https://www.youtube.com/watch?v=hO176mdSTG0)) is in line with the assessment by Bitcrust dev Tomas van der Wansem.
+
+In his recent blog post, he described the same flaw with SegWit - due to ""a simple yet disastrous side effect caused by SegWit fixing malleability in an incorrect manner"":
+
+**The dangerously shifted incentives of SegWit**
+
+https://bitcrust.org/blog-incentive-shift-segwit
+
+> SegWit transactions will be less secure than non-SegWit transactions.
+
+> If the flippening occurs for the 20% smallest (e.g. most bandwidth restricted) miners, a 31% miner could start stealing SegWit transactions! 
+
+> We _cannot_ mess with the delicate incentive structures that hold Bitcoin together. 
+
+"
+I thank God that Bitcoin is larger than this cesspool of a discussion.
+I would like to point out that OP is still the guy who in a previous thread has been ranting about how adresses that start with a 3 are unsafe because they are segwit adresses and had also no clue how pruned nodes worked. Please consider this before believing anything he says. He can be very convincing with long walls of text while generally bullshitting.
+Suddenly everyone agrees that miners validate the blocks and not nodes lol
+Peter Todd continues to not matter.
+why spreading this propaganda lie twice in 8 hours, mr. ytdm hyper troll?
+My solution: Run a full validating node. Bam.
+So what. There's no smart bigblocker anyway around to do any damage to segwit so its still safe and secure. And the market wouldn't believe you people because the market are all core supporters. That's the fact.
+"Just read what you wrote again and ask yourself If anything at all was necessary! I could take your message and just replace ""Peter__R"" with ""nullc"" and I would still claim that all of is true ... no truer.
+
+You are one of the biggest Cancers to Bitcoin. Just GTFO already!"
+"> ~~But that harms all of Bitcoin.~~ 
+
+Here, let me fix that for you:
+
+- This will _inevitably_ harm all of **Bitcoin SegWit**.
+
+- This can _never_ harm **Bitcoin Cash**
+
+Why?
+
+Because **Bitcoin Cash does not use SegWit**, for this very reason.
+
+Because all the smart people already know that [SegWit is not Bitcoin](https://np.reddit.com/r/btc/comments/6qb61g/just_read_these_two_sentences_and_youll/).
+
+"
+Here have another downvote. Because you're trash.
+"Sounds subjective where is the data to quantify ""less secure"" "
+"> Currently it happens without segwit, but there exists a Nash Equilibrium (in game theory), where the incentives make it so it does not get out of hand. If the % of validationless miners gets too high as it is now, it becomes unprofitable, and easy to attack. But under a segwit protocol, this greatly changes things. The incentives are changed, the segwit data being separated from the blockchain enlarges the problem, resulting in a change to the Nash Equilibrium and an unstable and less secure system where miners are encouraged to do validationless mining at higher rates
+
+This game theory is completely ruined if there is a single counter-attacker who will actively attempt to exploit the validationless miners' own vulnerability.  Doing so will being the counter-attacker's orphan rates back under control instantly and cause the validation-skipping miners to bleed money until they turn validation back on to get back on the main chain.
+
+This is basically a nonissue.  Neither /u/ytdm or Peter R have responded to this counter-attack that invalidates what they are saying."
+"http://examples.yourdictionary.com/examples-of-ethos-logos-and-pathos.html ""Ethos"""
+This is a point about miners attacking, not individuals. It would be great to see an attack happen though.
+Why rob the bank of silver now when you can rob it of gold in a few weeks.
+It would make a strong case when Litecoin transactions were affected using this method. Not that I would encourage that in practice. 
+"Here's a million dollars in a segwit tx on litecoin.  Still waiting for someone to spend it.
+
+https://www.reddit.com/r/litecoin/comments/6azeu1/1mm_segwit_bounty/"
+"This basically sums it up in a nutshell. 
+
+I'm going to add your comment to the ELI5 at the start of the OP."
+You do realize that SegWit is optional, right? You don't have to use it if you don't want to.
+"Confusion indeed -- there would be no proof that the theft had occurred.  
+
+If miners steal real bitcoins, proof would exist in the blockchain.  
+
+So which type of coin has the stronger security model?"
+"Protip: You were *never* forced to use any cryptocurrencies.
+
+Your hysterical fearmongering is entertaining though, please continue."
+"> This will inevitably harm all of Bitcoin SegWit.
+
+[Citation needed]"
+"But there's a problem here.  The attack hurts the""right"" party.
+
+
+If someone/anyone submits invalid segwit transactions to validationless miners, and the miners that are validating throw away the resulting invalid blocks, then validationless miners get more orphans. That sets up an incentive to do the validation to avoid one's blocks being orphaned."
+They can't do it for segwit either because the user and exchange run nodes will orphan their blocks.   This is a non issue.  
+"How do you at the same time assume P is going to zero and then use that as the reasons miners will not validate properly. The miner itself doing that, on that assumption, already increased P to a level where he shouldn't have acted that way in the first place.
+
+Also why does a miner need to send the witness data? Other miners have the transactions and the associated witness data in their mempool. Same for sending witness transactions into your own addresses, those transactions would be first submitted with your block and now be the only ones without witness  data associated with them. Seems to be a clear indicator that other miners can look at to see if there is something possible wrong."
+"Exactly this.  This is why people distrust Greg.  This should be a battle of ideas, not personalities and opinions.  Take the high road at all cost.
+
+Also why a hard fork with an open market decision is how we can avoid this drama"
+"> The SegWit specific differences are clearly not fixed. Otherwise Peter and I wouldn't still be addressing them. Maybe you should read/watch it.
+
+Except all you've done is spread lies and fud... please, [my post]( https://bitcointalk.org/index.php?topic=2008333.msg19999372#msg19999372) explained in detail why there isn't any change there; and all you've done in response is simply said ""clearly not fixed"".  Simply saying ""no it's not"" over and over again won't change anything or convince any but the most ignorance."
+"There is no differential weakness in segwit: the particular incentives that were mentioned (that ordinary non-malicious miners might gain some advantage by not fetching witness data) were fixed by BIP152... making it the same as segwit. This directly refutes your point 
+
+My post clearly points this out.  Disagree with it if you like, but Peter R and ydtm both dishonest claim that I ""admitted and agreed""-- the direct opposite of the truth!
+
+I mean how freeking clear do you need ""This was resolved a long time ago""  to be?!   To disagree on some analysis point is one thing, to outright lie about what I wrote a couple hours ago in completely clear text is nuts.
+
+Also, I am beside myself with the absurd duplicity of BU and Classic advocates raising concerns here when Classic implemented validationless mining directly in their codebase, and BU made all their node software skip signature validation based on values miners set in the timestamp field in their headers.   Spare us all your fake concern."
+Is this the hilarious part where I pick one thing out of your many lies to check and see whether you ever change your mind in the presence of actual facts and then you don't ever change your mind, reverify facts, or otherwise make any effort to be honest and retract your libel, making a full debunking a waste of time?
+It's well known that's always the most dishonest souls, the famous vandals, liars and inquisitors who are destined to use the word 'dishonest' all the time. Projection in perfection. One of them even claims that non-catholicist preachers should be killed. 
+Something something lie lie something
+Denial, name calling and shade throwing is a good indication that he does not.
+"I think I explained quite clearly how he was being dishonest, and even explained why I took the time to point it out.  If I was mistaken about his awareness, he can correct me and I'll gladly apologize. But as I explained, Peter R frequently responds in this manner and then fails to clarify.
+
+I would also like to point out that you are now responding in this thread and have ample opportunity to show some integrity by pointing out that the headline claim is simply untrue."
+"This message claims that I ""admit and acknowledge"" that some issue has not been addressed, but if you go look at the actual post it's linking to I say ""This was resolved a long time ago"" and give a link.  I don't know how it could be any more clear than that."
+Greg pays for sockpuppets and vote manipulation, so he either assumes others are too or accuses them of it anyways in an attempt to deflect from his own poor behavior. It's a classic case of psychological projectionism.
+"The whole project is MIT licensed, so the Core devs have wilfully given permission to ""steal"" code, so that's not a violation.
+
+Is there a changelist of actual stripped attributions? By that I mean copyright stamps not some @author tag, which is convention, not legalese. Otherwise this is FUD. If attributions have been stripped, they should be put back."
+You ever notice how Maxwell's posts get immediately upvoted to ~10 points as soon as they are posted and gradually drop into the negative as real people have a chance to read them?
+"> Tell me what I'm missing here...
+
+You aren't missing anything.  They're blowing this issue out of proportion.  I used to think this was a huge problem until I worked out the game theory payoff table.  There's easy ways to counter anything the attacker could do."
+"> and fork the network back to a pre SWSF client which would allow stealing of ANYONECANSPEND 's with a cumulative majority 51% of miners.
+
+But those blocks would be invalid according to Segwit, resulting in a hard chain fork that Segwit clients are literally incapable of following. 
+
+And again, this brings us back to an ""attack vector"" that requires the community to switch software and follow the thief's hard forked chain. "
+"> so it is different code.
+
+He claimed to, but that isn't really true.  The trivial 'change' he made was adding the pubkey to the hash, but it Bitcoin the pubkey is part of the message hash already; so nothing was functionally changed.
+
+(Though the comment removing that code mentioned that as something that should be changed for non-bitcoin apps, which seems to have caused deadalnix to think that it was the change needed to fix the issues, but it wasn't). 
+
+Making a trivial change that our own removal message recommended in hundreds of lines of code in no way diminishes the false attribution or willful copyright infringement.  Considering that he's done it before-- in Peter__R's project, in fact-- it seems unlikely that he's going to fix it either."
+this is r/bt[cash] , it is the facebook to your myspacecoin. GLHF.
+Wrong, what you are describing is Bitcoin without segwit.  This is the Nash Equilibrium I was talking about.  When segwit is implemented things change and validationless mining is allowed to grow out of control, if you read the OP carefully you will see segregating the data has other consequences that change the Nash Equilibrium.  It has to do with the latency of the segregated data and how it permeates though the network.
+Segwit separates the data into 2 merkle trees.  To see how stupid this is and how it severely hinders on-chain scaling by making it cost way more, see [this thread](https://www.reddit.com/r/btc/comments/6p076l/segwit_only_allows_170_of_current_transactions/)
+"As I understand the example in the OP, if 20% of smaller struggling miners can be trained to perform validation less mining, an attacking miner with 31% hash can suddenly also go validation less (maybe that isn't even necessary) and fork the network back to a pre SWSF client which would allow stealing of ANYONECANSPEND 's with a cumulative majority 51% of miners.
+
+At the very least you have to admit it would cause mass confusion and havoc. "
+Makes perfect sense to me! /s
+"In the three links provided in the OP:
+
+(1) Peter Todd's polite-but-firm smackdown to Greg Maxwell:
+
+https://np.reddit.com/r/btc/comments/6qdp90/peter_todd_warning_on_segwit_validationless/dkwvyim/?context=3
+
+---
+
+(2) The presentation by Peter Rizun at The Future of Bitcoin (TFOB) conference:
+
+**Peter Rizun: The Future of Bitcoin Conference 2017**
+
+https://www.youtube.com/watch?v=hO176mdSTG0
+
+---
+
+(3) The blog post by Bitcrust dev Tomas van der Wansem:
+
+**The dangerously shifted incentives of SegWit**
+
+https://bitcrust.org/blog-incentive-shift-segwit
+
+"
+Does not apply in this case. The topic in this case *is* the character of the speakers themselves so it is a fair point to make, particularly given the known history of the those involved.
+Bad bot
+Ohh you have come for damage control. 
+Bad bot
+oddly relevant, a koi that works for core will spin in the same circles of deceit to cover their errs for at least 5 iterations... perhaps 5x as many user bans from r/bitcoin
+Yeah I am not an expert on all the specifics, but I think its possible that instead of getting orphans some of those invalid blocks can actually go deep into the chain with a segwit protocol.  Then miners have to decide if its worth re-orging the entire chain and giving up their block rewards or allowing the invalid block to remain.
+"TL;DR SW has been and will always be a poison pill in numerous ways in its current form "
+"> [Edit: 8 downvotes in <4 minutes, I see rbtc downvote bots are working again. Wouldn't want anyone seeing any factual corrections or disagreements...]
+
+It would likely help if you didn't begin with a tirade of ad homenim attacks, it merely weakens confidence in whatever counter-evidence you feel is worth presenting.
+
+It would likely help if you didn't end with a sweeping dismissal that is a thinly veiled insult against every participant in this forum.
+
+Downvoted."
+"\^\^\^\^\^ The most rational response (and ELI5 and TL;DR) in this entire thread.
+
+This guy u/cryptorebel has rapidly become one of the most important voices in Bitcoin today.
+
+"
+"> the segwit data being separated from the blockchain enlarges the problem
+
+Tell me what I'm missing here...
+
+Under SegWit, the witness data is moved to the end of the transaction, and it's no longer part of data used to compute the transaction hash, as seen in the diagrams [here](http://learnmeabitcoin.com/faq/segregated-witness) or [here](https://www.youtube.com/watch?v=DzBAG2Jp4bg#t=1m30s).  But it's still part of the transaction, and still hashed into the Merkle chain.
+
+For a concrete example, you can easily find the witness data 3044..cc01 and 2103..acac in the transaction hex dump in this segnet tx:
+
+[https://blockchainprogramming.azurewebsites.net/checktx](https://blockchainprogramming.azurewebsites.net/checktx)
+
+So when you say ""separated from the blockchain,"" are you talking about when the transactions are delivered from a SegWit-supporting client to a client that doesn't know about SegWit and couldn't understand that information?
+"
+Thanks bro, I am a big fan of your efforts as well.  The price of Bitcoin is eternal vigilance.
+"> If someone/anyone submits invalid segwit transactions to validationless miners, and the miners that are validating throw away the resulting invalid blocks, then validationless miners get more orphans. That sets up an incentive to do the validation to avoid one's blocks being orphaned.
+
+This scenario can be avoided by making sure the attacker is always creating valid blocks, but delaying the witness data for increasing periods of time.  Then the attacker's blocks are valid and it is the validating miners who suffer a higher orphan rate.
+
+But even that attack scenario has a simple fix, similar to what you are saying.  All it would take is for a counter-attacker to periodically release a block that looks like the attacker's blocks, but never release its witness data.  The validation-skipping miners would be forked off the network until enough of them turned validation back on to drop below 51%, and they'd all be bleeding money until they turned validation back on."

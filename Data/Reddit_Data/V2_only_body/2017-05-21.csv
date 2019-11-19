@@ -1,0 +1,40 @@
+"TLDR
+>All valid segwit blocks are also valid blocks to pre-segwit software, so earlier versions of Bitcoin that don’t include the segwit changes, and hence don’t include any bugs introduced in those changes, can be used to verify blocks to provide a second level of assurance against the possibility of consensus regressions.
+
+
+source: https://bitcoincore.org/en/2016/10/28/segwit-costs/
+
+In more detail in how you would sign. 
+
+
+>Myth: When segwit activates, I won’t be able to send or receive my Bitcoin anymore if I don’t upgrade.
+
+>With the way that segwit is designed, people can still send their transactions using Pay-to-Pubkey-Hash, Pay-to-Script-Hash, and Pay-to-Pubkey outputs as the current software do. These outputs and they way to spend from these outputs will not change. The signatures for verifying these transactions will not be moved and will remain in the scriptsig.
+
+>What segwit does change is that it adds two new output types, Pay-to-Witness-Pubkey-Hash and Pay-To-Witness-Script-Hash. These two new output types require that the signatures to spend from those outputs are in a new Script Witness array which is not included in the hash of the transaction. The scriptsig of the inputs that spend those output types are empty. These output types are still compatible with non-upgraded nodes because they will always validate as true to those non-upgraded nodes because when they validate those transactions, the stack is not empty and not zero. Upgraded nodes will validate them fully because those nodes have access to the signatures and recognize that what the output format is.
+
+>Segwit also creates a new type of Pay-to-Script-Hash address. The redeemscript of the p2sh address is one of the two new witness output types. The redeemscript is hashed and that becomes a p2sh address. This allows for senders who have not yet upgraded to send to a person who has upgraded and the recipient, when he spends from this p2sh output, can take advantage of segwit’s benefits.
+
+>Overall, the changes that segwit makes do maintain compatibility with non-upgraded nodes. With these changes, a non-upgraded user can send Bitcoin using the current output types, thus able to send to both upgraded and non-upgraded users. Because the transaction uses the current output types, the following transaction cannot take advantage of segwit. However, a non-upgraded user can send to a segwit output nested in a p2sh output which allows them to send to upgraded users who can then take advantage of segwit for the following transaction. Upgraded users can also spend from any of the output types and still create the current output types so they can send to non-upgraded users as well.
+
+https://achow101.com/2016/04/Segwit-FUD-Clearup
+
+
+
+Maybe you should read bit more before proclaiming you understand something you dont. "
+Those don't magically solve all problems , but you know this....
+"> Primary concern - Block latency propagation and bandwidth
+
+[X-thin](https://medium.com/@peter_r/towards-massive-on-chain-scaling-presenting-our-block-propagation-results-with-xthin-da54e55dc0e4)/[Compact blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/)
+
+> Secondary concern - CPU and Ram
+
+[bitcrust](https://bitcrust.org/)
+
+>Least concern - Hard drive space
+
+Metcalfe's law... [8TB for less than $200](https://www.amazon.com/Seagate-Expansion-Desktop-External-STEB8000100/dp/B01HAPGEIE) will be good at full 8Mb blocks for 3 years.
+
+Also... you know about all this... so you are not being objective!"
+It helps to understand (later) the transactions dynamics how often payment channels etc settle onchain, what the fees are and if they earn more, less or growing very fast. We don't know the economic implications.
+Litecoin didnt have backlogs needing to scale, so how would we see the benefits of Segwit for Bitcoin by observing the litecoin test?
