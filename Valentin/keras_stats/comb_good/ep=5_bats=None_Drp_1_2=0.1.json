@@ -1,1 +1,7 @@
-{"number_files_used": 12, "softplus_sigmoid": 0.7491313219070435, "softsign_sigmoid": 0.6580958962440491, "softsign_hard_sigmoid": 0.7421820759773254, "sigmoid_hard_sigmoid": 0.6580958962440491}
+{
+  "number_files_used": 12,
+  "softplus_sigmoid": 0.7491313219070435,
+  "softsign_sigmoid": 0.6580958962440491,
+  "softsign_hard_sigmoid": 0.7421820759773254,
+  "sigmoid_hard_sigmoid": 0.6580958962440491
+}

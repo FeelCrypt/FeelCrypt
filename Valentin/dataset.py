@@ -19,21 +19,28 @@ def get_labeled_bitcoin_price():
     
     return data
 
-def get_labeled_dataset(number_of_file, from_date = "2015-01-01", date_included = True):
+def get_labeled_dataset(number_of_file = 0, from_date = "2010-01-01", date_included = True, all_files = False):
+    
     limit_year = 2021
     dataset = {"text" : [], "label" : [], "date" : []}
     directory = "../Data/Reddit_Data/"
+    max_number_of_files_number = len(os.listdir(directory))
+    
+    if all_files:
+        from_date = "2010-01-01"
+        number_of_file = max_number_of_files_number
+    
     count = 0
     
     max_number_of_files_number = len(os.listdir(directory))
-    year = int(from_date[0:4])
+    year =  int(from_date[0:4])
     month = int(from_date[5:7])
     day = int(from_date[8:10]) + (0 if date_included else 1)
     bictoin_price_dict = get_labeled_bitcoin_price()
     
     number_of_file = max_number_of_files_number if number_of_file > max_number_of_files_number else number_of_file
 
-    while count < number_of_file and year < limit_year:
+    while (count < number_of_file and year < limit_year and not all_files) or (all_files and count < number_of_file):
         month_string = month if month >= 10 else f"0{month}"
         day_string = day if day >= 10 else f"0{day}"
         
@@ -57,7 +64,7 @@ def get_labeled_dataset(number_of_file, from_date = "2015-01-01", date_included 
         if month > 12:
             month = 1
             year += 1
-    
+    print("Number of files loaded : ", count)
     return pd.DataFrame(dataset)
 
 def get_prediction_stats(df_prediction):
