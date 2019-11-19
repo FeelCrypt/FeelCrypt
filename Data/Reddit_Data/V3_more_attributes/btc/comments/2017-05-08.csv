@@ -1,0 +1,50 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"The reasons are: 1. a lot of bandwidth is saved because wallets that does not check signatures would not download them. The network saves resources → discount; 2. it incentives the reduction of UTXOs set, which is required by pruned nodes and it is the most queried part of the storage of fullnodes.
+
+All smart contracts would get advantage from SegWit... what's the problem? Since they save resources it is a good thing.
+
+Incentive the LN is a good thing, this will free a lot of space inside the blocks";0;1;False;Inaltoasinistra;dharwps;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Giving preferential advantage to any type of transaction over any other type of transaction is a non-starter. Period. Off-chain cannot be incentivized over on-chain transactions. I know the technical reasons I just disagree with it from a macro-level. We shouldn't be messing with free-market block economics.;1;1;False;Annapurna317;dhaphtj;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+They don't pay me enough to explain over and over the 75% discount to people who prefer cospiracy to simple technical reason. I guess than you know the motivations given by SegWit developers, right?;0;1;False;Inaltoasinistra;dh9vee5;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Segwit has a developer (centralized) decided 3/4ths signature discount - what-the-****! This isn't okay, it never was and it never will be. Developers have no right to dictate centralized parameters in a decentralized system like Bitcoin. You know why it got in there? because a company pays them and wanted a discount for their side-chain use case. Strangle on-chain, discounts for side-chains and LN.
+
+I've never seen you on here.. you're probably a paid troll. Bug off.";1;1;False;Annapurna317;dh9nnq6;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"> i could not find any idea, whats so unique is, that could put a general system, that you could name as invention.
+
+People have patented one-click shopping. Triviality of patents isn't stopping people from patenting most vacuous bullshit.
+
+Historically, crypto seems to be an area that's particularly badly impacted by SWPATs. A minefield.
+
+I agree that there's nothing that *should* be patentable here.
+
+
+> 60% of the code is just for testing the other 40% are nothing special you could call invention. its just a complex solution for a complex problem.
+
+Meanwhile, there is a simple solution to a simple problem
+https://www.reddit.com/r/btc/comments/69s2wf/the_right_way_to_fix_transaction_malleability/
+
+> so if you know something there could be patent problems, just name it. segwit was finished in 2015. dont accuse someone or the bitcoin foundation without evidences otherwise thats blackmailing and is an action you could be sued for. Just saying, so you are not getting into problems, because you dont know what you are doing.
+
+Switch down a gear or two. I am clearly talking in hypotheticals above, and if you cannot comprehend what I said, I am sorry for you.
+
+> its not a game.
+
+I am very aware of that, and you should be as well.
+
+Should I take the above as a threat?
+";1;0;False;awemany;dha0agj;Blockstream having patents in Segwit makes all the weird pieces of the last three years fall perfectly into place;https://falkvinge.net/2017/05/01/blockstream-patents-segwit-makes-pieces-fall-place/
+"the question can be just, which part of the code you want to patent. i was reading alot about the code and how it works.
+
+i could not find any idea, whats so unique is, that could put a general system, that you could name as invention.
+
+60% of the code is just for testing the other 40% are nothing special you could call invention. its just a complex solution for a complex problem.
+
+so if you know something there could be patent problems, just name it. segwit was finished in 2015. dont accuse someone or the bitcoin foundation  without evidences otherwise thats blackmailing and is an action you could be sued for. Just saying, so you are not getting into problems, because you dont know what you are doing.
+
+its not a game.";0;1;False;cryptodingdong;dh9y7tn;Blockstream having patents in Segwit makes all the weird pieces of the last three years fall perfectly into place;https://falkvinge.net/2017/05/01/blockstream-patents-segwit-makes-pieces-fall-place/
+"changing a fixed coded parameter as blocksize, blocktime, blockreward, total blockreward are not trivial. There is a difference if you Hard Fork to introduce a feature (segwit) or if fixing a bug (segwit), then changing the characteristics of a blockchain. 
+
+Segwit is a Softfork to fix malleability. It was talked about it for 5 years, to find a solution to fix it without losing compatibility with first bitcoin mined, otherwise this fix is a pseudo- solution, how i understood it. but i can be wrong
+
+";1;0;False;cryptodingdong;dh9ycpw;Blockstream having patents in Segwit makes all the weird pieces of the last three years fall perfectly into place;https://falkvinge.net/2017/05/01/blockstream-patents-segwit-makes-pieces-fall-place/
