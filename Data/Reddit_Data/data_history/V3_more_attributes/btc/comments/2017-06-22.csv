@@ -1,0 +1,547 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"The advice in the popup does not make sense, does it?  Breaking a transaction into smaller ones will only increase the total fee. 
+
+If the original has 500 inputs and it is broken into 10 txs of 50 inputs, the percentage increase in the cost will be rather small.  However, if the original had 5 inputs and the excessive fee is due to use of a broken fee estimator, then splitting could even double the total cost.
+
+""Broken fee estimator"" is in fact a pleonasm.  When there is a backlog, fee estimation is an unsolvable problem, like estimating the bid that would win a blind closed-bid auction.  Even with access to the recently mined blocks and the current mempool, there is no way to predict the delay for a given fee level.  Moreover,  any fee estimation method that is widely used will defeat itself.  Those who try to do it, like 21.inc and Core, will only succeed in proving their incompetence.
+
+When there is no backlog, on the other hand, fee estimators are not needed, because any transaction that pays the standard minimum fee will be confirmed in the next block. 
+
+Guess why Satoshi's design had essentially unlimited blocks (with the safety block size limit more than 100 times the actual block sizes). ";163;9;False;jstolfi;dj8wmzu;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+">  eventually, even a modest fee will be more lucrative than the block reward
+
+Really?  What makes you say that?  It's entirely false you know, and your whole argument falls apart when you realize your fundamental error.
+
+Here let me help you.  What will be the value (exchange rate / edit - purchasing power) of one Bitcoin in 2097?";5;2;False;jessquit;dj8xw6y;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"There should probably always be some space for free transactions. Doing so would keep all bitcoin fungible.
+";4;1;False;Adrian-X;dj8xxvb;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+More than an opinion. The designer satoshi said their should always be free transactions. ;0;1;False;Adrian-X;dj8xvj5;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+I don't disagree with you, I just don't see how limiting assess to the block-chain helps bitcoin grow. ;1;1;False;Adrian-X;dj9gxvt;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Today, you can have your transaction in first block if you pay 420 sat/b or more.  3 months ago, nobody knew that.
+";1;0;False;ErdoganTalk;dj9ffw1;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+fud better and more accurately ;1;0;False;nomadismydj;dj9fjqh;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Fees have been increasing on the Ethereum network itself, though. It's not unimaginable to think that Ethereum's fees will approach Bitcoin's the more it's used.;1;1;False;mmortal03;dj9kffv;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"As far as who are economists in Bitcoinland, I don't know honestly.  
+
+I'm taking issue with the way you make unexplained assertions about fee markets and UASF, which are both ultimately economics problems, while you're portraying them as CS problems.  
+
+Pretending that your CS background gives you some special insight into these questions is dishonest.  Want to make an economic argument, fine, but then you should actually *make the argument*.";2;1;False;davef__;dj9gymv;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+">  the self-interest in a functional [PoS] network and already invested capital of hodlers can be used to secure the network. Whereas in Bitcoin most coins are just idle capital.
+
+As we have seen in bitcoin, holders, traders, and users are almost disjoint populations, and have very different short-term goals. For one thing, holders want the price to grow, and the faster the better; traders want it to see-saw like crazy; while users want the price to be stable.
+
+Bitcoin traders and holders have made it practically useless for legal payments.  PoS would give holders more control over development, fees, etc; that may hurt users too in the short run.
+
+Maybe that observation explains why Blockstream is set on the two-layer redesign, even though the secod layer still does not have a viable design.  In the Lightning network, holders can get revenue from their holdings (as in a PoS coin) by serving as  intermediaries in a multi-hop path.  Presumably Blockstream investors include big holders, rather than potential users or traders...
+
+";2;1;False;jstolfi;dj9jkzd;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];3;1;False;;dj9nd25;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+humblebragged? He was asked a question and responded to it fairly decently IMO :/;31;1;False;chriswheeler;dj8wwnk;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"He doesn't need to ""humblebrag"" https://en.m.wikipedia.org/wiki/Rick_Falkvinge";2;3;False;SubGeniusX;dj99805;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Digital Cash shouldn't be less practical than physical cash. It's said we need to compare digital cash to the Legacy banking system.;5;0;False;Adrian-X;dj8y23s;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> That's what we need to beat, by at least an order of magnitude, or we won't be competitive.
+
+Bitcoin is currently being (mis)led by a group of trolls who argue that people will be just fine paying $100 for a transaction.
+
+Do you see this as an honest disagreement among well-intentioned actors, or a deliberate attempt to divide, disinform, and destroy?  Or something in between?";7;0;False;jessquit;dj8xzag;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"You see bitcoin not as it is but as you wish it would be. You see it like a frustrated user. As economic contexts change the value of space in the worlds most limited and most secured blockchain also changes, and thus use cases must also change. Do you truly believe that if you make blockspace cheaper that there isn't demand at scale to continue filling blocks regardless of size?
+
+We share a very similar background, and I expect someone with either of our expertise to understand that layer 2 solutions are the obvious choice from a solution architects perspective. It is well understood that larger blocks create increased centralization pressures, and equally well understood that the vast majority of people are being rapidly priced out of bitcoin use cases. Why are we talking at all about reducing decentralization for usability globally when we only need to reduce decentralization for some uses? Let there be layers! More than that, if we build solutions on top of the highly decentralized chain as a platform that are incrimentally less decentralized we can meet everyones use cases and those incrimentally less decentralized services will be more secure and decentralized than if they had no layers below them at all.
+
+Calling for simply more blockspace is advocating use of a hammer when a scalpel is required. We need a tool with some finess not a cudgel.";0;0;False;MrRGnome;dj91n6v;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];-3;1;False;;dj8xxd6;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
+
+- [/r/btc] [Debunking ""eventually, even a modest fee will be more lucrative than the block reward""](https://np.reddit.com/r/btc/comments/6iu5x1/debunking_eventually_even_a_modest_fee_will_be/)
+
+[](#footer)*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+
+[](#bot)";1;0;False;TotesMessenger;dj91qhp;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+">But would you really have a problem with a credit-card-standard transaction fee ($4-16 for a $1000 transaction)?
+
+Yes, 100%, absolutely. Because other cryptos and even other solutions are more efficient. Comparing bitcoin to legacy systems is a straw man because there are competing solutions that will eat bitcoin's lunch if it doesn't continue to innovate.
+
+The model T was introduced, and was unchanged for about 25 years. What was once cutting edge innovation turned to old tech and poor performance. You comparing bitcoin to 1970's network technology is a useless metric. ";3;0;False;jeanduluoz;dj8xych;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"If you're not at least an order of magnitude better than what you're aiming to replace, you might as well go home. ""Cost the same"" is not even trying to compete.
+
+And our competition (legacy banks) is not $4-16, it's 15 cents for a transaction to merchants, and free between private individuals. That's what we need to beat, by at least an order of magnitude, or we won't be competitive.
+";15;4;False;Falkvinge;dj8ws98;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+This guy is getting downvoted, but in all seriousness, Falkvinge couldn't have humblebragged more. I don't know the BTC community, but if this guy is someone who represents you, then you need to reexamine your priorities as a culture. ;-8;2;False;belisaurius;dj8wbh1;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+You jelly? Some people *are* very smart and if you were one of them, you would not react like that. ;11;0;False;KoKansei;dj91hub;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];-23;2;False;;dj8v5a1;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Mr. Burns, your campaign seems to have the momentum of a runaway freight train. Why are you so popular?;6;0;False;;dj92822;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Almost?  OP could've just made a comment that said ""Like, comment, and subscribe!""";1;0;False;SnakeRattleNRoll;dj95upo;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];-6;2;False;;dj8wnku;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Actually, fees are not necesseraly bad, but they should be 0.00001 or less during the bootstrapping phase.;7;0;False;WippleDippleDoo;dj8uj80;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];1;2;False;;dj8w55d;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Your opinion on IOTA? no transaction fees, unlimited transaction frequency...;0;1;False;medbud;dj8wgd7;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];0;1;False;;dj8z4pe;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"No idea, but by 2097, there will be basically no block rewards beyond transaction fees.
+
+The system is designed to halve the block reward roughly every 4 years, so 80 years from now, assuming they don't just get rid of the reward at some point entirely, the reward per block would be about 12 ųBTC.
+
+If they asked for only 1 Satoshi per transaction, and even if they never increase the number of transactions per block, they'd be getting 20ųBTC per block from transaction fees. And that's only not a ridiculously low fee if the price per bitcoin isn't in the millions. (At $1M/BTC, 1 Satoshi would be $0.01)";1;1;False;kinyutaka;dj8yy2c;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"One major advantage of having a *set, understandable fee*, whether that be a flat rate or a percentage or a combination, is the fact that you will know, for sure, that your transaction is going through. No waiting for a day or longer because you didn't realize that a 10% fee *wasn't enough*.
+
+What bitcoin needs to succeed is as follows.
+
+1. Off-chain transactions using third-party systems akin to a bank.
+
+2. No limit to how big a block can be, to allow even the most fragmented transactions to go through quickly.  
+
+3. A reasonable and understandable transaction fee system.
+
+If we can't get that stuff running, we are dead in the water.";1;1;False;kinyutaka;dj92gs0;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+I think it had more to do with the exchanges than the ethereum network itself.  During the time coinbase was down, I was able to send ethereum from my desktop wallet just fine with minimal fees.  ;3;1;False;Iworkonspace;dj942ed;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"The fee calculation in Electrum isn't the best i've seen either (electrum proposes just now : 0.00241BTC/KB at the lowest setting ; 0.00582BTC/KB at the highest - and it shall be : [420 satoshis/byte](https://bitcoinfees.21.co/) for a very fast tx now, or 0.00097BTC for a standard 229 bytes tx).";1;0;False;FEDCBA9876543210;dj94lxx;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+I don't think it is an abstract worry at all.  One may dismiss BitPay as a service that should not exist (IIRC, that was basically Peter Todd's answer to those who objected to his replace-by-fee).  But the problem that they seem to cause to payment channels may, by themselves, cause the LN itself to become inviable. ;5;0;False;jstolfi;dj91d8s;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> the socialist CS professor who pretends to also be an economics expert
+
+I don't pretend to be an economics expert.  Most of what I know about monetary economics, finance, and exchange trading I learned in these 3.5 years since I started following bitcoin.  
+
+But who would be the ""economics experts"" in bitcoinland?  Zerohedge and Max Keiser?  Tuur Demeester?  Greg and Luke?
+
+> is arguing dishonestly here in order to derail a project he wants destroyed.
+
+I deplore the use of bitcoin as a financial speculation swindle and as a pament method for crime, and hope that those uses are stopped somehow.  Apart from that, bitcoin is an interesting computer technology and internet economy experiment, that could still teach us a lot -- if it had not been broken by the New Core devs.";2;2;False;jstolfi;dj98d00;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"or, just maybe, you were being a dick unnecessarily, and instead of just apologizing for being a dick unnecessarily, you doubled down
+
+the biggest problem our community has is divisive, personal attacks with which you initiated this off-topic thread
+
+have a nice day";5;1;False;jessquit;dj929qb;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+I'd rather expect PoS to have better potential for decentralisation, because end users can participate more easily in the consensus. Probably also cheaper, because the self-interest in a functional network and already invested capital of hodlers can be used to secure the network. Whereas in Bitcoin most coins are just idle capital.;1;1;False;DerSchorsch;dj9hioi;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"""Solving"" miner centralization with a PoW algo change is like solving a cheating girlfriend by getting a different cheating girlfriend. Centralization will just happen again with the new PoW algo. Even so I agree that there is a somewhat credible threat there that prevents large, blatant dishonesty by centralized miners (coordinated 51% attacks, etc).";1;0;False;reph;dj9kcde;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> Ok, lets date you. Commodore 64 or TRS 80?
+
+VIC-20. The TRS-80 (""Trash-80"", heh) was never really big in Europe. I switched to the '64 soon after it came out. When the race was on for Amiga or Atari, I went PC instead and started coding C.
+
+> I noticed it with some of your remarks regarding the complexity of segwit (I forgot if it was in a video or not). I, too, am of the belief that complexity introduced with segwit is an illogical first step out of Bitcoin congestion
+
+Thank you. And yes, it really takes software engineering _experience_ to understand why an ""elegant solution"" is really, really bad engineering, and why should you go with as simple and dumb as can possibly solve the problem.
+";12;1;False;Falkvinge;dj987cc;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+21 gives the same estimate of the required fee, within a 5% margin. If Armory is wrong, then so is 21.;1;1;False;Falkvinge;dj9ferg;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];8;1;False;;dj8yqzp;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> There should probably always be some space for free transactions. 
+
+Buy now! Pirate prices! A sixpack of transactions for one satoshi!";2;0;False;ErdoganTalk;dj91pz0;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+That's true, but the daily volume of ethereum is already very close to bitcoin's and the fees are significantly lower.;1;1;False;Iworkonspace;dj9otxp;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Oh god, finally a post on here that made me smile. 
+
+I have to agree it was a total humblebrag, but this gem of a thread was the icing on the cake.  The only way this could get better would be with a dick pic to show his full 9"" penis _flaccid_.";1;1;False;Crully;dj9jo9m;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+PGP is a flawed analogy here, because fungible value is not what's being transferred over PGP. Bitcoin doesn't even have to reach regular, non-PGP e-mail levels of popularity for people to continue to use it, as long as fungible value is being transmitted, especially when this is value that couldn't be transferred in other ways due to regulations and restrictions. If you at least have that, then you will have recipients. Mind you, I'm speaking to the lower bounds here. Also, I'm not saying that there won't be intractable flaws in Bitcoin, or that nothing better can come along.;1;0;False;mmortal03;dj9mnud;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"No one knows what the strength of bitcoin will be in 80 years, and fuck... we won't be around to see it.
+
+But factoring in the value of all transactions ($200,000,000/day or $1.4M per block, ignoring the price jump in recent months, or about $600/transaction on average), a tiny 0.3% fee would bring in $42,000, or 16.1 BTC per block, without being onerous for the customers.
+
+The average customer would pay $1.80 for his $600 transaction.";1;1;False;kinyutaka;dj90kve;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I have no issue with the guy himself. He could be literally Jesus. His presentation of himself was incredibly offputing to someone who's not familiar with the community. If you don't like the impression I took away from this whole subreddit and community from this person, that's on you, not me. I'm entirely uninterested in a video of some random dude with the overwhelming hubris it takes to form your own political party and name it that. This whole comment chain and the fact that *multiple* other members of this subreddit have leaped to his defense, only underscore my initial impression. 
+
+Self congratulatory behavior is completely inappropriate, and the relentless circular back-patting is only going to hurt you in the long run. 
+
+>If you see him talk about segwit, I will try and dig up the video, you would see plainly (if you are an engineer like myself) that his level of aptitude is not ""normal"".
+
+You know what? I can't count the number of people who have STEM or advanced degrees who are completely humble and refrain from launching on an entire saga of leaping from success to success. 
+
+If you (or anyone else reading this) doesn't like my opinion and think I'm an idiot who 'just doesn't understand', then maybe you've had your first taste of what society in general thinks of these types of communities. And as a STEM person myself, please examine how we can work together to change that. ";4;0;False;belisaurius;dj8z9dv;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Right? The man provides accurate information about a question he was asked, and a bunch of insecure assholes come out of the woodwork to impose their misery on the community at large. Disgusting. ;8;0;False;KoKansei;dj91l3q;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Personal attack? I said nothing about him at all. I simply said that his presentation of his entire life story is off-putting. The only reason you, or anyone else, would conflate entirely reasonable commentary on presentation with a personal attack is if you're secretly concerned that your successes aren't your own and that you have to actively defend them in order for them to matter.
+
+Moreover, let me go ahead and directly attack the community: there is a dismaying lack of perspective being displayed here. This is one of the largest venues for the BTC community to present itself. Why aren't you more self critical about how you look to prospective new members? The entire idea of cryptocurrency is that there is a non-state community of people who believe it has value. You know what really hurts that? When individuals within your community (no matter how famous or successful) gate keep with entirely unnecessary self aggrandizement.  ";-3;1;False;belisaurius;dj8zq1t;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I literally cannot fucking believe that this guy had the balls to comment again. I have no idea why someone who [looks like this](https://images-5.svd.se/v2/images/21cf3b06-e1bb-4b47-a4c0-d01f52d23b52?fit=crop&h=417&q=70&w=625&s=d3257fca097ae02e50c505b7b0943b5ee0ccdece) is talking so much shit. 
+
+Respect to him for his successes; maximum disrespect to him for how it's presented on here and his wikipedia page. (seriously, go read it. It reads like a breathless schoolgirl swooning)";3;1;False;belisaurius;dj9k1s0;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> No one knows what the strength of bitcoin will be in 80 years
+
+Which is exactly why you simply cannot make this statement:
+
+> there will be basically no block rewards beyond transaction fees
+
+If price doubles with every halving (it has historically gone up like 10x+), and fees priced in btc halve with every halving (the market can be expected force fees to remain at their marginal value), then the system is stable until ~2140.";5;1;False;jessquit;dj90qbi;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> Personal attack? I said nothing about him at all.
+
+You came here to bag on his self-description which was a fair reply to a fair question then you said his description of his experience was ""unlikely"" which implies he's a liar to boot.";7;1;False;jessquit;dj900e3;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Because here they listen to his drivel.  
+
+That Wikipedia is something though. ";2;0;False;Crully;dj9kxw3;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"At some point, the transaction fees in a block will exceed the subsidy because the minimum possible transaction fee is 1 satoshi (unless there is a fork to change that, or an alternate way to pay transaction fees is developed).
+
+> there will be basically no block rewards beyond transaction fees
+
+After enough halvings, the subsidy will go from 1 satoshi to 0. At that point, the block reward consist entirely of transaction fees. ";1;1;False;sos755;dj96q4a;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I said, explicitly, that I was ""ignoring how incredibly unlikely his entire story is."" Likely has nothing to do with lying, it has to do with how *likely* it is that someone is able to leap from success to success like he implied. The overwhelming majority of people will never, ever, have the same privileges and success this person has had. That, in turn, makes his story extremely unique and *unlikely to be common place*. It strictly doesn't matter whether he's embellishing or lying about his story. What matters is that this guy represents **you**. Are you comfortable with that? ";-1;1;False;belisaurius;dj90cei;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+You are talking about 100 years+ from now, however.  If Bitcoin still exists - hell, if blockchains haven't been replaced by some altogether technology -- hell, if von Neumann computers haven't been replaced by some altogether different technology - then I would say this is an issue that could be addressed at that future date (and is easily resolved by increasing the resolution of the currency to 64 bits or more), but even concerning yourself with it now, with such pressing capacity problems on the table, is nothing but concern trolling.;2;0;False;jessquit;dj9b2lu;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> his story extremely unique and unlikely to be common place
+
+Which is why any accurate description of it is likely to attract your attention, no?
+
+> this guy represents you
+
+in what possible way?";5;1;False;jessquit;dj90l1n;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+">Which is why any accurate description of it is likely to attract your attention, no?
+
+There are ways to present your story, and contexts in which to do it, that are vastly more appropriate. Certainly, the best kind of accolades are ones where *other* people come and share cool things about you. 
+
+>in what possible way?
+
+Major contributor to the subrredit, clearly a major presence on twitter, a politician with his own political party that promotes cryptocurrency. Literally how does he **not** represent you?";0;1;False;belisaurius;dj90zpu;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> Literally how does he not represent you?
+
+I am a more prolific contributor to this subreddit than Rick, so by your logic, *I* represent *him* here.
+
+I'm not on Twitter, so clearly, he can't ""represent me"" there, as if him saying something on Twitter implies I think it too.
+
+I don't live in a country in which Rick's political party is active.  If you do, does that mean he represents *you?*";6;1;False;jessquit;dj913v3;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Wow. It's like you fundamentally miss the point between political representation, or direct representation, and the concept of a community spokesperson who, generally, represents the ideas your working for. Your intense pedantry is entirely unwelcome and, *yet again* only underscores how obsessively defensive this community is. 
+
+If nothing else, I'm not surprised that people like 'Rick' would be associated with people like you. Thanks for making it clear that you're uninterested in the image of your community and how it presents itself to the world. Next time, you won't get feedback, you'll just be ignored.";0;1;False;belisaurius;dj92031;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Yeah, I'm not sure what you got out of writing that, but maybe it made you happier, I don't know. One thing, though:
+
+> Exactly what is this sentence except an excuse to say that you have a degree in Physics?
+
+I didn't say I had a degree in physics. I said I _studied_ physics. I didn't complete the degree.
+
+Enjoy midsummer!
+";3;2;False;Falkvinge;dj9kp64;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+No the culture is sick because people like you would prefer to turn what was a concise reply to a fair question into a personal attack on an individual in the community.;11;2;False;jessquit;dj8z07v;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];16;1;False;;dj8ywuc;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"""Exchange rate"" is a proxy for ""purchasing power of a Bitcoin"" because those words are too technical for most people.
+
+Everywhere I've used ""exchange rate"" you may substitute ""purchasing power of a Bitcoin.""  My argument stands. 
+
+Edit: downvotes for facts and rational, polite discussion.  Hmmm.";4;1;False;jessquit;dj8zu6o;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Are you kidding me? He was asked if he was a politician or if he studied computer science. He responded with a slew of over the top unrelated accomplishments masked as a humble introduction to his political stance. Literally why is it relevant that he ""started coding at age 8""? Ignoring how incredibly unlikely his entire story is, it's still overtly unnecessary and entirely self congratulatory. 
+
+I'm not criticizing the comment for being rude or indecent. Simply, if this is the type of culture that's supported in BTC communities, no wonder you have issues with clashing personalities and, apparently, the basic functioning of a cryptocurrency. ";-22;4;False;belisaurius;dj8x4q8;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"So, you're telling me that he didn't need to, so instead he did it anyway for fun? That just makes this worse. Also, I think it should be pretty clear that anyone who's actively described by the phrase ""evangelist, spreading ideas across the world"" is someone who strictly doesn't give a fuck about even avoiding the appearance of self aggrandizement. 
+
+>During the election campaign of 2009, Falkvinge announced privately on Facebook that as he was touring the country, he was looking for women to sleep with while on the campaign trail.This was picked up by tabloids and blogs and caused a minor controversy.
+
+Hmm. Thanks for illuminating more about this guy. I feel even more confident in my innate dislike of him now. I appreciate it. ";3;0;False;belisaurius;dj99gwc;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Non-Mobile link: https://en.wikipedia.org/wiki/Rick_Falkvinge
+***
+^HelperBot ^v1.1 ^/r/HelperBot_ ^I ^am ^a ^bot. ^Please ^message ^/u/swim1929 ^with ^any ^feedback ^and/or ^hate. ^Counter: ^82864";1;0;False;HelperBot_;dj9983z;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"**Rick Falkvinge**
+
+Rick Falkvinge (born Dick Greger Augustsson on 21 January 1972) is a Swedish information technology entrepreneur and founder of the Swedish Pirate Party. He is currently a political evangelist with the party, spreading the ideas across the world.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/btc/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot/)   ^]
+^Downvote ^to ^remove ^| ^v0.22";0;0;False;WikiTextBot;dj9984v;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"When you're mentioning these numbers, you're trying to compete with the worst in class. Frankly, that's not good enough. You need to compete with the _best_ in class.
+
+Being better than something that sucks, even in comparison within its own industry, is not good enough.
+
+I know that credit cards charge about that much, but banks are quickly moving toward debit cards which charge a fraction, and the most advanced have moved to phone-based payments that charge 15 cents for merchant transactions. You need to aim at being an order of magnitude better than the best-in-class, which is also a moving target.";8;1;False;Falkvinge;dj8y9it;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> No idea
+
+Then you cannot claim
+
+> there will be basically no block rewards beyond transaction fees
+
+Because this presupposes you know the exchange rate (edit - purchasing power) of a Bitcoin, and how much the fees will be.
+
+If the value of a Bitcoin keeps up with halvings - as it has historically always done - then the value of the mining reward never drops, and no additional fees are ever needed for security.
+
+You simply cannot make the claim you are attempting to make if you cannot accurately predict the exchange rate (edit: specifically, the purchasing power) of a bitcoin in the future (or more specifically the price of electricity priced in future bitcoins).
+
+If price doubles with every halving and fees halve with every halving, then the value of the block reward and total fees remain constant over time.";5;1;False;jessquit;dj8zaak;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> I'm not limiting the access at all, 
+
+if you enforce a rule that limits transaction capacity to 2000 tx every 10 minutes that is an artificial limit. 
+
+PayPal and credit cards are more akin to the Lightening Network they have almost no similar to bitcoin so poor analogy. ";1;1;False;Adrian-X;dj9p0dk;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"No, he was asked
+
+> Hey I follow you on twitter. You seem to have a very advanced aptitude for technical stuff.
+
+Which is an obvious leading question easily rephrased as ""hey, tell me more about yourself.""
+
+>  Ignoring how incredibly unlikely his entire story is
+
+Ah, so you came here to brand him a liar, too.
+
+What's *your* agenda, hmmm?";28;1;False;jessquit;dj8xr5l;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I'm not limiting the access at all, any more than PayPal's fees stop you from buying something online.
+
+When a store sets a price for their product, they include consideration for the cost of doing business, like the credit card transaction fees.
+
+Bitcoin stores could do the same thing, but only if the fees are consistent enough to be predictable *and* small enough that the store would rather ""eat the charge"" than list it as an additional fee.";0;1;False;kinyutaka;dj9i7pa;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> it's still overtly unnecessary and entirely self congratulatory. 
+
+Not really.
+
+If I had written that I was considered one of the world's 100 greatest thinkers by a Washington DC think tank, or that I had been nominated by TIME Magazine to be considered one of the 100 most influential people overall, or that my Wikipedia page has been translated to some double digit number of languages, or something like that, then it becomes a bit self-congratulatory -- or would at least sound too much out of the ordinary to fit in the context.
+
+But here? I was asked whether I was primarily a coder or a politician, and whether I was self-taught or had studied to learn to code. I supplied exactly as much information as was required to answer the question and understand the answer in a bit of context.
+
+(Also, when your life story _does_ sound like that, it's hard to answer a question like that neutrally while still supplying enough fact to actually answer the question.)";3;1;False;Falkvinge;dj9geor;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I don't really code anymore, but I started at 10 on an IBM 386.  Was I creating apps for banks or anything?  No, but I learned to program.  It's not really that big a deal.
+
+Kids today start learning HTML in high-school.  Not really a big deal at all.
+
+EDIT: Wow somebodies panties are in a wad.";0;1;False;troubleondemand;dj94me5;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I can't make censorship resistant value transfers with the ""best in class"" options that you're talking about.";1;1;False;mmortal03;dj9ky07;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];-3;1;False;;dj8zpgg;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"my agenda? An /r/all user who saw an interesting post in /r/BTC who isn't interested in self aggrandizement and a subreddit that drools over people who 'start coding at age 8' or 'taught classes in coding while getting an ""engineering physics"" degree'. 
+
+Do whatever you want man, I'll I'm telling you is that, if this is indicative of your culture, you shouldn't surprised that your community and cryptocurrency aren't doing well. ";-13;2;False;belisaurius;dj8y7pj;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"And the man himself shows up. 
+
+I'll be honest with you, there's no way for me to interact with you in a respectful way at this point, considering both your initial statement and the further information that's been revealed. 
+
+But, as you deigned to descend to the level of us mere mortals (and insert yet more humblebragging into your response), let's break it down. 
+
+You were asked: 
+
+>Are you a programmer or have you studied computer science? I thought you were a politician.?
+
+The answer that question is very simple: Yes, no, I am, thank you for recognizing me. 
+
+You were explicitly **not** asked ""whether I was self-taught or had studied to learn to code"". Not at all. Moreover, your answer is entirely irrelevant. When asked a question, there is no world where the fact that, as a child, you did something maybe slightly related to the question is relevant. *The only reason you'd refer to the age at which you touched a computer for the first time, is simply to underline your successes.* 
+
+>I started coding at age 8 and founded my first IT business at 16, with my first employee at 18.
+
+That entire sentence is irrelevant unless you're trying to impress people who have limited experience. It's *textbook* bragging.
+
+Moving forwards, there is absolutely no reason for you to contextualize the answer like this:
+
+>I didn't study computer science at university, but I taught a few CompSci classes there as an assistant while studying engineering physics :)
+
+Exactly what is this sentence except an excuse to say that you have a degree in Physics? This is actually strictly identical to random facebook personalities talking about how smart they are because they read an article on quantum mechanics. It's straight up irrelevant that you've assisted a class or two. Completely and totally irrelevant. 
+
+The last portion of your original comment is specious shit as well:
+
+>In 2006, I got tired of the political system not working and decided to hack it, which I succeeded in doing and kicked some offline-borns out of office (deservedly so). In some eyes, I guess that makes me a politician. I prefer ""net liberty activist running for office"". Politicians are people who lie on television about things that don't matter.
+
+""Hack the political system""? That doesn't mean anything. You repeatedly failed to get elected and left your political party after it became clear that you couldn't freeload off the system. 
+
+Now, let's get into your most recent comment, and your wikipedia page in general. 
+
+>Rick says: Several news outlets are now running headline-size stories about me as an individual; Svenska Dagbladet will be the first to break the story tomorrow June 10, if anybody's interested in updating the bio. I won't update it myself, no matter how tempting. :-) I will share my personal motto prematurely to the SvD article, though: ""If you play by the rules, you will always lose."" This is because in most cases, the rules can be boiled down to ""STFD & STFU"": a lot of people let themselves be run by other people's expectations. If you let that happen, you become a perpetual victim of circumstances. The only way to win is to not play by the rules. 
+
+What is that? That's you commenting facetiously on your own fucking wikipedia article feeding other people news articles to edit in on your behalf. Do you know what your 'motto' screams to me? It screams insecure manchild incapable of understanding why no one will let you play with them. Hint, it's because you're so full of yourself that you probably are incredibly unsufferable to be around. 
+
+Let's recap your life, shall we?
+
+Step 1: Change your name to Dick Falconwing because it makes you look cool. 
+
+Step 2: Start an edgelord political party and then mooch off of people for 18 months because you couldn't even be bothered to get a real job. 
+
+Step 3: Get kicked out of your political party because you tried to use it to pick up women. 
+
+Step 4: Edit your own wikipedia article and ride the wave of a single moment of fame continuously, including right now. 
+
+News Flash, Dick Greger Augustsson, you're 45, you have no career. You have no experience as a politician. Your last relevant international event was over four years ago. Your 15 minutes of fame are over. You have devolved into jerking yourself off on a public forum and attempting to build an image of yourself that's entirely inconsistent with reality. 
+
+>(Also, when your life story does sound like that, it's hard to answer a question like that neutrally while still supplying enough fact to actually answer the question.)
+
+Do you know what your life story really sounds like? Here you go:
+
+>Kid who was always told he was so special, did a cool thing that one time. Finally, his moment of recognition came, when all the plebs would recognize his brilliance. Unfortunately, the world wasn't ready for his successes and ideas. How could all those women turn down his polyamory?!?!?! Why wouldn't his countrymen vote him into power!?!? It must be everyone else who is wrong about this glorious man, dripping with overwhelming levels of intelligence and charm. 
+
+Yeah, Dick Falconwing, you're not cool. I don't find your self aggrandizement and furious humblebragging funny. It's sad as fuck. You're an adult man. Take pride in being humble. It's time for your edgelord shit to end. 
+
+Also, while you're at it, fuck out of here with your bullshit condescension. You're no better than the rest of us. (And clearly, the women in your life know that even better than I do.)";6;3;False;belisaurius;dj9ik08;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Couldn't have said it better myself. Thank you observerc. I appreciate it. ;2;0;False;belisaurius;dj92l5u;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Again, I have no problem with the fact that he did that. I have a problem with him telling the world, in the first line of his reply, that his unbreakable chain of success started when he was 8. Please, stop conflating criticism of presentation with criticism of content. ;3;0;False;belisaurius;dj94tds;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"You can't make censorship resistant value transfers unless you have a recipient, either.
+
+And unless adoption happens, you'll end up in a PGP type situation where you don't have the censorship resistant email everybody was certain would happen in the 90s, because _people don't use it._
+
+The required mass adoption will not happen without a profit motive. Kill the profit motive, you kill every single value that the technology would bring.";1;1;False;Falkvinge;dj9m5gj;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"He is the frontman of the swedish pirate party and a known hacktivist of sorts. Not particularly a member of bitcoin community, more like a known tech savy person who chimes in bitcoin discussions every now and then. Albeit relatively seldom.
+
+I think this guy have shown great wisdom on many technology related subjects, including bitcoin. And I like to read his interviews and opinion articles.  But I agree with you, that was a fair bit of unnecessairy humblebrag.
+
+It just doesn't contribute with anything value to the discussion to add ""oh yeah, I made my company when I was 16"". In fact, that just shows quite a bit of priviledge if anything.
+
+Generaly speaking, references to one's childhood are usually silly fluff. Every dumb jow and his cat have done X since they were a little child. Idon't understand what that is suposed to add. Children don't have access to production means as adults do. I am pretty sure you could teach programming to a 13 year old and put him in front of a screen all day producing something. What is the point then? There is a reason why we don't do that and it's NOT technical inability.
+
+Look no further than core. If you head up to r/bitcoin, it's a competetion of who can core member's willy best. Every other reply to core minions is a guy telling them how great they are, pure genious, above the common mortal.
+They obviously like it and put themselves in that position because of it. The result is the disaster we all know.
+";5;1;False;observerc;dj92707;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Paul Sports agrees with you about PoW, but (if I understood correctly) thinks it's not a problem since users have recourse against a malicious miner via pow change or forced soft forking changes via UASF.;1;1;False;davef__;dj9fz87;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> same problem only worse: mining and wealth becoming concentrated in a few people?
+
+Yes. In addition, it has a lot of corner case consensus flaws that AFAIK have not really been satisfactorily solved without mixing it with PoW, and/or having an authoritarian leader (""if there is an ongoing PoS fork, Vitalik will just pick the winnar""). At which point, you might as well use a centrally-managed MySQL db as the ""decentralization"" is mostly a deceptive marketing trick.";2;0;False;reph;dj9kgjg;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Somehow, I can't quite see my way through to assuming that a negative response to ""Look how big my penis is"" is being a dick. But hey, enjoy your community! It's not mine, and after this reception, will never be mine. ";2;0;False;belisaurius;dj939nj;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I'll just glaze over how ridiculous the rest of your post is for this one line:
+
+>It (transaction cost) should be based on the value of the transaction
+
+No, it shouldn't. Credit cards do that to create margin anyway. The cost of a transaction should be equivalent to the COST of the TRANSACTION. Holy shit. And thst cost is not closely related to the value of the transaction. ";18;1;False;jeanduluoz;dj8vgtb;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+this comment almost looks planted;6;2;False;rootfiend;dj8zviv;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I started coding at age 8 and founded my first IT business at 16, with my first employee at 18. Depending on your reference, I'm either a coder or an entrepreneur first. I still [code](https://github.com/Swarmops/Swarmops).
+
+I didn't study computer science at university, but I taught a few CompSci classes there as an assistant while studying engineering physics :)
+
+In 2006, I got tired of the political system not working and decided to hack it, which I succeeded in doing and kicked some offline-borns out of office (deservedly so). In some eyes, I guess that makes me a politician. I prefer ""net liberty activist running for office"". Politicians are people who lie on television about things that don't matter.
+";56;3;False;Falkvinge;dj8ulm5;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+So as we halves the rewards we should either halve the security of supplement it by paying more fees. ;-2;3;False;mcr55;dj9hjhv;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Not that I am a fan of PoS, but PoW almost inevitably leads to centralization. I would call Bitcoin highly-available & somewhat banker-, ISP- and government-censorship-resistant, but the mining & SW development process is not really decentralized.;1;2;False;reph;dj9adrf;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+">  I guess, in the sense that predicting fuel prices for filling your car up next week is also ""unsolvable"".
+
+No, it is completely different.   If logic does not tell you that, just watching the two situations should.
+
+For one thing, you don't need ""a gasoline price estimator"".  You don't pay for gasoline one week in advance, without knowing the price.  When you pay, you know the price -- and, once you have paid, you will get what you paid for.  That is what ""market"" means for sane people.  
+
+There are many other differences but that should suffice for now.
+
+> some uncertainty about future fees
+
+It is not *some* uncertainty, and it is not about *future* fees.  In the current regime, it is impossible to know how much fee one should pay **now** to get confirmation within any specified time.
+
+> Decentralization has always been my highest priority
+
+Centralization of mining is indeed a fatal flaw of bitcoin, but congested operation does not help *at all* to decrease or prevent it.
+
+> Decentralization has always been my highest priority, as it should be for anyone else who understands why Bitcoin exists in the first place. 
+
+I bet that I understand that better than you do.
+
+I suppose that ""decentralization"" for you means having many ""allegedly full but non-mining"" relay nodes, sitting between simple clients and miners.  I have explained several times why those nodes not only do not contribute to the network, but in fact break completely its security and decentralization.
+
+That is not just a theoretical risk.  UASF is essentially an attempt to use those nodes (and the skewed way by which they are found by clients) in order to force both simple clients and the miners to accept a change to the protocol that the self-appointed Central Planners want.  
+
+If UASF goes through, bitcoin will have failed -- not just theoretically, but effectively.  Anyone who understands how bitcoin is supposed to work should see that.";15;1;False;jstolfi;dj95dye;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];-1;1;False;;dj90h6t;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+in this thread, r/btc babies think one wallet having a dumb programming issue means all of bitcoin is unusable. ;-6;0;False;BC-LC;dj943eu;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Oops, right, thanks! Fixed.;3;0;False;jstolfi;dj9berl;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Bitcoin is literally dead. The price fluctuations scream bullshit and the value is slipping away quickly..BUT..that's ok!
+
+The first of everything doesn't need to survive. Bitcoin paved the way for incredible innovation. Let it die in peace.";-5;1;False;ItsLightMan;dj96f67;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"1.  Much easier to attack with double spends with delays >1 block. 
+
+2. Destroys 0 conf functionality. 
+
+3.  Mempools used to be first seen, first accepted which enhanced resolution considerably. 
+
+4.  Mycelium had a network propagation estimator tool that enhanced the acceptance of 0 conf txs back in the day. ";9;0;False;H0dl;dj959qh;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> albeit one with poor resolution at ~10mins
+
+And not deterministic, since there is always a nonzero probability of a reorg changing the order of transactions.
+
+> I've realized for some years that ""blocks are supposed to be full"" is a strategic attack on Bitcoin's ability to timestamp, because with full blocks, it begins to be impossible to guess the order in which txns are received.
+
+Basically yes, in a practical sense.  
+
+Note that the ""timestamping server"" required to solve the double-spend problem does not need to use the chronological order of arrival.  It needs only *choose* some ordering of the transactions, even if arbitrary.  Or, rather, it needs only choose *one* transaction among all those that spend a given UTXO, to be the only one confirmed.
+
+That said, in practice many applications expect transactions to be confirmed more or less in the order that they were issued.  BitPay, for instance, used some private heuristic to decide whether an unconfirmed transaction was ""safe"" -- likely to be confirmed before any double-spend.  I suspect that the huge backlogs and the sort-by-fee policy pose a big problem for their heuristic. 
+
+Payment channels also seem to depend on transactions being confirmed in roughly chronological order.";13;1;False;jstolfi;dj90un6;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+This can easily happen to ETH as well... ;1;1;False;Bokiman04;dj9lxzo;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> Fees are inevitable, we know this
+
+This assertion is not true. Chris Anderson wrote the book _Free_ almost ten years ago, explaining why most transactions will _(must)_ be free in the future if bitcoin is to survive.
+
+https://www.wired.com/2008/02/ff-free/
+
+Bitcoin works fine when most transactions are free. We know this, because it did so for over five years. At some point in the very distant future, block rewards will fall to zero, at which point the very small portion of paid transactions will be plenty sufficient to pay for mining.";17;3;False;Falkvinge;dj8uem2;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+*buttcoin you looser ;-7;0;False;___---________------;dj8vqet;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];1;2;False;;dj8y93n;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Its fee estimation asks the network. It is the network that is broken.;28;3;False;Falkvinge;dj8wh1j;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> ""Broken fee estimator"" is in fact an oxymoron. When there is a backlog, fee estimation is an unsolvable problem, like estimating the bid that would win a blind closed-bid auction. Even with access to the recently mined blocks and the current mempool, there is no way to predict the delay for a given fee level. Moreover, any fee estimation method that is widely used will defeat itself.
+
+> When there is no backlog, on the other hand, fee estimators are not needed, because any transaction that pays the standard minimum fee will be confirmed in the next block.
+
+> Guess why Satoshi's design had essentially unlimited blocks (with the safety block size limit more than 100 times the actual block sizes).
+
+This needs more upvotes.";72;1;False;Falkvinge;dj8wv4k;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"It does not estimate the fee. It asks the network. And for the record, https://bitcoinfees.21.co/ gives almost the exact same estimation as Armory does, so it's not broken any more than 21 is.
+";6;1;False;Falkvinge;dj9dn0t;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> When there is a backlog, fee estimation is an unsolvable problem, like estimating the bid that would win a blind closed-bid auction.
+
+This is so right, it isn't even ""like"" estimating the bid that would win a blind closed auction, it *literally is* estimating the bid that will win a blind closed auction.
+
+This is why full blocks inherently break Bitcoin. 
+
+Jstolfi, you might be able to help with this:
+
+One way of describing Bitcoin is that it solves the Byzantine General's problem.  Another way Satoshi described his invention is as ""a global timestamping server.""  We can agree that, if there were such a thing as a global timestamping server upon whose timing everyone agreed, this would eliminate the need for blockchains (in Bitcoin's case, the blockchain is the timestamping server).
+
+With the mempool being cleared every 10 minutes, Bitcoin *does* function as a global, decentralized timestamping server (albiet one with poor resolution at ~10mins).  Every txn in a block can be reasonably assumed to have been generated in the last 10 minutes.  This means that they are easily chronologically ordered, at least with 10 mins resolution.
+
+I've realized for some years that ""blocks are supposed to be full"" is a strategic attack on Bitcoin's ability to timestamp, because with full blocks, it begins to be impossible to guess the order in which txns are received.  A txn in block 100 might have been received long after a txn in block 101.  With never-full blocks, this essentially never happens.
+
+So we can see that full blocks breaks the timestamping functionality, but I have never really understood the full ramifications of this.  I am quite sure underneath this lies some sort of vulnerability that's being probed, and I intuitively feel this is a significant vulnerability, but I can't fully suss it out.  But it seems intuitive - the whole point of blockchains is to arrive at a consensus on the ordering of transactions, so if they become disordered, something has to give, right?
+
+cc: /u/Falkvinge ";39;2;False;jessquit;dj8ybwa;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I don't know much about PoS.  Would it not have the same problem only worse: mining *and wealth* becoming concentrated in a few people?
+
+I gather that there are a few PoS altcoins already.  Do they have real use as a currency yet?  How is their wealth distribution?";2;2;False;jstolfi;dj9f6aw;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Im confused about this too;7;1;False;velvenhavi;dj9d94d;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];-15;5;False;;dj8uawe;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];15;2;False;;dj8u8iy;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];5;1;False;;dj9a6hs;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"It's not only the bitcoin we signed up for, it's the bitcoin we are actively paying for. We all collectively pay around $5 million a day, for miners to securely record and process transactions. That's our money being diluted. Transactions should be almost free, we are currently paying twice for the same service. 
+    
+Blockstream/Core have taken the solution to the double spend problem, and turned it into a double charge, rent seeking, bankers, wet dream.  ";37;1;False;randy-lawnmole;dj92y3m;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Excellent post. Yes, the fee market is fucked up. And we have some real world data on this now.
+
+Why we go and activate SegWit now, from the same folks who have demonstrated their utter incompetence here, is beyond me.";3;0;False;awemany;dj9jtmw;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
+
+- [/r/btc] [Bitcoin Network Comment Deserves Own Post](https://np.reddit.com/r/btc/comments/6iuhh8/bitcoin_network_comment_deserves_own_post/)
+
+[](#footer)*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+
+[](#bot)";3;0;False;TotesMessenger;dj94l31;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+Not a Single answer;1;0;False;Nautisop;dj9p443;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Fees are but artificial limits are not. Transactions today and the next 20 years could be 100% subsidized. 
+
+Limits are a results of the capability of the technology. 
+
+The designer of the system said their should always be free transactions. Most notably if there aren't then not all BTC are fungible.";3;1;False;Adrian-X;dj8xpbp;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Unsolvable problem?  I guess, in the sense that predicting fuel prices for filling your car up next week is also ""unsolvable"".  If a fee market is necessary for maintaining decentralization, then some uncertainty about future fees is a price I'm more than willing to pay.  
+
+Decentralization has always been my highest priority, as it should be for anyone else who understands why Bitcoin exists in the first place. 
+";-12;2;False;davef__;dj92s1s;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> It should be based on the value of the transaction
+
+It should be decided by the market, but the user is free to offer higher fee for higher value, and the miner is also free to discard high value transactions with stupidly low fee. Just get out of the way, the market will continously adapt the right fees. (As it does now also, even when stressed with misdirectedly low blocksizes).";1;1;False;ErdoganTalk;dj91kab;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+I'm probably not the best person to ask, but I believe Electrum supports cold storage.;1;1;False;davef__;dj9061a;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> having the fee linked to the filesize of the transaction is no good
+
+the size of the transaction is literally its cost to mine it, the fee should and will be proportional to cost to mine the transaction.  to do otherwise would simply distort the incentives.";3;0;False;jessquit;dj8xtms;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I would say the [community-supported armory](https://github.com/goatpig/BitcoinArmory) though I haven't tried it in a few versions (hodling and all).
+
+There's nothing I'm aware of that has the features of armory's lockbox (kinda) designed for non-technical users. It's need to access the bitcoin block data directly is a pain sometimes though.";2;0;False;redfacedquark;dj95o4k;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+its well known that this version of armory was abandoned. one of its features that was known to be broken was fee estimations. with all the fud possibilities out there, at least pick one thats in the present .;6;1;False;nomadismydj;dj9diad;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I'm not sure how you can't see that that's intellectually dishonest. The reason that this error is occurring in the first place is because of the way that Armory is designed and it's incredibly notable that that design has not been updated in years.
+
+You would have a point if this was Bitcoin core or this was a product that block stream had created.
+
+Since it is neither it just shows how entrenched you are in your ideologies and how you are desperate to attack those you perceive as the enemy despite this situation not having any rational evidence to do so.
+
+It's posts like this why I stop participating here. You guys are smoking some really weird shit. Downvote away girls.";3;0;False;Cryptolution;dj902sa;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+We all know why that happen. The real reason why they wanted a fee market is because they wanted transactions to be expensive. They wanted an incentive to develop/sell/use second layer blockchains solutions like the lightning network and whatnots.;2;1;False;dunand;dj9bsyd;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"> Note that the ""timestamping server"" required to solve the double-spend problem does not need to use the chronological order of arrival. It needs only choose some ordering of the transactions, even if arbitrary. Or, rather, it needs only choose one transaction among all those that spend a given UTXO, to be the only one confirmed.
+
+Right, I get that.  Where my intuition pokes me is that it's all well and good that the system remains internally consistent even though transactions are processed out of chronological order, but that isn't how transactions must be accounted for in meatspace.  The system no longer models the behavior of the meatspace it's intending to simulate.  Maybe that's too abstract, but perhaps it gets my intuitive disagreement across.";8;1;False;jessquit;dj90zd4;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"/u/nullc thinks this is excellent, this is what he's wanted the whole time.
+
+Without a fork to bigger blocks, btc won't work. Btc can't work with full blocks. ";13;0;False;Geovestigator;dj8vpp2;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"Try this in the Bitcoin-QT client, with these inputs, and you will see a much lower, adjustable fee estimate, depending on if you want immediate confirmation or not.  
+
+The point is your original demagogic statement was wrong.  Armory's handling of tiny input consolidation is what's broken here.  The Bitcoin network itself is handling the higher usage of the past 6 months admirably -- compare to the much touted, scalable ""inifinite millions of transations/sec"" Ethereum, whose clog-up yesterday forced exchanges to stop accepting it.  ";10;1;False;davef__;dj90vh0;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"nailed it!  
+This week I already spent 6$ on fees for 2 economy transactions..   One was 30$ and the other was 80$. The coins I spent were 2 maybe even 3 years old.
+
+I still think that the coin age priority was great and it's a shame that Core removed it without any hesitation.";13;0;False;segregatedwitness;dj8voox;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"It should be noted that the little (?) by the fee box shows a tooltip which says **""most transactions do not require a fee""** in bold text. That's the bitcoin I signed up for.";95;3;False;Falkvinge;dj8txjd;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+I see further down someone brought up this exact point with more info then i provided.. it used the multi year old api flaw.. which was addressed. ;2;1;False;nomadismydj;dj9evy3;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+[deleted];8;3;False;;dj9bnm4;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"I wanna state something and would be happy to get a confirmation or correction of the following: The Statement that the transaction has too many inputs indicates that your bitcoins came from many transactions and now that you want to spend some of it, it needs to process all the inputs with the two outputs (recipient and the change back to you) from all the coins in a transaction which would make a too big transaction. 
+
+True or false (and why?) 
+________________________
+
+What i don't get is why does it say that, does that mean that your transaction size would be more than a whopping blocksize 1mb? :O";1;2;False;Nautisop;dj8zybg;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+This is good for bitcoin ;9;0;False;;dj8w6j2;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"My suspicion here is that it isn't worth my time to address these assertions on this forum, particularly the Bitcoin centralization ones, which are beyond silly and have been addressed elsewhere.  
+
+As far as the econ assertion, my guess is the socialist CS professor who pretends to also be an economics expert is arguing dishonestly here in order to derail a project he wants destroyed.";-11;1;False;davef__;dj96460;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png
+"This is Armory, a wallet that hasn't been maintained much for the past couple years.  Its fee estimation is broken.  
+";6;2;False;davef__;dj8wd1v;Bitcoin is no longer just annoying, but now literally unusable. Blockstream has utterly ruined a great innovation and a fork cannot come fast enough.;http://i.imgur.com/jCBX5q5.png

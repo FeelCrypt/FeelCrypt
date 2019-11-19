@@ -1,0 +1,143 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"I'm sure this idea has been repudiated by the BU developers. BU is safe.
+
+> Or if a government seizes control over a mining operation specifically to disrupt it?
+
+I don't think you understand how small Bitcoin is... Even a small government could easily take majority hashpower and kill Bitcoin. The problem is that they won't because other cryptocurrencies will pop up and they will have the same problem with those (inability to control).
+
+The larger issue is corruption from within BitcoinCore. They are all bought off to make Bitcoin a settlement layer. This will kill Bitcoin's chances of mainstream adoption while propping up alt coins. Just look at the altcoin boom in the past few months - core caused this to happen. They didn't listen to Bitcoin users.
+
+Your problem is that you trust core. They don't give a shit about you or Bitcoin. They basically want to make money via Blockstream and ride away as the new kings of banking.
+
+I don't think you're looking at the larger picture. 
+
+1) Segwit will never, ever ever activate, ever. Period. So give up because it won't happen.
+
+2) BU doesn't have to be trusted, run Bitcoin Classic which is compatible with emergent consensus.
+
+3) Governments could get 51% of the hash rate at any time, right now. BU's changes don't suddenly allow it to be open to attack. 
+
+4) BU is being run successfully right now by 35% of miners. It's working. 
+
+5) BU has been tested extensively.
+
+6) BU has on-chain scaling, reduces fees for users and reduces unconfirmed transaction backlogs plaguing the network. Segwit wouldn't do this for at least a year (but it won't be activated so it doesn't matter).
+
+7) Misinformation and censorship on r/bitcoin is enough to make you question core. If their code is so good why can't it withstand open public discussion? Pretty sad that even with censorship and propaganda only 25% of the mining network is interested in it.";1;1;False;Annapurna317;dexgmyi;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+"Ok, you're aware of this open and easy to implement attack vector against BU but on the basis of miners not willingly attacking the network with the median method are not concerned for it.
+
+What if someone sets up a mining operation specifically to be the one that broke Bitcoin knowing they could probably recoup most of the cost to set up through a short? Or if a government seizes control over a mining operation specifically to disrupt it?
+
+What is your stance on those issues? Your faith in those with power is as though the CIA haven't been staging coups in various countries for years, or that a government never illegally sold arms or a bank never laundered drug money. 
+
+Trusting people in power is not the ethos of Bitcoin.";1;1;False;;dexg0ot;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+"You're assuming that miners are going to attack the network. In that case Bitcoin has larger problems. Basically, it would be against their own best interests to do that. People would run to altcoins anyway. It would defeat their own goals.
+
+A user-activated soft fork has openly been floated on r/bitcoin to activate Segwit against the will of miners, users and businesses. This is a much more dangerous attack on Bitcoin. It's pathetic that it was allowed to remain on r/bitcoin. 
+
+You should be terrified of people pushing soft-fork activation against hash power. The biggest threat that Bitcoin faces is from BlockstreamCore supporters who are trying to force Segwit through. All for what?
+
+This is at odds with their ""consensus"" approach which forms the foundation of their anti-hard fork stance.
+
+They go from ""no contentious hard forks"" to ""user soft-fork away from 75% of the mining hash power"". That's fucked up. Plain and simple. I've been here for >=5 years and have never seen bullshit like that. These fuckers can not be trusted - and the network no longer trusts them.
+
+You think Segwit will get activated after that talk? The probability is less than snowflakes chance in the Sahara. Core is dust in < 1year.
+
+Sure BU and Core both have bugs and they're being fixed. Core uses bugs in BU as weapons by publicly announcing them where BU sends them discreetly where they are fixed before attackers can do anything. The developers controlling bitcoin core are too immature to handle Bitcoin any further.
+
+Gavin wouldn't endorse BU if it were a joke, by the way - so that's just a wrong characterization. 
+
+I think we're done here. If you can't agree with basic facts then you're a waste of time.";1;1;False;Annapurna317;dexfn8z;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+"I understand this is the theory, but what happens if... one sets EB to 2MB, 30% to 4MB, and 25% to 8MB. A malicious miner with 3% of the hash power (was signaling 8MB) mines a 3MB block. Assuming default AD 45% of the network fails to stop the block from inclusion and orphans 4 blocks. Now their “sticky gates” are hit and therefore completely open for 144 blocks… Now the miner mines a 6MB block, which is immediately accepted by the 25% signaling for 8, as well as the 45% who no longer have a vote since their gates were hit. 
+
+After 4 blocks it is integrated again… Now again the attacker has created another opportunity as a full 75% of the network hash rate will have their gates wide open. Now this attacker mines a [32MB block] full of the most computationally intensive transactions and hashes he can manage. Let’s be nice and say it takes a [couple of hours] to validate and download the block. The entire network grinds to a halt as it is automatically accepted by a 75% majority thanks to a single miner with just enough hash power to reasonably expect 2 or 3+ blocks out of every 144. 
+
+That's a scenario with 3% of the hashpower, what if Bitmain has 50% in 10 years and the Chinese government decides to take Bitcoin down?
+
+There is NO defense to that scenario. Maybe LN ISN'T the best solution, but BU is a joke.
+
+Btw, BU just got all their nodes crashed, if this happened live then Bitcoin really would be dead. It's like 'god' gives me the ultimate sign of approval for my perspective.";1;1;False;;dexf0d7;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+Exactly, furry muff.;1;0;False;;dewnjma;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+"Giving them (or me or you as miners) the power to set the maximum blocksize we will accept isn't giving them power. It's a change that makes that network parameter no longer a political football.
+
+Miners want the network to facilitate transactions, this puts pressure on them to raise the blocksize only as adoption happens. Further they want to make fees, which puts pressure on them to keep the blocksize as small as possible while also making sure the network doesn't get congested. It's basically the perfect way to balance fees and blocksize, which are directly related.
+
+Segwit leads to centralized hubs on the LN network and business-run side chains which put middlemen in charge. That's why it leads to centralization.
+
+Consensus through a command-line parameter signaling does nothing to centralize the network. It does the opposite of that, it makes the network more decentralized by removing centralized developer-planned magic numbers in the code. Keeping the blocksize cap at any specific value forever is a centralized-developer decision. The network need decentralized consensus, not centralized planning.
+
+> I've just found that they don't even know the basics
+
+You know, I've found people on both sides that have no idea what they're talking about. These people don't read or write code and just take what they see blasted on r/bitcoin and accept it as fact to be part of the group there due to censorship. When real facts are presented, weighted and people realize how bad of a change Segwit is, BU is really the only remaining option. Gavin Andresen also endorses it, along with other expert developers. It's the only way forward for Bitcoin that will keep Bitcoin at the top of the cryptocurrency space. People want on-chain not off-chain. If Bitcoin goes off-chain, users will move to an altcoin (thus the rise of altcoins recently). Now, maybe some people want that for your speculation purposes, but it's not what is best for Bitcoin.";1;1;False;Annapurna317;dexeqoc;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+[deleted];1;1;False;;dewnehg;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+"> that has already been addressed
+
+You didn't read the article. It points out a flaw with LN that cannot be fixed because the LN, relaying on opening, closing and settling on-chain will hit huge backlogs with a limited non-adaptive blocksize. No amount of testing can reduce on-chain congestion in the scenario presented in that article.
+
+**They haven't addressed the flaw.**
+
+Please, point me to where this flaw was addressed? Because it wasn't and can't be without an adaptive blocksize.
+
+Also, please tell me your software development credentials because I think you're bullshitting people with your info. ";1;1;False;Annapurna317;dex5ukb;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+If they remove emergent consensus i would support a blocksize increase to any reasonable level as an immediate scaling fix.;1;1;False;;dewn4xl;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+"> Does a fix for LN rely solely on an emergent consensus approach.
+
+The LN relies on gradual, continual blocksize increases as user adoption happens. There is no better way that is decentralized than emergent consensus. Why would you want some magic number in there picked by some developer? 
+
+Further, the BU changes are not radical. It's a small, targeted change alongside other relay network fixes like xThin blocks which have been tested extensively. 
+
+The BU info isn't misinformation. I think your pro-Segwit info is misleading - it's not a great solution for scaling or malleability.
+
+Further, BU doesn't prevent the LN network from being built. Segwit forces people off-chain. Nobody wants to turn Bitcoin into a settlement network.";1;1;False;Annapurna317;dexagjp;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+[deleted];1;1;False;;dew3os5;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+Nothing you said makes any sense and I've already explained why.  No one wants core involved in any scenario no matter what they do.;1;0;False;__Cyber_Dildonics__;dew3mhg;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+"""What would they stand to gain by having control over the network?"" Are you really asking that? Come on, think about it yourself, what someone would have to gain by directly being able to control a network that will potentially dominate the global economy one day. Rather,  what would someone have to gain by being able to easily manipulate the blocksize such that only huge companies can mine.....like Jihan....giving himself more profit but providing a single point of failure the day chinese government decide to shut him down. Do you really think his efforts are for the good of bitcoin? Its a business decision for HIS profits and hes doing whatever he can to get it implemented.
+
+Core paid for private banks? You don't know what you're talking about man, core has something like 3 out of more than 100 developers privately employed by blockstream. The rest are volunteers!!!! 
+
+Why do all the volunteer coders opt to work for free on core rather than BU, think they might have a better understanding than the general pop.? Because of my points above.";1;0;False;;dewn8kz;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+"If it is the case that I wrongly assumed they had addressed this concern before making a new release then my apologies. I am not trying to be 'a winner' in an argument here, or massage my ego. I am trying to show people that all day I see nonsense support for BU and I point it out everytime.
+
+I'll be doing my research, maybe making a thread and I will find out: Does a fix for LN rely solely on an emergent consensus approach.
+
+If that transpires to be the case, or there is still no means to address this point in failure then I will neither support LN or BU and I will be doing the same to LN supporters that I do to BU.....showing them why its a bad idea, even if they mock me.
+
+My qualifications are my business.";0;1;False;;dex73mt;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+"1.) A user activated softfork would activate segwit
+2.) Fair enough :-)
+3.) I was referencing in the future if Bitcoin ever became a global phenom, it would be big and some governments could try to crash it before making their own version. Kind of like what China is doing right now.
+4.) BU just crashed?
+5.) Erm, BU just crashed....
+6.) BU just crashed, even less users will trust it even if miners are prepared to risk the entire network to make more profit.
+7.) I think there is more misinformation and censorship on r/btc through aggressive downvoting - this point is just our opinions though, isn't it?
+
+Apologize for mentioning that BU just crashed multiple times, but it is as though it did not even happen based on 4 and 5 of your responses. 
+
+Also, did you notice how 30% of BU nodes never went offline with the crash. Those were sybil faked nodes, they are manipulating the facts to fake support...doesn't that alarm you?";1;1;False;;dexht2j;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+It's okay, let the moron get fucked by the reality. ;1;0;False;ScoopDat;dewgrpg;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+"I understand your point, but my problem with emergent consensus (and it will be my problem with LN if it is a prerequisite) is how open it is to eventual exploitation.
+
+Imagine if Bitmain have just diversified hashrate and they are now over 50% of the network strength and getting stronger by the day. We are in a state of miner centralization in this early stage of Bitcoin's life.
+
+If we give more power to miners through emergent consensus the day that Chinese government decide that Bitcoin has caused enough trouble to their economy and they want to shut it down, they could take over miner operation and attack the network with the attack that emergent consensus specially enables.
+
+I presume you are aware of that attack? 
+
+For me, I need Bitcoin to have longevity for many years and years with a stable price. I don't want to allow one set of people to ever have the ability to cause network instability, and on the basis of the strength of Bitcoin being decentralization then any move towards centralization of power is something I will fight.
+
+Some people think Segwit means centralization, I have not heard a single convincing or provable statement to this means. However, I can see directly how BU leads to centralization of power overnight. 
+
+I have been learning everything there is about this debate with an open mind, these are the conclusions I have come to.  I find when I debate this with people that act like they know the situation I've just found that they don't even know the basics. Each time those people are BU supporters, this further substantiates that BU supporters have just been misled, or simply don't understand the facts. I just can't see how they would support anything that empowers one group so much, unless they are all miners themselves, which would make sense.";0;1;False;;dexcrh9;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain
+"> BU just crashed?
+
+Peter Todd found a vulnerability and announced it to the world, people started attacking those nodes. Attacking the network.
+
+Meanwhile, BU found a core bug recently and send it discreetly instead of giving it to hackers to exploit.
+
+Peter Todd is basically in support of attacks on the Bitcoin network. Another reason you can't trust him. 
+
+They were not sybil faked nodes, it was a coordinated attack. I am sure, however, that at least 25% of core nodes are faked. Whenever BU adoption goes up, one or two core-supporting businesses spin more up in the cloud to offset the BU growth to make it look like nothing changed.
+
+> censorship on r/btc through aggressive downvoting
+
+Uh, what? that's not censorship, it's valid public disagreement with what someone posted. Censorship on r/bitcoin is a moderator disagreeing with what you wrote and removing it before others see it. There is a huge difference the size of the grand canyon between the dictatorship-ban on information in r/bitcoin and r/btc's public moderator logs for everyone to scrutinize. Please, try again. You're actually taking r/btc's openness for granted, which is kinda sad.";1;0;False;Annapurna317;dexk4xr;Bloomberg: Antpool will switch entire pool to Bitcoin Unlimited;https://www.bloomberg.com/news/articles/2017-03-13/bitcoin-miners-signal-revolt-in-push-to-fix-sluggish-blockchain

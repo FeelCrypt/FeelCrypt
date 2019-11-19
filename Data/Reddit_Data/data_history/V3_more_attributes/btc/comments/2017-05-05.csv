@@ -1,0 +1,468 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"> Since this tx can only be mined on a backwards incompatible chain, we would get 2 chains.
+
+Non sequitur.
+";1;0;False;lmecir;dh5nsyt;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+"> How come litecoin blocks are nearly empty? 
+
+litecoin has hardcoded minimum fees, causing implicit collusion to censor transactions that don't meet them.
+
+> other miners have to be able to receive & verify it fast enough so that expected profit from making
+
+thats not now it works-- if those costs are non-negligible you combine into a bigger pool, you don't need to verify your own data, and those costs all become shared.";3;1;False;nullc;dh58ual;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+You'd need to get the BU chain above 50% hash rate first, otherwise the original chain would cause a re-org and orphan the new chain.;2;0;False;CatatonicMan;dh5c1ej;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+">litecoin has hardcoded minimum fees
+
+That's policy, not consensus. 
+
+https://github.com/bitcoin/bitcoin/pull/1536
+
+>if those costs are non-negligible 
+
+So exactly like mining an empty block right after another. Fees are non-negligible currently. ";1;0;False;coinsinspace;dh5dgcg;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+"I'm saying without a majority, more strategy is needed to create a split.
+
+The assumption is that miners are rational, which leads to a majority rule outcome, where the minority loses when committing effort against the grain.
+
+But in reality some miners are irrational, and willing to mine for ideological reasons at an economic loss, so a chain split is possible.
+
+Therefore the real battle is between the two groups of irrational miners on each side of the issue.  The rest will just go along for the ride on the chain that provides an economic incentive. 
+";1;0;False;1MBforKTR1gAqRLkNbQg;dh5e4mw;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+"1. Yes. A BU or equivalent fork would need more than 50% of the hash power to prevent a re-org.
+2. Probably not. There's a reason that forks, hard or soft, are given a lot of lead time.";3;0;False;CatatonicMan;dh5chzj;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+"Thank you for that. I didn't know which limit he was referring to when I made my first comment. Then I figured it out before I made my second comment.
+
+I tried to add some more information for other people following along.";1;0;False;anthonyjdpa;dh53t6h;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+Pretty much. Whoever mines the lottery transaction would need to create a cascade of similar reward blocks for as long as it takes to entice over half of the hash power to the new chain.;2;0;False;CatatonicMan;dh5ccfh;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+"I am against this idea, it is bribery at best. If bribery and politics become the new norm in bitcoin decision making process, it will quickly corrupt and become something that is even worse than the system that we have today
+
+How about bribing the miners with 25 bitcoin forever in each block for a BU fork?  You win miners' support by professional code of conduct and leadership, not bribery. Segwit is already using such bribery in its 1:4 fee setting to gain support from financial institutions like exchanges and wallets, don't follow their suit";2;0;False;vattenj;dh59omp;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+outstanding logic.;1;1;False;midipoet;dh5zx7q;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+">zero marginal cost of production  
+
+False: bandwidth+validation+inclusion costs > 0  
+
+There's no incentive to include zero fee transactions even if they were *exactly* free to include, unless for general 'good for bitcoin' purposes. Including obvious spam is not good for bitcoin. 
+
+>unlimited supply  
+
+False:  
+(a) other miners have to be able to receive & verify it fast enough so that expected profit from making them spv mine invalid chain is negative  
+(b) the 'economic majority' actually has to be able to receive the block, otherwise miner(s) would execute a blocksize-limiting uasf on themselves. 
+
+Conclusion: remove block size limit  
+
+P.S. **How come litecoin blocks are nearly empty?** If fees for arbitrary transactions were really ~0 they would be full - decentralized long-term always online storage is useful. Perfect for a very hard to take down way to communicate with a botnet! Or distributing CP - now that's plausible deniability.  
+
+Unless you claim a cartel, but then it means cartels are so ubiquitous that they are an inherent property of pow, as all but 2 altcoins have lots of empty space. ";2;1;False;coinsinspace;dh561u6;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+Why can't someone include this transaction in a single large block and then go back to having all future blocks be small again?;1;1;False;virodoran;dh5oibq;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+Interestingly, with the SIGOP limit, no increase in block size will ever be able to spend this.   Even after increasing the block size... most proposed upgrades (BU/Classic/BIP103... everything), have SIGOP limits.   ;2;0;False;earonesty;dh5m839;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+Yeah? So ethereum *did* switched to PoS? Okay.;1;0;False;knight222;dh54szo;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+If your are on blockstream payroll..;3;1;False;Ant-n;dh5g561;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+Just to trying to clarify - so you're saying that, because there is no real long term monetary incentive here, it simply won't happen, because miners would have to commit to mining a chain that, without others joining them in doing so, will eventually end up being a waste of computational power and time, because *other* miners have no incentive to follow them in mining that chain, and even if such a fee were somehow split (as I saw someone explaining earlier), it would eventually become so negligible an amount, that the risk of mining a chain that might be orphaned in the future would outweigh that reward? (Sorry for the run-on sentence, breaking it up screwed with my syntax);1;1;False;TheJewishJuggernaut;dh53i27;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+body;score;nb_replies;stickied;author;id;post_title;post_link
+Miners should signal for 1.44 initially instead of 2 MB. Make a statement. ;47;2;False;vemrion;dh5h2xh;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"10MB or 32 MB blocks doesn't mean all will be full in first place.
+In second place if number of Transactions grows its only logical the blocksize have to increase.
+And Biggerblocks doesn't mean sidechain solutions can't be developed.
+Why do you need even full nodes at home?
+Run it in pruned mode and you're good to go forever.
+I run a lot nodes on 20gb vps servers in pruned mode and some full nodes on Servers with more storage.
+For some VPS servers i pay $1 a month to run pruned Nodes and they can keep running forever even with 32 MB Blocks.
+And even with 500gb a Year you would need a 3 TB drive all 6 years to keep all Blocks you can buy already 6 TB drives and in 6 Years probably also 12-24 TB drives.
+You need btw more RAM,CPU and Bandwith with smaller blocks, You get the transactions in your mempool and they get rebroadcasted all the time as long they aren't confirmed, the Blockbuilding it self doesn't cost much resources... Do you even run own nodes? ";4;2;False;Casimir1904;dh5vjoh;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Round hole worked fine it just had to be in the right spot.  it was a small round pin in the drive.;4;0;False;FUBAR-BDHR;dh5ofyb;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+How many fullnodes will remain with 16MB blocks? The SPV protocol si not safe right now, so a lot of people wounld not able to safely check their own transactions... Bitcoins needs a lot of improvements before block size increase;1;2;False;Inaltoasinistra;dh6kxvb;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Can you imagine the restraint Satoshi has? He must have deleted his keys or something. There's no way I'd be able to stay quiet about this if it were my baby.;2;1;False;hiver;dh615oo;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Xthin seems nice when in a controlled environment, but they open the door for many kinds of attack.  (false positives in the bloom filter) Also, if 20 MB blocks are possible, they will be reached ASAP as to provide further edge.  Do we have an altcoin that demonstrates this technology?;1;0;False;;dh6muhm;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+If the longest chain steals your bitcoin, do you follow it?;3;0;False;supermari0;dh5vmsx;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"A non mining full node tells it's owner wether or not a block is valid according to the rules built into that fullnode.
+
+If you feel you're running the correct software and that software tells you a payment/block is no good, you won't accept it.
+
+If you did, you'd be trusting miners.
+
+You currently think that miners dictate everything, but they don't. They just select/order transactions and package them into a block (additionally to what *every* fullnodes does: validating).";4;2;False;supermari0;dh5o3vw;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"> Your comparison to TCP-IP would be valid if there was only one packet allowed every 10 minutes.
+
+So how many floppy disks per minute are allowed? I said right there that the TCP/IP analogy is flawed as well and you go ahead and point that out again from a perspective that suits you, great. Can we agree that the floppy disk analogy is bullshit?
+
+> For censorship resistance, we need on-chain scaling, because the blockchain is the only distributed network we have.
+
+We (probably) do need on-chain scaling, but not for censorship resistance. Bigger blocks *will* have a centralizing effect. Unbounded blocksize increases as a scaling solution (like BU proposes) will have the ultimate centralizing effect. If you want an on-chain increase: SW more or less doubles the blocksize, as you know.
+
+> Now if anyone ever finds a routing solution for a properly distributed lightning network, we might have another option.
+
+I can do that too: ""Now if anyone ever finds a large block solution for a properly distributed bitcoin network, we might have another option."" E.g. true broadcast instead of packet switched networks would be great. But we don't have that.
+
+> As it stands, Lightning will just be one big, corporate node that we must all be connected to to transact, which has zero censorship resistance.
+
+This is a very obvious strawman argument and/or shows you have not looked at LN in depth, don't understand it or simply don't care. What is it?";-3;0;False;supermari0;dh5pcxf;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"> Your comparison to TCP-IP would be valid if there was only one packet allowed every 10 minutes.
+
+And if traffic had to fit into a single packet, which is the bigger flaw.";1;0;False;nolo_me;dh65lj5;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+You were cheated, segwit is a trap, it claims to do that but will never do that, it just changed bitcoin into an altcoin;2;0;False;vattenj;dh6mtmc;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+LTC is the only coin I've ever seen accepted at merchants other than BTC. It's up because of segwit, obviously.  ;-2;1;False;earonesty;dh5uipv;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Do any of you actually run a node or do you just bitch on reddit?;-5;1;False;numun_;dh66ih0;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"> I don't know why clueless people like you constantly ignore the facts, just to repeat the same bullshit over and over. 
+
+Right, off to a good start, considering you show how clueless you are in the rest of your response.
+
+> First, there is a difference between maximum blocksize and the actual size of a block. Even if we'd increase maxsize to 8MB now, blocks would be slowly starting to grow, probably reaching 2 or 3 MB until end of year. 
+
+I am fully aware of this.  Given _any_ blocksize we should assume the worst case scenario - you can't just say ""Even if we'd increase maxsize to 8MB now, blocks would be slowly starting to grow, probably reaching 2 or 3 MB until end of year."".  
+Assume the worst case scenario.
+
+> Second, chainsize will be a problem in some years, yes. There are some solutions to this already discussed
+
+UTXO commitments are the most interesting.
+
+> The most elegant IMHO is Mimblewimble, which even has a proof-of-concept implementation as of today. Just google it or search the last week of reddit posts.
+
+As of today, [Mimblewimble is being developed as an altcoin](http://mimblewimble.cash/), not something that would be added to bitcoin. In the best case we could hope for a sidechain someday, if we have segwit, that is.
+
+> I'm quite certain that it will be production ready well before any chainsize could become critical (because it has other advantages as well, like privacy).
+
+I agree, but make no mistake, the next debate we'll have after the blocksize debate is about privacy (Mimblewimble is probably the best solution out there for privacy).";2;1;False;SatoshisCat;dh5tsnu;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Very true, follow the discussion with coinradar and me in this thread.;1;1;False;SatoshisCat;dh5ws7i;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Don't copy that floppy!;2;0;False;SatoshisCat;dh5qrw7;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+For a very tiny amount of people, sure. Aggregating transactions like LN does would make these 500gigs much more useful.;2;1;False;SatoshisCat;dh5qsuj;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Right, so in just a couple of years I would need to hook up all my USB ports to different external drives. Little bit of a straw man response, but you get my point. I rather NOT buy lots of drives just to store the blockchain.
+
+And we haven't even started talking about bandwith constraints and CPU power.";-1;2;False;SatoshisCat;dh5qu78;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Had my Dad machine me a jig for the drill press.  Could do a hundred in no time.;1;0;False;FUBAR-BDHR;dh5ogg7;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+It was a square notch and you could buy a special punch to do it. Anyone remember the formatting programme that had 80 vertical bars that increased in length?;2;1;False;forgoodnessshakes;dh5nys6;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Now that's sad. ;2;0;False;;dh692gh;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"This isn't true. Bitcoin can remain decentralized at a blocksize of 16mb as of at least a year ago.
+
+Also as greater adoption happens nodes will *increase*.
+
+What you've given here is a core talking point with no factual basis.";3;1;False;Annapurna317;dh64ub6;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"petrified over unfounded centralization fears based on unrealistic/impossible block sizes and incapable of fixing the simplest of problems we were already told how to easily fix by Bitcoins creator, Satoshi
+
+raising the POSSIBLE block size even to the protocol limit of 32M will not cause centralization and is a bullshit boogie-man";3;1;False;DaSpawn;dh5y5q5;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Oh we play jeopardy?
+Ok:
+What is Xthin?";1;0;False;Casimir1904;dh5v6hm;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+xThin improves it greatly to where it negates the on-chain scaling increases for the next 5-10 years.;2;0;False;Annapurna317;dh64wty;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+We need on-chain FOR censorship-resistance.;1;0;False;marcoski711;dh5ovnd;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+In Bitcoin you trust supermajority of miners. In Korecoin the supermajority of miners trusts you.;2;1;False;ku2m;dh5swyb;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+What? Non mining full nodes have never had any say, regardless of if you run core, BU, or any other implementation, except for whatever economic impact they may have;5;1;False;bradfordmaster;dh5nffj;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Your comparison to TCP-IP would be valid if there was only one packet allowed every 10 minutes. As there are only hardware limitations on how many packets you can send, it is a total non-sequitur. So, just like we have technology-limited numbers of fixed-size TCP packets, we need only technological limits on the size of fixed-number blocks.
+
+See? Learn the right lesson from it, and TCP is a good analogy.
+
+For censorship resistance, we need on-chain scaling, because the blockchain is the only distributed network we have. Now if anyone ever finds a routing solution for a properly distributed lightning network, we might have another option. As it stands, Lightning will just be one big, corporate node that we must all be connected to to transact, which has zero censorship resistance.";17;2;False;robbak;dh5o3ar;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Litecoin has the same blocksize as bitcoin; but, blocks on average are found every 2.5 minutes. That's 4 Mb per 10 minutes. I'm told that with segwit being implemented next week that jumps to an equivalent of 8 to10 Mb per 10 minutes.";2;1;False;shyliar;dh66ubu;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"You calculate smth definitely wrong, with pruning (tech used today) those 500gb per year will be probably 10gb at max. So $100 USB drive for 3 TB will allow you to run a node for 300 years... 
+
+So let's talk about bandwidth and CPU power now.";4;1;False;coinradar;dh5r92b;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"ETH is taking over because it does everything Bitcoin does not, never did, or doesn't anymore thanks to Greg Dipshit and his toolbox called Blockstream.
+
+LTC has only taken over temporary as King of the speculative shitcoins on non-news that no one cares about but LTC bagholders, which doesn't affect at all over projects of value like Ethereum.";10;1;False;;dh5u3t8;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Top secret content:
+Bigger Blocks doesn't stop developing on Sidechain solutions like LN.
+If they work and are used by the network the Blocksize decreases.
+A Blocksize limit doesn't mean it need to be that size. Worked pretty good till we reached the current nonsense limit.";4;1;False;Casimir1904;dh5vnua;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"> the next debate we'll have after the blocksize debate is about privacy (Mimblewimble is probably the best solution out there for privacy).
+
+We fully agree on that. But if Bitcoin can't even substitute a 2 (or 4, 8) for a 1 in a simple constant, because uhh, maybe, the world will come to an end if the chain grows by 100GB per year, then there will be no next debate for Bitcoin.";0;0;False;mmouse-;dh5z5yg;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"First of all, thank you for taking the type to type out rational responses to me, I wish more of this kind of conversation went on.
+
+> Ironically, if they hadn't touched the blocksize, SegWit would probably already be active.
+> 
+
+This may be a tangent, but how do you see that?
+
+>> faith [...] leadership
+> No, thanks.
+
+Fair point. What I meant is that I think the attitude of ""this is a meritocracy, people skills don't matter the better tech will win in the end"" is really harmful here. These are very complex and confusing issues, and trolling on all sides just makes it hard. You also have to realize that 99.9% of people can't or won't take the time to really understand these changes, so there is a definitely level of trust or faith involved. It's simply too complex, and the idea that every user runs a full node and audits the code and understands that they are totally safe is bunk. Real people don't operate that way, they need to have some faith / trust in someone (or some group).
+
+> I know the simplicity of bigger blocks = more transactions = more users = higher price is appealing. I was in that camp.
+
+I still am, maybe you can convince me the rest of the way. The way I see it is this: we can immediately increase block size to increase transactions (and eventually price) to continue the exponential scaling of bitcoin. This is not free, it means that it's harder for people to run nodes, so fewer people will, and more users will rely on ""trust"" in some form (but there will still be hundreds or thousands of nodes, so it's not much faith that people need). On the other hand, keep the block size as it is (or shrink it maybe?) so people can run their nodes longer. Not much of a debate to me....";1;1;False;bradfordmaster;dh6lvr5;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"How do you figure that? Miners can change any rules they want, regardless of what the full node operators want.
+
+Users can choose to abandon btc, if the miners do something they don't like, but by the basic structure of btc (PoW) the miners are the only ones who can make changes. ";1;0;False;Darkeyescry22;dh6ipmu;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"> I think this is actually just a poor / lack of leadership issue.
+
+Feature, not a bug.
+
+> We've been screaming for bigger blocks, and instead we got segwit and ""research"".
+
+SegWit is a solution for many problems. They realized they could increase blocksize as a soft fork only in the later stages. It's an added bonus. Ironically, if they hadn't touched the blocksize, SegWit would probably already be active.
+
+> faith [...] leadership
+
+No, thanks.
+
+> they boondoggled thier position of authority.
+
+I don't think they did. To the contrary.
+
+It's just a lot of noise, misunderstanding and emotion. I know the simplicity of bigger blocks = more transactions = more users = higher price is appealing. I was in that camp.";2;1;False;supermari0;dh6e47m;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+If people use non-mining, validating nodes, instead of SPV wallets then mining nodes do not have the ability to unilaterally change aspects of the consensus layer.;1;1;False;earonesty;dh6i963;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Thanks for the response, and it mostly makes sense. I think this is actually just a poor / lack of leadership issue. We've been screaming for bigger blocks, and instead we got segwit and ""research"". I don't think most of the people in this sub have any real faith in the core leadership to actually solve scaling issues, whether or not that is misplaced is hard for me to say. Then you get trolls like luke-jr saying we should decrease the block size, and it didn't surprise me that people want to switch implementations.
+
+The saddest part for me is that, with any foresight, I think this problem could have been avoided 2-3 years ago (or more!) with a simple block height hard fork because everyone would have gone along with core before they boondoggled thier position of authority.";1;1;False;bradfordmaster;dh67zmg;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Why? What disadvantage do non-mining nodes cause miners?;1;1;False;Darkeyescry22;dh6azfa;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"> Do you and all core supporters seriously think the pulled-out-of-satoshis-ass 1MB limit is that perfect number?
+
+No! Nobody is saying that.
+
+> The whole point of EC is to let each node set that number themselves, based on what thier hardware and network can support.
+
+EC is flawed, a risky experiment at best, which has been pointed out several times by several people.
+
+> Even if you don't support EC, surely it would be worth some effort to figure out what the right block size is... right?
+
+Yes. [But first things first.](https://bitcoinhardforkresearch.github.io/)
+
+Also SegWit is a way of observing real world effects of a *doubling* of the blocksize. Surely this helps in that regard?
+
+> I just can't get it though my head why people think 1MB (or what we'll get with Segwit) are just magically the right numbers.
+
+Again, absolutely no one of significance is saying that.";2;1;False;supermari0;dh66pj6;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"No, miners don't give a crap about economic nodes.   If it was up to miners, they would be the only ones running nodes.   Miners have zero incentive to ""keep full nodes running"".   Only users do.   To be honest, miners also have very little incentive to grow the block size.     Which is probably why they are blocking any size increases right now.";2;1;False;earonesty;dh631xa;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"I constantly hear this argument with absolutely nothing to back up the numbers. Ok, you are right, there obviously _is_ some block size that would be prohibitive if transactions immediately got that big. There _should_ be a limit on block size, no one's wants infinite or 1GB blocks. Do you and all core supporters seriously think the pulled-out-of-satoshis-ass 1MB limit is that perfect number?
+
+The whole point of EC is to let each node set that number themselves, based on what thier hardware and network can support.
+
+Even if you don't support EC, surely it would be worth some effort to figure out what the _right_ block size is... right? I understand some of the reasons people don't like BU or EC, but I just can't get it though my head why people think 1MB (or what we'll get with Segwit) are just magically the right numbers. We're up against the wall with lots of full blocks, it has long been the time to re-evaluate this limit.";1;1;False;bradfordmaster;dh64o7d;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"I'm not predicting the future anymore than you lot are. If you think it's incorrect to say hard drives will be big enough to hold the Blockchain, then you need to get out of the bitcoin game. BU or core, the block chain is going to keep growing.
+
+And in regards to the rest of your comment that seemed to expect me to respond to challenges that weren't made:
+
+Bigger blocks does mean more computational power, but that's not what BU does. It's not a big block protocol. It just sets the blocksize based on the market. It is in miners best interest to keep the network working, so they have zero incentive to raise the blocksize above what the full nodes can handle.
+
+And beyond that, the computational load is really not that great, even with significantly larger blocks. Network speed is a bigger bottle neck, but for the exact same reasons you think hard drives will no longer grow in capacity, network speed will likely get much faster. If everyone is using cloud storage, internet speeds have to increase to meet that demand.";1;1;False;Darkeyescry22;dh620h0;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"It's not that simple.
+
+The extra megabytes want to be transmitted again and again for bootstrapping other clients or relaying -> more network bandwidth.
+
+Those extra megabytes also need to be verified -> more CPU usage.
+
+Cheaper transactions will result in more transactions (not necessarily with any additional economical value, see wasteful implementations of bitcoin gambling sites in the past -- people are lazy if they can be) -> more RAM for a bigger mempool.
+
+Any future improvement (e.g. privacy enhancements) that has a flipside of increasing transaction size might be dead on arrival if the base layer is too big.
+
+If at any point the blockchain exceeds the size of what consumer targeted HDDs provide, it might get expensive very very fast. (E.g. with cloud storage getting more popular and compression better all the time, consumers might continue to value speed over size (see SSDs). This might make large local disks hard to sell in the future and vendors might stop producing them in huge volumes and offering them for the prices we're accustomed to.)
+
+Bottom line: you can't predict the future, better tread carefully here.";2;2;False;supermari0;dh5znmc;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"> You mentioned before many USB drives, which is storage, now you shift talk about download of data, which is bandwidth and totally different thing.
+
+I did not strictly shift, you still need storage for the whole blockchain.  
+But sure, the bandwidth issue is definitely a more worrying one.
+
+> You also give answer yourself as utxo commitments could be a solution, segwit by the way is not needed for UTXO commitments at all, those are totally separate things. You can have commitments without segwit
+
+Fair enough, yes, Segwit is probably not needed for a UTXO commitments soft fork.
+
+> likewise you can have malleability fixed and hence fully functional LN without segwit as well.
+
+
+SegWit looks like the best solution for a transaction malleability fix, but sure BIP140 is available.";1;0;False;SatoshisCat;dh5vh7b;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+I mean, you probably will, by the time the block chain gets that big.;2;1;False;Darkeyescry22;dh5wluq;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"I missed a ""and"" there.
+Removing a blocklimit at all would mean incremental increase over time :-)
+Of course there could be some protection like max xx% over average size over last N blocks.
+ ";1;0;False;Casimir1904;dh6bw1d;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+You mentioned before many USB drives, which is storage, now you shift talk about download of data, which is bandwidth and totally different thing. You also give answer yourself as utxo commitments could be a solution, segwit by the way is not needed for UTXO commitments at all, those are totally separate things. You can have commitments without segwit, likewise you can have malleability fixed and hence fully functional LN without segwit as well.;1;1;False;coinradar;dh5vcys;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Not rebroadcasted every 10 seconds but they get rebroadcasted, I see that usual happen on my transactions after 2-3 days and depends also on the settings ofc. Your Mempool could remove old transactions and other nodes broadcast them again.
+More Ram usage with bigger mempools.
+Not 100% sure about the CPU but i guess it cost marginal more CPU power also but that doesn't really matter for running a node.
+If you've a trusted source you could download the complete pruned datadir, thats how i setup new pruned nodes.
+Zip the datadir and move to a new node and the new node don't need IBD.
+That could include own backups or from well known friends and ofc you can verify the pruned data you got also.
+A compressed filesystem could also be an option.
+Storage becomes cheaper so even running full nodes isn't that expensive at all.
+There is also no special right that everyone can run a full node and it was never meant to be. Even in the Whitepaper there was talked about some few full nodes and lot lightweight clients/nodes connecting to them.";1;0;False;Casimir1904;dh6bpy1;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"I've some here: https://www.arubacloud.com/
+Please note that you can't do a setup from scratch.
+You need to get the pruned datadir from a already synced node.";2;0;False;Casimir1904;dh6bsvd;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+No, because I don't have 10tb hdd, so I have to trust someone to run a full node for me ;2;1;False;earonesty;dh5vl03;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Honest question: if you really feel that way, why are you still in here investing emotional energy? When not go be positive in eth subs?;1;0;False;;dh5vmsm;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"> Top secret content: Bigger Blocks doesn't stop developing on Sidechain solutions like LN.
+
+I'm not against bigger blocks.
+
+LN is not a sidechain, by the way
+
+> A Blocksize limit doesn't mean it need to be that size. Worked pretty good till we reached the current nonsense limit.
+
+Let's assume the worst case in any limit. I'm very aware that a blocksize cap increase doesn't mean that the blocks would be that size.
+
+---
+
+I'm fairly sure that we are on the same side;
+
+I want bigger blocks (in a safe phase) on-chain scaling and I want to explore 2-layer solutions (whatever that would be).
+
+The unfortunate truth is that this community split makes us not collaborate together, with the blockade of SegWit as well as working together for a blocksize hardfork (personally I prefer a incremental over time).
+";1;1;False;SatoshisCat;dh5wa0j;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Sure, with pruning you could store 10GB, but IBD would require a download of the whole blockchain.
+
+This could maybe be prevented with UTXO commitments which could be added once Segwit is in place.";1;1;False;SatoshisCat;dh5rymc;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"> 10MB or 32 MB blocks doesn't mean all will be full in first place
+
+If we hardfork to 10MB or 32MB we should assume the worst case scenario. I'm very well aware that blocksizes won't instantly be 10MB if we increase the cap.
+
+>  In second place if number of Transactions grows its only logical the blocksize have to increase. 
+
+Sure, but I would like the number of transactions to grow in the most effective way. This might not be on-chain for every single transaction - Lightning Network and similar technologies look very interesting because it can leverage much of the burden that fullnodes have.
+
+> And Biggerblocks doesn't mean sidechain solutions can't be developed. 
+
+Well personally I don't think sidechains are that interesting, because of the inconvenience of moving between chains.
+
+> Why do you need even full nodes at home? Run it in pruned mode and you're good to go forever.
+
+Being able to independently run a fullnode to verify the blockchain is the essence of Bitcoin, once this ability doesn't exist anymore, no one cannot make sure that Bitcoin isn't being malleated. For me, making sure anyone can run a fullnode is really _really_ important.  
+Edit: Oh yes agree, pruned node at home makes more sense.
+
+> Run it in pruned mode and you're good to go forever. 
+
+Sure, you're right. The storage constraint is partly* fixed by pruning.
+
+\* partly because IBD (Intial Block Download) still requires a full download of the blockchain before pruning.
+
+> run a lot nodes on 20gb vps servers in pruned mode and some full nodes on Servers with more storage. For some VPS servers i pay $1 a month to run pruned Nodes and they can keep running forever even with 32 MB Blocks.
+
+Okay sure, servers not at home. This is not interesting for me.
+
+> You need btw more RAM,CPU and Bandwith with smaller blocks
+> You get the transactions in your mempool and they get rebroadcasted all the time as long they aren't confirmed, the Blockbuilding it self doesn't cost much resources...
+
+I'm not sure how you can possibly claim this. Could you elaborate?
+This is really a moot point, it's not like you'll rebroadcast every 10 seconds.
+
+
+
+> Do you even run own nodes?
+
+I do, why do you think I even discuss this issue?";-1;1;False;SatoshisCat;dh5vyzb;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Which vps would you recommend? ;1;1;False;samplist;dh5wj89;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Full nodes will become more if more business find out that bitcoin has a future, currently they all go to Ethereum instead because they see no future with core's software;1;1;False;vattenj;dh6myu8;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"I thought about that, but then Satoshi designed the system to be able to survive/resolve this by itself voting with hash power, the entire premise of Bitcoin security.  Any action taken now with Satoshi's keys/coins would drastically alter the results of this experiment as game changing as the internet itself
+
+TL;DR if bitcoin can not survive/resolve what is happening now it would have never survived in the future anyway";3;0;False;DaSpawn;dh62lpg;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Did you ask me to setup more nodes?
+https://bitnodes.21.co/nodes/?q=btcpop";1;0;False;Casimir1904;dh5v51y;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+You realize that is true with BU, too right? Full nodes still play the same role.;2;1;False;Darkeyescry22;dh5v0kn;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Please do list them. I don't see the likes of big enterprise lining up behind LTC, keep dreaming. 
+
+SegWit did not fix or add anything relevant to a dead coin that has been dead for 3 years. ";7;1;False;;dh5usof;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+I run a node AND bitch on reddit!;17;0;False;BitcoinIsTehFuture;dh675si;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Sorry, on mobile other subthreads are much less visible. ;1;0;False;coinsinspace;dh5zjaa;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+If you think it's malleability that is driving money to alts right now, you are beyond help;28;0;False;50thMonkey;dh5lfys;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+The size of block header is still the same, all other data is already available with thinblocks, especially if we can keep the mempool down by putting transactions into blocks sooner. So latency argument is void, and was even without thinblocks.;17;1;False;nikize;dh5jwe8;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"in SA they were called stiffy disks (floppy disks were the 6"" version. 
+
+anyway my 1993 PC could write one faster than every 10 minutes. ";1;0;False;Adrian-X;dh6awwh;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+#360kJr;22;1;False;veroxii;dh5n7ps;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+If the block size goes 1 bit above 1MB then the sky would fall in and aliens would take over. ;2;0;False;;dh6g46y;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"
+They would need 83.333 floppies to deliver the blockchain though.";6;1;False;joecoin;dh6c46y;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+These things were beast back then. ;0;0;False;ScoopDat;dh5wivz;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+This sub hates Bitcoin.;-13;7;False;Sugar_Daddy_Peter;dh5f83n;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"1MB blocks every 10 minutes is 50GB per year.
+
+Suppose we increase it to 10MB, that would be 500GB per year. Would you really be okay with that? In a couple of years, running Bitcoin fullnodes would not be feasible for normal people at home.
+
+Comparing the blocksize limit to floppy disks is just silly.";1;6;False;SatoshisCat;dh5ohts;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+I got tons of those lying around collecting dust in the basement. That's generally what happens to obsolete technology, and I'd hate to see Bitcoin suffer a similar fate.;32;1;False;zombojoe;dh5h4s3;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"It's a blatant lie that Bitcoin can't handle more than 1mb every 10 minutes.
+
+Anyone who tells you otherwise has something to gain off of limiting Bitcoin's on-chain growth (or were deceived themselves).";65;4;False;Annapurna317;dh5gpsf;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Lets keep 490k floppy disks around for every node. 1MB is fine, 2MB maybe. ;1;0;False;gielbier;dh6ab39;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Wow, such technologies, where could one purchase said impressive technologies?  Ohhh, such wonder, must be paid for with magical internet money, right?..  Enough with the conspiracies, we have work to do making the network faster, there are efficiencies to be had, and lighning fast payments.;1;0;False;yourliestopshere;dh699n9;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Its faster to mail your transaction in one of those than it is to wait on the blockchain.....
+
+#BitcoinSnailMail";17;1;False;bitcoinsnailmail;dh5lamn;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Thank you for subscribing to floppy facts.
+
+Did you know that the capacity of a ""1.44 MB"" floppy disk is 1,474,560 bytes? That's 1,000 * 1,024 * 1.44 bytes!";1;0;False;rya_nc;dh63tny;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+But if the blocks are larger. They will be no incentive to use second layer transaction systems. And Blockstream business plan is screw up. This is the only reason why some don't want larger blocks.;1;0;False;dunand;dh5y4ct;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"When did he upgrade from the old 8"" floppies? ";15;1;False;FUBAR-BDHR;dh5jjvg;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+LOOOOOOOOOOOOOOOOOL;1;0;False;timl206;dh5vr57;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+I just wanted to make a transaction with a normal fee as suggested by Trezor wallet. Have to pay €2.60 almost $3. We need SegWit or bigger blocks!;1;0;False;BitcoinNL;dh5ug8h;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Since floppy disks are so obsolete and valueless, could they become the physical manifestation of Bitcoin? Will old 128 meg flash drives become like $100 bills? ""I'd like to buy this TV"" ""Good choice! That'll be three 128 flashes and seven 3 1/2 inches""";1;0;False;hitlerosexual;dh5ufww;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Hey at least with 720k floppy disks you could drill a hole in the other side and make it 1.44.  Of course it was an untested disk surface and prone to errors but it worked most of the time
+
+Hey I just figured out where they got the idea for segwit..........";26;2;False;FUBAR-BDHR;dh5gksi;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Yeah, and if you slide a thingy, it's immutable.;7;0;False;HolyBits;dh5lwow;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+I could keep up with all the transactions in the world-wide currency Bitcoin by means of a single floppy by manually copying new blocks are they arrive😏;1;0;False;fuzzyblunder;dh5rj8l;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Smthing is wrong with your clock..;1;0;False;liviumey;dh5oytm;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Hahah!;1;0;False;BitcoinIsTehFuture;dh5lyx6;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+lol. nice. ;1;0;False;drlsd;dh5jo9o;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"I still have mine labeled ""A1"", ""A2"", A3"", ""D1"", ""D2"", ""N1"" .... downloaded over a whooping 9600 terminal line connected over Frame Relay :)";1;0;False;theochino;dh5j3bc;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+how long to download on 14.4k modem tho ?;5;0;False;squarepush3r;dh5i2gs;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"So segwit is the ""quadruple density"" 2.88MB floppies?";2;1;False;no_face;dh5lvn1;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+oh man BTCC should have sold the halvening block on a floppy disk instead of the other collectible.;2;0;False;1blockologist;dh5llys;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+https://www.youtube.com/watch?v=_Rc6i169FS0;3;1;False;Zuen56;dh5mafb;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+LOL! That was savage;1;0;False;WiseAsshole;dh5vf7k;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Yeah OK, but now make a couple of thousands of copies and send them all around the world. Oh, and by the way, they're supposed to arrive in the next couple of minutes, so better get started early.;6;0;False;goocy;dh5j41f;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"5.25"" HD was 1.2MB -- so even that is embarrassingly large .";12;1;False;kingofthejaffacakes;dh5revy;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+His Commodore still works fine, why throw it out?;8;0;False;;dh5sg79;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+One Meg Greg and 360kJr holding back Bitcoin scaling...;16;1;False;jbperez808;dh5q603;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+If you're European.  ~80,000 floppy disks if you're American.;5;0;False;lurker1325;dh6ee8o;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+For not being mindless religious cultists?;1;0;False;knight222;dh5u4ng;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Psychoanalysis studies would beg for some moments of your time for research. ;1;0;False;ScoopDat;dh5wknp;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+lol;2;0;False;squarepush3r;dh5i3h4;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"You're confused about what Bitcoin is
+
+hint: it's not a program";5;0;False;RiMiBe;dh5gj3k;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Super cool delusion bro.;2;0;False;gheymos;dh5jfye;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Here is a thought experiment:
+In the 50s, Moa instated the https://en.wikipedia.org/wiki/Hundred_Flowers_Campaign, then killed everyone that criticized the government.  Today there are many statues of Mao.
+
+Here is the question, if you kill everyone who opposes a government - does that mean it's the kind of government that everyone likes?
+
+What if, for example, there is a place called America.  In America people frequently cannot believe the human rights atrocities that have happened in China.  
+
+Does that mean that all American people hate all Chinese people? ";10;0;False;TheArvinInUs;dh5fmr7;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"How could you even think that is possible? This sub obviously cares enough about Bitcoin enough to create a subreddit in which people are permitted to freely talk about Bitcoin.
+
+If anything it is the mods of r/Bitcoin that hate Bitcoin. That is why they do not permit people to talk freely about Bitcoin.
+
+Maybe if you understood Bitcoin and the networking issues involved you would understand that there is nothing to lose, and much to gain by increasing the block size.";6;0;False;SILENTSAM69;dh5i86t;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"I don't know why clueless people like you constantly ignore the facts, just to repeat the same bullshit over and over.  
+
+First, there is a difference between *maximum* blocksize and the actual size of a block. Even if we'd increase maxsize to 8MB now, blocks would be slowly starting to grow, probably reaching 2 or 3 MB until end of year.  
+
+Second, chainsize will be a problem in some years, yes. There are some solutions to this already discussed. The most elegant IMHO is Mimblewimble, which even has a proof-of-concept implementation as of today. Just google it or search the last week of reddit posts. I'm quite certain that it will be production ready well before any chainsize could become critical (because it has other advantages as well, like privacy).
+";4;1;False;mmouse-;dh5rczt;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Downloading that isn't necessary with utxo commitments.;2;1;False;coinsinspace;dh5wc9g;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+500gb a year is nothing. Even if we assumed that technology will halt in its advance, 500gb drive is pretty cheap.;2;0;False;asanecra;dh5t5yr;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Yeah and his dial up modem is 300 baud.;5;0;False;;dh5u54y;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+That is a LOT of floppys.  Probably enough to fill a house.;3;1;False;joyrider5;dh5qfm3;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+">Suppose we increase it to 10MB, that would be 500GB per year. Would you really be okay with that?
+
+[Uh, yes.](https://www.amazon.com/Elements-Portable-External-Drive-WDBUZG0010BBK-WESN/dp/B00CRZ2PRM/)";9;1;False;BeijingBitcoins;dh5pclc;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+No it's still only 1 floppy but you have to buy 4 and throw 3 away;11;0;False;FUBAR-BDHR;dh5pizq;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+I could have sworn that's what this thread was about. Thanks for making it right Zuen56.;1;0;False;hiver;dh611qg;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Double the capacity solved all storage problems. ;2;0;False;sydwell;dh5n7ae;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+[deleted];2;2;False;;dh5kzrb;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"We can't have nice things like that because LukeJr still hasn't upgraded from 5.25"".";91;6;False;eatmybitcorn;dh5fihv;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Throw it in an envelope with a 34-cent postage stamp and it'll be cheaper too.;13;1;False;BeijingBitcoins;dh5pbt1;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+If centralization is not a problem it can handle larger blocks;-1;2;False;Inaltoasinistra;dh5nxum;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Latency *will* affect propagation.  It already does.;-1;3;False;;dh5iovh;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"> Anyone who tells you otherwise has something to gain off of limiting Bitcoin's on-chain growth
+
+Absolutely correct. We all do: censorship resistance. The only thing that makes bitcoin special. Why is the sub that heavily decries /r/bitcoin censorship not getting this?
+
+[Roger discredits non-mining full nodes](https://twitter.com/rogerkver/status/853250894162350080) and prefers to trust miners, like Jihan who could easily be coerced or coopted into censoring transactions, force privacy weakening changes or resist privacy enhancing ones. This anti core movement is so misguided. Like poor or sick people voting for Trump.
+
+Drawing comparisons to floppy disks is funny and it's a comparison easy to grasp for the uninitiated, but it's also ignorant of technical realities. Did you know that the ""TCP/IP blocksize"" is usually around 1400bytes? And yet here we are, 4k video streaming for a few bucks a month. (This is also a bad analogy for various reasons, but definitely not worse than the floppy one.)
+
+And now go ahead, let your amygdala click the downvote button.";-3;4;False;supermari0;dh5m4f6;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Ether has a maximum throughput of ~3.5 mb per 10 minutes.  Litecoin 3 mb per 10 minutes.;5;1;False;laustcozz;dh61ulu;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+"Go look at the numbers right now.  BTC has gone below 60% market dominance and keeps reaching new lows. Volume suggests most are only buying Bitcoin to get into other coins. The strongest pair by volume is in fact ETH/BTC which is rising.
+
+The writing is on the wall, USD valuation be damned, there is a mass exodus from BTC occuring right now. Ethereum is catching a lot of the new money, and old money is changing hands. 
+
+Personally I am fine with Greg and the gang holding the bag, fuck the lot of them, this is what they deserve. If Bitcoin is remembered the same way as Netscape so be it. ";9;0;False;;dh5sh8x;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+litecoin and eth - both of which don't have malleability bugs - are basically taking over, and you're chuckling about floppy disks and blaming lukejr.   segwit is ready now.   your mythic hard forks are not.  ;-21;2;False;earonesty;dh5jwz0;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+So 500gig per year my current machine can hold 24 years of data;8;1;False;FUBAR-BDHR;dh5pkbx;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+You would need about 85,000 of those in order to keep the entire chain of blocks. And about 144 are added each day. ;5;0;False;;dh5s14u;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg

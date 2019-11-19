@@ -1,0 +1,177 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+"Sorry I most I reply to the wrong comment, someone argued that Peter todd couldn't possibly be responsible for the attack because he tweeted afterwards about it.
+";1;1;False;Ant-n;dezzqj7;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+although available clients had not updated, instead they found out the hard way.;1;1;False;zluckdog;dezr84b;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"> a spotlight on the issue.
+
+How secret do you think a Github/Git repository is, anyway?
+";0;1;False;midmagic;dezm8f9;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"[Haskell](https://github.com/haskoin/haskoin), [Rust](https://github.com/apoelstra/rust-bitcoin)
+
+Although to be fair, that Rust library states:
+
+> This library must not be used for consensus code (i.e. fully validating blockchain data).";1;1;False;benharold;dezchtf;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+The community is heavily polarized now. ;1;0;False;3e486050b7c75b0a2275;dezfpry;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+You're welcome and thank you;1;0;False;BitcoinIsTehFuture;dezde33;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"Can we audit your private comms to make sure you didn't disclose it in private, too?
+";1;1;False;midmagic;dezn3cv;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"> If you can't understand how drawing public attention to a bug before that bug has a patch available is irresponsible,
+
+The patch itself was in a Github page describing.. the patch itself.
+
+It was BTU who publicized the bug by describing it in detail and posting it into a commitid directly in the Git repository.
+
+Amplifying BTU's own words with a Tweet is irresponsible?!
+
+How secret do you think a Github/Git repository is, anyway?
+";1;0;False;midmagic;dezm1vq;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+The fix was in the dev branch but wasn't compiled in a release version that users actually use. You do understand that most users do not compile their own software directly from the dev branch, or have any idea how to do that, right? It's useless until there's a hotfix for the release version.;1;1;False;Redpointist1212;dezonan;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"measuring the amount of dirtiness is next to impossible I guess, which is why i try to ignore it in my decision taking process and base my preference on technical viability instead.
+This is also not easy to measure for a programming amateur like me but there are some objective signs. 
+i'm torn right now between 'not jumping to conclusions' and 'if it walks like a duck and quacks like a duck' if you know what i mean.
+";1;0;False;BitChaos;dezxfns;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"> posts source code to exploit the BU network
+
+His first tweet was amplifying *a link to the fix itself.*
+
+";1;0;False;midmagic;dezmaa8;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+Gotcha. If it was a US citizen they were breaking a US law. Bitcoin isn't beholden to US law, nor are many users.;1;1;False;benharold;dezjjlz;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+It's not at all, actually. Why do you ask?;1;1;False;paleh0rse;deznmcy;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"This problem doesn't exist in Bitcoin Core. If BU devs can't understand how the build system works, then perhaps they need to spend more time with it before building and deploying into production. Here is a comment by nullc 3 months ago which applies here.
+
+>AFAICT many of issues were actually caused by changes they made to code they didn't understand.
+
+https://np.reddit.com/r/Bitcoin/comments/5dkb6o/a_short_tour_of_bitcoin_core/da5d3x3/";1;1;False;udevNull;dezsc9i;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"> Now, if some communications could be uncovered that show Blockstream employees planning the attack together, then a charge of criminal conspiracy could possibly be made, in a single jurisdiction. 
+
+And this is the thing. Maybe they didn't do this.
+
+But if they did, it's very stupid. And something like this would bite them in the ass someday. Guaranteed. Even if it is only when they are no longer the folks with the longest pursestrings. The truth WILL out.";1;1;False;LovelyDay;dezlmug;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"Cool. Can you let my get my popcorn while you contact law enforcement? Because watching you guys add agony to your already throbbing defeat is going to be entertaining as hell.
+
+The fact that you're serious is stupefying. Bitcoin Unlimited really is a cult. Say anything. Do anything. Machiavellian justification at all times. Preserve the leadership. Preserve the movement. At any cost.
+
+By the way. We're going to need evidence. And that may be the most fun of all.";1;1;False;;dezhxtw;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"I know of those projects, and they're both super cool! 
+
+Now what we need is a hero to smack a HTTP RPC server on that and distribute a binary, and I'll run it on my server! 
+
+I should be that hero... ";1;0;False;thdgj;dezp3op;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+Core is incompatible because it has leftover code from DOS-protection that wasn't in the non-existing spec.;1;1;False;moleccc;dezyetx;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"> All I said is that he drew attention to the bug before a fix was available
+
+He literally linked to **the fix itself** which you say ""wasn't available.""
+
+Go call the BTU devs irresponsible. Amplifying BTU's **own words** isn't irresponsible.
+
+";1;1;False;midmagic;dezm52q;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+I'm not attacking him am I?;1;0;False;Sunny_McJoyride;df0astg;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+Anyway bcore software is better than BU software, more stable, mature, better reviewed, more reliable. Bcore team has the better programmers and understands Bitcoin and its trade-offs better. Irrespecive of r/bitcoin's (not bcore's) bad social behaviour, this has to be acknowledged.;1;0;False;Amichateur;dezdnwt;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+So it's pointless attacking Peter Todd or anybody else for publicizing the bug. Any number of people could have seen it and exploit it. ;1;1;False;mustbemoney;df0ap4h;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"New redditor for 3 months, with a history of lying, accusing someone who's been subject to criminal attack for years, of being a criminal, completely absent any evidence whatsoever.
+
+Keep on with the libel, r\btc. Expose that soft underbelly.
+";1;0;False;midmagic;dezlx4f;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+Wrong again.;1;1;False;BitcoinIsTehFuture;dezpdz3;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+He very well may have broken the law.;1;1;False;alwaysSortByTop;dezcfh3;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+[deleted];1;1;False;;dezkc4k;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"Oh and the whole censorship-bubble group think at r/bitcoin isn't cultish?
+
+r/btc is the only place where free thought is allowed. We couldn't even have this conversation at r/bitcoin because it would get censored.
+
+There is a lot of evidence of the selective-censorship. Actively supporting an attack against any internet infrastructure is a federal crime. It's also a good way to get r/bitcoin shut down for good. u/theymos is playing a dangerous game.";1;1;False;alwaysSortByTop;dezj655;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"What kind of non-sequitur is that?
+
+";1;1;False;cl3ft;dezym82;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+Code can be improved. For some people there is little hope.;1;0;False;LovelyDay;dezltci;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+[deleted];1;1;False;;dezi66s;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+#Doody Head Greg;2;0;False;BobsBurgers3Bitcoin;dezf47o;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"I understand it may look like that. I think that is part of the intention.
+
+I honestly do not see the big blocker side playing very dirty, and I am really trying to be impartial when I say that. I just don't see it from this side. Or if it is-- it's very trivial like name calling.
+
+But from what I see on the small blocker side, it looks extremely dirty and bad (censorship, ostracism, attacks).
+
+It doesn't matter what I think though. Each of us makes his own opinion based on what he sees.";3;1;False;BitcoinIsTehFuture;dezdidj;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"haha what the hell man ?
+take a break from r/btc seriously ";1;0;False;superresistant;dezwmmg;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+Wrong!;1;0;False;BitcoinIsTehFuture;df0eqoy;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"True. They're a tight-knit circle now, but eventually employees will leave or someone will have a difference of opinion and be drummed out of the group... 
+
+And if Core or Blockstream had anything to do with this, the chat logs and emails and other evidence will go with that person and the truth WILL out, like you said. 
+
+It is also entirely possible that it was a lone wolf. Lots of people are impassioned on all sides and that's creating extremists. ";2;0;False;DeftNerd;dezlzxw;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"You guys are going to have to learn the difference between ""censorship"" and ""moderation."" You just sound like fools.
+
+By the way, we all see what you did there. Shifting the conversation back go ""censorship."" Joseph Goebbels 101. Unfortunately, that's all you've got, and nobody cares.
+
+Bitcoin Unlimited code fails. A lot. It's your fault. Not Core's. Not ""censorship."" you. It's over. You lost. You never even came close to winning. Start your own project. You claim to have the numbers and support. Do it. No one is stopping you.
+
+Children. No wait. Worse than children. Amateur children.
+
+Edit: when you guys become an alt (coming soon), will you be going with $BUT or $BTU?";0;0;False;;dezo8pc;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"You're missing the point. Bitcoin is about freedom.
+
+The CFAA is broadly written to enable government to prosecute any perceived enemy, e.g. Aaron Schwartz. It is anti-freedom.";1;0;False;benharold;dezli4x;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"Provide evidence that it was an orchestrated and planned attack. According to this article https://bitcoinmagazine.com/articles/security-researcher-found-bug-knocked-out-bitcoin-unlimited/ the bug was disclosed to Mitre’s Common Vulnerabilities and Exposures (CVE) database. The result:
+
+>However, even following this responsible disclosure, Gardner thought there was a risk that the vulnerabilities would be abused as soon as they were fixed in the Bitcoin Unlimited code repository. After all, at that point the problem isn’t really solved: anyone running the released Bitcoin Unlimited software is still vulnerable until they download and run the new, revised version. This opens a window for attackers.
+
+>“The problem is, the bugs are so glaringly obvious that when fixing it, it will be easy to notice for anyone watching their development process,” she said.
+
+>It now appears that is exactly what has happened. While the Bitcoin Unlimited developers did indeed fix the issue shortly after it was pointed out to them, they did so with far too conspicuous a GitHub commit message, Gardner told Bitcoin Magazine once it appeared the bugs seemed fixed and before the attacks began.
+
+>“Their commit message does ring alarm bells. I’m not sure if anyone will notice, but they probably should have obfuscated the message a bit more. The wording might attract closer scrutiny. But if it went unnoticed for this long, maybe it will go unnoticed.”
+
+It's no longer in the hands of anyone if this is a clear and open bug which is exploitable. Of course you'll get back actors in any community (Note: I am not saying from which community) who will take advantage of this to either
+
+ - Disrupt the service
+ - Make a point about its vulnerabilities
+ - Kick BU nodes off the network
+ - Fun and games
+
+To jump to an orchestrated attack immediately without taking other possibilites into consideration and then threatening legal action is very serious and short sighted.";1;0;False;udevNull;dezsm4a;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+You can ask me the same question I asked Peter, and I'll actually reply – no I didn't disclose it in private.;1;1;False;Sunny_McJoyride;dezvh8v;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"No, the argument is that his tweet didn't cause the attack, and that there is no evidence of Core being behind the attack, but evidence (not proof, you cannot prove a negative) that they weren't.
+
+You must be trolling me. I am done here.";1;1;False;;dezzwfy;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"> You can't stop emerging concensus.
+
+I think they call it, ""emergent consensus.""
+";2;0;False;midmagic;dezn21t;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+Thanks;1;0;False;basically_asleep;dezwvbw;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"> I think a decent coder could have written it within a few minutes.
+
+Completely correct.
+";1;0;False;midmagic;dezmd1p;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"By ""problem"" I guess you're referring to the BU bug, which of course doesn't exist in Core it's a BU bug. The asserts quirk does exist in Core, and luke-jr doesn't care https://np.reddit.com/r/Bitcoin/comments/5zgmo2/can_core_and_all_other_clients_please_remove/dey6ysx/
+
+I haven't looked at the build system, but if incidents keep happening in which it's a factor, that may say more about it than its users.
+
+I haven't looked at the codebase, but from comments in both subs (including but not limited to thezerg1's replies to your link) I get the impression that
+
+* It's hard to follow, even for C++
+* which is possibly a deliberate attempt to deter new contributors
+";0;0;False;combatopera;dezyf5w;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"Irony, defined.
+";1;0;False;midmagic;dezlr4g;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"> not-yet-patched
+
+Literally his first tweet was a link *directly to the fix itself.*
+";1;1;False;midmagic;dezm7h7;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"Well the bug was known before he tweeted so no his tweet did cause the attack for sure..
+
+It was a rather ugly way to go about it.
+
+Some reference on the ""never make mistakes"" core team:
+
+https://np.reddit.com/r/btc/comments/5znqq5/g_maxwell_on_july_7th_i_will_be_making_public/";1;0;False;Ant-n;df01yrx;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"> if the core devs would commit to a real blocksize increase asap afterwards
+
+this would be my preference as well. Thing is we need to activate segwit even though it might be a tad over engineered. it is the only tested and peer reviewed option out there and BU has proven to not be a contender in this respect.";2;0;False;michelmx;df02u5b;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"Strong argument. You know what else works? Putting your fingers in your ears and humming real loud.
+";1;1;False;;df02sa6;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+"> Fuckstream Core
+
+Evidence. There is none.
+";1;0;False;midmagic;dezm6ag;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
