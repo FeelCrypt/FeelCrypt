@@ -68,6 +68,9 @@ def get_labeled_dataset(number_of_file = 0, from_date = "2010-01-01", date_inclu
     print("Number of files loaded : ", count)
     return pd.DataFrame(dataset)
 
+def get_LDA_data():
+    return pd.read_csv("../Data/LDA_Data/save.csv", sep=",")
+
 def get_prediction_stats(df_prediction):
     counter_correct_preds = collections.Counter(df_prediction["correct"])
     correct_pred = counter_correct_preds[True]
