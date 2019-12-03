@@ -76,7 +76,6 @@ def get_labeled_dataset(number_of_file = 0, from_date = "2010-01-01", date_inclu
         if month > 12:
             month = 1
             year += 1
-        print(count, date, year, year < limit_year)
     print("Number of files loaded : ", count)
     return pd.DataFrame(dataset)
 
