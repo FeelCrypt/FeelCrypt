@@ -1,11 +1,11 @@
-body;score;nb_replies;stickied;author;id;post_title;post_link
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
 "u/cdn_int_citizen and u/Cherla
 
 below is a link to an explanation for the context of the quote you are discussing on r/bitcoin.
 
 https://www.reddit.com/r/btc/comments/5poe8j/can_any_bitcoin_unlimited_devs_preferable_peter_r/ 
 
-I am sorry I can not respond directly but along with many bitcoin enthusiasts who ask critical questions and BU proponents I am banned from r/bitcoin.";2;1;False;Adrian-X;dctbg6q;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
+I am sorry I can not respond directly but along with many bitcoin enthusiasts who ask critical questions and BU proponents I am banned from r/bitcoin.";2;1;False;Adrian-X;dctbg6q;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;5cue13;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
 "u/CBergmann 
 >depends on your point of view. For an investor, and for someone interested in sound money - yes. For the system to work - no. Sometime in the future it migh even be an obstacle for the system to continue working.
 
@@ -15,8 +15,7 @@ making the 21M coins user configurable is not a threat nor is the developers abi
 
 the non censored discussion is happening here:
 
-https://www.reddit.com/r/btc/comments/5poe8j/can_any_bitcoin_unlimited_devs_preferable_peter_r/";1;1;False;Adrian-X;dcsup3u;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
-body;score;nb_replies;stickied;author;id;post_title;post_link
+https://www.reddit.com/r/btc/comments/5poe8j/can_any_bitcoin_unlimited_devs_preferable_peter_r/";1;1;False;Adrian-X;dcsup3u;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;5cue13;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
 ">These fees in the short term are almost irrelevant, the miners are still getting their primary income from the block reward.
 
 we know the blockchain is subsidized now - It's only with economies of scale in transaction volume and a resulting increase in block size that we can maintain or increase the existing level of security as the reward drops.  LN does not increase block chain use it increases the number of transactions users can do without paying fees to miners.
@@ -45,7 +44,7 @@ BS/Core Fundamentalists are being incredibly irresponsible by enforcing a fee ma
 . 
 >I have a hard time taking this seriously.
 
-Core say it's not to get users to upgrade to segwit - although that is a what happens in reality so we have to trust them. ";1;1;False;Adrian-X;dct96ln;"Charlie Shrem on Twitter: ""If we don't implement bigger blocks ASAP, Paypal will be cheaper than #bitcoin. I already pay a few dollars per tx. Stop hindering growth.""";https://twitter.com/CharlieShrem/status/822189031954022401
+Core say it's not to get users to upgrade to segwit - although that is a what happens in reality so we have to trust them. ";1;1;False;Adrian-X;dct96ln;"Charlie Shrem on Twitter: ""If we don't implement bigger blocks ASAP, Paypal will be cheaper than #bitcoin. I already pay a few dollars per tx. Stop hindering growth.""";5ozdmw;https://twitter.com/CharlieShrem/status/822189031954022401
 "> moving fee paying transactions away from miners and onto separate networks is undesirable and will impact the economy and bitcoin in a negative way.
 
 These fees in the short term are almost irrelevant, the miners are still getting their primary income from the block reward. Something like SW/LN is about making massive adoption possible in the short to medium term and having enough throughput to support this level of adoption. 
@@ -58,4 +57,4 @@ But I'll admit I don't know where this will go emphatically but I've been on thi
 
 > https://www.reddit.com/r/btc/comments/5p35z3/urgent_alert_key_compromised_upgrade_required/
 
-I have a hard time taking this seriously. We only have a potentially biased person asserting something happen with no actual evidence of such. What am I supposed to take away from this?";1;1;False;Next_5000;dct1un3;"Charlie Shrem on Twitter: ""If we don't implement bigger blocks ASAP, Paypal will be cheaper than #bitcoin. I already pay a few dollars per tx. Stop hindering growth.""";https://twitter.com/CharlieShrem/status/822189031954022401
+I have a hard time taking this seriously. We only have a potentially biased person asserting something happen with no actual evidence of such. What am I supposed to take away from this?";1;1;False;Next_5000;dct1un3;"Charlie Shrem on Twitter: ""If we don't implement bigger blocks ASAP, Paypal will be cheaper than #bitcoin. I already pay a few dollars per tx. Stop hindering growth.""";5ozdmw;https://twitter.com/CharlieShrem/status/822189031954022401

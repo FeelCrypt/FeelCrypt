@@ -1,4 +1,4 @@
-body;score;nb_replies;stickied;author;id;post_title;post_link
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
 "Yeah, reddit has ads, and if you ever check out /r/bitcoin, you'd see that there are 10 different propaganda ads for /r/btc floating around there constantly.
 
-Wake up.";1;0;False;StopAndDecrypt;df8mzqo;This was an orchestrated attack.;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/
+Wake up.";1;0;False;StopAndDecrypt;df8mzqo;This was an orchestrated attack.;5zgefe;https://www.reddit.com/r/btc/comments/5zgefe/this_was_an_orchestrated_attack/

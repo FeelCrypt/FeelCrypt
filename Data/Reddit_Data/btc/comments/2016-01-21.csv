@@ -1,4 +1,4 @@
-body;score;nb_replies;stickied;author;id;post_title;post_link
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
 "Dear Rick,
 
 **Note: this post is in three parts.** 
@@ -55,7 +55,7 @@ Are developers and supporters behind Classic willing to answer Core’s concern 
 For me, the real problem appears not that Core is acting as “know it alls”, but the difference is in the priority and security model they implement and when they debate differences in technical terms, often maybe developers won’t realize they are not speaking the same language. Maybe there is a need for developers to be speaking the underlying different vision directly and find a way for this discussion to be open and transparent to public. 
 
 To be continued ... 
-";2;0;False;NozomiHayase;cz5zrvn;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+";2;0;False;NozomiHayase;cz5zrvn;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
 "This is a continuation of Part I. 
 
 **On Democracy** 
@@ -102,7 +102,7 @@ Perhaps, the divide centers around the question of freedom, how to define it. Is
 Personally, Bitcoin gave me an opportunity to truly learn about what money really is. I read Nick Szabo’s essay “Shelling Out” – the Origin of Money. It opened my eyes to recognize how the origin of money was not a market, but something larger as a social contract. When I interact with people, I am relating to someone as a human. I want to first guarantee a platform where I can exercise the equal human rights with the other person. I want to relate to others as equal peers. If I don’t have this right, I can’t freely transact. 
 
 Core is not refusing and denying people’s desire to scale and make Bitcoin a transactional currency. As I see it, they are now building a foundation of a new democracy, upon which truly free markets can be built. High volume/market cap currency can be implemented once the incorruptible foundation becomes solid. But if we lose this new form of democracy by allowing the system to be easily corrupted or centralized, it is harder to bring it back. 
-";2;0;False;NozomiHayase;cz60bfl;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+";2;0;False;NozomiHayase;cz60bfl;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
 "Finally,
 
 I share the sentiment described by **jimmajamma** in the post above. Hard forks are reserved for emergencies and as I understand it, they should not be done lightly. For me, the question is, what is this urgency, especially when Core is putting forth a concrete proposal for 2MB increase? Is there something else going on, disguised behind this rushed version of block increase?
@@ -131,4 +131,4 @@ And you, Rick, you are one of those who inspired me and let me see the wisdom of
 
 Best regards,
 Nozomi
-";2;0;False;NozomiHayase;cz60p7l;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+";2;0;False;NozomiHayase;cz60p7l;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/

@@ -1,51 +1,50 @@
-body;score;nb_replies;stickied;author;id;post_title;post_link
-Isn't this entire thread about how transaction fees for people trading bitcoin is becoming, or has already become, prohibitively too expensive for small trades?;3;0;False;w4lt3r_s0bch4k;diy4omi;"Average Bitcoin transaction fee is now above five dollars. 80% of the world population lives on less than $10 a day. So much for ""banking the unbanked.""";https://www.reddit.com/r/btc/comments/6gek0z/average_bitcoin_transaction_fee_is_now_above_five/
-[deleted];1;1;False;;diy439g;"Average Bitcoin transaction fee is now above five dollars. 80% of the world population lives on less than $10 a day. So much for ""banking the unbanked.""";https://www.reddit.com/r/btc/comments/6gek0z/average_bitcoin_transaction_fee_is_now_above_five/
-body;score;nb_replies;stickied;author;id;post_title;post_link
-https://www.youtube.com/watch?v=pIgZ7gMze7A;1;1;False;bitsko;diwyxak;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
-You've made it this far *because of what you do not know*, I shouldn't expect to change that, lol;1;1;False;bitsko;diwx3vc;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
-"Yawn, wake me up when you have something more interesting than a ""you don't know the real real, you will meet great unfortune"".";1;1;False;kekcoin;diwxix5;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+Isn't this entire thread about how transaction fees for people trading bitcoin is becoming, or has already become, prohibitively too expensive for small trades?;3;0;False;w4lt3r_s0bch4k;diy4omi;"Average Bitcoin transaction fee is now above five dollars. 80% of the world population lives on less than $10 a day. So much for ""banking the unbanked.""";6gek0z;https://www.reddit.com/r/btc/comments/6gek0z/average_bitcoin_transaction_fee_is_now_above_five/
+[deleted];1;1;False;;diy439g;"Average Bitcoin transaction fee is now above five dollars. 80% of the world population lives on less than $10 a day. So much for ""banking the unbanked.""";6gek0z;https://www.reddit.com/r/btc/comments/6gek0z/average_bitcoin_transaction_fee_is_now_above_five/
+https://www.youtube.com/watch?v=pIgZ7gMze7A;1;1;False;bitsko;diwyxak;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+You've made it this far *because of what you do not know*, I shouldn't expect to change that, lol;1;1;False;bitsko;diwx3vc;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+"Yawn, wake me up when you have something more interesting than a ""you don't know the real real, you will meet great unfortune"".";1;1;False;kekcoin;diwxix5;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
 "I'm not able to judge his results at all without knowing how exactly he gathered the data. Core being installed on non-mining nodes is a relic of the time the various code versions have been available for download. 
 
-And, as you well know, nodes are useful for relaying data and verifying txns ( for the well-off western geeks ) - they have no effect on achieving nakamoto consensus. Which is why BS-Core never used to count non-mining nodes until they failed to sell Segwit.";1;0;False;dumb_ai;dix0s8r;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+And, as you well know, nodes are useful for relaying data and verifying txns ( for the well-off western geeks ) - they have no effect on achieving nakamoto consensus. Which is why BS-Core never used to count non-mining nodes until they failed to sell Segwit.";1;0;False;dumb_ai;dix0s8r;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
 "I use a Trezor with Electrum and run a node that includes a private Electrum server.  I believe this will work with the existing BU node for all blocksizes being considered.  I have no interest in verifying Segwit transactions as I don't mine on this node and I won't be using Segwit addresses or transactions since they offer me no benefit.
 
 If there are multiple chains, there will undoubtedly be public Electrum servers supporting the various chains, so it won't be necessary to run your own node.
-";1;0;False;tl121;diy2cin;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
-It isnt really that simple, wish it was.;1;0;False;core_negotiator;dixt08h;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+";1;0;False;tl121;diy2cin;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+It isnt really that simple, wish it was.;1;0;False;core_negotiator;dixt08h;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
 ">The legacy chain has an asymmetric advantage due to the risks of the mainchain attacking it makes their own chain susceptible to attacks or reorgs (even after they HF)
 
-I have analyzed this risk. See  [An Analytic Model of the Performance of a Forked Bitcoin Blockchain with Two Block Size Limits](https://medium.com/@tl121/an-analytic-model-of-the-performance-of-a-forked-bitcoin-blockchain-with-two-block-size-limits-5642ab0325dc)";1;0;False;tl121;diy2ptb;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+I have analyzed this risk. See  [An Analytic Model of the Performance of a Forked Bitcoin Blockchain with Two Block Size Limits](https://medium.com/@tl121/an-analytic-model-of-the-performance-of-a-forked-bitcoin-blockchain-with-two-block-size-limits-5642ab0325dc)";1;0;False;tl121;diy2ptb;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
 "This seems the most likely explanation. The Big block chain, even if mined privately, should be able to include all transactions in main chain (even if it has less blocks, since the blocks are bigger) 
 
 It is not a ""premine"" if the difficulty is the same, because they are still spending hashpower on it - meaning that they would get the same amount of coins if they used this hashpower on original chain or even on UASF chain. 
 
-This is just my general interpretation / speculation. I hope the detailed explanation about this will be released soon. ";1;0;False;Mythoranium;dix9jpj;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
-Thanks, that makes sense.;1;0;False;Bootrear;dixg3y5;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+This is just my general interpretation / speculation. I hope the detailed explanation about this will be released soon. ";1;0;False;Mythoranium;dix9jpj;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+Thanks, that makes sense.;1;0;False;Bootrear;dixg3y5;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
 "Miners include or reject transactions at their will, regardless of the ""discount"".  Miners are motivated to factor in the discount only when they are creating blocks that run up against the weight limit, i.e. the discount is operative only when bitcoin transaction processing is limited by a central planning limit.  Once this logjam has been removed, the discount factor becomes irrelevant. So anyone who claims that the discount factor is relevant must be in favor of absurdly high fees and limited network capacity.
 
 There are no costs that are externalized, except to non-mining nodes.  Since these nodes do not benefit the network, their costs are not relevant.
-";1;0;False;tl121;diy231y;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
-They would be exposing people's money to loss under some possible UASF scenarios. ;1;0;False;dumb_ai;dix5d2k;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+";1;0;False;tl121;diy231y;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+They would be exposing people's money to loss under some possible UASF scenarios. ;1;0;False;dumb_ai;dix5d2k;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
 "Also don't forget the master shill of them all, [Lawrence Nahum](https://blockstream.com/team/lawrence-nahum/) the founder of the Greenaddress wallet app company. He shilled so hard for Blockstream that not only they finally employed Lawrence, they even bought his company Greenaddress.
 
-";3;0;False;todu;diwuxs7;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+";3;0;False;todu;diwuxs7;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
 "> BU is the logical counter to the ""we will never hard fork ever"" camp.
 
-Are you aware that this is the narrative BU pushed themselves? You got played";1;1;False;;dixmq13;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+Are you aware that this is the narrative BU pushed themselves? You got played";1;1;False;;dixmq13;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
 "The UTXO set doesn't have to be stored in RAM, nor does it need ""quick"" acces.  If multiple transactions are processed in parallel, then the UTXO performance factor that is required is total random reads and writes per second, and this can be easily achieved by sharding the UTXO database.  Sufficient performance is easily achieved for Visa level performance by using multiple SSDs.
-";1;0;False;tl121;diy1n0z;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+";1;0;False;tl121;diy1n0z;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
 "How could I get played if I've never heard that? It's a logical deduction from the current situation. If you say ""hey, we are never hard forking ever to raise the block size, even after saying we would multiple times"" then the other side will say ""we are forking to a model that prevents you from doing this in the future and settles it once and for all.""
 
 It's really easy to see this is the case here.
 
-";1;0;False;________________mane;diy3v8k;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+";1;0;False;________________mane;diy3v8k;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
 "point well taken. I saw what I wanted to see, I guess ;-)
 
-sorry 'bout that.";1;0;False;moleccc;dixqhqi;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+sorry 'bout that.";1;0;False;moleccc;dixqhqi;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
 "Bitmain controls the hardware supply, it alia very well known and you are nothing but a liar because you know better and chose to perpetuate lies. 
 
-Luckily for everyone, you're about to leave for an altcoin. Run along and the door doesnt bang on the way out little boy.";1;0;False;core_negotiator;dixt332;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+Luckily for everyone, you're about to leave for an altcoin. Run along and the door doesnt bang on the way out little boy.";1;0;False;core_negotiator;dixt332;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
 "SECTION | CONTENT
 :--|:--
 Title | Wham! - Wake Me Up Before You Go-Go
@@ -59,4 +58,4 @@ Length | 0:03:51
  
 ****
  
-^(I am a bot, this is an auto-generated reply | )^[Info](https://www.reddit.com/u/video_descriptionbot) ^| ^[Feedback](https://www.reddit.com/message/compose/?to=video_descriptionbot&subject=Feedback) ^| ^(Reply STOP to opt out permanently)";1;0;False;video_descriptionbot;diwyxe1;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/
+^(I am a bot, this is an auto-generated reply | )^[Info](https://www.reddit.com/u/video_descriptionbot) ^| ^[Feedback](https://www.reddit.com/message/compose/?to=video_descriptionbot&subject=Feedback) ^| ^(Reply STOP to opt out permanently)";1;0;False;video_descriptionbot;diwyxe1;Bitmain just published its contingency plan for the UASF risks to Bitcoin, about SegWit2x and more...;6h5f74;https://blog.bitmain.com/en/uahf-contingency-plan-uasf-bip148/

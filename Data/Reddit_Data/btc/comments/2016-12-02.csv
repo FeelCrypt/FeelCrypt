@@ -1,12 +1,12 @@
-body;score;nb_replies;stickied;author;id;post_title;post_link
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
 "You acknowledge that something is indeed good, correct, appropriate. It goes further than just saying you understood. 
 
 Try to send the wrong message to system, and you won't get a response. So the ack isn't just about getting it, it is definitely also about correctness. 
 
-";1;1;False;seweso;dapcd67;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
-"but I feel it's a bit different - to me ""ack"" means ""I got your message"", it doesn't necessary mean ""i agree with it"".";1;1;False;tobixen;dapbdjz;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
+";1;1;False;seweso;dapcd67;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;5cue13;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
+"but I feel it's a bit different - to me ""ack"" means ""I got your message"", it doesn't necessary mean ""i agree with it"".";1;1;False;tobixen;dapbdjz;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;5cue13;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
 "Is this the right place to post news about censorship?
 
 There is this thread now pretty high up, with (possibly legitimate) criticism of BU.  All my comments there have been shadowbanned.  Maybe all comments in that thread are manually approved, what do I know, but it's quite so annoying anyway (and if they do manual approving, the bias is very visible, this pizzaface18 is not really contributing anything there).
 
-See my comments being visible on https://www.reddit.com/user/tobixen but invisible on https://np.reddit.com/r/Bitcoin/comments/5g1x84/bitcoin_unlimited_bu_median_value_of_miner_eb/";3;0;False;tobixen;dapartx;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
+See my comments being visible on https://www.reddit.com/user/tobixen but invisible on https://np.reddit.com/r/Bitcoin/comments/5g1x84/bitcoin_unlimited_bu_median_value_of_miner_eb/";3;0;False;tobixen;dapartx;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;5cue13;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9

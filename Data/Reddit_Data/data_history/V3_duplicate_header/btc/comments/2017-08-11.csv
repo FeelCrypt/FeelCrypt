@@ -1,0 +1,827 @@
+body;score;nb_replies;stickied;author;id;post_title;post_link
+Sorry, man. Welcome.  What questions have you got?;157;2;False;WalterRothbard;dlha1vd;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Ninety percent is quite low, in my opinion. The inexcusable attempts by Core to control the narrative and suppress discussion play a big part in my thinking. I am not a computer programmer, so I can't use my knowledge of code to tell you which dev team has a better product.
+
+It's the same when I'm buying a used car. Looking under the hood would be wasted on me: ""Yep. That's an engine right there!"" What I'm looking for in that case is whether the guy trying to sell it to me is lying, manipulating me, omitting important information, etc. /r/bitcoin is such a shady used car salesman, it really doesn't matter if the ideology they push is a lemon or not. People like me simply aren't going to bother with the product in the first place.";4;1;False;anthson;dlhjnyl;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> It's not the utopian inequality solving miracle that ancaps are praying it is.
+
+Your strawman is on fire!  Have you ever actually met an ancap?";2;1;False;Helvetian616;dlhnizx;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> Bitcoin is not for the common man.
+
+It is for the 7$ a day people. Even bitcoin, with the high fees, if saving is wanted and more than 3-4 $ can be scraped together. But even more so with bitcoin cash, the 7$ people can use it for daily trade. You need just one other interested person in your neighborhood.";1;0;False;ErdoganTalk;dlhivg0;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I'll try my hand at answers to some of these.
+
+>What are transaction maleability/quadratic hashing, why are small blockers so concerned with the two (and always both brought up side by side)?
+
+Transaction malleability is changing the format of a transaction to give it a different ID.  It really only impacts transactions before they are confirmed (0-conf).  It can be used in several ways to fool people into thinking a transaction did / did not confirm.  Most of bitcoin is based on not trusting 0-conf transactions in any case (and most online retail or exchanges require several confirmations because of that.).
+
+Quadratic hashing is the idea that the time it takes a computer to verify a transaction increase MORE than linearly with the number of transaction signatures.   Computers do this way faster, but using numbers easier to understand.  A normal transaction will have one or two normal inputs that would take 1 or two seconds to verify.  With multisig or with a transaction that has several inputs, this could get exponentially long with current transaction formats.  10 input transactions could take 100 seconds to verify.  As multisig is more popular and as a broader userbase inherently increases transaction complexity, a combination of larger blocks and a very complex transaction could lead to problems with the time it takes to validate a block.  SegWit and other techniques allow for one signature is ~1 second no matter how many of them there are.
+
+> Who are these people everyone speaks of? I feel like I need a master roster. How can a new person care what Jihan Wu says if they have no idea who he is or why what he says is important?
+
+You might want to learn a little about the personalities, but they're more complex than people give them credit for.  Don't apply labels like ""Big Blocker"" without giving individuals or individual statements due consideration.  On reddit, I do label individuals as ""Troll"" when it is simply not worth my time to read through their comments even if individual comments may have value.";47;0;False;Venij;dlhi5rh;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> What's the definition of a second-layer solution, and does Bitcoin Improvement Proposal 141 meet that definition? Or does it fall in a different category?> 
+
+BIP141 (SegWit) isn't a second layer solution, but makes some modifications to bitcoin that enables (or makes it easier for) second layer solutions.  A ""second layer"" is another set of software (maybe running alongside Bitcoin) that handles transactions - generally thought of as higher volume and lower value transactions.  There are several proposals that use different methods for creating a second layer to interact with Bitcoin as a base / validation layer.
+
+> What's the long-term plan for incentivizing miners to mine? It seems like the ever-reducing reward for solving a block would have to be met with an ever-increasing price of coin or miners will start losing money. And eventually we hit a cap, right? Or is it that we'll always be approaching the cap, but halving the distance we move toward it so we never in effect reach 21 million total coins?
+
+First off, I've never really heard anyone describe how much security is enough.  How much incentive do they need?  In any case, the idea is that transaction fees will do this someday before the year 2140 (when we do, in-fact reach the 21 million cap).  The combination of increased value of each bitcoin, increased transactions on the bitcoin network, and a fee / transaction will give miners reason to keep mining.  That's a long time away.
+
+For comparison, in ~2044 the block reward will be down to 0.1 btc/block.  In 27 years, bitcoin value could go up to $437,000/btc (it's 27 years, who knows) to offset the decrease in block reward.  Or if technology has improved such that we can handle 5GB blocks and everyone pays 1 satoshi / transaction.  Or If there's some combination of that...";41;1;False;Venij;dlhj9pn;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""
+
+Segwit does a few complicated things that are difficult to explain to newcomers, but I will try to explain them as simply as I can.
+
+It removes the signatures from transactions. Think of bitcoin transacitons as writing a check. Usually we write someones name on a check, but we could write 'cash' instead allowing anyone to spend it. Segwit transactions are checks that are made out to cash with a piece of paper stapled to the check outlining who can spend it. All of the miners have agreed to collude and honor that stapled piece of paper even though the rules of Bitcoin do not recognize that piece of paper having any authority. If that sounds complicated then you understand why many people are against segwit. It is unnecessarily complicated.
+
+So why would anyone want Segwit? That also is complicated. Lets start with some basic terms.
+
+All checks have a check number on them, and Bitcoin isn't any different. Bitcoin transactions have a hash associated which is like it's check number. In Bitcoin, this check number can be changed by anyone, and doing so causes some minor problems. These problems are nothing more then a nuisance for the average user, but it is also preventing people from using a lightning network.
+
+Every time you send a bitcoin transaction it is permanently added to the blockchain. This record must be stored forever and as a result has a cost associated with it. This cost is currently approximately $1 per transaction. The lightning network is a method of bundling many transactions into one so a user can save money. 
+
+So, Segwit removes transaction mallebility which will enable the lightning network which will allow cheaper fees.
+
+Segwit, however, isn't the only solution to transaction malleability.";9;0;False;SharpMud;dlhrees;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"1. ""What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad"" 
+1. Alters incentive structure of bitcoin, changes the way signatures are stored, completely disrespects the white paper, which is what we invested in. 
+
+2. ""Can we get an acronym master list with short definitions for things?""
+
+2. Wish I could help here but you are probably going to have to do what all of us did, just study until you figure it out. 
+
+3. ""What are transaction maleability/quadratic hashing, why are small blockers so concerned with the two (and always both brought up side by side)?""
+
+3. TM and QH are two minor imperfections in the Bitcoin Network. Solving these issues right now is by no means crucial for the functioning of bitcoin, but L2 won't work without, so that's why they make such a big deal out of it. They need it to push the L2 onto us. 
+
+4. ""Who are these people everyone speaks of?""
+
+4. Jihan Wu is the owner of the biggest mining equipment manufacturer, a big blocker, he gets slandered all the time but there is nothing really bad about him.
+
+5. ""What's the definition of a second-layer solution, and does Bitcoin Improvement Proposal 141 meet that definition""
+
+5. A second layer solution is a network built on TOP of bitcoin. You can transact back and forth on a ledger, but the final balances don't get settled until you perform an on chain transaction. Think of it like a paypal account, based on bitcoin, backed by bitcoin (so they say.)
+
+6.What's the long-term plan for incentivizing miners to mine?
+
+6. Transaction fees. 
+
+7. ""How fucked are we when some guys at MIT build the first mostly-functional quantum computer? Will we have plenty of time to prepare before that day arrives?""
+
+7. Not fucked at all, yes we can make minor changes to prevent this, but it probably won't be necessary for a long time. Bitcoin is extremely cryptographically secure. It is something like a million times the combined computing power of the whole world to crack a BIP38 encryption. 
+
+8. ""Why did Satoshi disappear?""
+
+8. Either he's already dead, or he disappeared for his own safety. Think about what he did. 
+
+9. ""Why is China so involved in cryptocurrency?"" Most mining equipment is made there, they have a lot of cheap hydroelectricity, the government gives subsidies to bitcoin miners (not 100% sure about this though) and think about the chinese culture, bitcoin is good for them. Plus chinese government has restrictions on moving capital which pushes a lot of people to crypto. 
+
+Hope this helps. 
+
+EDIt: This formatting totally fucked up my whole post, I do not know how to fix it, but each question is listed and followed by my answer. Good luck. ";28;4;False;poorbrokebastard;dlhdnw6;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""
+
+In the bitcoin white paper: https://bitcoin.com/bitcoin.pdf
+
+>>We define an electronic coin as a chain of digital signatures. 
+
+Segwit segregates the transaction signatures from teh transaction moving it outside the bitcoin blockchain, by removing the signature from the bitcoin transaction it makes for approximately 70% more space in a 1MB block. So if every one move to segwit type transactions we'll get an effective 70% increase in transaction capacity. 
+
+There are security problems when removing signatures from bitcoin transactions. https://youtu.be/VoFb3mcxluY and a myriad of other problems if you want to discuss the economics. 
+
+>Can we get an acronym master list with short definitions for things?
+
+Boy do I here you on that. this was my biggest beef when moving into bitcoin I couldn't understand what people were talking about. I'll tell you way respond with a list and I'll define them.  and we can tackle the other questions after that. ";8;1;False;Adrian-X;dlhm8lc;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Here you go. Just type anything you don't understand in the search box: http://awoiaf.westeros.org/index.php/Main_Page
+
+Would sure be nice if Bitcoin had something like this.";1;1;False;anthson;dlhn2vg;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I'm only going to answer a couple right now cause I'm on my phone. 
+
+>* What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""
+
+Transaction malleability means you can't rely on the transaction identifier (txid) because it can be changed. This makes chaining txs together impossible. 
+
+Segwit fixes this bug. That's the main objective. By fixing this bug, we make decentralized networks of bidirectional payment channels capable (lightning network). 
+
+Personally, I believe that the future is in the Lightning Network. It will enable instant transactions and unlimited scale, all backed by the security of the Bitcoin blockchain. This is the only conceivable way we get 7 billion daily bitcoin users.
+
+Segwit also opens up the door for script versioning, which allows future script upgrades, signature aggregation (massive reduction in tx size), and actual privacy at the protocol level. Today, bitcoin's privacy features suck. Segwit is a step towards fixing that. 
+
+>* Why did Satoshi disappear?
+
+Gavin Andreson, the guy who Satoshi was working closest with, was visited by the CIA. He told Satoshi, and that was the last time anyone heard from Satoshi. ";11;4;False;gizram84;dlhfcun;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""
+
+Please watch this video:
+https://www.youtube.com/watch?v=gkawrJJZgts
+
+> What's the long-term plan for incentivizing miners to mine? It seems like the ever-reducing reward for solving a block would have to be met with an ever-increasing price of coin or miners will start losing money. And eventually we hit a cap, right? Or is it that we'll always be approaching the cap, but halving the distance we move toward it so we never in effect reach 21 million total coins?
+
+First off, this is decades and decades and decades away. Secondly, if and when that time comes where all bitcoin has been found, the idea is that bitcoin will be so widely used and on such a large basis that a very, very small fee on millions of daily transactions would be plenty sufficient. Think volume.";3;0;False;;dlhu55b;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"""What does Segwit actually do?""
+
+This is the best write-up I've seen explaining the problems with SegWit: https://steemit.com/bitcoin/@modprobe/i-looked-into-segwit-and-here-s-what-i-saw";2;0;False;rusche0105;dlho5e3;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> Why did Satoshi disappear?
+
+Etherium, another cryptocurrency, had millions of dollars stolen last year. The developers decided to step in and steal the money back. They did this by changing the code to move the money back to the previous owners. The real problem is not that they did do this, but rather they could. In this instance they took money that was stolen, but they could have just as easily taking money that was legitimately earned. If Satoshi stuck around he would have similar power over the ecosystem of Bitcoin. It is very likely he realized that no man or group should wield that kind of power, and Bitcoin would be better off without him.
+
+";2;1;False;SharpMud;dlhrqom;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+[deleted];-1;3;False;;dlhdruc;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Highly censored.;23;0;False;uMCCCS;dlhga1z;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I think a good start is to not refer to the heros/devils, just make the plain argument yourself.;2;0;False;ErdoganTalk;dlhiy0v;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I understand your complaint, unfortunately it's difficult to tell the difference between someone who agrees with your argument and someone who is pretending on the internet. There are plenty of pretenders here.;3;1;False;;dlh92vv;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Wait? You expect me to take the time to click a link and educate myself.. what an elitist.
+
+> Would sure be nice if Bitcoin had something like this.
+
+Yep... are you going to do that for Bitcoin?";-4;1;False;PilgramDouglas;dlhngeg;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> Who are these people everyone speaks of? I feel like I need a master roster. How can a new person care what Jihan Wu says if they have no idea who he is or why what he says is important?
+
+Bitcoin Core is a group of Developers. The most vocal ones are LukeJr and NullC (Greg Maxwell). Both of them seem to think they own Bitcoin and should be allowed to decide what Bitcoin is and isn't. They have mentioned several times that Bitcoin cannot be changed without their approval. Clearly good developers, but really need a big reality check
+
+Blockstream is a company that pays, either directly or indirectly, many of the Bitcoin Developers. They created Segwit and have been attempting to bully everyone into accepting the changes that they approve and rejecting changes they do not approve. They are actively against any blocksize increase.
+
+Roger Ver, aka Bitcoin Jesus, is an early adopter. He started mining bitcoins early on and is likely a multimillionaire because of this. You do not need to care what he thinks, but he is an expert in the field so you could learn from listening to him. He has been spending his time promoting Bitcoin and is a big block supporter. Blockstream sees Roger as a threat and started a smear campaign against him. You will see some major hate towards him on r/bitcoin.
+
+Jihan Wu is a miner. You should absolutely care what he thinks because he is a voting member of Bitcoin. What that means is his mining machines are voting over which transactions make it into the blockchain, and in what order. He is also voting on what protocol changes are being made. In Bitcoin only miners are given a vote, however, they must still serve the population. They get paid in Bitcoin and acting poorly will cause the price of Bitcoin to fall. He has been actively supporting bigger blocks which has caused Blockstream to start a smear campaign against him.";5;0;False;SharpMud;dlhskmn;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Both sides are trying to control the narrative, and ""Core"" is just an open source repository, it isn't some entity as many here would claim. https://github.com/bitcoin/bitcoin
+
+If you can't judge it based on its technical merits, then consider what the market itself is telling you. 
+
+In any case, I hope you will consider carefully before throwing much money into either chain. There is a lot of FUD out there, but BTC is hitting all time highs after locking in SegWit, could be good reason for that.";2;1;False;buddhaghosa_the_wise;dlhkbl3;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"They might be late, but ultimately they will feel the value and use it just like everybody else (at that future time). They just will not have the advantage of riding the market like we do, but the honesty of the money will be to their advantage.
+";1;0;False;ErdoganTalk;dlhjgg6;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Proof of individual concepts of quantum computing exist. A true quantum computer would break all non-quantum encryption effortlessly. You'd essentially have a key to nearly every digital lock in the world and you could solve blocks in seconds. If something like that existed functionally, we'd know about it because the world as we know it would change overnight.
+
+https://www.youtube.com/watch?v=JhHMJCUmq28";1;1;False;anthson;dlhqnnc;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+CHINA BAN BITCOIN! THIS IS GENTLMEN!! HODL!;0;0;False;shad0proxy;dlhjpfv;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I don't hold BTC or BCH, so I have no stake one way or the other, so let me say this.
+
+Your entire initial premise is wrong.  Bitcoin is not for the common man.  Bitcoin is money in a different format.  It's not the utopian inequality solving miracle that ancaps are praying it is.  
+
+The jargon you struggle with are the actual terms.  They aren't acronyms or initialisms.  If you don't understand them, it's on you to learn.  Otherwise, sit back and wait for Bitcoin's mainstream adoption -- you won't have to understand how it works any more than you need to know how credit card transactions work.  
+
+Sorry if that comes across as harsh.  Some people need a reality check though.";-5;2;False;TheManWhoPanders;dlhduk2;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Yeah I guess this community really is a nightmare for new users, and it seems pretty self evident that OP is one of the reasons, because everyone who opposes you is a commie troll, right? 
+
+
+There's trolls on both sides, as are there legitimate criticism on both sides that will be dismissed as trolling. 
+
+
+But you don't get to solve a problem by being a part of it. ";-1;0;False;PoliticalDissidents;dlhprtn;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Okay, I have a friend who has been all about bitcoin for years, telling me to buy in. 
+
+After all this news, I'm ready. Tell me how to buy $20 in bitcoin. ";0;3;False;markevens;dlhqae6;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"5/7 shitpost.  
+Would laugh at Bcash circlejerkers again.";-12;0;False;_eternalreturn_;dlh82dq;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Just unsubscribe, there are better places than this;-2;0;False;dearredditerFUCKCATS;dlhn4au;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"* What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""
+
+* Can we get an acronym master list with short definitions for things?
+
+* What are transaction maleability/quadratic hashing, why are small blockers so concerned with the two (and always both brought up side by side)?
+
+* Who are these people everyone speaks of? I feel like I need a master roster. How can a new person care what Jihan Wu says if they have no idea who he is or why what he says is important?
+
+* What's the definition of a second-layer solution, and does Bitcoin Improvement Proposal 141 meet that definition? Or does it fall in a different category?
+
+* What's the long-term plan for incentivizing miners to mine? It seems like the ever-reducing reward for solving a block would have to be met with an ever-increasing price of coin or miners will start losing money. And eventually we hit a cap, right? Or is it that we'll always be approaching the cap, but halving the distance we move toward it so we never in effect reach 21 million total coins?
+
+* How fucked are we when some guys at MIT build the first mostly-functional quantum computer? Will we have plenty of time to prepare before that day arrives?
+
+* Why did Satoshi disappear?
+
+* Why is China so involved in cryptocurrency? Is it just the rich upper class, or are the poor taking advantage of free/subsidized electricity to generate wealth? If it's the latter, why aren't draconian Chinese authorities cracking down?";171;18;False;anthson;dlhbnze;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"i am sure we can do better. bitcointalk.org is also a nice forum. looks outdated, but its fine :-)  
+
+https://bitcointalk.org/index.php?topic=2040221.3640   
+   
+";-21;1;False;cryptodingdong;dlhe8p9;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Ive said this to people quite a few times now... On chain off chain segwit Blocksize etc... so many technical terms... the average Jow won't get that. But that's why it is our (and/or the coders) mission to improve all that to such an extent, that average Joe just holds up his iPhone at the check-out counter and he'll be good to go. 
+If we achieve that kind of perfection, then Bitcoin (or Bitcoin cash or whatever) stands the chance to be something for the masses. 
+Anyhow these things happen gradually and take time.
+Nobody was using a debit/credit card when it first came out. It took years to become so common like it is today.";3;0;False;themadscientistt;dlhj9u2;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> soup to nuts basics guide 
+
+I don't know what that is, but you had me at ""nuts.""";5;0;False;anthson;dlhh0vb;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+That's why I went for a little shake-up and threw in those crusted nuts.;13;1;False;anthson;dlheg54;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> The problem is they are dipping their balls in our drinking well.
+
+Yes, that's clear with the whole attempt to control the narrative via /r/bcash. When they start doing that garbage, we should always point it out. But that's only when they come across the fence and start shitting on our lawn. When they're on the other side, I feel like we can just ignore them.";8;1;False;anthson;dlhe4uy;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"keep it simple, just money and it'll get main street adoption, make it smart money and well get centralized vertical priesthoods who have fringe applications and investors that get fleeced by those with the knowledge and ability to manipulate the the flow of value. 
+
+Layer 2 systems and technologies should be built on top of digital money, the digital money should not be modified to support layer 2 protocols. risk should stay in the economy, money should work for everyone equity not provide features that benefit banks at the expense of users. ";4;0;False;Adrian-X;dlhn0mw;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+The point is people who aren't power users will likely not understand that, which is part of makes this community very difficult to get into. And that was the point of my post.;9;0;False;anthson;dlhfcsx;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I'd argue that's the underlying goal of communism, as well, but then we're getting to a different topic.;3;0;False;anthson;dlhpv45;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"But that is the thing. From a new user's perspective, how can they tell when both sides (again, from an new user perspective) look to be doing the same things? So, new users tend to side with the more popular (this case /r/bitcoin) over the less popular (/r/btc).
+
+If a new user doesn't know the whitepaper or even how the blockchain works from a semi technical level, most of the arguments and the alleged censorship go right over their head. There isn't a place for them to easily digest bitcoin and make their own decisions and join the community they are aligned with.";4;1;False;meeekus;dlhq439;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+My post wasn't about those people. It's about the elitism culture that's created a members-only club. That includes big blockers and small blockers.;14;1;False;anthson;dlh8yk6;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I share your feeling. A lot of people here remind me of T_D :( I want to find solid arguments against Segwit but most of the time the conversation deteriorate very quickly...;0;0;False;fgiveme;dlhlc0l;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+It started as an rbitcoin refugee camp where we were free to rail against the former oppressors. It still is that but people are gradually trying to make it a general bitcoin sub for new and old alike.;5;0;False;Thorbinator;dlhin8z;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"If you don't know what anything means and have no technical understanding of what is going on, then how can you be so sure you've picked the ""right"" side?";0;1;False;buddhaghosa_the_wise;dlhhfmk;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+It would be easier if they ever left their parent's basements.  ;0;0;False;TheManWhoPanders;dlhnsez;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Your lists are getting combined/reset by Markdown. Easier to just leave off the numbers and put the questions as quotes as though we're on good old forum software in 2004. If you want to hit reply, copy my markdown, paste it into your comment, I'll delete this post.
+
+>What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""
+
+Alters incentive structure of bitcoin, changes the way signatures are stored, completely disrespects the white paper, which is what we invested in.
+
+>Can we get an acronym master list with short definitions for things?
+
+Wish I could help here but you are probably going to have to do what all of us did, just study until you figure it out.
+
+>What are transaction maleability/quadratic hashing, why are small blockers so concerned with the two (and always both brought up side by side)?
+
+TM and QH are two minor imperfections in the Bitcoin Network. Solving these issues right now is by no means crucial for the functioning of bitcoin, but L2 won't work without, so that's why they make such a big deal out of it. They need it to push the L2 onto us.
+
+>Who are these people everyone speaks of?
+
+Jihan Wu is the owner of the biggest mining equipment manufacturer, a big blocker, he gets slandered all the time but there is nothing really bad about him.
+
+> What's the definition of a second-layer solution, and does Bitcoin Improvement Proposal 141 meet that definition
+
+A second layer solution is a network built on TOP of bitcoin. You can transact back and forth on a ledger, but the final balances don't get settled until you perform an on chain transaction. Think of it like a paypal account, based on bitcoin, backed by bitcoin (so they say.)
+
+>What's the long-term plan for incentivizing miners to mine?
+
+Transaction fees.
+
+>How fucked are we when some guys at MIT build the first mostly-functional quantum computer? Will we have plenty of time to prepare before that day arrives?
+
+Not fucked at all, yes we can make minor changes to prevent this, but it probably won't be necessary for a long time. Bitcoin is extremely cryptographically secure. It is something like a million times the combined computing power of the whole world to crack a BIP38 encryption.
+
+>Why did Satoshi disappear?
+
+Either he's already dead, or he disappeared for his own safety. Think about what he did.
+
+>Why is China so involved in cryptocurrency?
+
+Most mining equipment is made there, they have a lot of cheap hydroelectricity, the government gives subsidies to bitcoin miners (not 100% sure about this though) and think about the chinese culture, bitcoin is good for them. Plus chinese government has restrictions on moving capital which pushes a lot of people to crypto.";22;3;False;ianpaschal;dlhfbr5;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Sorry, you have to highlight it. Highlight, hit the reply button, and then you'll get a new comment with the quotes. Although it will also quote the part I wrote so remove... ugh too complicated. This wasn't as clever an idea as I thought.
+
+Basically just avoid using numbered lists with Markdown unless you really really want 1.,2.,3.,etc. Markdown, by the way, is the syntax Reddit uses to format bold, italics, lists, etc.
+
+Putting > in front of a paragraph makes it a block quote so what I did was remove the numbers then put a > in front of each question and nothing in front of each answer. Then you get that formatting.
+
+In my comment window it looks like:
+
+
+> \>Why don't people like off-chain solutions?
+
+> Because it's digital Visa, not digital cash.
+";2;0;False;ianpaschal;dlhhw8c;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> but don't go after established accounts having a reasonable discussion,
+
+just go thru his posts and pay attention to what **many** other posters here have said about him.  then make your own conclusions.";1;0;False;H0dl;dlhp0rd;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"
+he injected his own propaganda here.  which i think is wrong:
+
+>Personally, I believe that the future is in the Lightning Network. It will enable instant transactions and unlimited scale, all backed by the security of the Bitcoin blockchain. This is the only conceivable way we get 7 billion daily bitcoin users.
+
+and then you injected your own here:
+
+>What he said isn't wrong though.";5;1;False;H0dl;dlhi1ad;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Blocks and transactions only need to be verified once, after that they're put into another database.  Many nodes keep the historical block data in case re-validation is needed but it's not really required for basic operation.;3;1;False;greeneyedguru;dlhgkc3;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Please detail how he is wrong. I'll wait for your technical analysis.;1;2;False;Deftin;dlhi691;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Not the OP, but this is the answer I was looking for! Why is Segwit fundamentally bad: because it permits the discarding of transaction signatures. Now I understand the analogy between SegWit and MERS: if your records about who owns what disappears because it's being discarded (either to reduce disk use or for nefarious purposes), then how do you know what is yours?;4;1;False;mraowbot;dlhkytp;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"u/anthson putting Transaction malleability in perspective:
+
+Fixing malleability is like fixing your cat.
+
+It's the owner that gets to define the problem and it's the cat that gets fixed. (The cat works just fine with it's manhood intact)
+
+Malleable transaction haven't stopped Bitcoin from working. In fact malleable transactions prevent types of applications that move fee paying transactions off the Bitcoin network and onto other networks like the Lightning Network - resulting in less fees to pay for bitcoin security.
+
+___
+
+
+Malleability is associated with MtGox as being the reason people lost money, hence a bug. it doesn't look like a bug but more like a feature. Why is it something that needs to be fixed?
+
+It's a feature that's preventing moving fee paying transactions off the blockchain, fees being a good thing that secure the blockchain as the subsidy diminishes.
+
+Malleability is a behavior that encourages network participants using the network in other ways to have functions other than money confirm on the blockchain. Its functions should be defined and agreed before it's classified as something needing a fix, it's not a bug it's not harmed bitcoin, if anything it's been a scapegoat used to arguer fraud and that bitcoin is not broken and works for everyone, fix this and we fix fraud (NOT).
+
+Bitcoin Transaction Malleability puts individual users who want to be their own bank on the same playing field as multinational corporations who want to use bitcoin to build a private banking layer on top of bitcoin, why remove it?";8;1;False;Adrian-X;dlhmo34;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"please detail how his propaganda is right.  specifically the parts that i quoted.  
+
+i never said he was wrong except for his propaganda.  i just said he's a troll and he shouldn't be listened to. ";-3;2;False;H0dl;dlhimg8;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Nope. I was being clever without testing it. He could remove the \> before each answer but that's hardly less work than just reformatting the original. My bad.;5;1;False;ianpaschal;dlhi07u;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"It allows certain nodes who don't care to prune it. That allows more of them to participate, because it puts less demands on their resources.
+
+But there will always be archival nodes which keep all the signatures, so don't worry, they won't be lost. There are plenty of incentives for certain parties to keep the signature data. This idea that is being thrown around casually that the signature data will get completely lost forever is total FUD.";2;1;False;scientastics;dlhqx5k;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Shhh, I'm enjoying this thread.;2;0;False;Drunkenaardvark;dlhq2k6;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+From an economic point of view, what's the incentive? I don't see any built into the system (on-chain).;1;1;False;mraowbot;dlhrbmf;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"go thru this interchange btwn the two of us:
+
+https://www.reddit.com/r/btc/comments/6sp3fo/minitip_was_a_cool_open_source_tipping_app_that/dlettr9/";1;2;False;H0dl;dlhm600;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Anyone who has significant money involved (big merchants, payment processors, exchanges, etc.) will have ample incentives to keep the signatures to prove the validity of the transactions. They care because their business and/or money is on the line. That is the main incentive.;1;1;False;scientastics;dlhrw58;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Hey look, yet another conversation where gizram84 attempts to discuss technical details and everyone who replies calls him a troll or shill, or brings up the ""dragon's den""
+
+Good job proving his point!";2;1;False;fury420;dlho5c0;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+if you read thru the bullshit from both of us, you'll see that i am discussing the technical details of LN thru the additional lens of economic reality.;2;1;False;H0dl;dlhoilc;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"and the bulk of your replies are also insulting him, calling him a paid troll, a shill, asking how much he's being paid, branding him ""THE ENEMY OF BITCOIN."", etc...
+
+I also looked further up the chain, and both the other people replying to him also branded him a shill / troll or mentioned the ""dragon's den"". 
+
+Once again, thank you for this excellent example. ";4;1;False;fury420;dlhpjj3;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Only because he's the one who starts the Insults. I gave you a chance to look through to the technical substance of what I wrote but apparently you don't want to. ;2;1;False;H0dl;dlhqfib;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+See this right here is what I think the OP was talking about.  As a noob who's been reading both r/bitcoin and r/btc it seems like both sides are generally interested in how to scale, but have different approaches for the best way to go about this.  /u/gizram84 had an informative post that seems reasonable to those of us on the outside.  If you disagree with what he says then it would be much more helpful to the layman to say what part you disagree with specifically and why, and then let the reader come to his or her own conclusions.;15;1;False;dmcgr;dlhlo1g;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"You just answered a ton of questions I've had for a long time. Thank you!
+
+One thing I'm still confused about: Is BIP 141 identical to Segwit? Or does BIP 141 just take the meat of Segwit while it spits out the bones? I know a lot of trolls have come in here ""asking"" that same question when they already know the answer, but genuinely I'd love to know why BIP 141 is OK when I've been hearing nothing but ""Segwit = cancer"" for the past year.";18;1;False;anthson;dlhk0s4;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I don't think so, there is a huge amount of disinformation on here.;5;1;False;buddhaghosa_the_wise;dlht7mc;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+">  easy to prune separately
+
+What would be the point of making it easy to remove if it's supposed to remain in the block?";3;1;False;anthson;dlhf9kl;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> completely disrespects the white paper
+
+The Greatest Crime";7;1;False;devonianblue6;dlhjk3s;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Just use an unordered list or escape the whole markdown ordered list;2;0;False;morzinbo;dlhszdz;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Can you explain a little more about why Satoshi's life is at risk? Bitcoin is decentralized enough that I wouldn't expect the creator to have any direct control over the currency, just influence with the people that use it.;1;1;False;Shqueaker;dlhjhrn;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I'm going to post a thread tomorrow asking for just that. Maybe we can get a sticky or link in the sidebar. We need definitions for words, too: blockchain, hash rate, etc.;5;1;False;anthson;dlhmr8m;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> Personally, I believe that the future is in the Lightning Network. It will enable instant transactions and unlimited scale, all backed by the security of the Bitcoin blockchain. This is the only conceivable way we get 7 billion daily bitcoin users.
+
+Well, not the ONLY conceivable way.  We could have 20 GB blocks :-)  Depends how fast you want to get there.  And really, there are plenty of other solutions in the crypto space.  Transaction aggregation, DAG, Sharding, Side-chains, changes to transaction formats, changes to signatures...";9;2;False;Venij;dlhnzf7;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+don't listen to /u/gizram84.  he's an r/bitcoin troll.;-5;3;False;H0dl;dlhgpp1;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+The signature data remains in the block, it is just formatted in a way that makes it easy to prune separately from the other transaction data.;5;2;False;nagatora;dlhecrm;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+SW makes it *possible* to store blocks without signature data.  The signature data is still in the block unless you want to remove it.  This misunderstood distinction has led to much weeping and gnashing of teeth.;2;1;False;Codebender;dlhnoqh;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+BIP 141 is the technical specification for a specific approach of SEGregating this WITness data from the block.  SegWit is just the general approach.;2;0;False;Venij;dlheuw3;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> Moves signature data out of the block
+
+I've heard Bitcoin Improvement Proposal 141 does that. Is that true? If so, what's the difference between Segwit and BIP 141?";1;1;False;anthson;dlhejsl;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"At this time, BIP 141 and Segwit can really be thought of as the same thing.  (Segwit could be implemented in technically better methods, but the bitcoin community [at least everyone following the old chain which is the majority at this time] is in the process of implementing BIP141)
+
+BIP141 has some theoretical / technical risks which could lead to loss of funds.  Bitcoin, as a whole, is not necessarily built around being technically impervious - rather it has incentives to make everyone cooperate because each segment of the system benefits from the system working.  So, some could argue that those risk are very theoretical (a majority of miners have to agree to BIP141 and then go back on their agreement).  We'll see.
+
+BIP141 is largely called ""cancer"" because it's being supported by members of Blockstream.  Conspiracy theory being what it is...
+
+
+[My personal opinions as a copy from a post on the same subject earlier this week](https://www.reddit.com/r/btc/comments/6re0j5/why_are_you_people_acting_like_segwit_is_the/dl4cdmv/).  I was irritated at the time if that isn't obvious :)
+
+* It's a solution to a problem I didn't care about.
+* It's done with intentionally stupid accounting tricks to mask the real problem of immediate needs for onchain scaling - clouding the issue by trying to force one technical change to satisfy two requirements when it really doesn't.
+* It encourages transaction sizes to increase and bloat the blockchain.
+* It was implemented in a kludgy soft-fork mechanism  Both technically kludgy as well as politically kludgy by use of UASF.
+* There's been discussion that Blockstream could have undisclosed patents around SegWit technology causing unknown complications with use in open source bitcoin software.
+* SegWit has been promoted by Theymos and all of the censorship surrounding the venues he controls - why trust something that comes out of these channels?
+* There are better alternative solutions to almost everything SegWit does.
+
+LTC isn't near capacity and doesn't practically use SegWit more than a handful of total transactions last I knew.  LTC ""use"" of SegWit could well be a honeypot to attract BTC users to adopt bad technology.";29;3;False;Venij;dlhl508;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+[deleted];2;2;False;;dlhhg2k;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"What do you mean by ""copy my markdown""? I tried copying yours and pasting with match style but it didn't work, just fucked it up a completely different way...";1;1;False;poorbrokebastard;dlhhe54;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+The Chinese are compulsive gamblers and this is just one more thing to bet your rent on :);1;0;False;Zer000sum;dlhqz21;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Nice idea.
+
+I'm going to do a series of 2-4min  Youtube Videos for beginners, not the type that are out there, videos for real beginners addressing those things.  
+
+Answering questions like why is bitcoin still around I though it was a scam/fad/ponzi?  
+
+I've been into bitcoin since 2011 so I've grown a bit numb to what people understand and don't understand. 
+
+Would you be a consultant ;-) I'll use your input in part as a base for the videos. ";6;1;False;Adrian-X;dlhncrh;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Nobody tells me who I can/can't listen to, especially when they're backing up their crap with nothing but a weak-ass ad hom attack.;23;1;False;anthson;dlhlq6h;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Doesn't sound like a troll post at all.  While it is nice that this subbreddit isn't over moderated and/or censored, it does allow a large number of confrontational and political redditors to troll people trying to have a real discussion.
+
+If you want to call out a 24 hour old account as a shill, that's fine, the crypto community here as a whole is lousy with shills, but don't go after established accounts having a reasonable discussion, it just make this subreddit worse.";5;1;False;__redruM;dlhowdu;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+What he said isn't wrong though. And he didn't say it in an insincere way. Looks like someone is worried about their propaganda being debunked.;10;1;False;Deftin;dlhh6uy;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> Both sides are trying to control the narrative
+
+Trying to control the narrative with information and trying to control it with deceit are two different tactics. I'm not claiming big blockers are pure as the clear-driven snow, but overall there's a marked difference in how each side fights their fight.";3;1;False;anthson;dlhku09;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Can you give me a quick run down on what ""asoiaf"" is? Why should I be interested in it? Can you give me dictionary for any/all acronyms and/or technical jargon I might come across? I need it now, not tomorrow, stop being an elitist.
+
+Why are you not providing me this information immediately? Why do you expect me to wait? Come on, hurry up!!";0;1;False;PilgramDouglas;dlhmy4e;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I'm inclined to agree. Some of the shit I read over there really makes my blood boil though...lol...
+
+Watching them mislead newbies is so frustrating for me...and of course I am banned from posting there, so nothing I can do lmao. ";4;0;False;poorbrokebastard;dlhhqwd;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Lol, fuck off, you anti-intellectual. Nobody was born with this information. We all read and studied it by ourselves. This is a btc sub and here we discuss btc. 
+
+""I don't understand cryptocurrencies, must be something wrong with me. No, wait, it's their fault for using big words I don't understand."" ";-4;0;False;Pxzib;dlheabr;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"epic post
+
+lots of dick references though. maybe talk to your therapist about that.";20;1;False;ent_saint;dlhe2jc;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+/r/bitcoinbeginners or maybe create a new one for your fork? ;4;0;False;prezTrump;dlhds9n;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+At least we aren't deliberately misleading you like r/bitcoin does.;2;1;False;poorbrokebastard;dlhcxj0;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+that was funny as hell.  thank you and will do.;2;0;False;H0dl;dlhgnlq;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"The main problem is this is a open community, anyone can come and go as they please. This includes people who do not like this sub, this community, this hardfork, and the possibility they are going to lose money because of something they don't understand.
+
+They are here too, there isn't really anything anyone can do to make them be friendly. So I'm sorry you're going to have to deal with people who will try and make this community toxic.";3;1;False;;dlh8tfi;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+[deleted];1;2;False;;dlhig9s;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> ~~This community~~ Bitcoin is a nightmare for new users
+
+Yes, it's a fucking shit show. Thanks BSCore.";3;0;False;bearjewpacabra;dlhcqls;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I disagree that Bitcoin is for the common man. Have you ever met the common man? The common man will learn just barely enough to get by. If it's not talked about ad naseum over the mainstream media, then they won't know or care what something is or how it works. I'm not trying to be ""elitist"". I'm just pointing out the way things are. Do you disagree that things are this way?
+
+Come on. Admit it. Bitcoin is still only for financial and technology enthusiasts. It's not as easy to use as a credit card is, and it requires a *lot* of research and due diligence on someone's part if they're going to get into it. The common man is not going to be buying or using Bitcoin anytime soon, because the common man doesn't even understand what money is exactly and why it has value. Most people are too busy raising kids and working a 9-5 job to put in the extra effort of learning what this new fangled Bitcoin thingy is all about. Not until much later when they've already missed the boat will they actually take the time.
+
+Also, I don't see how you're helping your own cause of community building with such a childish and hostile rant.";0;2;False;;dlhfydf;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I wouldn't want people to censor themselves just because I may or may not understand.;1;0;False;whistlepig33;dlhhj55;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Great post, why don't you watch out for newbie posts and answer them, it seems like you have the power of the keyboard.;1;0;False;ErdoganTalk;dlhilh2;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I agree, People who shun new users and say many things highlighted in this post, are a part of the reason people steer away from it / think twice about it.
+
+That is just less growth for the bitcoin community.
+
+Those who are being mean, bashful, and closed-minded to new users are not very helpful to helping the cryptocurrency market (or your investments) grow.";1;0;False;banksnsons;dlhl7oo;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Ping me with any questions, I'll do my best, I'm committed to helping people with a genuine will to understand. ;1;0;False;Adrian-X;dlhlprv;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Agreed, the loudest voices on every ""side"" are adults acting like children.  Like the worst couple you could know, even having separated to go their own way, both seem obsessed with the seeing the other fail.
+
+Luckily, I'm pretty sure there's a silent majority of the Bitcoin community who aren't immature assholes.";1;0;False;Codebender;dlhmle0;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I disagree about quantum computing. Quantum computers work differently and it would be no problem for them to insta-solve the hashing puzzle and completely take over all block creation.
+
+Oh, quantum computers already exist, but they are still primitive and expensive.";1;2;False;kaczan3;dlhq4f2;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Reddit makes it easy to create new accounts. And that leads to all sorts of problems. It's easy to post meaningless or abusive one-liners and blow off steam, since one's real-life reputation is not affected.
+
+However, Bitcoin does seem to attract a lot of toxic people relative to, say Ethereum, where the conversation tends to be much more level-headed. I'm not exactly sure why this is so. It might be that it's a top-down thing. If the people in charge (which has mostly been the Core developers so far, though that is changing now, thankfully) are toxic, that rubs off on the rest of us. 
+
+By contrast, the people in charge of Ethereum seem to be much more civil, and that no doubt sets the tone for everybody else.
+";1;0;False;ray-jones;dlhseao;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> that's why we forked, isn't it?
+
+There is another, very important fork to come in November with SegWit2X.  Bitcoin Cash never stood any chance of being called ""Bitcoin"", but SegWit2X will very likely be called Bitcoin.  Unfortunately, Core are trying to prevent that from happening.  We can't just ignore them at this point.
+
+Anyway, I agree with most of the rest, though I don't particularly support Bitcoin Cash as anything other than a fallback in case Core prevails over SegWit2X/BTC1 in November.  The genesis block, mining power, and longest chain still define what Bitcoin is to me, and that's not Bitcoin Cash.";1;1;False;gotamd;dlhto58;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Follow the political Bitcoiner in Jail in Arizona: https://www.facebook.com/groups/FreeMorpheusTitania
+
+And fight the upcoming regulation: https://twitter.com/AbolishBtLicnse";1;0;False;theochino;dlhijc0;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Wow! those were some really good curses...
+
+But as a new guy in this space, I think you have a point.";25;0;False;ScaleIt;dlh8orb;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"In the tech area we have these discussions all day long. And I think you are partially right. At one specific point we must cover the ""high tech"" because the average joe is overstrained with all the complexity and it's a hurdle for beginners and non-tech people.
+
+BUT (yeah, capslock) - Bitcoin or crypto currencies as whole are still a nerd experiment and we are in an early stage. I know 95% of the people here are not interested in the tech. They are looking for the mass adoption and hoping it will bring them to the moon. So they don't want to hear that Bitcoin or other crypto currencies are not ready for the masses, yet. But in my humble opinion it's the truth. There are tons of problems with these technologies (for example segwit and congestion in the networks, recent hacks of wallets and blockchains,...).
+
+For me, it's too early to recommend investing money here if you are a non-tech or non-financial person. I would not recommend to my parents or my sister to invest their hard earned money here without my advice. It's just too dangerous. That's why I don't have a problem with all these tech jargon or acronyms here (right now). 
+
+But in future if these technologies are matured, fully developed and fully tested we have to change this behavior. That's the point where I agree with you.";21;0;False;melvindelacruz;dlha45y;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Thanks for this post. I've lurked for a long time and pretty much every day these kinds of thoughts run through my head. Now that it's out in the open I can go back to lurking :p;2;0;False;pertexted;dlhoph4;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> With all your acronyms, technojargon, tounge-in-cheek trolling, and general uppity snooty elitism, new users have no idea what the FUCK is going on.
+
+It's true. I've been here since getting kicked out of /r/bitcoin and I'd suggest new users stay away from reddit and bitcointalk.org. /r/bitcoin is a supervised subreddit where questioning the censorship or the agenda of the day will get you banned. /r/btc is a troll festival due to a total lack of moderation coupled with an organized trolling campaign. None of the other subs are big enough to really take over as a sensible bitcoin subreddit.
+
+Any new user coming to reddit is going to leave annoyed and seriously ill informed. What new users need is clear information, not the lies, hostility, and all round crap-fest that is reddit. With regards to bitcoin, reddit is the new 4chan, an utter sewer.";17;0;False;1s44c;dlhnhv3;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Finally some sanity. At the end of the day it's just another subreddit that has zero self awareness of how they come across. Thank you for posting this. ;7;1;False;heelmove;dlhu13n;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I love it.  Thanks for the post.
+
+Bitcoin is fairly technical from several aspects of computers, sociology, and economics.  Understanding how such a system works takes a lot of time - that's part of the reason I love it.  It's fairly difficult to weed through /r/btc or /r/bitcoin, so I would suggest you also look for other avenues of education.  
+
+I tend to read about altcoins for new technical developments.  That's the nature of the beast that bitcoin's grown large enough to lose its agility.  Thankfully, many of the people in /r/btc signed up for cryptocurrency in general and not ONLY bitcoin.  (Although my / our first love is obviously bitcoin).";6;0;False;Venij;dlhfxkl;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I absolutely agree. At this point I use this sub to see what's going on but there's just so much toxicity everywhere. Yeah /r/bitcoin is censored to shit and we know we're right, but you're exactly right when you say that new people will gravitate towards the more popular subreddit when both are trolling and shitting on each other with the same talking points. The crypto scene is just so toxic that unless something huge is happening, I really don't care. At this point I'm just holding and trying to keep up on big stories, participating in these communities doesn't even seem to be worth it anymore.;6;0;False;mrchees3;dlhqm41;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"""So long as they're not dipping their balls in our drinking well""
+
+The problem is they are dipping their balls in our drinking well. In fact they are using our drinking well as a fucking toilet. 
+
+Welcome to r/btc though, we're probably not as bad as you think, ask away.";9;1;False;poorbrokebastard;dlhd0vl;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Great speech! But you have also got to see from our point of view. It literally seems like we just stepped out of a major battle still feeling a little shell-shocked. And yes we may be on the winning side but there is still walking wounded on both sides. Some are willing to cause the maximum destruction as they go down.
+
+We still have major decisions to make. And hopefully we can get the great communicators back like Andreas Antonopoulos, Gavin Andresen and James D'Angelo.  ";5;0;False;sydwell;dlhdbjz;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"We really need a stickie for new-comers to get an overview of a very complicated situation/technology
+
+I have seen some amazing explanations but we really need a soup to nuts basics guide to Bitcoin and it's entirety, not just the technology but more importantly how the environment surrounding it works as it is just as important if not more than the technology
+
+your post should be part of it, awesome
+
+edit:
+> As it sits, I honestly can't stand most of you. There are just as many elitist pricks here as in /r/bitcoin, even if the folks here have picked the right side. That needs to change. I and plenty of others want to be a part of this.
+
+I can not agree more, and I am certainly guilty of being a prick to others here (I have been into Bitcoin a long time, long before this subreddit existed)";11;2;False;DaSpawn;dlhgq8i;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I'll strive to do better. Mea culpa. You make great points.;2;0;False;Drunkenaardvark;dlhou8u;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"We want the common man to be able to trust Bitcoin and to be able to use it.  There is no hope that the common man will ever be able to understand Bitcoin well enough to understand how it works, let alone understand technical arguments associated with potential design tradeoffs.
+
+For the past six months or more, I have recommend all of my ""common"" friends and some who were ""uncommon"" but not exceptionally curious to stay away from Bitcoin because it no longer works reliably and, more recently, was in danger of fragmenting.  Now that the community has fragmented, this recommendation is stronger.  Stay away from it and if you happen to be invested in it (not as a gambler) then don't bother using it of figuring out what coin(s) to use.
+
+There is hope that sometime near the end of the year the situation will be stable and it may become possible to recommend users as to how to pick particular coins.  But even after things have, hopefully, settled down and we end up with one or possibly two working coins, it will still not be possible for the ""common man"" to understand Bitcoin.  But does the common man understand how computers work?  Transistors?  Electricity? Airplanes? Central banking?
+
+I know many people who couldn't pass high school math.  Bitcoin requires graduate level knowledge of several fields.  For someone with a broad background in math and computer science it takes most uncommon men months to understand bitcoin, and then only if they are diligent.
+";4;2;False;tl121;dlhfo36;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+That post you linked to [here](https://www.reddit.com/r/btc/comments/6svu4y/megathread_on_august_21_2017_a_new_altcoin_called/) was a parody (satire). I wouldn't worry about it.;3;1;False;m8XnO2Cd345mPzA1;dlhf4mu;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Newcomer here,  
+and to be honest I do not feel this community is a nightmare. if anything, even with incorrect information or trolling, I tend to learn something because I try and research things to get a better understanding. I don't find the trolling an issue because it's usually easy to spot trolls. lol, go over to The Division subreddit if you want to see a real nightmare";3;0;False;;dlhojwa;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> we seceded from the communist regime
+
+I'm pretty sure it was a totalitarian regime rather than communist. They definitely had no desire to [share the means of production](https://en.m.wikipedia.org/wiki/Communism). It was all about [unlimited authoritarian control](https://en.m.wikipedia.org/wiki/Totalitarianism) for them.";3;1;False;zsaleeba;dlhpjzt;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+[removed];9;1;False;;dlhg2my;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Thank you, well said.  For Bitcoin to thrive, it has to be used by the common man. If the common man tries to research at the moment, they're going to be put off by all the in fighting and technobabble. Bitcoin will stall unless it becomes more approachable and that includes the forums it's discussed in. ;2;0;False;Taitou_UK;dlhc59e;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Crypto is very complicated. It doesn't make sense to put technical talk in the same place as beginner talk. Both groups will drive the other mad. I'd be thrilled to have a more organized solution, say a Bitcoin politics sub, Bitcoin tech sub, Bitcoin beginners sub, all with an emphasis on open discussion rather than thought control. ;2;0;False;swinny89;dlhhk8t;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I second this 100%. I was able to mine with both ASICs and GPUs for a few months in 2014 so I assume I have more knowledge than your average beginner. Unfortunately I took a few years off, and I come back to two different subreddits, all this shit about BIP-142, Segwit2x and I don't even know what else. If you're not involved in computers/programming daily, this shit is way to complex for ""normal"" people. ";2;0;False;tonytreesNYY;dlhjkwe;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Mostly lurker here (since 2012). You're assuming everyone here is well intentioned and doesn't have an agenda to destroy/cripple Bitcoin. You're right that it's an absolute nightmare for new users, but the reason is that it's intentional.
+
+However Bitcoin (and other cryptos) have continued to grow and are finding ways to never have to deal with these people anymore.
+
+Funnily enough, if I tell you to go hang out for a bit in /r/ethereum to experience less toxicity I'm an alt-coin pumping shill /s";3;0;False;TNoD;dlhhs0d;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> Will you let us in even though we have much to learn?
+
+you're welcome ! loved your blunt honesty";46;1;False;zhell_;dlh7rwq;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Finally someone said it. As somebody who wants to get into crypto this sub seems to push people away. No idea why. ;19;1;False;Alleybell17;dlhbvjb;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+We can thank Core and Greg Orwellians technobabble doublespeak for this.  ;1;0;False;cryptorebel;dlhoi4t;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+body;score;nb_replies;stickied;author;id;post_title;post_link
+We need to focus no bitpay and other payment providers. That's where most merchant adoption is from...;58;3;False;Spartan3123;dlgie4i;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+It's either. Some people refer to it as BCC, some refer to it as BCH. Feel free to use whichever acronym of the two that makes you happy;-1;0;False;rawb0t;dlha934;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"Yeah that's a bit of a worry - I guess don't put too much money it just in case it goes rogue.  
+
+Edit: I understand why they are not open source any more - scammers cloned it and are using it for evil. See https://github.com/bitcoin-dot-org/bitcoin.org/issues/1622";0;2;False;cccmikey;dlgq7g8;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Lol;0;0;False;timmerwb;dlgqogu;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+whatsapp vs telegram comes to mind;1;1;False;CICaesar;dlgrw73;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"\>'let's stop shitting on core'
+
+\>proceeds to shit on core   ";9;0;False;;dlgmpgf;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+I'd like to fix this assumptions most people posit. It's only true if people care about the trustless and decentralized principle of bitcoin, because otherwise they might be using centralized lightning hubs which can compete with BCC in regard to scalability.;1;0;False;Sparticule;dlgxt1u;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+The money coming into this space is going to get on just about every horse in the race, even the slow one.;2;0;False;tjskydive;dlgvvjs;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"Once difficulty will be low enough, BCC will be profitable again, this is just about time.  
+
+Bitcoin growth went uninterrupted up to April of this year, when the first full blocks appeared.  If you extrapolate the curve of block size over time, December would be the month where 1.7Mb block would start to be full as well.  So Segwit false blocksize increase won't make BTC competitive again. 
+
+As for BCC adoption, only time will tell.  But a congested BTC will never be able to compete in the long run against BCC or ETH or whatever.";3;1;False;s0laster;dlgykch;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"> large tps boost when segwit activates making congestions less likely
+
+*Up to* 1.7x (after full adoption) isn't much of a boost.
+
+8x, now that's a boost.";8;1;False;jessquit;dlgx1zn;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Plus the dollar value delta of BCH and BTC would mean they pay the wrong price in the wrong currency, so it's not even just the hassle of retrieving the other currency;1;0;False;audigex;dlh28fe;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"> we would need to fix this... https://twitter.com/Wever50200940/status/895352403964416000
+
+Not really. That guy didn't actually mess up, it's just a Corestream shill. I just didn't feel like getting into an argument on Twitter.";3;1;False;rawb0t;dlh5h7l;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+[deleted];3;4;False;;dlgwixb;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"They have to be conservative as signatories to the NYA but I suspect they will jump before most of the big boys because of their massive holdings.  
+
+At this point, a much bigger risk to them is an alt coin stepping up in place of VeryExpensiveToTransactionWithCoin previously known as bitcoin.";3;0;False;Leithm;dlgxa0r;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+If you contact our support, we can help you get started.;1;0;False;rawb0t;dlhepeb;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+They're very easy for virtual items, but yeah, it's unfortunate that Shopify is unwilling to integrate Rocketr for those selling anything else.;3;0;False;Bmjslider;dlgowrh;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"you couldn't be more wrong.
+
+If I were a blockstrem-core-shill I wouldn't have criticized theymos for his censoring (you can still find my post on r/bitcoinmemes on page 1, and many more in a long history) nor would I ask critical questions about core's scaling strategy.
+
+but critical to one side doesn't mean being uncritical to the other side.
+
+you can probably not understand that, because your human nature striving for ""consistent world views"" wants you to identify unconditionally with one side and prevents differentiated views.         ";1;2;False;Amichateur;dlhf584;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"*Here's the Urban Dictionary definition of* [***taking the piss***](http://www.urbandictionary.com/define.php?term=taking%20the%20piss) : 
+
+---
+
+>Making fun of something or someone
+
+
+---
+
+_Hey, Jim, you're fat._
+
+_No, I'm not!_
+
+_Naw, you're not really fat; I was just taking the piss._
+
+
+---
+
+[^(about)](http://www.reddit.com/r/autourbanbot/wiki/index) ^| [^(flag for glitch)](http://www.reddit.com/message/compose?to=/r/autourbanbot&subject=bot%20glitch&message=%0Acontext:https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/dlhd7jy) ^| ^(**Summon**: urbanbot, what is something?)";1;0;False;autourbanbot;dlhd7sv;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+january is a long time if the flippening happens aug 17.;2;1;False;;dlhccub;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"Is it BCC or BCH ?
+
+There should be a consensus about naming this new coin. Some people call it BCC but on many exchanges it is listed as BCH... also in the Trezor wallet it's called a BCH. ";1;1;False;tritonx;dlh9q55;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Maybe so, but any centralized control is dangerous. There needs to be broad support in an uncensored environment to gauge real consensus.;1;0;False;Annapurna317;dlh9c5h;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+deleted  ^^^^^^^^^^^^^^^^0.8086  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/34160);1;0;False;Mgmnationalharbor;dlh3xtd;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Japan does seem like a community that would easily integrate crypto into everyday life.  Any japan charities worth donating to?;1;0;False;hhtoavon;dlgw4gx;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Big Time..;3;0;False;Ant-n;dlgroyu;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+and iOS?;2;0;False;keo604;dlgw6h1;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Coinomi became closes source a year ago;6;1;False;uMCCCS;dlgq2nw;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+That's simply not true in any way.;1;0;False;ampromoco;dlh8yzx;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Or in this case, if you modify it slightly less than the other idiots, they will come.;5;1;False;openwrtq;dlgh682;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+If you want people to use it, you will need to do more than build it. They need to know it exists. This is where the real work is people. Get off your computers at least 1 day a week and get out there talking about Bitcoin.;14;0;False;freedombit;dlghw1v;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+I disagree. There's a reason why advertising and marketing are such huge industries. There are countless remarkable products, services, and apps in existence that go unnoticed and ignored because almost no one knows that they exist and few understand why they're remarkable.;24;1;False;nyx210;dlgjf7r;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+It's quite clear they're counting on no flippening happening. ;1;0;False;gerikson;dlhdaib;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+the solution did emerge. it's called bitcoin cash;3;0;False;rawb0t;dlh5klt;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"**Here's a sneak peek of /r/bitcoinmemes using the [top posts](https://np.reddit.com/r/bitcoinmemes/top/?sort=top&t=year) of the year!**
+
+\#1: [bitcoin political disruption](https://i.redd.it/j1muw1w91ngy.png) | [1 comment](https://np.reddit.com/r/bitcoinmemes/comments/5ut13g/bitcoin_political_disruption/)  
+\#2: [I sexually Identify as a Bitcoin](https://np.reddit.com/r/bitcoinmemes/comments/66nn6v/i_sexually_identify_as_a_bitcoin/)  
+\#3: [Mills ☸ ₥ ⚙](https://np.reddit.com/r/bitcoinmemes/comments/6sglj3/mills/)
+
+----
+^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/6l7i0m/blacklist/)";1;0;False;sneakpeekbot;dlhf5tx;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Instant refund is risky. The funds might be coming from an exchange. ;2;1;False;Mobileswede;dlgwmqx;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+[deleted];1;1;False;;dlhsjia;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+[deleted];1;1;False;;dlh4zoh;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Why would I do that? There's no question that we need bigger blocks as well as other scaling solutions. We don't need that capacity now though. It's very possible to scale further off-chain with drivechain and other tech. There just is no realistic solution for the blockchain to be a global transaction handler with blocksize increase only.;1;0;False;Pretagonist;dlh964r;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"Well it doesn't solve it completely, just for segwit transactions. To solve malleabillity completely you need a hard fork. But since the witness data is separated from the transactions you can't change the transaction ID by changing the witnessing like you can with regular transactions.
+";1;1;False;Pretagonist;dlhg5ku;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+How are you going to open over a billion lightning channels by 2025 at 3 tps? Good luck with that.   ;2;2;False;jessquit;dlh3pym;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+">due to segwit not having malleabillity.
+
+didn't i see some core dev specifically state segwit doesn't solve malleability?";1;1;False;rawb0t;dlhewdr;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Ah, that makes sense. Honestly, I'd run my payments through a proper wallet of mine, but the fees are so prohibitive on Bcore that I don't want to double dip!;2;0;False;Sparticule;dlgy9k3;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"1. It will gravitate towards parity with bitcoin yes. The question is if that parity is so low that the currency becomes attackable.
+
+2. Blocksize is a poor metric since asicboost produces malformed (but valid) blocks. Look at mempool size and you will clearly see the attack.
+
+3. I wasn't talking about market cap or capacity of eth. The eth blockchain is growing ridiculously fast.
+
+";1;0;False;Pretagonist;dlh2827;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+We would absolutely want 100x throughput. Why we would want that on chain is beyond me.;1;1;False;Pretagonist;dlh0710;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"There is no lower security on segwit. It absolutely won't be as insecure as bitcoin cash is. Segwit removed the double spend and redirect issues that exist on bitcoin today due to segwit not having malleabillity.
+
+Also segwit transactions will have the version system opening up for rapid development of new features.";1;1;False;Pretagonist;dlh9hiy;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Makes sense. Thanks for the explanation.;1;0;False;Bmjslider;dlh0mm7;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+It's not really wrong on your part. However, if someone refunded an erroneous payment back to the address from which it came, it would go into the hot wallet of the exchange. You now have the problem of making the exchange put those coins into your account. ;1;1;False;Mobileswede;dlgxykb;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"/u/coinomi
+
+Listen to your users. Maybe it's time to mitigate the evil clones problem in other ways and release the source anyway.";6;0;False;observerc;dlgwab1;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"Telegram is way better than Whatsapp in terms of functionality, and it has been for some time now (although Whatsapp got a little better lately). For instance, Telegram has channels, desktop app, large compatibility, chatbots, ecc.
+
+Telegram is still way, way behind in adoption because Whatsapp has come first and has built an enormous user base, which simply can't be bothered to switch to something better. ";1;0;False;CICaesar;dlh6mmk;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"I think difficulty should drop more because [we are still not at a rate of 6 blocks per hours](https://cash.coin.dance/blocks). More like 3 to 4 blocks per hour, and as difficulty decrease, profitability increase. I believe once we have 6 blocks per hour, raw profitability will be on par with BTC. 
+
+I don't know what evidences your are talking about, but just look at this [curve of block size over time](https://www.quandl.com/data/BCHAIN/AVBLS-Bitcoin-Average-Block-Size).  I don't see any huge spikes that would have make blocks full too early.  Maybe there was an attack but clearly it wouldn't have changed anything: 1Mb were doomed to be full around April/May. 
+
+As for your third point; I have to disagree.  ETH is steadily growing since almost the beginning. It was created back in 2015 and its [market cap is already half of BTC market cap](https://coinmarketcap.com/). Other metrics like [transactions per second](https://etherchain.org/charts/tps) confirm the wealth of this altcoin: ETH already processes more transactions per second than BTC: an average of 4 tx/s, against 3 tx/s for the latter.  And so on... ";2;1;False;s0laster;dlh0qwd;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"1.7x gets you through 2018 into 2019 based on past growth IIUC.
+
+If you want to talk about Visa levels of adoption, you can't get there on 1.7x. You're going to want 100x onchain.";1;1;False;jessquit;dlgyng1;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+[deleted];3;1;False;;dlh5vkc;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+[deleted];5;1;False;;dlgwry0;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"What if it is? I do make payments with my trading funds sometimes, is it wrong?
+";1;1;False;Sparticule;dlgxnfl;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+">>blockstrem-core-shill
+>
+>woah woah woah. I specifically labelled you as a *Low-tier* Corestream Shill.
+
+you called me a ""corestream shill"", if I understood correctly.
+
+
+>
+>>but critical to one side doesn't mean being uncritical to the other side.
+>you can probably not understand that, because your natural human strive for ""consistence world views"" wants you to identify unconditionally with one side and prevents differentiated views.
+>
+>I like how you consider ""you call rbtc a troll subteddit? how can you dare?"" as ""being critical"" 
+
+I thought the ""/s"" was obvious, as the amount of circle jerk trolling here is overwhelmingly obvous.";1;0;False;Amichateur;dlhg9h5;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Are there any open sourced mobile multicoin wallets? ;3;0;False;askmeaboutfightclub;dlgusi3;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"> Edit: I understand why they are not open source any more - scammers cloned it and are using it for evil.
+
+That's an unacceptable reason to close source a Bitcoin wallet. I'll never use any closed source Bitcoin wallet.";9;1;False;todu;dlgvpzk;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Why?;0;1;False;otatew;dlh0wfp;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"1. The difficulty won't drop more as there seem to be plenty of blocks generated on BCH. Also at some point the lowered difficulty makes the coin insecure.
+
+2. There is ample evidence showing that the full mempool was a result of some kind of attack, not normal network growth. The transaction levels haven't been following the usd/btc values.
+
+3. Eths blockchain is growing at a horrible rate.";0;1;False;Pretagonist;dlgyqbh;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"How can a 70% boost be seen as low in any way shape or form? Bitcoin has managed on 1mb for more than 90% of its existence. A 70% increase should see us well into the 2020s. With the advent of LN networks and other such level 2 systems the total capacity will increase massively as well as introduce new capabilities like micropayments and atomic swaps and similar.
+
+The thing holding bitcoin back wasn't full blocks it was the segwit activation. The new version strings in segwit will allow much more rapid deployment of new features.";3;2;False;Pretagonist;dlgy8fh;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"well its already being considered by people who developed bitcoin abc
+https://lists.linuxfoundation.org/pipermail/bitcoin-ml/2017-August/000073.html
+
+An address prefix will prevent core users accidentally sending bitcoin to a bitcoin cash address and will prevent bitcoin cash users sending coins to an address intended for bitcoin.
+
+After the ETH and ETC hardfork, this issue has happened to many eth users. This is a fact, these users were not 'core shills' 
+
+The only argument against this change, is 'why should we change we are the official bitcoin' which is a purely political point. People who old this view are putting political arguments over user experience which is fundamentally holding back adoption. Also speculators, dont care about merchant UX, because they are holding bitcoin and not spending it. ";1;1;False;Spartan3123;dlhtsru;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"if there was a bitcoin cash prefix, wallets will not even allow you to make a transaction.
+
+It should be noted, even the current bitcoin has several address formats. The original address format used by early bitcoins reveals your public key and is vulnerable to quantum attacks. 
+
+It is not hard for us to add another bitcoin address format that identifies bitcoin cash uniquely. There are not technical arguments against this, only political arguments made by speculators. ";1;0;False;Spartan3123;dlhu08c;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+What exactly happens if you send Bitcoin to a BCC address? I actually haven't done any research on the type of address that you generate for BCC when the fork happened. I assume your BTC and BCC addresses are different (correct me if I'm wrong). So if you send BTC to a BCC address, does the owner of that address have the ability to refund you? ;1;1;False;Bmjslider;dlgwonh;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+That would be good.;1;0;False;Leithm;dlgwlxm;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+">blockstrem-core-shill
+
+woah woah woah. I specifically labelled you as a *Low-tier* Corestream Shill. 
+
+>but critical to one side doesn't mean being uncritical to the other side.
+you can probably not understand that, because your natural human strive for ""consistence world views"" wants you to identify unconditionally with one side and prevents differentiated views.
+
+I like how you consider ""you call rbtc a troll subteddit? how can you dare?"" as ""being critical""";1;1;False;rawb0t;dlhfb72;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"LN would work with BCH as well. I often see people argument in favor of segwit because they can have fast off chain transactions that way. So that argument would be an invalid argument.
+
+";2;0;False;themadscientistt;dlgymlq;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+a pot of shit, maybe;-2;1;False;rawb0t;dlggwfz;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"LN won't work on always congested blocks.
+
+It will work better on Bitcoin Cash. Bring it!";6;0;False;jessquit;dlgmj87;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+you call rbtc a troll subreddit? how can you dare? ;0;1;False;Amichateur;dlh6ox3;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"First it needs to stabilize, get broader exchange adoption and be profitable to mine... then you can talk about adding features/innovations.
+
+Segwit2x is also a big known unknown";0;0;False;dicentrax;dlgqiz4;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+r/bcash ;-8;1;False;;dlglnee;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+[deleted];-1;1;False;;dlgdzmx;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Lobby for coinpayments to accept BCC, BitPay won't in a million years.;1;0;False;2weiX;dlgrtpa;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+AMEN!;1;0;False;suchhodler;dlgmkt6;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Any reason we can't do both?;1;0;False;road_runner321;dlgkd9i;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Merchant adoption for bitconnect? Get with the program man;1;0;False;Hectormang;dlgttqw;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+How about focusing on wallets?;1;0;False;SharpMud;dlhkys6;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
++1;1;0;False;betoharres;dlhemvi;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+[deleted];1;1;False;;dlgzj6x;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Can you buy BCC on coinbase? I feel to actually have a smooth flippening people should be able to buy BCC as easily as they can BTC, and this is #1.;1;1;False;;dlgyc2f;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"but but its FUN!
+
+after all the shit they've given is for years, accept that some of us have been laughing for a week+ and are still laughing :D";1;0;False;Icome4yersoul;dlgx09f;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"The first thing is for as many exchanges and wallets to support it, them merchants will follow.  
+
+Who would have thought 2 weeks ago we would have already had this much support from exchanges which is great for liquidity and price discovery.";1;0;False;Leithm;dlgut56;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+BCC, BCH, I'm confused ....;2;3;False;tritonx;dlh3gfp;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"Troll are here in number to keep the toxic atmosphere.
+
+I believe they love us for some reasons :))";2;0;False;Ant-n;dlhfksj;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"While services like BitPay are important on the merchant (pull) side, I believe that prepaid debit cards are even more important on the user (push) side. That is because Visa or MasterCard is accepted everywhere.
+
+Both companies are simply converting crypto into fiat, until the time that businesses can recycle crypto to pay their bills.
+
+If Xapo (one of the best run companies in the space) allowed you to load your card (or a second card) with Bitcoin Cash then all adoption problems are fixed.
+
+Currently they are offering to refund the BCC or sell it for you. This was a great offer and made quite early in the debate.
+
+I think we are still in a 'settling-in' period where there can still be large changes in difficulty, big roll-backs are theoretically possible, groups with a history of DDOS attacks are openly hostile.
+
+Once things settle down (mining profitability with BTC equalises, 10-minute blocks), things will move ahead.";2;0;False;forgoodnessshakes;dlgqbp1;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Obviously not. That would be productive.;6;0;False;CatatonicMan;dlgk3sw;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"As a small blocker I cannot agree  more. There are two sides and two coins.
+No need for more infighting. ";3;0;False;goxedbux;dlgua9c;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+It's about larger blocks in Bitcoin. BCC is not the end. Segwit2x is not the end. An adaptive blocksize is the end and we're not even close.;4;1;False;Annapurna317;dlgkp27;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"My policy is warn them of their folly once, maybe twice.
+
+If/when Bitcoin Cash takes over, there will be a lot of pissed off users that took the advice of the mods at Bitcointalk to sell off their ""alt coins"".
+
+The masses are being told: [The Bitcoin Cash Fork Was a Dangerous Trick](http://fortune.com/2017/08/07/bitcoin-cash-bch-hard-fork-blockchain-usd-coinbase/) by guest columns in Fortune Magazine.
+
+Blindly promoting merchant adoption, while ignoring the propaganda war strikes me as a little foolish.
+";9;1;False;phillipsjk;dlglf7x;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Yes, good message. Messing around with school boy behavior is pathetic and gets us nowhere. We should be treating this like an air-traffic control system - not responding to meangingless tweets from idiots while planes fall out of the sky... Please help me spend my BCH.;3;0;False;timmerwb;dlgr2b3;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"In Australia ppl can already pay their bills with Bitcash with the option on BPay payments. The government experts did their research and jump up very quickly giving it thumbs up. We are therefore going to adopted crypto payment for our services. Most likely will be recommending Bitcash because of lower fees as the prefered crypto.
+";3;1;False;dietereater;dlgq5sq;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Who do we help first?  India, China, South Africa?  North Korea?;6;1;False;hhtoavon;dlggbwj;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+How do merchants help when there are no mobile wallets? ;13;1;False;boldra;dlgkd6l;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+One of the main problems with Bitcoin is that people perceive Bitcoin to be undervalued and that not spending any Bitcoin is the smart move. So by not spending there is little reason for merchants to accept Bitcoin as payment. If you go through the set up and become familiar with the Bitcoin process you won't see significant sales. From the perspective of the people that that have Bitcoin they don't want to be the person in the future that massively overspent for a pizza or a coffee. However if the merchants don't adopt them there is really no value in Bitcoin in the future. The current market price is total BS and could go to zero very quickly in many scenarios. I have a good plan for marketing Bitcoin and started the process but to be honest it wouldn't work because the companies involved in Bitcoin are terrible at marketing. If this trend continues then perhaps another cryptocurrency will dominate. ;6;1;False;rebildtv;dlgxkqv;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Marketeering Bitcoin Cash Will be a piece of cake during Bitcoin Settlement congestion times.;32;6;False;knight222;dlggalr;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Yeah we need to start building again.  There has been some limited merchant adoption.  Mostly we have to wait though for the market to speak.  Fees and backlogs are going up on segwitcoin. Its only a matter of time before fees are through the roof there and everyone is pissed again like a few months ago.  That is when its Bitcoin Cash time to shine and gain the merchant adoption.  So many merchants have stopped accepting Bitcoin because of high fees, like Rakuten, and Dell and others.;19;1;False;cryptorebel;dlgdexb;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+You have to remember that this subreddit is for discussion of both chains and some people are still heavily invested and involved in the main chain;11;1;False;;dlgmrq8;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"[We will see](https://www.google.com/search?q=lightning+network+decentralized+routing+problem&spell=1&sa=X&ved=0ahUKEwiU3pfIkM7VAhXhw1QKHVC0C8cQvwUIJSgA&biw=1250&bih=706) what happens with that. 
+
+I wonder if people who tried to use it in the past and found it too expensive would come back?";4;0;False;ProfBitcoin;dlggz4i;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Or let's find LN alternatives. As we know, fiat and cc are already easy and efficient, how can crypto money be easier ? If we don't like segwit/LN, let's find other solutions. Onchain payment will never be as practical as existing solutions. #bcash;-2;0;False;yogibreakdance;dlgqv2l;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"""Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?"" 
+no that is not the reason this subreddit exists, create rbch";0;0;False;degenbetcom;dlhf4bj;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Bitpay would be a massive win, it also is a lot less painful for them to support BCC than any other alt as they already have substantial holdings courtesy of the legacy chain.;11;2;False;Leithm;dlguunp;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"Of course if a significant amount of traffic moves to BCH that would alleviate the problem too, at least giving them more time to get segwit and LN working.
+
+It's a complex road ahead.";4;0;False;HackerBeeDrone;dlgmg2o;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+At least there's plenty of interest in cryptos... People love to hate on BTC but the more popular congested it gets, the more likely BCC will thrive.;2;2;False;kingo86;dlgv04s;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"I actually don't think so. Bitcoin Cash is less profitable to mine, has less adoption and less market recognition. 
+
+The bitcoin core chain will soon get a large tps boost when segwit activates making congestions less likely.
+
+Miners won't be mining at a loss forever. ";2;2;False;Pretagonist;dlgvt4q;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"we would need to fix this... 
+https://twitter.com/Wever50200940/status/895352403964416000
+
+we need it a bitcoin cash address prefix, to allow wallets to identify a bitcoin cash address. 
+
+Without this i think it would be risky for bitpay to accept bitcoin cash.  As users would send bitcoin to bitcoin cash addresses and they would have to manually recover bitcoin cash....";1;3;False;Spartan3123;dlgvip3;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"1. copy/paste Bitpay
+
+2. implement ""Bitcoin Cash"" instead of ""Segshit Settlement Coin""
+
+3. approach all the businesses that stopped using Bitcoin/Bitcoin (before Bitpay moves their fat slow ass)
+
+4. approach all the businesses that are STILL using BitPay/Settlement Coin, tell them of the virtues of the real bitcoin (and how its like what they really expected)
+
+5. profit and win
+
+@Bitpay - move like a dinosaur and go extinct
+
+";3;1;False;Icome4yersoul;dlgx2u7;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+That's one, but not very easy to work with. Need a gocoin equivalent for shopify. ;9;2;False;JEdwardFuck;dlgnuw2;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+[I'm really getting some work done on my RES tagging today](https://i.imgur.com/mRdcGe7.png);1;1;False;rawb0t;dlh6slm;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+why even bother if that's how little effort you're willing to put into it lol;7;0;False;rawb0t;dlglpzh;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+[I'm certainly not on the sidelines](https://twitter.com/RocketrNet/status/895318285457137664);14;0;False;rawb0t;dlge2u4;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"[It's a U.K. English term I believe. ](http://www.urbandictionary.com/define.php?term=taking%20the%20piss&utm_source=search-action)
+
+";2;1;False;gerikson;dlhd7jy;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+they said they'll support it by january, including giving anyone who had BTC balances at the time of the fork the equivalent amount of BCC;1;1;False;schmerm;dlh9qo3;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+About what?;0;1;False;rawb0t;dlh3q15;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+It was referred to as BCC early on, however it slowly became evident that BCC was already take, and BCH became the new ticker. Most exchanges are adopting BCH and probably should be called that.;2;0;False;mohrt;dlhb6bh;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"It is confusing. [The Bitcoin Cash website](https://www.bitcoincash.org/) says the recommended ticker symbol is BCC or XBC (it used to only say BCC). Problem is, BCC is the ticker symbol for something called BitConnect which has been around for a long time. Because of that another symbol had to be selected by exchanges, and anyone who didn't want to confuse it with BitConnect, so BCH was chosen. 
+
+To make it just a little more confusing, BitConnect isn't listed on the Bittrex exchange, and they do list Bitcoin Cash as BCC there.
+
+As to why BCC was chosen, when it was already being used, I can only conclude it was a mistake. Just don't know why it hasn't been corrected.";3;0;False;restorerofmorality;dlhlj89;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+I'm not sure if you've used them before, but [Rocketr is already on it](https://twitter.com/RocketrNet/status/895318285457137664).;37;1;False;Bmjslider;dlgjjz9;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"I suspect we need two or three hardforks before deciding on an adaptive blocksize algorithm.
+
+That way, we will see how transaction growth/miner fees react to the changes.";4;1;False;phillipsjk;dlglkzn;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Are you speaking on behalf of Livingroomofsatoshi.com or? ;1;0;False;Rids85;dlgs13p;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"That's why I specifically started the sentence with ""Bitcoin Cash believers"". /r/btc is an uncensored community for all of Bitcoin.";14;0;False;rawb0t;dlgn3wa;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Right, in the meantime the best thing we can do is focus on making a stable blockchain that transmits money well.  Mine, and hoard BCC.;8;0;False;WalterRothbard;dlggrb4;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+[deleted];23;1;False;;dlgh6oi;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"It is not that easy to get people to use Bitcoin, let alone any specific chain of it. It's going to be work, and probably the most difficult work. With that said, this is where Bitcoin ""Cash"" has an advantage, as it will be much easier to spread P2P. Start you local https://www.meetup.com/.";10;1;False;freedombit;dlghti0;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"That depends if Segwit2x is deployed correctly, or gets blocked half way through.
+";3;1;False;itsnotlupus;dlgj86i;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+The masses where also told Segwit is a block size increase.;3;1;False;sydwell;dlgulak;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"**if** that happens. I agree there's a high chance but maybe there's a pot at the end of the rainbow called lightning network. Far fetched? Big time. Impossible? Nope.
+
+Ofc on-chain transactions have benefits too, and that will be the advantage on that case. BCH decided scaling on-chain based on bigger blocks. That's the competitive advantage and marketing strategy, not ""join us because bitcoin is slower"". BTC may or may not be fast in the future, maybe LN/Segwit is the answer or maybe not, but BCH's strategy should be independent on BTC's performance.";5;4;False;Damieh;dlggrrb;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"That explains why the mempool is being spammed again.
+";0;0;False;;dlgub9r;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"I have always thought about this ; cryptos in general are a speculative world, with very little real-life economic exchange because everyone is hoping its coin to go to the moon. BCC may have a real advantage over BTC here, as holders may be more likely to spend their ""free"" coins for real stuff/services, offering an opportunity to grow a real ecosystem around it...";2;0;False;FEDCBA9876543210;dlgz2ri;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"There are.
+
+Coinomi for one. Easy to use multi-currency Android wallet.";8;2;False;cccmikey;dlgn8xw;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+Japan. I hear they are all still using cash.;8;2;False;daftspunky;dlgggjp;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+There is truth to this, remarkable products need no advertising. If you build it [better], they will come.;5;4;False;daftspunky;dlggj1n;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/

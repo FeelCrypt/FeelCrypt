@@ -1,4 +1,4 @@
-body;score;nb_replies;stickied;author;id;post_title;post_link
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
 "TLDR
 >All valid segwit blocks are also valid blocks to pre-segwit software, so earlier versions of Bitcoin that don’t include the segwit changes, and hence don’t include any bugs introduced in those changes, can be used to verify blocks to provide a second level of assurance against the possibility of consensus regressions.
 
@@ -22,8 +22,8 @@ https://achow101.com/2016/04/Segwit-FUD-Clearup
 
 
 
-Maybe you should read bit more before proclaiming you understand something you dont. ";1;1;False;mcr55;dhunnsr;amazon.com have 8TB HDs at 180$. That's nearly 20 years of blockchain data with always full 8MB blocks . blockstream core position is baseless an ridicolous .;https://www.amazon.com/Seagate-Expansion-Desktop-External-STEB8000100/dp/B01HAPGEIE
-Those don't magically solve all problems , but you know this....;0;0;False;bitusher;dhu8h91;amazon.com have 8TB HDs at 180$. That's nearly 20 years of blockchain data with always full 8MB blocks . blockstream core position is baseless an ridicolous .;https://www.amazon.com/Seagate-Expansion-Desktop-External-STEB8000100/dp/B01HAPGEIE
+Maybe you should read bit more before proclaiming you understand something you dont. ";1;1;False;mcr55;dhunnsr;amazon.com have 8TB HDs at 180$. That's nearly 20 years of blockchain data with always full 8MB blocks . blockstream core position is baseless an ridicolous .;6c4iv7;https://www.amazon.com/Seagate-Expansion-Desktop-External-STEB8000100/dp/B01HAPGEIE
+Those don't magically solve all problems , but you know this....;0;0;False;bitusher;dhu8h91;amazon.com have 8TB HDs at 180$. That's nearly 20 years of blockchain data with always full 8MB blocks . blockstream core position is baseless an ridicolous .;6c4iv7;https://www.amazon.com/Seagate-Expansion-Desktop-External-STEB8000100/dp/B01HAPGEIE
 "> Primary concern - Block latency propagation and bandwidth
 
 [X-thin](https://medium.com/@peter_r/towards-massive-on-chain-scaling-presenting-our-block-propagation-results-with-xthin-da54e55dc0e4)/[Compact blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/)
@@ -36,7 +36,6 @@ Those don't magically solve all problems , but you know this....;0;0;False;bitus
 
 Metcalfe's law... [8TB for less than $200](https://www.amazon.com/Seagate-Expansion-Desktop-External-STEB8000100/dp/B01HAPGEIE) will be good at full 8Mb blocks for 3 years.
 
-Also... you know about all this... so you are not being objective!";1;1;False;2ndEntropy;dhu210p;amazon.com have 8TB HDs at 180$. That's nearly 20 years of blockchain data with always full 8MB blocks . blockstream core position is baseless an ridicolous .;https://www.amazon.com/Seagate-Expansion-Desktop-External-STEB8000100/dp/B01HAPGEIE
-body;score;nb_replies;stickied;author;id;post_title;post_link
-It helps to understand (later) the transactions dynamics how often payment channels etc settle onchain, what the fees are and if they earn more, less or growing very fast. We don't know the economic implications.;1;0;False;Egon_1;dhuz6zf;"BitPay CEO: ""best plan: 8mb hard fork on bitcoin now, test segwit on litecoin""";https://twitter.com/spair/status/864885675925098501
-Litecoin didnt have backlogs needing to scale, so how would we see the benefits of Segwit for Bitcoin by observing the litecoin test?;1;1;False;Rellim03;dhuz1qi;"BitPay CEO: ""best plan: 8mb hard fork on bitcoin now, test segwit on litecoin""";https://twitter.com/spair/status/864885675925098501
+Also... you know about all this... so you are not being objective!";1;1;False;2ndEntropy;dhu210p;amazon.com have 8TB HDs at 180$. That's nearly 20 years of blockchain data with always full 8MB blocks . blockstream core position is baseless an ridicolous .;6c4iv7;https://www.amazon.com/Seagate-Expansion-Desktop-External-STEB8000100/dp/B01HAPGEIE
+It helps to understand (later) the transactions dynamics how often payment channels etc settle onchain, what the fees are and if they earn more, less or growing very fast. We don't know the economic implications.;1;0;False;Egon_1;dhuz6zf;"BitPay CEO: ""best plan: 8mb hard fork on bitcoin now, test segwit on litecoin""";6bqmwh;https://twitter.com/spair/status/864885675925098501
+Litecoin didnt have backlogs needing to scale, so how would we see the benefits of Segwit for Bitcoin by observing the litecoin test?;1;1;False;Rellim03;dhuz1qi;"BitPay CEO: ""best plan: 8mb hard fork on bitcoin now, test segwit on litecoin""";6bqmwh;https://twitter.com/spair/status/864885675925098501

@@ -1,4 +1,3 @@
-body;score;nb_replies;stickied;author;id;post_title;post_link
-"So is your ""investment.""";1;0;False;shortbitcoin;dlnoxpb;This community is a nightmare for new users;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
-body;score;nb_replies;stickied;author;id;post_title;post_link
-[deleted];2;1;False;;dln4t28;People should get the full story of r/bitcoin because it is probably one of the strangest of all reddit subs;https://www.reddit.com/r/BitcoinMarkets/comments/6rxw7k/informative_btc_vs_bch_articles/dl8v4lp
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+"So is your ""investment.""";1;0;False;shortbitcoin;dlnoxpb;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+[deleted];2;1;False;;dln4t28;People should get the full story of r/bitcoin because it is probably one of the strangest of all reddit subs;6rzwhy;https://www.reddit.com/r/BitcoinMarkets/comments/6rxw7k/informative_btc_vs_bch_articles/dl8v4lp

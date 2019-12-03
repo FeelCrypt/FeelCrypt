@@ -1,4 +1,4 @@
-body;score;nb_replies;stickied;author;id;post_title;post_link
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
 "> Mods do choose who gets to speak and who doesn't. The way to do that is by defining this ""special people"" and ""special list"" etc.
 
 Nope, they're essentially saying that ""we don't use this feature at all, except is some very special cases"". That means the whitelist is *not* being used as a way to suppress or censor the masses. The ""suppression"" (if that's what you'd call it) is being done, indirectly, by the community in a decentralized way (one person, one vote) and if you end up saying stupid things, reddit will take care of the rest. Mods have nothing to do with this process (apart from telling you that this sub's policy is that no one is being added to reddit's whitelist feature due to being throttled).
@@ -27,20 +27,20 @@ That's what they're doing - at least as far as regular users are concerned. If s
 
 > Obvious lies are being called out.
 
-What obvious lies, now?";1;1;False;btctroubadour;dmu0w20;Before and after the Bitcoin Cash hard fork;http://i.imgur.com/4kygVcW.png
-Or having a privately held repository on a single server being shut down by a government agency.;2;0;False;ireallywannaknowwhy;dmujv9p;Before and after the Bitcoin Cash hard fork;http://i.imgur.com/4kygVcW.png
+What obvious lies, now?";1;1;False;btctroubadour;dmu0w20;Before and after the Bitcoin Cash hard fork;6z06qr;http://i.imgur.com/4kygVcW.png
+Or having a privately held repository on a single server being shut down by a government agency.;2;0;False;ireallywannaknowwhy;dmujv9p;Before and after the Bitcoin Cash hard fork;6z06qr;http://i.imgur.com/4kygVcW.png
 "I'd like to check a thread, comment on anything I want to and shutdown the browser. Currently I'm forced to choose on comment I can get through and then shutdown the browser. 
 
-I had to wait 7 minutes after I had written this reply. And I couldn't my browser. r/btc is suppressed. Go to r/bitcoin so we can continue our discussion without being suppressed?";1;0;False;Anduckk;dmvg0vb;Before and after the Bitcoin Cash hard fork;http://i.imgur.com/4kygVcW.png
-[deleted];1;1;False;;dmvfk8u;Before and after the Bitcoin Cash hard fork;http://i.imgur.com/4kygVcW.png
-You're my special pick. While I reply to you, I reply *only* to you. I'd like to reply to a bunch other stuff too, but had to choose one. Now do you see the problem?;1;1;False;Anduckk;dmvfhol;Before and after the Bitcoin Cash hard fork;http://i.imgur.com/4kygVcW.png
-[deleted];1;1;False;;dmuy6xh;Before and after the Bitcoin Cash hard fork;http://i.imgur.com/4kygVcW.png
-One post per 10 minutes. Mods ruled that I should not be able to post more frequently. (Same time they ruled that some others should not have this restriction.);1;1;False;Anduckk;dmuzy2n;Before and after the Bitcoin Cash hard fork;http://i.imgur.com/4kygVcW.png
-[deleted];1;1;False;;dmvepih;Before and after the Bitcoin Cash hard fork;http://i.imgur.com/4kygVcW.png
-[deleted];1;1;False;;dmv05iu;Before and after the Bitcoin Cash hard fork;http://i.imgur.com/4kygVcW.png
+I had to wait 7 minutes after I had written this reply. And I couldn't my browser. r/btc is suppressed. Go to r/bitcoin so we can continue our discussion without being suppressed?";1;0;False;Anduckk;dmvg0vb;Before and after the Bitcoin Cash hard fork;6z06qr;http://i.imgur.com/4kygVcW.png
+[deleted];1;1;False;;dmvfk8u;Before and after the Bitcoin Cash hard fork;6z06qr;http://i.imgur.com/4kygVcW.png
+You're my special pick. While I reply to you, I reply *only* to you. I'd like to reply to a bunch other stuff too, but had to choose one. Now do you see the problem?;1;1;False;Anduckk;dmvfhol;Before and after the Bitcoin Cash hard fork;6z06qr;http://i.imgur.com/4kygVcW.png
+[deleted];1;1;False;;dmuy6xh;Before and after the Bitcoin Cash hard fork;6z06qr;http://i.imgur.com/4kygVcW.png
+One post per 10 minutes. Mods ruled that I should not be able to post more frequently. (Same time they ruled that some others should not have this restriction.);1;1;False;Anduckk;dmuzy2n;Before and after the Bitcoin Cash hard fork;6z06qr;http://i.imgur.com/4kygVcW.png
+[deleted];1;1;False;;dmvepih;Before and after the Bitcoin Cash hard fork;6z06qr;http://i.imgur.com/4kygVcW.png
+[deleted];1;1;False;;dmv05iu;Before and after the Bitcoin Cash hard fork;6z06qr;http://i.imgur.com/4kygVcW.png
 "> Ah, yes. And I can see how that's preventing you from participating in this conversation and expressing your opinion.
 
-You obviously do not see how this restriction works and what effect it has. Would you see a one post per day restriction nonsuppressing?";2;1;False;Anduckk;dmved3u;Before and after the Bitcoin Cash hard fork;http://i.imgur.com/4kygVcW.png
+You obviously do not see how this restriction works and what effect it has. Would you see a one post per day restriction nonsuppressing?";2;1;False;Anduckk;dmved3u;Before and after the Bitcoin Cash hard fork;6z06qr;http://i.imgur.com/4kygVcW.png
 "> Nope, they're essentially saying that ""we don't use this feature at all, except is some very special cases"". That means the whitelist is not being used as a way to suppress or censor the masses. The ""suppression"" (if that's what you'd call it) is being done, indirectly, by the community in a decentralized way (one person, one vote) and if you end up saying stupid things, reddit will take care of the rest. Mods have nothing to do with this process (apart from telling you that this sub's policy is that no one is being added to reddit's whitelist feature due to being throttled).
 
 No!
@@ -79,4 +79,4 @@ You're refusing to understand what I tell you. There's no need to derail this co
 
 >What obvious lies, now?
 
-E.g. https://gist.github.com/chris-belcher/c9f4b90bec1b2fbf8caaab178719ac24";1;0;False;Anduckk;dmunugv;Before and after the Bitcoin Cash hard fork;http://i.imgur.com/4kygVcW.png
+E.g. https://gist.github.com/chris-belcher/c9f4b90bec1b2fbf8caaab178719ac24";1;0;False;Anduckk;dmunugv;Before and after the Bitcoin Cash hard fork;6z06qr;http://i.imgur.com/4kygVcW.png

@@ -1,6 +1,6 @@
-body;score;nb_replies;stickied;author;id;post_title;post_link
-Trolls being people you disagree with, right?;1;0;False;;cz3cl6b;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
-Because maybe he's not an asshole who speaks English.;1;0;False;Ody0genesO;cz3exc4;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+Trolls being people you disagree with, right?;1;0;False;;cz3cl6b;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+Because maybe he's not an asshole who speaks English.;1;0;False;Ody0genesO;cz3exc4;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
 "Yes, to me the biggest user case is actually inflation resistant savings. 
 
 I also want everyone in the world to be able to save by using the Blockchain directly. 
@@ -8,11 +8,11 @@ I also want everyone in the world to be able to save by using the Blockchain dir
 limiting transaction volumes will limit the growth to more or less the capacity we have now.  
 
 Bitcoin will not be accessible to most of the world but a select few, less then the 0.01% who controle the wealth today. 
-";2;0;False;Adrian-X;cz3bchu;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+";2;0;False;Adrian-X;cz3bchu;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
 "Undoubtedly some good work has been done by Core in removing some barriers to Bitcoin scaling. However, they've also introduced other features that have little-to-no use case. In particular, non-FSS-RBF, which has been shunned by the very group it was supposed to benefit: mining pools.
 
-I'm also struggling to think of a real use-case for HODL (time locked) transactions, at least at this point in time.";1;0;False;;cz3hizw;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
-Newcomer here (1.5 weeks). It's apparent where the thought leaders are. FWIW.;2;0;False;bermchurner;cz44jqz;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+I'm also struggling to think of a real use-case for HODL (time locked) transactions, at least at this point in time.";1;0;False;;cz3hizw;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+Newcomer here (1.5 weeks). It's apparent where the thought leaders are. FWIW.;2;0;False;bermchurner;cz44jqz;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
 "> ""what code is producing the longest chain""
 
 is it not: what code is producing the longest **valid**  chain
@@ -22,28 +22,28 @@ and like all mucked about things, ""valid"" then is open to interpretation
 
 /u/changetip send thank you!
 
-";1;1;False;jmdugan;cz39zca;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
-/u/adam3us - for the next 'Statement from Bitcoin Core', you should consider contracting some really good PR guy . Not joking .;2;0;False;realistbtc;cz3dhgd;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
-Thanks for one of the best posts I've read on Bitcoin. This kind of calm, reasoned, respectful contribution is invaluable, I think.;2;1;False;D-Lux;cz3fxem;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
-https://yourlogicalfallacyis.com/slippery-slope;4;0;False;patrikr;cz3b1tf;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
-Fuck r/bitcoin and all it stands for;2;0;False;;cz3qdad;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+";1;1;False;jmdugan;cz39zca;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+/u/adam3us - for the next 'Statement from Bitcoin Core', you should consider contracting some really good PR guy . Not joking .;2;0;False;realistbtc;cz3dhgd;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+Thanks for one of the best posts I've read on Bitcoin. This kind of calm, reasoned, respectful contribution is invaluable, I think.;2;1;False;D-Lux;cz3fxem;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+https://yourlogicalfallacyis.com/slippery-slope;3;0;False;patrikr;cz3b1tf;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+Fuck r/bitcoin and all it stands for;2;0;False;;cz3qdad;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
 "> **OPTION TWO** - Introduce Segwit. About 500 lines of new code, of which at least 100 in the hypersensitive consensus code. Requires upgrading a majority of server software _and **all** client/wallet software and client/wallet **hardware,** especially those needing to pay money to an arbitrary address_ (as Segwit introduces a new type of address that both sender and receiver must handle).
 
-Have we already become so bogged down in practices that we can't change the protocol?";1;0;False;Bromskloss;cz3rvpc;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+Have we already become so bogged down in practices that we can't change the protocol?";1;0;False;Bromskloss;cz3rvpc;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
 "Mike Hearn raised four problems: Blocksize, governance, toxic community and miner centralisation.
 
 Bitcoin Classic addresses the first two, and your post addresses the third one.
 
-Love it.";1;0;False;;cz3hlk7;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
-notacult;1;0;False;;cz3bzvg;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+Love it.";1;0;False;;cz3hlk7;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+notacult;1;0;False;;cz3bzvg;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
 "> doing a contentious hard fork like this sets a template for future
 
 This is my main concern, the precedent it sets for future changes. A contentious hard fork degrades consensus permanently. 
 
-**Each thought that he alone had the truth and was wretched looking at the others, beat himself on the breast, wept, and wrung his hands.**";2;0;False;skithuno;cz3m45c;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+**Each thought that he alone had the truth and was wretched looking at the others, beat himself on the breast, wept, and wrung his hands.**";2;0;False;skithuno;cz3m45c;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
 "And users not necessarily realize the dynamic of open-source programs. Right now there's a high sense of entitlement among users where they demand things as if they were paying customers, which they aren't. The devs are volunteers contributing their free time and expertise, they aren't *required* to do jack shit.
 
-Shitposts and drama will chase away skilled devs. It's nothing new, it happened many many many many times in Linux for ex. It's new only to bitcoin users.";1;0;False;tequila13;cz47ltf;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+Shitposts and drama will chase away skilled devs. It's nothing new, it happened many many many many times in Linux for ex. It's new only to bitcoin users.";1;0;False;tequila13;cz47ltf;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
 "I would argue that ""valid"" is implicit in ""chain"", as it's in the context of the bitcoin blockchain. (Otherwise, here you go, this will eventually be long enough: [chain](//giphy.com/embed/9gTuymLRKc9WM))
 
-Anyhow, that's semantics, and thank you so much for the tip!";1;0;False;Falkvinge;cz3abgy;Some advice for everybody at this point in time;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/
+Anyhow, that's semantics, and thank you so much for the tip!";1;0;False;Falkvinge;cz3abgy;Some advice for everybody at this point in time;41ipkd;https://www.reddit.com/r/btc/comments/41ipkd/some_advice_for_everybody_at_this_point_in_time/

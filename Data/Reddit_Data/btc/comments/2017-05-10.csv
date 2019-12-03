@@ -1,9 +1,8 @@
-body;score;nb_replies;stickied;author;id;post_title;post_link
-https://www.reddit.com/r/btc/comments/6afsl9/save_the_chain_now_anyone_can_add_to_the_480000/;1;0;False;blockbounties;dhe6m68;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+https://www.reddit.com/r/btc/comments/6afsl9/save_the_chain_now_anyone_can_add_to_the_480000/;1;0;False;blockbounties;dhe6m68;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;69318u;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
 "http://www.blockbounties.info/
-Official announcement will come tomorrow";3;0;False;keatonatron;dhcsufg;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
-https://www.reddit.com/r/btc/comments/6afsl9/save_the_chain_now_anyone_can_add_to_the_480000/;8;1;False;blockbounties;dhe76pp;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
-body;score;nb_replies;stickied;author;id;post_title;post_link
+Official announcement will come tomorrow";3;0;False;keatonatron;dhcsufg;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;69318u;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
+https://www.reddit.com/r/btc/comments/6afsl9/save_the_chain_now_anyone_can_add_to_the_480000/;7;1;False;blockbounties;dhe76pp;Save the Chain! Enclosed: 1 MB transaction with 273 BTC in fees;69318u;https://www.reddit.com/r/btc/comments/69318u/save_the_chain_enclosed_1_mb_transaction_with_273/
 "> funds less secure
 
 Your wallet is less secure than your safe. Of course.
@@ -20,5 +19,5 @@ False, reference: http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf -- 4MB blocks ce
 
 False, it just doesn't scale to 7 billion users (we'll get there, but no urgency)
 
-Stop spamming, paid troll";0;1;False;eordano;dhd73t9;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
-Segwit == squidlike nightmare. Move along. Segwit is dead.;1;0;False;Annapurna317;dhdnj5t;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";https://i.redd.it/03z1latj7lvy.jpg
+Stop spamming, paid troll";0;1;False;eordano;dhd73t9;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";69bwco;https://i.redd.it/03z1latj7lvy.jpg
+Segwit == squidlike nightmare. Move along. Segwit is dead.;1;0;False;Annapurna317;dhdnj5t;"1.44MB!!! This Newly Created Technology is Called ""Floppy Disk"" It is Bigger than A Current Block Size of Bitcoin.";69bwco;https://i.redd.it/03z1latj7lvy.jpg

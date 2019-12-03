@@ -1,5 +1,5 @@
-body;score;nb_replies;stickied;author;id;post_title;post_link
-Cool thanks ;1;0;False;ratboy3rw;ddedcdz;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+Cool thanks ;1;0;False;ratboy3rw;ddedcdz;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;5cue13;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
 "u/ratboy3rw I'm posting here because many pro bitcoin advocates are banned from r/bitcoin. 
 
 the best explanation I have for you is regarding what backs up the value of bitcoin is:
@@ -8,9 +8,8 @@ the best explanation I have for you is regarding what backs up the value of bitc
 
 2.  it's the network of users that add utility to money.  Metcalfe's law correlated very closely with the rise of bitcoins value giving credence to this theory. see: https://www.reddit.com/r/Bitcoin/comments/3x8ba9/bitcoins_metcalfes_law_relationship_between/ 
 
-3. bitcoin is a paradigm shift in that it has all the properties you want from a hard money like gold with none of the physical constraints. ";1;0;False;Adrian-X;dde1uli;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
-body;score;nb_replies;stickied;author;id;post_title;post_link
-RemindMe! 1 year.;1;0;False;todu;ddeiotp;"""One miner loses $12k from BU bug, some Core devs scream. Users pay millions in excessive tx fees over the last year ""meh, not a priority""";https://twitter.com/gavinandresen/status/826126533131632640
+3. bitcoin is a paradigm shift in that it has all the properties you want from a hard money like gold with none of the physical constraints. ";1;0;False;Adrian-X;dde1uli;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;5cue13;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
+RemindMe! 1 year.;1;0;False;todu;ddeiotp;"""One miner loses $12k from BU bug, some Core devs scream. Users pay millions in excessive tx fees over the last year ""meh, not a priority""";5r2opy;https://twitter.com/gavinandresen/status/826126533131632640
 "Bitcoin QT is the same team as Bitcoin Core minus the Mike Hernia and Gavin Bamblozzedson (which means an upgrade) so gtfo.
 
-And satoshi was right because he predicted ETH/ETC tier disasters. Enjoy the price going down the shitter to never hit an ATH again if the fork actually happens.";0;1;False;BitcoinSlayer;ddedebk;"""One miner loses $12k from BU bug, some Core devs scream. Users pay millions in excessive tx fees over the last year ""meh, not a priority""";https://twitter.com/gavinandresen/status/826126533131632640
+And satoshi was right because he predicted ETH/ETC tier disasters. Enjoy the price going down the shitter to never hit an ATH again if the fork actually happens.";0;1;False;BitcoinSlayer;ddedebk;"""One miner loses $12k from BU bug, some Core devs scream. Users pay millions in excessive tx fees over the last year ""meh, not a priority""";5r2opy;https://twitter.com/gavinandresen/status/826126533131632640

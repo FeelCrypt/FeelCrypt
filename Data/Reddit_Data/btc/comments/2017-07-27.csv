@@ -1,11 +1,10 @@
-body;score;nb_replies;stickied;author;id;post_title;post_link
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
 "The non-sybil'able polls suggest, overwhelmingly, that users don't want that at all.
-";3;1;False;midmagic;dks9xy4;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;https://www.bitcoin.com/public-service-announcement
+";3;1;False;midmagic;dks9xy4;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
 "> ASICBoost is patented independently by multiple companies and individuals
 
 This is incorrect. If you are referring to Bitmain, their patent application was subsequent to the primary one, which has a full, worldwide PCT pending with a date earlier than Bitmain's *and* Bitmain's contains substantially the same text.
-";1;0;False;midmagic;dks9sl6;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;https://www.bitcoin.com/public-service-announcement
-Satoshi can't be just one person, because there's some inconsistency in his white paper and posts. He might be two conjoined twins or a dragon with multiple heads... you never know.  :D;0;0;False;klondikecookie;dksssj1;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;https://www.bitcoin.com/public-service-announcement
-How do you know?;1;1;False;mmister87;dkscx79;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;https://www.bitcoin.com/public-service-announcement
-body;score;nb_replies;stickied;author;id;post_title;post_link
-Yeah. Oops.;1;0;False;LuisXGonzalez;dkryhaf;Coinbase lost my $200,000 transfer on 5/30;https://www.reddit.com/r/btc/comments/6jtm04/coinbase_lost_my_200000_transfer_on_530/
+";1;0;False;midmagic;dks9sl6;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+Satoshi can't be just one person, because there's some inconsistency in his white paper and posts. He might be two conjoined twins or a dragon with multiple heads... you never know.  :D;0;0;False;klondikecookie;dksssj1;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+How do you know?;1;1;False;mmister87;dkscx79;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+Yeah. Oops.;1;0;False;LuisXGonzalez;dkryhaf;Coinbase lost my $200,000 transfer on 5/30;6jtm04;https://www.reddit.com/r/btc/comments/6jtm04/coinbase_lost_my_200000_transfer_on_530/

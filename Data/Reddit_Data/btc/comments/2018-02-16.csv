@@ -1,30 +1,27 @@
-body;score;nb_replies;stickied;author;id;post_title;post_link
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
 "Please remove this maliciously untrue and libellous claim.
 
-";2;0;False;nullc;ducl8ap;"Evidence that the mods of /r/Bitcoin may have been involved with the hacking and vote manipulation ""attack"" on /r/Bitcoin.";https://www.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/
-body;score;nb_replies;stickied;author;id;post_title;post_link
-Lovely;1;0;False;xgiovio;dubv59f;"Graffiti in Paris ""R.I.P Banking System"" (@thisisludo)";https://i.redd.it/a889ul8881g01.jpg
-body;score;nb_replies;stickied;author;id;post_title;post_link
-Correct also.;1;0;False;Ant-n;ducp5wv;I just bought 50 Bitcoin (BCH) ATM machines for a bit under half a million dollars. Thanks to our purchase the manufacturer has agreed to roll out BCH support to their existing 1000+ machines world wide! -- Roger Ver;https://twitter.com/rogerkver/status/963214514392129536
+";1;0;False;nullc;ducl8ap;"Evidence that the mods of /r/Bitcoin may have been involved with the hacking and vote manipulation ""attack"" on /r/Bitcoin.";7eil12;https://www.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/
+Lovely;1;0;False;xgiovio;dubv59f;"Graffiti in Paris ""R.I.P Banking System"" (@thisisludo)";7xbyix;https://i.redd.it/a889ul8881g01.jpg
+Correct also.;1;0;False;Ant-n;ducp5wv;I just bought 50 Bitcoin (BCH) ATM machines for a bit under half a million dollars. Thanks to our purchase the manufacturer has agreed to roll out BCH support to their existing 1000+ machines world wide! -- Roger Ver;7x5opq;https://twitter.com/rogerkver/status/963214514392129536
 "> A bit like calling BCH Bitcoin then - when every single exchange lists BTC as Bitcoin, and the majority understanding of the public is that BTC is Bitcoin. 
 
-Yet it is a completely different project now.";1;0;False;Ant-n;ducrmxq;I just bought 50 Bitcoin (BCH) ATM machines for a bit under half a million dollars. Thanks to our purchase the manufacturer has agreed to roll out BCH support to their existing 1000+ machines world wide! -- Roger Ver;https://twitter.com/rogerkver/status/963214514392129536
+Yet it is a completely different project now.";1;0;False;Ant-n;ducrmxq;I just bought 50 Bitcoin (BCH) ATM machines for a bit under half a million dollars. Thanks to our purchase the manufacturer has agreed to roll out BCH support to their existing 1000+ machines world wide! -- Roger Ver;7x5opq;https://twitter.com/rogerkver/status/963214514392129536
 "BCH is Bitcoin Cash. 
 
 BTC is Bitcoin.
 
-Using the Bitcoin name doesn't make BCH any better or worse, it just makes you look childish. ";9;0;False;Lushkies;duclnoz;I just bought 50 Bitcoin (BCH) ATM machines for a bit under half a million dollars. Thanks to our purchase the manufacturer has agreed to roll out BCH support to their existing 1000+ machines world wide! -- Roger Ver;https://twitter.com/rogerkver/status/963214514392129536
-body;score;nb_replies;stickied;author;id;post_title;post_link
-I know, seeing the truth for what it is can be stressful. Head up Roger Vers ass is probably nice and warm;-1;0;False;Crypto_Nicholas;duc9d0g;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-u/cryptochecker ;0;1;False;Lag-Switch;dubjaoo;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+Using the Bitcoin name doesn't make BCH any better or worse, it just makes you look childish. ";9;0;False;Lushkies;duclnoz;I just bought 50 Bitcoin (BCH) ATM machines for a bit under half a million dollars. Thanks to our purchase the manufacturer has agreed to roll out BCH support to their existing 1000+ machines world wide! -- Roger Ver;7x5opq;https://twitter.com/rogerkver/status/963214514392129536
+I know, seeing the truth for what it is can be stressful. Head up Roger Vers ass is probably nice and warm;-1;0;False;Crypto_Nicholas;duc9d0g;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+u/cryptochecker ;0;1;False;Lag-Switch;dubjaoo;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "Oh, so centralised mining datacenters are not a thing then? Thats funny, because Satoshi would disagree. I guess he doesnt understand how the blockchain works either    
 /r/BTC  
 >miner centralisation is not a threat    
 
 also /r/BTC    
 
->Possible lightning node centralisation is a threat";1;1;False;Crypto_Nicholas;duc92gp;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-[deleted];1;1;False;;ducxhnq;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+>Possible lightning node centralisation is a threat";1;1;False;Crypto_Nicholas;duc92gp;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+[deleted];1;1;False;;ducxhnq;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "correct correct correct     
   
 Or are centralised mining datacenters are not a thing then? That's funny, because Satoshi would disagree. I guess he doesn't understand how the blockchain works either    
@@ -34,42 +31,42 @@ Or are centralised mining datacenters are not a thing then? That's funny, becaus
 also /r/BTC    
 
 >Possible lightning node centralisation is a threat
-";1;1;False;Crypto_Nicholas;duc9ec6;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-You could check for yourself instead of parroting /r/btc talking points...;0;1;False;Korberos;dubk4di;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-This is why I love Vitalik!!;3;0;False;ILikeBigBlocksBCC;dubotoa;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+";1;1;False;Crypto_Nicholas;duc9ec6;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+You could check for yourself instead of parroting /r/btc talking points...;0;1;False;Korberos;dubk4di;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+This is why I love Vitalik!!;3;0;False;ILikeBigBlocksBCC;dubotoa;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 ">past the meaning
 
 To the meaning.  It is illogical to parse anything beyond the substance that makes it.
 
-It's insane to think that arguing about Bitcoin makes you an astrophysicist.  You make LN appear nice and non-threatening.";1;1;False;tabzer123;dubqiyv;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+It's insane to think that arguing about Bitcoin makes you an astrophysicist.  You make LN appear nice and non-threatening.";1;1;False;tabzer123;dubqiyv;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "> He's a Monarchist
 
 Nothing wrong with that my son. /s
 
 I'll look up the Reddit post, where he admitted trolling, when I have time, as long as you promise not to send him any money.
 
-I'm not arguing that ""is just a prank bro"" is a good thing. On the contrary it makes him look worse.";1;1;False;BitcoinCashKing;dubk10r;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-https://www.reddit.com/r/btc/comments/4hywl4/comment/d3m4fjr;2;0;False;BitcoinCashKing;duc1uck;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Only on BCH because there is only like 3 guys that run nodes.;-1;1;False;toddgak;dub9ism;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Thanks for adding words to what I said just so that you can communicate your rage towards a dev who has contributed more to cryptocurrency than you ever have or probably ever will.  (Thankfully);1;1;False;tabzer123;dubn3dj;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-https://www.reddit.com/r/btc/comments/4hywl4/comment/d3m4fjr;1;0;False;BitcoinCashKing;duc1u13;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Id say it's more akin to calling Bitcoin the Soviet Union. People may still call it that sometimes, but it hasn't existed for a while. ;2;0;False;ehhish;dubmjdw;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Gotta love that guy.;2;0;False;pcpgivesmewings;dubnsfi;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+I'm not arguing that ""is just a prank bro"" is a good thing. On the contrary it makes him look worse.";1;1;False;BitcoinCashKing;dubk10r;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+https://www.reddit.com/r/btc/comments/4hywl4/comment/d3m4fjr;2;0;False;BitcoinCashKing;duc1uck;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Only on BCH because there is only like 3 guys that run nodes.;-1;1;False;toddgak;dub9ism;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Thanks for adding words to what I said just so that you can communicate your rage towards a dev who has contributed more to cryptocurrency than you ever have or probably ever will.  (Thankfully);1;1;False;tabzer123;dubn3dj;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+https://www.reddit.com/r/btc/comments/4hywl4/comment/d3m4fjr;1;0;False;BitcoinCashKing;duc1u13;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Id say it's more akin to calling Bitcoin the Soviet Union. People may still call it that sometimes, but it hasn't existed for a while. ;2;0;False;ehhish;dubmjdw;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Gotta love that guy.;2;0;False;pcpgivesmewings;dubnsfi;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "u/TDBit, you've received `0.00065457 BCH ($1 USD)`!
 ***
 [^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
-^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)";1;0;False;tippr;dubnaoo;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"What does that even mean? How would ""checking myself"" prove that Luke is an asset to anybody? If you can show that he has been please do, if not then what are you on about?";2;1;False;tcrypt;dubkv0r;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Really, any book that could distract you from your tired and angry narrative will add days or years, of even more misery, to your life.  I think you want to kill someone, or yourself.  It's really not a far reach considering how far you will go to be shitty about another person being shitty.  Seems like repressed love/hate you've got for Luke.  Why are you trying so hard?  Did he do something to your parents? ;2;0;False;tabzer123;dubqy6p;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"Sounds like you have nothing of value to say. Not even an ""actual book"" to suggest. Just made up horseshit. Project your suicidal thoughts elsewhere dipshit.";1;1;False;tcrypt;dubqep3;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-[deleted];1;1;False;;dud4mco;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)";1;0;False;tippr;dubnaoo;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"What does that even mean? How would ""checking myself"" prove that Luke is an asset to anybody? If you can show that he has been please do, if not then what are you on about?";2;1;False;tcrypt;dubkv0r;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Really, any book that could distract you from your tired and angry narrative will add days or years, of even more misery, to your life.  I think you want to kill someone, or yourself.  It's really not a far reach considering how far you will go to be shitty about another person being shitty.  Seems like repressed love/hate you've got for Luke.  Why are you trying so hard?  Did he do something to your parents? ;2;0;False;tabzer123;dubqy6p;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"Sounds like you have nothing of value to say. Not even an ""actual book"" to suggest. Just made up horseshit. Project your suicidal thoughts elsewhere dipshit.";1;1;False;tcrypt;dubqep3;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+[deleted];1;1;False;;dud4mco;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "Sounds like you want to kill yourself...
 
 ...and that you are the good guy of your own story.
 
-Very interesting, psychopath.  Try reading an actual book.  Then try reading what I actually said without your own irrational rage yelling at you from within your head.";1;1;False;tabzer123;dubpvmf;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"Where did you copy and paste that ""BCH argument"" I haven't said anything about that. All I said was you don't seem to understand how a node on LN or BTC work.";1;1;False;jakeroxs;dud1evh;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-I guess my point is, that if you feel the need to be something else then I don't see much value in your project. Why not just be Bitcoin Cash and be proud of it? Or rename to Bitcoinerino or something that makes you feel good.;1;1;False;Hemske;dud45pv;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+Very interesting, psychopath.  Try reading an actual book.  Then try reading what I actually said without your own irrational rage yelling at you from within your head.";1;1;False;tabzer123;dubpvmf;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"Where did you copy and paste that ""BCH argument"" I haven't said anything about that. All I said was you don't seem to understand how a node on LN or BTC work.";1;1;False;jakeroxs;dud1evh;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+I guess my point is, that if you feel the need to be something else then I don't see much value in your project. Why not just be Bitcoin Cash and be proud of it? Or rename to Bitcoinerino or something that makes you feel good.;1;1;False;Hemske;dud45pv;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "> Even despite my implication that he cannot be exclusively bad, nor people in general.
 
 This is perhaps the stupidest shit ever said. Congratulations. Most people are ""exclusively bad"".
@@ -88,22 +85,22 @@ Then you're dumb as shit as well.
 
 > I'm sure it has.
 
-I'm glad to hear you're aware that I've never tried to censor transactions, strip signatures from transactions, or to retard block growth unlike you're friend Luke.";2;1;False;tcrypt;dubp8y1;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"Educating myself about what? Luke-jrs's dog shit ""contributions""? You're the one claiming that he's not worthless garbage. Please provide the evidence to educate me.";2;0;False;tcrypt;dubm1fx;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+I'm glad to hear you're aware that I've never tried to censor transactions, strip signatures from transactions, or to retard block growth unlike you're friend Luke.";2;1;False;tcrypt;dubp8y1;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"Educating myself about what? Luke-jrs's dog shit ""contributions""? You're the one claiming that he's not worthless garbage. Please provide the evidence to educate me.";2;0;False;tcrypt;dubm1fx;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "You make it sound like if I transact over a node, then that intermediary node will hold my Bitcoins. That is incorrect.  
 The BCH argument against LN is  
 >You, being a freedom-loving individual, decide to open a channel with an anonymous hub known only as T35G7. Guess what. Megabanks A, B, and C don’t want to open a channel with T35G7. So you can’t send to any of their customers since there’s no available route.    
 
 Which is weak. Supply and demand dictates that if there is an actor in the market blocking transactions between parties, then new providers will pop-up to obtain those fees. Simple market economics.      
-";0;1;False;Crypto_Nicholas;ductmq7;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-uh-huh. So who chooses which transactions get validated? The answer is miners. ;1;0;False;Crypto_Nicholas;ducawsx;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+";0;1;False;Crypto_Nicholas;ductmq7;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+uh-huh. So who chooses which transactions get validated? The answer is miners. ;1;0;False;Crypto_Nicholas;ducawsx;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "/r/BTC  
 >miner centralisation is not a threat    
 
 also /r/BTC    
 
->Possible lightning node centralisation is a threat";1;0;False;Crypto_Nicholas;duc9by2;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-[deleted];1;1;False;;dud3fst;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+>Possible lightning node centralisation is a threat";1;0;False;Crypto_Nicholas;duc9by2;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+[deleted];1;1;False;;dud3fst;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 ">What words were added to what you said?
 
 I mentioned consistency being a valuable trait.  You pegged it to dog shit on your own, and then disagreed with the claim.  Even despite my implication that he cannot be exclusively bad, nor people in general.  I'm very interested in your ""proof of not dog shit"" algorithm.
@@ -118,12 +115,12 @@ Is that your way of asking a question?  His history of contributions are located
 
 >Fortunately most of my work has been at enabling use cases for cryptocurrencies instead of censorship and religious junk.
 
-I'm sure it has.";0;1;False;tabzer123;duboryz;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"""lounge of theymos"" sounds low rent";1;0;False;butthurtsoothcream;dubg915;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-I guess educating yourself isn't interesting to you. No worries.;0;1;False;Korberos;dubl8jb;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-That's not what we were discussing, and the way it works is completely different. Hence you not understanding how the blockchain works. Satoshi is right that mining become somewhat more centralized as the network grows, but mining nodes don't hold people money, they mine and verify the blockchain. LN nodes hold money and work completely differently.;2;1;False;jakeroxs;ducmczr;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Nope. On a blockchain, ALL inputs and outputs go through ALL the full nodes, some of which are miners. ;2;1;False;infraspace;duc9zp6;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-I see what you're saying now but actually think it's be more ideal if he didn't actually believe such garbage. Either way, I'm glad to hear I misunderstood and that you're not supporting his trash opinions.;2;0;False;tcrypt;dubl507;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+I'm sure it has.";0;1;False;tabzer123;duboryz;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"""lounge of theymos"" sounds low rent";1;0;False;butthurtsoothcream;dubg915;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+I guess educating yourself isn't interesting to you. No worries.;0;1;False;Korberos;dubl8jb;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+That's not what we were discussing, and the way it works is completely different. Hence you not understanding how the blockchain works. Satoshi is right that mining become somewhat more centralized as the network grows, but mining nodes don't hold people money, they mine and verify the blockchain. LN nodes hold money and work completely differently.;2;1;False;jakeroxs;ducmczr;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Nope. On a blockchain, ALL inputs and outputs go through ALL the full nodes, some of which are miners. ;2;1;False;infraspace;duc9zp6;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+I see what you're saying now but actually think it's be more ideal if he didn't actually believe such garbage. Either way, I'm glad to hear I misunderstood and that you're not supporting his trash opinions.;2;0;False;tcrypt;dubl507;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "Of [u/Lag-Switch](https://www.reddit.com/u/Lag-Switch)'s last **16** posts and **1000** comments, I found **0** posts and **28** comments in cryptocurrency-related subreddits. Average sentiment (in the interval -1 to +1, with -1 **most negative** and +1 **most positive**) and karma counts are shown for each subreddit:
 
 Subreddit|No. of posts|Avg. post sentiment|Total post karma|No. of comments|Avg. comment sentiment|Total comment karma
@@ -135,51 +132,51 @@ r/btc|0|0.0|0|10|-0.03|21
 
 ***
 
-^(Bleep, bloop, I'm a bot trying to help inform cryptocurrency discussion on Reddit.) ^| [^About](https://www.reddit.com/user/cryptochecker/comments/7q3jum/faq_about_ucryptochecker/) ^| [^Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=cryptochecker%20bot) ";0;0;False;cryptochecker;dubjb8t;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-http://i0.kym-cdn.com/photos/images/original/000/100/315/iTAmc.GIF;1;1;False;Hemske;dud17hl;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-That's makes 0 sense. I have said nothing about astrophysics. I hope you invest with this mindset so I can retire comfortably. You have no reasoning abilities so it seems likely. Please do invest your time and money in LNs.;1;1;False;tcrypt;dubqsm9;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-What words were added to what you said? You failed to respond to the question of what he's ever done to contribute to anything positive so I doubt you'll have an answer here. I certainly anticipate and hope to contribute less garbage than Luke ever has so in that respect I really hope I never contribute as much as him. Fortunately most of my work has been at enabling use cases for cryptocurrencies instead of censorship and religious junk.;2;1;False;tcrypt;dubnohx;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+^(Bleep, bloop, I'm a bot trying to help inform cryptocurrency discussion on Reddit.) ^| [^About](https://www.reddit.com/user/cryptochecker/comments/7q3jum/faq_about_ucryptochecker/) ^| [^Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=cryptochecker%20bot) ";0;0;False;cryptochecker;dubjb8t;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+http://i0.kym-cdn.com/photos/images/original/000/100/315/iTAmc.GIF;1;1;False;Hemske;dud17hl;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+That's makes 0 sense. I have said nothing about astrophysics. I hope you invest with this mindset so I can retire comfortably. You have no reasoning abilities so it seems likely. Please do invest your time and money in LNs.;1;1;False;tcrypt;dubqsm9;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+What words were added to what you said? You failed to respond to the question of what he's ever done to contribute to anything positive so I doubt you'll have an answer here. I certainly anticipate and hope to contribute less garbage than Luke ever has so in that respect I really hope I never contribute as much as him. Fortunately most of my work has been at enabling use cases for cryptocurrencies instead of censorship and religious junk.;2;1;False;tcrypt;dubnohx;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 ">That's makes 0 sense.
 
 ;)
 
 >The Sun and Earth's orbits have nothing to do with astrophysics.
 
-I found you, luke_jr.  Researching the proof of sockpuppet consensus?";1;0;False;tabzer123;dubrgq8;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-When/where?;6;1;False;logiq;dubao43;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+I found you, luke_jr.  Researching the proof of sockpuppet consensus?";1;0;False;tabzer123;dubrgq8;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+When/where?;6;1;False;logiq;dubao43;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "[Number 4 
 ](https://www.yours.org/content/17-crazy-funny-bitcoin-prophesies-311ae0d0f9b9)
 
 >A second Theymos shows up claiming he is the original Theymos. He  proves he has some private keys of addresses  known to once have been  used by Theymos. /r/bitcoin  claims this is an attack on Bitcoin and a suggestion is made to fork  Theymos. It is speculated that it's impossible to fork a human being  using software until Luke-jr shows up and promptly writes the code.  Bitfinex starts trading TM1 and TM2 chain split tokens. Theymos  reluctantly agrees to be split in to  Michael  and Marquardt as long as  it is done through a soft fork!  A new way of measuring bitcoin  censorship becomes possible because there is now a M1 and a M2 supply of  posts. 
 
 
-";6;1;False;Kain_niaK;duba3by;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Let’s talk about bitcoin cash for once you guys. ;1;0;False;smick;dubkhi2;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+";5;1;False;Kain_niaK;duba3by;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Let’s talk about bitcoin cash for once you guys. ;1;0;False;smick;dubkhi2;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "> He can code. But his opinions suck
 
-true of to many on the core team";3;0;False;rglfnt;dubsw70;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+true of to many on the core team";3;0;False;rglfnt;dubsw70;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "No he didn't, because it wasn't. Link proof he claimed it was trolling from before I made this post and I'll donate $500 to getting him dental implants.
 
-He's a monarchist and a religious extremist that believes people should be put to death for not obeying authority. I've known too many people that practice his off brand Catholicism to fall for ""it's just a prank bro"". He's an awful person that should have 0 respect from anyone.";7;2;False;tcrypt;dubj6l9;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"Your hero Cobra uses the word ""cuck"" all the time. See his Reddit post history and his tweets. That's why it's ironic how cucked he is by his Blockstream overlords.";1;0;False;btcbro_;dubtiv7;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+He's a monarchist and a religious extremist that believes people should be put to death for not obeying authority. I've known too many people that practice his off brand Catholicism to fall for ""it's just a prank bro"". He's an awful person that should have 0 respect from anyone.";8;2;False;tcrypt;dubj6l9;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"Your hero Cobra uses the word ""cuck"" all the time. See his Reddit post history and his tweets. That's why it's ironic how cucked he is by his Blockstream overlords.";1;0;False;btcbro_;dubtiv7;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "I am not a fan of LN and love BCH but man.  **WELCOME** and I really feel like we can work together.  I still own legacy Bitcoin and hoping for the moon.  
 
-I wish nothing but the best for you and hope you can find a place on this sub-reddit.  MANY agree with you.  Maybe we are too Bitcoin Cash focused.  There is r/BitcoinCash for this ";7;1;False;Pink-Fish;dubpt82;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+I wish nothing but the best for you and hope you can find a place on this sub-reddit.  MANY agree with you.  Maybe we are too Bitcoin Cash focused.  There is r/BitcoinCash for this ";7;1;False;Pink-Fish;dubpt82;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "Many folks got banned for merely stating that ""we need bigger blocks"".
 
-I got banned for pointing out the breach of the HK agreement.";1;0;False;DerSchorsch;duc008c;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-he is. $1 u/tippr ;2;1;False;CityBusDriverBitcoin;dubn9q7;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+I got banned for pointing out the breach of the HK agreement.";1;0;False;DerSchorsch;duc008c;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+he is. $1 u/tippr ;2;1;False;CityBusDriverBitcoin;dubn9q7;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "I disagree with this so much I don't even know where to begin. This is like letting people get scammed just because you make money on it.
 
-Also, like almost everybody on this sub, I hold both BCH and BTC because I've been in crypto before 90% of people on /r/bitcoin ever even heard of it (yes, my account is young, that's because frequently remaking accounts is good opsec)";4;2;False;;dubg1g2;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Because that would defeat the entire purpose of making new accounts?;4;0;False;;dubhu2l;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Look on the bright side, the trolling there would be so much more difficult to separate from the rhetoric had they not gone full-tard-hammer;1;0;False;redog;duc2z5r;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"Smiled quite a lot while reading through that post. I sent you a vote ;D";1;0;False;Kesh4n;duckyk2;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"Specifically he believes the Sun orbits the Earth. What the ""center of the solar system"" means is irrelevant.";1;2;False;tcrypt;dubjqmo;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+Also, like almost everybody on this sub, I hold both BCH and BTC because I've been in crypto before 90% of people on /r/bitcoin ever even heard of it (yes, my account is young, that's because frequently remaking accounts is good opsec)";4;2;False;;dubg1g2;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Because that would defeat the entire purpose of making new accounts?;4;0;False;;dubhu2l;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Look on the bright side, the trolling there would be so much more difficult to separate from the rhetoric had they not gone full-tard-hammer;1;0;False;redog;duc2z5r;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"Smiled quite a lot while reading through that post. I sent you a vote ;D";1;0;False;Kesh4n;duckyk2;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"Specifically he believes the Sun orbits the Earth. What the ""center of the solar system"" means is irrelevant.";1;2;False;tcrypt;dubjqmo;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "Except you don't need to use their lightning hubs. You can open up a payment channel at any hub that you want. In that regard, it is decentralized. If you want to use e-mail. Do you have to sign up for an account at google? No, you can use any provider you want or even setup your own server. 
 
-The problem with lightning network is, you can't set up your own hub because you need a lot of liquidity to process payments which go through other hubs. So you need to be directly connected to a hub that's able to process large transactions over the lightning network reliably. That is a problem. But anyone with a lot of money can set up a mining hub that is well connected.";0;1;False;f7ddfd505a;dubb518;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-I think you're correct but it's still clearly censorship. Moderatoration is censorship even if it's sometimes desirable.;1;0;False;tcrypt;dubj9y9;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+The problem with lightning network is, you can't set up your own hub because you need a lot of liquidity to process payments which go through other hubs. So you need to be directly connected to a hub that's able to process large transactions over the lightning network reliably. That is a problem. But anyone with a lot of money can set up a mining hub that is well connected.";0;1;False;f7ddfd505a;dubb518;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+I think you're correct but it's still clearly censorship. Moderatoration is censorship even if it's sometimes desirable.;1;0;False;tcrypt;dubj9y9;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "> Whether he really believes that 
 
 From my prior discussions with him about the catholic faith (i.e. how Pope Francis, Benedict XVI, John Paul II were invalid popes), I'd bet he actually believes it if he says it's not censorship, somehow based on the literal definition: 
@@ -192,28 +189,28 @@ e.g., ""it's not suppressing obscene material or something a government disappro
 
 Perhaps the reason he's good at programming is that he takes things very literally. So for example he knows of some centuries-old papal documents that say X, and he takes it literally. Catholic Christians today say ""you have to understand the historical context and what they meant by that,"" but he seems to prefer a staunchly literal meaning and his own beliefs rather than accept what others tell him.
 
-I stopped trying to reason with him when this became clear to me, and it looks like he's disliked for the same autism-spectrum behavior here (what you've called 'a semantics game'), unfortunately. I would say he's sincere also because I think his participation in these Christian discussions have dropped off, suggesting to me he is putting his time into developing Bitcoin.";3;0;False;eo6x;dubcp8b;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-https://i.imgur.com/2dQxpRc.jpg;2;0;False;biggest_decision;dubmjk8;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-But it’s decentralized. Lol :);5;0;False;worthlessTbill;dubmy6v;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-he is a flat earther, dont try to drag us trolls down to his level;2;0;False;rglfnt;dubsukv;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Idiot Savange. ;2;0;False;Kain_niaK;dub9w5t;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+I stopped trying to reason with him when this became clear to me, and it looks like he's disliked for the same autism-spectrum behavior here (what you've called 'a semantics game'), unfortunately. I would say he's sincere also because I think his participation in these Christian discussions have dropped off, suggesting to me he is putting his time into developing Bitcoin.";3;0;False;eo6x;dubcp8b;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+https://i.imgur.com/2dQxpRc.jpg;2;0;False;biggest_decision;dubmjk8;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+But it’s decentralized. Lol :);5;0;False;worthlessTbill;dubmy6v;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+he is a flat earther, dont try to drag us trolls down to his level;2;0;False;rglfnt;dubsukv;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Idiot Savange. ;2;0;False;Kain_niaK;dub9w5t;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "u/1356Floyo, you've received `0.00065763 BCH ($1 USD)`!
 ***
 [^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
-^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)";1;0;False;tippr;dubncks;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Thank you very much generous stranger! ;1;0;False;1356Floyo;dubsmqz;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Yup I also remake accounts I'm too paranoid about leaving too many traces around crypto is about anonymity & privacy. It sucks though cause people treat you like a crypto noob due to account age and don't take you seriously at least that's what I've problems with. ;1;0;False;HarambeAnInsideJob;dubprux;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)";1;0;False;tippr;dubncks;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Thank you very much generous stranger! ;1;0;False;1356Floyo;dubsmqz;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Yup I also remake accounts I'm too paranoid about leaving too many traces around crypto is about anonymity & privacy. It sucks though cause people treat you like a crypto noob due to account age and don't take you seriously at least that's what I've problems with. ;1;0;False;HarambeAnInsideJob;dubprux;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "> letting people get scammed just because you make money on it
 
 No one should be basing their coin decisions according to posts from random people on reddit, myself included.
 
 > frequently remaking accounts is good opsec
 
-Why not make a new account every day or every hour, and identify yourself by putting a PGP or a Bitcoin signature at the end of every post?";1;1;False;;dubhjuw;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"I think it's human nature to polarize in the direction opposite to that which you have a *slight* preference, and run far away from the ""fence"" divide. It's just fine leaning against the fence though. You get to chat with your neighbour. :)";3;0;False;laskdfe;dubq8nz;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Thank you for not forgetting about Canada.  Such greatness in such small nation. Ethereum + Canada, let me guess ... Vancouver? ;7;0;False;Kain_niaK;dub9zdm;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-With my own email server I can send email to another person using their own email server. We do not need to both connect to the same hub for that to work.;1;0;False;tcrypt;dubjh6p;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-$1 u/tippr;1;2;False;CityBusDriverBitcoin;dubnaqm;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+Why not make a new account every day or every hour, and identify yourself by putting a PGP or a Bitcoin signature at the end of every post?";1;1;False;;dubhjuw;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"I think it's human nature to polarize in the direction opposite to that which you have a *slight* preference, and run far away from the ""fence"" divide. It's just fine leaning against the fence though. You get to chat with your neighbour. :)";3;0;False;laskdfe;dubq8nz;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Thank you for not forgetting about Canada.  Such greatness in such small nation. Ethereum + Canada, let me guess ... Vancouver? ;6;0;False;Kain_niaK;dub9zdm;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+With my own email server I can send email to another person using their own email server. We do not need to both connect to the same hub for that to work.;1;0;False;tcrypt;dubjh6p;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+$1 u/tippr;1;2;False;CityBusDriverBitcoin;dubnaqm;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 ">  Specifically he believes the Sun orbits the Earth. 
 
 Which isn't what the dude I'm replying to said.  Hence my reply.
@@ -226,18 +223,18 @@ Look up to the comment I actually replied to, the one that says
 
 Where is the earth mentioned in that?  And do you see the last 5 words? Specifically ""center of the solar system""?  How, in the context of this reply chain, is the ""center of the solar system"" not relevant?
 
-I get that you had extra outside knowledge about what luke-jr believes, but if you read this comment chain without that extra knowledge (which, surprise, not everyone has) then my response was perfectly relevant.";2;0;False;PaulJP;dubqubq;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Can't we all just get along?;1;0;False;thebtcbtq;dubljra;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+I get that you had extra outside knowledge about what luke-jr believes, but if you read this comment chain without that extra knowledge (which, surprise, not everyone has) then my response was perfectly relevant.";2;0;False;PaulJP;dubqubq;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Can't we all just get along?;1;0;False;thebtcbtq;dubljra;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "“Growing up libertarian”. He’s still a kid! A brilliant one but still a kid. He has lots to experience and a lot more “growing up” to do. 
 
-Sometimes Vitalk blows me away, other times it shows how young and inexperience with life he still is. ";1;0;False;lorymecs;dubmxrk;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-got banned at /r/bitcoin today. feels good man.;1;0;False;btrades;dubr5wv;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-why don't yall let Bitcoin do it's thing.  And Btc you do you boo boo.;1;0;False;1percentof1;dubtqrf;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-too late for me.;1;0;False;BTCMONSTER;duc9elf;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-It seems I have to reply to myself in order to do that.;0;1;False;Lag-Switch;dubja7b;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-I don't think it merits a debate.;1;0;False;Hemske;ducbe5q;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"But why does that philosophical argument have to be ""Bitcoin"", why can't you just say Bitcoin Cash is better if that's what you think? Or just admit that the founder naming it's coin ""Bitcoin Cash"" was fucking stupid, he chose to name it that to ride off of Bitcoins name and is now stuck with it. ";1;1;False;Hemske;ducbk12;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"Because it's called Bitcoin... It's not like we call USA England and England ""England Core"".";-1;1;False;Hemske;dubk2vs;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+Sometimes Vitalk blows me away, other times it shows how young and inexperience with life he still is. ";1;0;False;lorymecs;dubmxrk;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+got banned at /r/bitcoin today. feels good man.;1;0;False;btrades;dubr5wv;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+why don't yall let Bitcoin do it's thing.  And Btc you do you boo boo.;1;0;False;1percentof1;dubtqrf;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+too late for me.;1;0;False;BTCMONSTER;duc9elf;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+It seems I have to reply to myself in order to do that.;0;1;False;Lag-Switch;dubja7b;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+I don't think it merits a debate.;1;0;False;Hemske;ducbe5q;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"But why does that philosophical argument have to be ""Bitcoin"", why can't you just say Bitcoin Cash is better if that's what you think? Or just admit that the founder naming it's coin ""Bitcoin Cash"" was fucking stupid, he chose to name it that to ride off of Bitcoins name and is now stuck with it. ";1;1;False;Hemske;ducbk12;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"Because it's called Bitcoin... It's not like we call USA England and England ""England Core"".";-1;1;False;Hemske;dubk2vs;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "**Barycenter**
 
 The barycenter (or barycentre; from the Ancient Greek βαρύς heavy + κέντρον centre) is the center of mass of two or more bodies that are orbiting each other, which is the point around which they both orbit. It is an important concept in fields such as astronomy and astrophysics. The distance from a body's center of mass to the barycenter can be calculated as a simple two-body problem.
@@ -247,14 +244,14 @@ In cases where one of the two objects is considerably more massive than the othe
 ***
 
 ^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/btc/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
-^Downvote ^to ^remove ^| ^v0.28";1;0;False;WikiTextBot;dubpf03;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Excellent attempt to further parse words past the meaning. All mass affects all other mass therefore it's not insane to promote Geocentrism. Can't wait to heat what you have to say about LN.;2;1;False;tcrypt;dubpziz;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-I think he is wrong about many subjects, but I don't think he is wrong about everything.  I also think he tends to be relatively consistent, which is probably something that is desired about a cryptocurrency.  While I believe Vitalik has a strong case for Ethereum, I am very grateful that it is separate from Bitcoin.;-1;1;False;tabzer123;dubhjcj;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"Consistently being dog shit isn't quite desirable so how do you concluded something as overly simplistic as consistency being ""something that is desired about a cryptocurrency""?";2;1;False;tcrypt;dubjm3y;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+^Downvote ^to ^remove ^| ^v0.28";1;0;False;WikiTextBot;dubpf03;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Excellent attempt to further parse words past the meaning. All mass affects all other mass therefore it's not insane to promote Geocentrism. Can't wait to heat what you have to say about LN.;2;1;False;tcrypt;dubpziz;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+I think he is wrong about many subjects, but I don't think he is wrong about everything.  I also think he tends to be relatively consistent, which is probably something that is desired about a cryptocurrency.  While I believe Vitalik has a strong case for Ethereum, I am very grateful that it is separate from Bitcoin.;-1;1;False;tabzer123;dubhjcj;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"Consistently being dog shit isn't quite desirable so how do you concluded something as overly simplistic as consistency being ""something that is desired about a cryptocurrency""?";2;1;False;tcrypt;dubjm3y;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "That was quick
 
-https://np.reddit.com/r/ethereum/comments/7xuyuz/impressive_development_bitcoin_has_been/";2;0;False;mcgravier;dubwz8y;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-I like this kid and has invested in ETH. but in rbtc all they do is worshiping someone. Btw nice little Bcash pump today. made a quick bucks. Thanks Ver.;-2;0;False;laninsterJr;dubpf4j;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+https://np.reddit.com/r/ethereum/comments/7xuyuz/impressive_development_bitcoin_has_been/";2;0;False;mcgravier;dubwz8y;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+I like this kid and has invested in ETH. but in rbtc all they do is worshiping someone. Btw nice little Bcash pump today. made a quick bucks. Thanks Ver.;-2;0;False;laninsterJr;dubpf4j;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 ">Specifically he believes the Sun orbits the Earth.
 
 I know this is off-topic, but the Sun and the Earth actually orbit each other.
@@ -263,13 +260,13 @@ https://en.wikipedia.org/wiki/Barycenter
 
 You don't actually know anything.  You are a garbage disposal unit that feeds directly back into the faucet.
 
-";1;2;False;tabzer123;dubpeua;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"When? There is a reason it has been more aptly named Bitcoin core by anyone that discusses it. There are forks and changes from the ""original"" Bitcoin of years ago. ";5;1;False;ehhish;dubegz7;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-"""Bitcoin is Bitcoin"" is a worthless statement that only a complete idiot would think has anything to offer. What constitutes ""Bitcoin"" is a philosophical argument that you're not even attempting to take.";4;1;False;tcrypt;dubnsqt;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Like what? Softfork SegWit and mining software?;1;1;False;tcrypt;dubjbth;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Nullc and Luke are zero percent better. ;1;0;False;GarlicBelfort;dubiqeg;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-[deleted];1;1;False;;dubwcr9;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-Yep max blck size 300 kb.;2;0;False;ellahammadaoui;dubu1d4;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
+";1;2;False;tabzer123;dubpeua;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"When? There is a reason it has been more aptly named Bitcoin core by anyone that discusses it. There are forks and changes from the ""original"" Bitcoin of years ago. ";5;1;False;ehhish;dubegz7;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+"""Bitcoin is Bitcoin"" is a worthless statement that only a complete idiot would think has anything to offer. What constitutes ""Bitcoin"" is a philosophical argument that you're not even attempting to take.";5;1;False;tcrypt;dubnsqt;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Like what? Softfork SegWit and mining software?;1;1;False;tcrypt;dubjbth;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Nullc and Luke are zero percent better. ;1;0;False;GarlicBelfort;dubiqeg;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+[deleted];1;1;False;;dubwcr9;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
+Yep max blck size 300 kb.;2;0;False;ellahammadaoui;dubu1d4;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "Here's a sneak peek of /r/Bitcoincash using the [top posts](https://np.reddit.com/r/Bitcoincash/top/?sort=top&t=year) of the year!
 
 \#1: [bitcoin cash now on coinbase!](https://twitter.com/coinbase/status/943270201058922496) | [478 comments](https://np.reddit.com/r/Bitcoincash/comments/7kxg3t/bitcoin_cash_now_on_coinbase/)  
@@ -277,8 +274,7 @@ Yep max blck size 300 kb.;2;0;False;ellahammadaoui;dubu1d4;Vitalik comments on /
 \#3: [The crypto community right now.](https://i.redd.it/xyl8d5ir8f501.jpg) | [59 comments](https://np.reddit.com/r/Bitcoincash/comments/7lfsjo/the_crypto_community_right_now/)
 
 ----
-^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/7o7jnj/blacklist/)";1;0;False;sneakpeekbot;dubptdm;Vitalik comments on /r/Bitcoin moderation;https://twitter.com/vitalikbuterin/status/964126608654151681
-body;score;nb_replies;stickied;author;id;post_title;post_link
+^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/7o7jnj/blacklist/)";1;0;False;sneakpeekbot;dubptdm;Vitalik comments on /r/Bitcoin moderation;7xqzh9;https://twitter.com/vitalikbuterin/status/964126608654151681
 "Hey everybody, ProtonMail team here. It's nice to see so much interest in this. To give a little bit more background, we would like to add Bitcoin cash support (plus other cryptocurrencies), but our experience with Bitcoin has shown us that doing this right is actually quite complicated, and will require developers that we can't really spare right now since the team is already stretched quite thin working on existing features.
 
 Here's what we learned from Bitcoin (BTC) support.
@@ -292,106 +288,105 @@ To make a long story short, we believe the correct way to do this is to run mult
 This of course involves significantly more work, which is why community help would make this process go faster. If anybody is interested in helping out, send us an email at contact@protonmail.ch with some info about your background and why you might be good at this.
 
 Cheers!
-The Proton Team";51;11;False;ProtonMail;ducxbqy;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Adoption matters.;5;0;False;Richy_T;ducvlgu;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Which part of the code does that (they're open, you know)? Please provide evidence.;12;1;False;imaginary_username;duc6l25;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-[deleted];3;3;False;;duc87t5;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Evidence please;2;0;False;Dense_Body;ducip2e;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-I use and love ProtonMail, don't be jealous of our love.;10;1;False;TheTruthHasNoBias;duc6rct;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
+The Proton Team";51;11;False;ProtonMail;ducxbqy;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Adoption matters.;5;0;False;Richy_T;ducvlgu;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Which part of the code does that (they're open, you know)? Please provide evidence.;11;1;False;imaginary_username;duc6l25;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+[deleted];4;3;False;;duc87t5;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Evidence please;2;0;False;Dense_Body;ducip2e;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+I use and love ProtonMail, don't be jealous of our love.;9;1;False;TheTruthHasNoBias;duc6rct;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
 "No. But you just betrayed yourself as a troll. 
 
 https://redditenhancementsuite.com
-";7;0;False;btcnewsupdates;duc64ml;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
+";9;0;False;btcnewsupdates;duc64ml;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
 "https://redditenhancementsuite.com
-";4;0;False;btcnewsupdates;ducackq;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
+";4;0;False;btcnewsupdates;ducackq;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
 "***
 [chaintip](http://www.chaintip.org) has [returned](https://explorer.bitcoin.com/bch/address/bitcoincash:qrelay2jc5cmh5tucuez9uj5aseq8ey595j7fnw465) the unclaimed tip of `0.02 BCH`| `~  24.84 USD` to u/randy-lawnmole.
 ***
-";7;0;False;chaintip;dud3sms;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Rob of rocketr already reached out to help.;11;0;False;DoomedKid;dud07ra;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-"""Deeply flawed"" is a bit generous.  The keys are client side, and I still use my own 4096-bit  PGP key and decrypt manually.  It's not the end of the world, eventually I assume they're going to allow uploading your own custom ones.";7;1;False;jayAreEee;duccprh;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-It would be easier to accept other currencies then.;1;0;False;Rafficer;dud0ymy;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Even if it wasn't about trust, I have my own keys in a hardware smart card (or Trezor), and I want to use them... But I can't?;3;1;False;sagnessagiel;ducaoqa;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-I stopped using them after they required a mobile phone number to verify.;0;3;False;nothingduploading;duc6n33;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
+";7;0;False;chaintip;dud3sms;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Rob of rocketr already reached out to help.;10;0;False;DoomedKid;dud07ra;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+"""Deeply flawed"" is a bit generous.  The keys are client side, and I still use my own 4096-bit  PGP key and decrypt manually.  It's not the end of the world, eventually I assume they're going to allow uploading your own custom ones.";6;1;False;jayAreEee;duccprh;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+It would be easier to accept other currencies then.;1;0;False;Rafficer;dud0ymy;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Even if it wasn't about trust, I have my own keys in a hardware smart card (or Trezor), and I want to use them... But I can't?;4;1;False;sagnessagiel;ducaoqa;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+I stopped using them after they required a mobile phone number to verify.;-2;3;False;nothingduploading;duc6n33;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
 "Tutanota is great.
 
-On the other hand, the community should step up and help ProtonMail integrate Bitcoin Cash. It's great to have multiple solutions.";5;0;False;BTC_StKN;duc8xw0;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
+On the other hand, the community should step up and help ProtonMail integrate Bitcoin Cash. It's great to have multiple solutions.";5;0;False;BTC_StKN;duc8xw0;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
 "The real bullish info is always in the comments, haha.  
 
 These guys sound like they are worth supporting; very forward thinking.  
 
 No PGP support, no expiration on inactive accounts or reusing emails, easy to use encryption for those outside the system shows they are planning for the future and not interested on compromising just to include backwards compatibility.  
 
-";2;1;False;apoliticalinactivist;duckzb0;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-I feel Gmail is more practical for day to day use. ;-2;2;False;SimonWoodburyForget;ducfvza;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Can you link me to some info on how I can do the same thing? ;1;1;False;AceBlue7;duchc6y;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Thank you;1;0;False;pmpnot;ducj7ta;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
+";2;1;False;apoliticalinactivist;duckzb0;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+I feel Gmail is more practical for day to day use. ;-2;2;False;SimonWoodburyForget;ducfvza;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Can you link me to some info on how I can do the same thing? ;1;1;False;AceBlue7;duchc6y;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Thank you;1;0;False;pmpnot;ducj7ta;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
 "https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages
 
-Here is a basic guide I've used before to do all of this.";9;1;False;jayAreEee;ducik5v;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
+Here is a basic guide I've used before to do all of this.";9;1;False;jayAreEee;ducik5v;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
 "You use google so they CAN scan your mails? So if you would have the choice of google with scanning and google without scanning, you would choose with scanning? 
 
-You're weird...";3;2;False;Rafficer;dud19cl;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
+You're weird...";3;2;False;Rafficer;dud19cl;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
 "Lol, I get that this makes sense to you...but I assure it doesn't to 97% of us.
 
 Would you be willing to take it a step deeper in your explanation?
 
-I'd love to learn.";6;1;False;pmpnot;ducicc2;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Nobody ever has enough data. Especially not a data science monster like Google. ;0;0;False;SimonWoodburyForget;ducjowe;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-No problem with that at all. This is kind of exactly why I use Google.;0;1;False;SimonWoodburyForget;ducjk9g;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-The key is generated client side. ;8;1;False;Kakifrucht;duc9yjq;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Now that you've told me that you sure are right.;1;0;False;sagnessagiel;dud0c5k;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Google has enough of my data already ;1;1;False;TheTruthHasNoBias;duch05s;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Sure, so long as you're cool with Google scanning all your email.;6;1;False;groshreez;ducg8sa;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
+I'd love to learn.";6;1;False;pmpnot;ducicc2;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Nobody ever has enough data. Especially not a data science monster like Google. ;0;0;False;SimonWoodburyForget;ducjowe;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+No problem with that at all. This is kind of exactly why I use Google.;0;1;False;SimonWoodburyForget;ducjk9g;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+The key is generated client side. ;5;1;False;Kakifrucht;duc9yjq;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Now that you've told me that you sure are right.;1;0;False;sagnessagiel;dud0c5k;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Google has enough of my data already ;1;1;False;TheTruthHasNoBias;duch05s;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Sure, so long as you're cool with Google scanning all your email.;5;1;False;groshreez;ducg8sa;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
 "That doesn't mean they track you. First of all, you don't have to give them your phone number. Depening on your IP, you can also verify that you're human with reCaptcha or Email verification (throwaway work). If you connect from Tor, they most likely want a phone number (from most nodes, some also offer mail or reCaptcha). 
 
-Second, your phone number is no tied to your account and will be saved as a hash on the server for a limited amount of time, to prevent multiple creations with the same number.";1;0;False;Rafficer;dud169u;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Have some [help](http://lmgtfy.com/?q=throwaway+phone+number);4;1;False;imaginary_username;duc6z62;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
+Second, your phone number is no tied to your account and will be saved as a hash on the server for a limited amount of time, to prevent multiple creations with the same number.";1;0;False;Rafficer;dud169u;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Have some [help](http://lmgtfy.com/?q=throwaway+phone+number);4;1;False;imaginary_username;duc6z62;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
 "I don't recall having to verify with a phone number, is this something new?
 
 https://mail.protonmail.com/create/new?language=en
 
-Nothing here says anything about a phone.";11;1;False;jayAreEee;duccsg7;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
+Nothing here says anything about a phone.";11;1;False;jayAreEee;duccsg7;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
 "Well, would you upload them to their server? It doesn't matter in that case. They save the PGP key encrypted on server to ensure interoperability between devices.
 
-ProtonMail might just not be the service for you.";1;1;False;Rafficer;duczz1i;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-It's not supported within the client itself.  I just do the same thing I would do on gmail/etc... send someone your real public key, and they email you encrypted text with it.  Then you decrypt it yourself.  Same as you'd do anywhere else.;5;1;False;jayAreEee;duchtda;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Maybe ensuring annonymisation. ;1;1;False;tisallfair;duc1tos;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-I have used protonmail for 6 months now, I personally like it and I'm definitely not a bot.  To each their own.;4;0;False;jayAreEee;duccvka;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-ProtonMail tracks you stay away.;-6;3;False;nothingduploading;duc6hnq;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-ProtonMail would be interesting if it didn't generate a PGP key for you, and force you to use it by denying  the option to upload your own.;3;1;False;ravend13;duc7ocr;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Why not use zcoin, verge, or monero, for their focus on privacy?;-2;1;False;;ducdj2l;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Agree with everyone saying it's one of the best email services around. I joined as a beta tester since I supported the Kickstarter crowd sourcing campaign. Best ideas ever. ;6;0;False;Sillyoldactivist;duc9uly;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Nice!;8;0;False;PsyRev_;dubw54q;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-just use this: https://commerce.coinbase.com/;0;0;False;Castromuff;ducai2w;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Love me some ProtonMail!;14;0;False;;dubwixr;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-No.;0;0;False;humansftwarengineer;ducn7tm;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Lol these comments are clearly straight from proton marketing bots ;-19;3;False;__alias;duc38p2;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-[deleted];-18;1;False;;duc8dnl;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-[deleted];27;1;False;;dud3yjg;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Love your work u/chaintip;6;1;False;randy-lawnmole;dud3psq;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-What kind of assistance is needed? Can't they just get an address and receive payments at it?;2;0;False;anotherquery;ducbke2;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-seems like the perfect test case for coinbase's new bch merchant feature;2;0;False;;duccr46;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-The best of all!;7;0;False;BTCMONSTER;duc92x4;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-Considering that they have pretty good developers, what do they have difficulty with? Lack of time? Accepting it shouldn't be hard to do.;11;1;False;;duc1lb3;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-I registered ProtonMail after hearing the news.;5;0;False;webitcoiners;duc7uen;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-[deleted];10;1;False;;ducymh4;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-ProtonMail is really nice. I used this email service by myself.;17;1;False;kimvd;duc03xy;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-[deleted];44;2;False;;dubz2x6;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-They also have ProtonVPN so I would definitely use their service if they had BCH support.;66;0;False;j73uD41nLcBq9aOf;dubun6m;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-totally agree;17;0;False;vardanmargarid;duc2s7y;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-And yet it's design is [deeply flawed](https://www.reddit.com/r/btc/comments/7xwlt1/protonmail_asking_for_community_assistance_to/duc7ocr).;-5;1;False;ravend13;duc7s3z;ProtonMail asking for community assistance to enable Bitcoin Cash payments;https://twitter.com/ProtonMail/status/964220746317824000
-body;score;nb_replies;stickied;author;id;post_title;post_link
+ProtonMail might just not be the service for you.";1;1;False;Rafficer;duczz1i;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+It's not supported within the client itself.  I just do the same thing I would do on gmail/etc... send someone your real public key, and they email you encrypted text with it.  Then you decrypt it yourself.  Same as you'd do anywhere else.;4;1;False;jayAreEee;duchtda;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Maybe ensuring annonymisation. ;2;1;False;tisallfair;duc1tos;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+I have used protonmail for 6 months now, I personally like it and I'm definitely not a bot.  To each their own.;4;0;False;jayAreEee;duccvka;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+ProtonMail tracks you stay away.;-5;3;False;nothingduploading;duc6hnq;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+ProtonMail would be interesting if it didn't generate a PGP key for you, and force you to use it by denying  the option to upload your own.;4;1;False;ravend13;duc7ocr;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Why not use zcoin, verge, or monero, for their focus on privacy?;-1;1;False;;ducdj2l;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Agree with everyone saying it's one of the best email services around. I joined as a beta tester since I supported the Kickstarter crowd sourcing campaign. Best ideas ever. ;6;0;False;Sillyoldactivist;duc9uly;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Nice!;8;0;False;PsyRev_;dubw54q;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+just use this: https://commerce.coinbase.com/;0;0;False;Castromuff;ducai2w;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Love me some ProtonMail!;13;0;False;;dubwixr;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+No.;0;0;False;humansftwarengineer;ducn7tm;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Lol these comments are clearly straight from proton marketing bots ;-19;3;False;__alias;duc38p2;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+[deleted];-19;1;False;;duc8dnl;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+[deleted];26;1;False;;dud3yjg;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Love your work u/chaintip;7;1;False;randy-lawnmole;dud3psq;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+What kind of assistance is needed? Can't they just get an address and receive payments at it?;2;0;False;anotherquery;ducbke2;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+seems like the perfect test case for coinbase's new bch merchant feature;2;0;False;;duccr46;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+The best of all!;7;0;False;BTCMONSTER;duc92x4;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+Considering that they have pretty good developers, what do they have difficulty with? Lack of time? Accepting it shouldn't be hard to do.;10;1;False;;duc1lb3;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+I registered ProtonMail after hearing the news.;6;0;False;webitcoiners;duc7uen;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+[deleted];9;1;False;;ducymh4;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+ProtonMail is really nice. I used this email service by myself.;20;1;False;kimvd;duc03xy;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+[deleted];48;2;False;;dubz2x6;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+They also have ProtonVPN so I would definitely use their service if they had BCH support.;64;0;False;j73uD41nLcBq9aOf;dubun6m;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+totally agree;16;0;False;vardanmargarid;duc2s7y;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
+And yet it's design is [deeply flawed](https://www.reddit.com/r/btc/comments/7xwlt1/protonmail_asking_for_community_assistance_to/duc7ocr).;-3;1;False;ravend13;duc7s3z;ProtonMail asking for community assistance to enable Bitcoin Cash payments;7xwlt1;https://twitter.com/ProtonMail/status/964220746317824000
 "> Do you not like these links? Because reddit apparently says whoever made the sub can do whatever they want with it despite if the users really hate it so I suppose that until r\bitcoin is corrected I will keep this up
 
 The titles of the links when you hover over them, awesome!
 
-Is this new though?";66;1;False;Kakifrucht;ducx4ds;I was randomly reading the sidebar at /r/HailCorporate...;https://i.redd.it/w9p1fvcpzmg01.png
-That's amazing.;11;0;False;chriswilmer;dud0gq5;I was randomly reading the sidebar at /r/HailCorporate...;https://i.redd.it/w9p1fvcpzmg01.png
+Is this new though?";67;1;False;Kakifrucht;ducx4ds;I was randomly reading the sidebar at /r/HailCorporate...;7y1rso;https://i.redd.it/w9p1fvcpzmg01.png
+That's amazing.;12;0;False;chriswilmer;dud0gq5;I was randomly reading the sidebar at /r/HailCorporate...;7y1rso;https://i.redd.it/w9p1fvcpzmg01.png
 "Pretty cool. While your at it give the movie ""They Live"" a go. OBEY!
 
-Have a great weekend!";10;0;False;Tobiaswk;dud3qn9;I was randomly reading the sidebar at /r/HailCorporate...;https://i.redd.it/w9p1fvcpzmg01.png
-Some of you might think this is great but the point of /r/HailCorporate is to stay neutral and point out propaganda. The fact that the moderator put this up has pissed a lot of people off. Users in that sub don't want to be in the middle of the conflict... it is bad PR for our community, in my opinion.;-10;5;False;captaincryptoshow;dud40tc;I was randomly reading the sidebar at /r/HailCorporate...;https://i.redd.it/w9p1fvcpzmg01.png
+Have a great weekend!";7;0;False;Tobiaswk;dud3qn9;I was randomly reading the sidebar at /r/HailCorporate...;7y1rso;https://i.redd.it/w9p1fvcpzmg01.png
+Some of you might think this is great but the point of /r/HailCorporate is to stay neutral and point out propaganda. The fact that the moderator put this up has pissed a lot of people off. Users in that sub don't want to be in the middle of the conflict... it is bad PR for our community, in my opinion.;-10;5;False;captaincryptoshow;dud40tc;I was randomly reading the sidebar at /r/HailCorporate...;7y1rso;https://i.redd.it/w9p1fvcpzmg01.png
 "2016: https://www.reddit.com/r/HailCorporate/comments/5djn13/rhailcorporate_condemns_rbitcoin_for_censorship/
 
-Things just got worse with time.";41;1;False;2013bitcoiner;ducymq6;I was randomly reading the sidebar at /r/HailCorporate...;https://i.redd.it/w9p1fvcpzmg01.png
+Things just got worse with time.";41;1;False;2013bitcoiner;ducymq6;I was randomly reading the sidebar at /r/HailCorporate...;7y1rso;https://i.redd.it/w9p1fvcpzmg01.png
