@@ -19,10 +19,10 @@ def get_labeled_bitcoin_price():
     
     return data
 
-def get_labeled_dataset(number_of_file = 0, from_date = "2010-01-01", date_included = True, all_files = False):
+def get_labeled_dataset(number_of_file = 0, from_date = "2010-01-01", date_included = True, all_files = False, group_by_date = False):
     
-    limit_year = 2021
-    dataset = {"text" : [], "label" : [], "date" : []}
+    limit_year = 2022
+    dataset = {"text" : [], "label" : [], "date" : [], "score" : [], "nb_replies" : [], "stickied" : []}
     directory = "../Data/Reddit_Data/btc/comments/"
     
     max_number_of_files_number = len(os.listdir(directory))
@@ -41,7 +41,7 @@ def get_labeled_dataset(number_of_file = 0, from_date = "2010-01-01", date_inclu
     
     number_of_file = max_number_of_files_number if number_of_file > max_number_of_files_number else number_of_file
 
-    while (count < number_of_file and year < limit_year and not all_files) or (all_files and count < number_of_file):
+    while (count < number_of_file and year < limit_year and not all_files) or (all_files and count < number_of_file and year < limit_year):
         month_string = month if month >= 10 else f"0{month}"
         day_string = day if day >= 10 else f"0{day}"
         
@@ -50,13 +50,24 @@ def get_labeled_dataset(number_of_file = 0, from_date = "2010-01-01", date_inclu
        
         if os.path.exists(file) and date in bictoin_price_dict.keys():
             label = bictoin_price_dict[date]
-            df = pd.read_csv(file, sep=";", header=None)
-            
-            dataset["text"].extend(list(map(lambda s : str(s), df[0])))
-            dataset["label"].extend([label for i in df[0]])
-            dataset["date"].extend([date for i in df[0]])
+            df = pd.read_csv(file, sep=";")
+            df["body"] = [str(x) for x in df["body"]]
+            if group_by_date:
+                dataset["text"].append(" ".join(df["body"]))
+                dataset["label"].append(label)
+                dataset["date"].append(date)
+                dataset["score"].append(None)
+                dataset["nb_replies"].append(None)
+                dataset["stickied"].append(None)
+            else :
+                dataset["text"].extend(df["body"])
+                dataset["label"].extend([label for i in df["body"]])
+                dataset["date"].extend([date for i in df["body"]])
+                dataset["score"].extend(df["score"])
+                dataset["nb_replies"].extend(df["nb_replies"])
+                dataset["stickied"].extend(df["stickied"])
             count += 1
-            
+          
         day += 1
         if day > 31:
             day = 1
@@ -65,11 +76,15 @@ def get_labeled_dataset(number_of_file = 0, from_date = "2010-01-01", date_inclu
         if month > 12:
             month = 1
             year += 1
+        print(count, date, year, year < limit_year)
     print("Number of files loaded : ", count)
     return pd.DataFrame(dataset)
 
 def get_LDA_data():
-    return pd.read_csv("../Data/LDA_Data/save.csv", sep=",")
+    return pd.read_csv("../Data/LDA_Data/save2.csv", sep=",")
+
+def get_TFIDF_data():
+    return pd.read_csv("../Data/TFIDF.csv", sep=",")
 
 def get_prediction_stats(df_prediction):
     counter_correct_preds = collections.Counter(df_prediction["correct"])

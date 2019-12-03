@@ -6,8 +6,9 @@ from numpy import array
 from keras.preprocessing.text import one_hot
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import Sequential
-from keras.layers import Dense, Dropout
+from keras.layers import Dense, Dropout, Activation
 from keras.layers import Flatten
+from keras.layers import Conv1D, GlobalMaxPooling1D
 from keras.layers.embeddings import Embedding
 from nltk.tokenize import word_tokenize
 from sklearn.model_selection import train_test_split
@@ -34,6 +35,9 @@ def get_train_test_data(texts, labels):
     texts_train, texts_test , labels_train, labels_test = train_test_split(padded_coded_sentences, labels , test_size = 0.20)
     return texts_train,texts_test,labels_train,labels_test,vocab_length,max_sentence_size
 
+#model.add(Conv1D(250,3,padding='valid',activation='sigmoid',strides=(2,2)))
+#model.add(Dense(250, activation="softplus"))
+#model.add(Dense(1, activation="sigmoid"))
 def get_model(texts_train, labels_train, vocab_length, max_sentence_size, epochs = 100, batch_size=100, activations_functions = ["sigmoid"], verbose = 0, dropouts = {}):
     model = Sequential()
     model.add(Embedding(vocab_length, 20, input_length=max_sentence_size))
@@ -42,6 +46,7 @@ def get_model(texts_train, labels_train, vocab_length, max_sentence_size, epochs
         model.add(Dense(1, activation=activation_fun))
         if activation_fun in dropouts.keys():
             model.add(Dropout(dropouts[activation_fun]))
+    
     model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['acc'])
     model.fit(texts_train, labels_train, epochs=epochs, verbose=verbose, batch_size=batch_size)
     print(model.summary())
