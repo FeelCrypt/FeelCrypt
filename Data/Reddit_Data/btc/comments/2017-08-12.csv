@@ -1,0 +1,758 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+:( are you okay?;0;1;False;conkersbadhairday;dlhxlr2;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I am starting to hear this often, but it is not true. The block is the data being hashed by the miners. The signature data is not being hashed and thus not part of the block. The older clients also ignore this signature data because it is not part of the block.;1;0;False;SharpMud;dlhxur0;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Blocks are the data being hashed by miners, the signature data are not part of this hash and thus not a part of the block.;2;1;False;SharpMud;dlhxy3e;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Lurk more and/or ask specific questions.;3;0;False;moderndaft;dlhw8c9;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I don't agree and I feel sorry for you if you really think that. Just don't let your feelings get in your rational.;1;1;False;jaumenuez;dlj41y6;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I can certainly see why they would be put off. 
+
+It will be their responsibility to learn though and if they do, the rewards they reap will be massive. ";1;0;False;poorbrokebastard;dli75u8;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> But I definitely read your previous comment as an argument for keeping malleability to prevent off-chain scaling, and my response reflected that.
+
+It was originaly presented at a time when proponents fo limiting transaction capacity to 1MB were proposing it as a fix to scaling bitcoin. 
+
+>Second, I don't think malleability is primarily an issue for zero-conf. I see it more as a risk for poorly designed payment systems looking for whether their transaction has confirmed by ID. This is something that should work. It's an obvious significant cost to complexity that it doesn't and an obvious SFYL potential.
+
+I've seen ways around this problem, with somthing similar to a Child Pays for Parent scenario. No point arguing the fact now, we're not getting a fix for bitcoin transactions, and we are getting a fix for segwit transactions. but we are getting a 2MB hard fork and so long as we keep the limit above demand i see no need for concern. 
+
+>Off-chain transactions pay fees when they settle.
+
+if you don't have too and it costs $100 to settle who is going to bother? ";1;0;False;Adrian-X;dlhygdq;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+It is in dispute, nothing about SegWit keeps a node from signature data. If a node wants it, all it has to do is get it. Not everyone will prune signature data just like not all validating nodes prune old blocks today. Signature data is important and will be kept by any who wish to use a fully validating and storing node to help promote a healthy network. SegWit changes none of that. ;1;0;False;Linrono;dliqagn;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"So it gives players that are big enough to run full nodes an incentive. Which is not a net gain, since full nodes in the baseline case have all the signatures.
+
+Can you give examples of the marginal players, the ones big enough to keep the blockchain but not enough to keep all signatures? I am having difficulty finding a use case where Segregated Witness beats Simplified Payment Verification. In both cases, you're going to put your trust on a full node for the archive.";1;1;False;mraowbot;dlhzyp4;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Yes. Just illustrating that OP is not being very accommodating to newbies in sub that he frequents. I asked him to provide me with similar information he's expecting others to provide to him and what does he do? He gives me a link and expects me to do my own educating, that's so elitist!!
+
+Why doesn't he take the time to explain every little thing about the thing I want to learn about? Why is he expecting me to take the time to click links and learn for myself?
+
+It's pointing out hypocrisy.";2;0;False;PilgramDouglas;dlhzmdo;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+As a comparative layman who understands enough to embrace BCH I do share your sentiment but am curiously fascinated by the cryptofiend banter. Though to label core a communist regime is incorrect (authoritarian is the word you're looking for). r/btc is more akin to communism. Many subs also create an r/btc101 which might be useful in this instance. ;3;0;False;veganmaister;dlhum6z;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Thank you for taking the time to explain those things in layman terms.
+
+As someone who up until recently only read r/Bitcoin, could you expand on that:
+
+> There are better alternative solutions to almost everything SegWit does.
+
+I promise I'm just trying to see both sides of the coin.";8;1;False;dJe781;dlib7gm;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I'm still having a tough time believing Segwit is somehow a bad thing. My only real concern would be that 2nd layer ""solutions"" might somehow be used to reconstruct a system of control over us just like the central banking cartel did with their debt-based monetary system. ";2;2;False;New_Dawn;dlicsvc;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> BIP141 has some theoretical / technical risks which could lead to loss of funds
+
+No, it doesn't. Stop repeating debunked bullshit.";-1;1;False;aceat64;dlicuf5;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Actually, SegWit allows light nodes to completely verify that a transaction is in a block without having to download and verify witness data. This was impossible before as the witness data before was a part of the transaction and unverifiable without the witness data since they were hashed together. It creates a lighter node that can still verify which transactions are in a particular block.;2;1;False;Linrono;dlip12a;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I did what everyone instructed and moved all of my BTC to a wallet (electrum) before the fork. So now I have an equal amount of BTC and BCH? I don't understand how I would go about spending those on one chain or the other. Should I have a separate balance for each coin, and I spend them as if they're two completely separate currencies?;2;1;False;;dli8d0n;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Miners would listen to him. I doubt he would be able to steal money like ETH did, but thats because Bitcoin's protocol makes that more difficult. He would be able to dictate protocol changes. He could change the inflation rate, maximum number of bitcoins, block size and block times.;1;0;False;bankbreak;dlicibw;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"When I make technical arguments, and the only rebuttals I get are personal attacks, I know I'm winning the debate, and so do all the casual readers who stumble across this.
+
+If you have something to say, make a technical argument and leave these petty personal attacks out.  I can't imagine how bad your life is at home, that you feel the need to viciously attack strangers on the internet, but I assure you, your opinion is insignificant and irrelevant to me.";5;1;False;gizram84;dlhzlfs;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+20 gig blocks isnt enough for 7 billion people. Minimum of 1 terrabyte blocks;1;0;False;bankbreak;dlicmul;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+its not an easy game and people ask a lot of dumb questions before doing research. Sometimes its hard to be welcoming to seals in a pool full of sharks and whales. ;1;0;False;nopantstank;dlioqzt;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Keep in mind that a subreddit is not a unified thing. The toxic and abusive posters, who seem to have a lot of spare time on their hands, not to mention multiple identities, tend to drown out and out-vote the saner voices.;3;0;False;ray-jones;dlhudeh;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Great post! As a beginner myself, I feel like it's not even worth asking questions here because you'll just be judged and given the explain it like I am a 40 year old computer software engineer answer. ;2;0;False;Tyrantt_47;dlhz2xi;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"You can always perform a search to find out what all that means. It's your responsibility too.
+
+ I really don't think that this community is so bad. I was once a noob and had no trouble finding out what all those terms mean. In fact this community is rather excellent with helping noobs. Try to see if that happen in other technical fields. 
+
+Also you cannot expect people to define every term in every post. ";2;0;False;backforwardlow;dlhy3wc;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Yes, that's the gist of the ""it's less safe"" argument. In BTC and BCH now, all nodes have the full transaction which promotes decentralisation. Lightweight nodes just prune ""historical"" transactions (so they only keep recent transactions). This is also a risk to some extent, but because the most recent transactions have the fewest confirmations they're also the easiest to attack: removing old transactions isn't too much of a problem
+
+The argument against SegWit is that by removing the signature, lightweight nodes can't verify transactions, and the network relies on a smaller number of full nodes
+
+Whether you think this is a risk is for you to decide, although obviously the further we go into this stuff the harder it is for me to stay purely factual - so in the interests of declaring my own biases, my opinion is that this seems a rather unlikely attack vector, but that it's an attack vector nonetheless and I'm not sure it's the right solution, although I don't see it as ""the enemy of Bitcoin"" or anything like that";2;1;False;audigex;dlijwkf;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+To get to 8;3;0;False;lmf4o;dlihkfr;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"My main suggestion would be to go find articles and YouTube videos that explain the underlying technology: private and public keys, hashes etc. Once you understand that, find some that link those things to blockchain.
+
+That will give you a reasonable fundamental idea of *how and why* things work in Bitcoin, which then gives you the basis to understand these kinds of abstractions because you can see they fit back in with the keys/hashing/signatures/blockchain etc";2;0;False;audigex;dlijrk7;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"
+>Also, a question, if segwit can potentially increase block size by 3-4x why do we have to increase block size to 2 MB? 
+
+Segwit really only gets us to ~1.7-2MB ""blocks"" we wouldn't expect to see much above that even though 4MB is technically permitted.";1;0;False;jessquit;dlijaev;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Op would be delighted to study at an engineering school;2;0;False;gubatron;dlhwl6x;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+should probably start a community btcNoobs or btc4regularFolks. ;2;0;False;gubatron;dlhwekz;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Imagine the price action if it weren't a nightmare.;1;0;False;dietrolldietroll;dliqcwa;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Regardless of your opinion, THAT is what we invested in. Not some off chain payment system. We wouldn't have invested money into that. 
+
+Get it?";1;0;False;poorbrokebastard;dlhvojb;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"There were two presidents that really tried to undermine the Federal Reserve. 
+
+They were both assassinated. ";6;0;False;poorbrokebastard;dlhvslw;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I am no XXXcoin maximalist. I want cryptocurrencies and blockchain to thrive.
+
+So I hate those discussions "" we are better than them"". I want people to see the opportunity the blockchain is. I want to see a flippening ""FIAT vs Crypto""!! So I will still look at r/btc and r/bitcoin and any other crypto sub.";1;0;False;cryptohazard;dlisy9n;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Yes, it allows unlimited scale like nuclear power promised unlimited energy. It is a good scaling solution, but it has limits and thus we should invest it multiple scaling options not just one. ;3;0;False;SharpMud;dlhxr8s;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Use Reddit Enhancement Suite (RES) and hit source on comments. This shows the text before markdown.
+
+That allows you to perfectly copy and paste text.
+
+
+Like me copying and pasting his comment above: 
+#-----------------------------------------------------
+Your lists are getting combined/reset by Markdown. Easier to just leave off the numbers and put the questions as quotes as though we're on good old forum software in 2004. If you want to hit reply, copy my markdown, paste it into your comment, I'll delete this post.
+
+>What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""
+
+Alters incentive structure of bitcoin, changes the way signatures are stored, completely disrespects the white paper, which is what we invested in.
+
+>Can we get an acronym master list with short definitions for things?
+
+Wish I could help here but you are probably going to have to do what all of us did, just study until you figure it out.
+
+>What are transaction maleability/quadratic hashing, why are small blockers so concerned with the two (and always both brought up side by side)?
+
+TM and QH are two minor imperfections in the Bitcoin Network. Solving these issues right now is by no means crucial for the functioning of bitcoin, but L2 won't work without, so that's why they make such a big deal out of it. They need it to push the L2 onto us.
+
+>Who are these people everyone speaks of?
+
+Jihan Wu is the owner of the biggest mining equipment manufacturer, a big blocker, he gets slandered all the time but there is nothing really bad about him.
+
+> What's the definition of a second-layer solution, and does Bitcoin Improvement Proposal 141 meet that definition
+
+A second layer solution is a network built on TOP of bitcoin. You can transact back and forth on a ledger, but the final balances don't get settled until you perform an on chain transaction. Think of it like a paypal account, based on bitcoin, backed by bitcoin (so they say.)
+
+>What's the long-term plan for incentivizing miners to mine?
+
+Transaction fees.
+
+>How fucked are we when some guys at MIT build the first mostly-functional quantum computer? Will we have plenty of time to prepare before that day arrives?
+
+Not fucked at all, yes we can make minor changes to prevent this, but it probably won't be necessary for a long time. Bitcoin is extremely cryptographically secure. It is something like a million times the combined computing power of the whole world to crack a BIP38 encryption.
+
+>Why did Satoshi disappear?
+
+Either he's already dead, or he disappeared for his own safety. Think about what he did.
+
+>Why is China so involved in cryptocurrency?
+
+Most mining equipment is made there, they have a lot of cheap hydroelectricity, the government gives subsidies to bitcoin miners (not 100% sure about this though) and think about the chinese culture, bitcoin is good for them. Plus chinese government has restrictions on moving capital which pushes a lot of people to crypto.";5;0;False;crowbahr;dligxsk;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Sometimes it's more constructive to be the bigger person, and not stoop to their levels. ;1;1;False;ChrisTheGuy;dli9km6;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I would also offer my help. I am quite computer savy and studied CS, but cryptos are a whole new world.
+Studying it now for 2 months. So if you need input, let me know";2;1;False;lmf4o;dlihsx7;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"But you're not making technical arguments - simply assertions (""LN will scale to 7B"" when it can't scale to more that a few thousand now, ""Segwit fixes Malleability"" - maybe, but only for SW txns) without any facts.
+
+Assertions that have been debunked many, many times here.  
+ ";1;0;False;7bitsOk;dli84sn;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I said verify transaction is in a block, not the transaction themselves. That's for the lighter node. If you want to verify transactions themselves, you have a heavier node that downloads the witness data and verifies it. That heavier node would be the same as nodes pre-SegWit.;1;1;False;Linrono;dlipnin;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Can't believe it. We finally found /u/memorydealers alt. He criticized him just to throw us off the scent.  ;0;0;False;Its_free_and_fun;dlhz36t;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Its ironic that a post which is dripping with calls to be friendly is homophobic.  Get rid of the ""cock suckers"" line and drop that language quick smart.  Its totally inappropriate.  That sentiment is part of the elite attitude which turns people away.
+
+The premise of your message is correct.  It is very difficult to keep up after a short break because of the reasons you have outlined and because the topic is technical and complex.";-1;1;False;--_-_o_-_--;dlhudk0;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"It's not really a debate. It's mostly you just refusing to answer simple, basic questions like ""is deceit a good tool for moderators to use?"" Here's another one: What does it say about /r/bitcoin if their leadership team feels they have to use these tactics?
+
+And what does it say about you when you can't call deceit what it is? How am I the one who's thinking with emotions, here?";1;1;False;anthson;dlj8m1t;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> I am not trying to prevent anything, just pointing out we don't need to change  the bitcoin incentive design and consensus rules to make it possible. 
+
+I agree malleability is not the biggest issue ever. But I definitely read your previous comment as an argument for keeping malleability to prevent off-chain scaling, and my response reflected that.
+
+> if its not confirmed in a block it has not happened, don't send unconfirmed funds, that's how bitcoin works. gravity can be irritating, people learn to use it effectively. 
+
+First, while zero conf is inherently insecure, I don't agree with acting like it's horrible or against Bitcoin's design. Satoshi gave examples of how it could work. Many payment processors implement it. It's a great way to be able to get nearly-instant payments. A confirmation is a settlement; the transaction is the payment. A double-spend can be fraud depending on the circumstances.
+
+Second, I don't think malleability is primarily an issue for zero-conf. I see it more as a risk for poorly designed payment systems looking for whether their transaction has confirmed by ID. This is something that *should* work. It's an obvious significant cost to complexity that it doesn't and an obvious SFYL potential. Sure, everyone should know about it and know how to code around Bitcoin's bug but that doesn't make it right.
+
+> I'm not opposed to off chain solutions there are lots, I'm opposed to changing the consensus rules precisely to accommodate a pacific proposed solution, if the 1MB is a bug that has been useful to achieve that goal then malleability is useful too - remove the limit and lets remove malleability, keep the limit then keep malleability you can keep the limit and remove malleability. that's destroying the network incentive to settle all fee paying transactions on chain.
+
+There are some clarity issues here but I'll point out that 1MB is not a bug. It was a deliberate design choice. That doesn't mean it shouldn't be changed. I think you're kind of abusing the term ""bug"".
+
+To be clear: I think increasing capacity is a good idea. But by no stretch of the imagination should 1MB hard cap be called a bug.
+
+> 
+to clarify all users pay for bitcoin security, some off chain users use bitcoin security withoout paying the fees needed to secure it, when there is no more reward, who pays for fees? the of-chain solutions who don-t have too? I honestly dont have a problem removing transaction malleability, I have a problem removing it and keeping a transaction limit. The limit literally will force people into using layer 2 transaction networks. 
+
+Off-chain transactions pay fees when they settle. I think there's always going to be enough demand for on-chain to keep some fees around. I've just never been as concerned about the obsession with always having massive hashing and being terrified of running out of fees in the future or anything. I really don't think it's the biggest issue.
+
+I do agree that the 1MB limit is long overdue to be replaced. Frankly, I don't even believe that it will push people into layer 2 as much as into other coins: personally, the limit was a major factor in me starting to look at alts.
+";2;1;False;coinaday;dlhxklt;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+That's basically my point... lightweight nodes used to be able to verify all recent transactions, now they can't. That clearly reduces decentralisation even if we take into account that lightweight nodes never had full history ;1;1;False;audigex;dlippxa;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"There's been so many comments/posts that have debunked that CSW claim. SegWit doesn't make it so miners can steal funds or process blocks without signatures. If you send a block with SegWit transactions but no signatures to a SegWit aware node (90% of the network) it will ban you.
+
+Miners can't steal funds spent using segwit without forking themselves off to a chain that no one will follow, no exchanges, no businesses, no users are going to transact on a chain where miners have changed the rules to make theft allowable.";1;0;False;aceat64;dlirm8m;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Points for creativity.
+
+First, it wasn't designed to do that. So at best, it's an ""unintentional feature"". Which is just a bug you happen to like.
+
+Second, while I don't like Lightning, in large part because of the way it's been oversold into vaporware status, and I much prefer on-chain scaling to off-chain ""solutions"", I don't think trying to prevent anything from happening offchain is useful.
+
+Third, it *is* irritating. Not insurmountable, but it *can* lead to losses if a person doesn't realize that a transaction can be confirmed with a different ID than it was sent out with. That's just not a good design.
+
+The scapegoat argument you make sounds a lot like hyperbole. It may be some people have made that case, but I've never seen anything anywhere near as extreme as that (although I've made a point of avoiding /r/bitcoin for a while now).
+
+Finally, I'm not convinced that malleability would be enough to prevent any and all off-chain solutions. For instance, a tipbot is technically off-chain scaling, and that works just fine. Comparatively, at least Lightning and similar solutions are using actual Bitcoin transactions which could be settled on-chain in theory. So you would prefer to prevent off-chain scaling in what is essentially a smart contract type of design in favor of only allowing centralized off-chain scaling?
+
+To try to clarify that last point further: there are going to be people doing business off-chain. Why would you deliberately want to prevent Bitcoin transactions from being able to be used just because you don't like the way they're being used? Off-chain scaling is not necessarily opposed to on-chain scaling. Lightning could never work with a 1MB block size. Don't let Core & Lightning poison the well for any and all future ""Layer 2"".";3;2;False;coinaday;dlhvov4;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Don't bother. Bitcoin fucks have always been a shit crowd. Go look at Bitcoin talk.
+
+Your best bet is listen to Andreas or others for the technicals and just come here for the days of our lives drama";1;0;False;couchdive;dli39x0;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> It's clear the small-blockers are adopting authoritarian (communist/fascist) propaganda and misinformation campaigns, while big-blockers take a free-speech libertarian approach to discussion. That's enough for me, and enough for most who subscribe to /r/btc in favor of /r/bitcoin. You really don't need to slap your dick in my face over and over when it comes to this North Corean bullshit. I get it. They're a bunch of cock suckers. But that's why we forked, isn't it?
+
+You were creating an honest post until it became the same as 90% of the other posts on here. 
+
+Great. ";1;0;False;midipoet;dlijv1f;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"With SegWit, lightweight nodes (by far the most common) cannot fully verify their own data because they do not have signatures for the transactions. I don't think that's in dispute?
+
+So we have fewer nodes with the ""full picture""
+
+I'm not saying that's bad for individuals, who can indeed run a full node if they need one - I'm saying it's bad for the overall system, since there are far fewer blocks providing the network authority, which makes attacks potentially easier and reduces decentralisation 
+
+I'm not saying this kills Bitcoin, I'm just saying it's a potential cause for concern ";1;1;False;audigex;dliq2nh;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I don't understand your point. What part of SegWit makes it so a node cannot verify transactions? All it does is make an even lighter node that still does some verification possible. It does not remove any types of already existing nodes. If you want to verify all transactions and or the block history to promote decentralization, just run a node that does it. SegWit takes none of that away.;1;1;False;Linrono;dlipx5q;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> Third, it is irritating. Not insurmountable, but it can lead to losses if a person doesn't realize that a transaction can be confirmed with a different ID than it was sent out with. That's just not a good design.    
+
+Say that again until more people understand.
+--------------------      
+
+I just had a big tx get its txid changed and can only concur.      
+This can get used to prank or cheat people,      
+if it does not cause heart attacks for those who notice.         
+
+The social trick would be to engineer a txid change     
+and then claim the tx never happened,      
+giving the culprit a window of time to instigate off-line trainwrecks.      
+";3;0;False;xpatri;dlhycbk;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> I don't think trying to prevent anything from happening offchain is useful
+
+I am not trying to prevent anything, just pointing out we don't need to change  the bitcoin incentive design and consensus rules to make it possible. 
+
+>First, it wasn't designed to do that. So at best, it's an ""unintentional feature""
+
+sure lets define the costs and benefits before labeling it a bug. 
+
+>Third, it is irritating. Not insurmountable, but it can lead to losses if a person doesn't realize that a transaction can be confirmed with a different ID than it was sent out with. That's just not a good design.
+
+if its not confirmed in a block it has not happened, don't send unconfirmed funds, that's how bitcoin works. gravity can be irritating, people learn to use it effectively. 
+
+>I'm not convinced that malleability would be enough to prevent any and all off-chain solutions.
+
+I'm not opposed to off chain solutions there are lots, I'm opposed to changing the consensus rules precisely to accommodate a pacific proposed solution, if the 1MB is a bug that has been useful to achieve that goal then malleability is useful too - remove the limit and lets remove malleability, keep the limit then keep malleability you can keep the limit and remove malleability. that's destroying the network incentive to settle all fee paying transactions on chain. 
+
+to clarify all users pay for bitcoin security, some off chain users use bitcoin security withoout paying the fees needed to secure it, when there is no more reward, who pays for fees? the of-chain solutions who don-t have too? I honestly dont have a problem removing transaction malleability, I have a problem removing it and keeping a transaction limit. The limit literally will force people into using layer 2 transaction networks. ";2;1;False;Adrian-X;dlhwu7l;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Goddamn, what a post.  5 stars 2 thumbs up and all that;1;0;False;neededafilter;dlhxec4;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Segwit and LN will make bitcoin viable for the common man.
+
+Segwit is done. Now Bitmain is almost out of the picture, LN is coming too.";0;0;False;Bitcoinium;dlih0rk;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I'm too tired of this debate. This is an ***open*** source community. You have your coin. Let's see how it goes.;1;1;False;jaumenuez;dlj7kfz;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+">As it sits, I honestly can't stand most of you. There are just as many elitist pricks here as in /r/bitcoin, even if the folks here have picked the right side.
+
+...then you really have to learn a lot still, but you won't learn it here.
+
+> That needs to change. I and plenty of others want to be a part of this.
+
+if you knew better, you wouldn't want to.";0;0;False;Amichateur;dlipw53;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Listen all you want - be aware that there are many paid shills here for corporate interests who have split Bitcoin community since 2014. For example, Blockstream (employs Core developers) has social media specialists to ""manage"" conversations in multiple forums. ";1;0;False;7bitsOk;dli7wm4;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"True, but the guy is routinely rude. I finally was able to shut him up by digging down into the substance of what he is thinking technically but it took a few days of back and forth laced with insults since I'm not going to engage so extensively with him without fighting back while he is insulting me the entire way. 
+
+Tldr; he believes LN will evolve to a hub and spoke model. I do too, but there have been plenty of reasoned arguments from many smart people why this will be bad. ";1;0;False;H0dl;dlib0xs;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"What a piece of crap post. Vulgar too. The references to Roger and Jihan from a ""newbie"" indicate that this is probably an actual instance of ""concern trolling"" from the core crowd. 
+
+Bitcoin is for the common man? We're elitist?
+
+Who the hell are you? Do you think Roger was a computer scientist when he invested in Bitcoin? Of course not. He learned about the business environment and the basics of how Bitcoin works, and he invested. Why not shut up and learn a bit instead of calling everybody pricks because you don't know how to do a Google search? There are plenty of wikis and places to learn about Bitcoin. If you join the class late, you can catch up on your own at home on your computer. 
+
+I know we support free speech here, but this vulgar crap post (shitposting takes more effort and humor) should be classified as ""concern trolling"" that is likely inflated by r/Bitcoin upvotes. ";3;0;False;micahdjt1221;dlifned;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+THANK YOU! This shit is true and well deserved. I asked a question about Segwit here once and I was trolled, thank you for your post!;3;0;False;DiogenicOrder;dlhv8uc;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> Blocks are the data being hashed by miners
+
+By that definition, the signatures are *always* in the block.  Blocks are also things stored by non-mining nodes, in which case the signature data is optional.
+
+> the signature data are not part of this hash
+
+That is incorrect.  You understand the concept of the Merkle tree, right?  The hash of hashes of hashes validates everything in the tree?
+
+The combined hashes of all the signature data are included in the coinbase of a transaction, which means that the block header that's hashed in mining indirectly includes hashes of the transaction data *and the signatures*, and therefore neither can be changed later without invalidating the block.
+
+Signatures are not hashed *every time* by miners (i.e. billions of times a second), they're hashed once per block, exactly like the transaction data itself.
+
+If you're having trouble visualizing this, the following may help:
+
+[https://www.youtube.com/watch?v=DzBAG2Jp4bg#t=2m25s](https://www.youtube.com/watch?v=DzBAG2Jp4bg#t=2m25s)";2;0;False;Codebender;dlhysew;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+What exactly do you not agree with? I documented their thought manipulation pretty well. Are you saying this behavior is just simply good moderation? Or are you saying it's not deceitful to try to trick people that way?;1;1;False;anthson;dlj45un;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Oh I don't disagree at all seeing as there are tons of small-blockers posting all over the place in this sub. Them and the big blockers. Oh, and the uneducated. Yep. All of us all posting. Probably a HUGE amount of misinformation.
+
+Can you point to any place where a concerted effort led by a tiny group has censored thought on /r/btc? Then gone back and banned people who pointed out the censorship while again censoring those comments? I don't know, I don't remember /r/btc ever altering the [subreddit stylesheet](https://i.imgur.com/rIZehzI.png) to hide the fact that censorship was taking place. See, even when the mods of /r/bitcoin can't censor their way out of a problem, they [sort a thread by controversial](https://www.reddit.com/r/Bitcoin/comments/3xr8ql/capacity_increases_for_the_bitcoin_system_bitcoin/) in order to bury opinions with which they disagree. Can you say anyone over here has done any of that?
+
+I used the word ""deceit"" for a reason.";2;0;False;anthson;dlhxw1q;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> Could you expand on that:
+
+> > There are better alternative solutions to almost everything SegWit does.
+
+---
+
+> ""Why is Flexible Transactions more future-proof than SegWit?"" by u/ThomasZander
+
+https://np.reddit.com/r/btc/comments/5rbv1j/why_is_flexible_transactions_more_futureproof/
+
+---
+
+> SegWit-as-a-softfork is a hack. Flexible-Transactions-as-a-hard-fork is simpler, safer and more future-proof than SegWit-as-a-soft-fork - trivially solving malleability, while adding a ""tag-based"" binary data format (like JSON, XML or HTML) for easier, safer future upgrades with less technical debt
+
+https://np.reddit.com/r/btc/comments/5a7hur/segwitasasoftfork_is_a_hack/
+";3;0;False;ydtm;dlimtef;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> 2nd layer ""solutions"" might somehow be used to reconstruct a system of control over us just like the central banking cartel did with their debt-based monetary system.  
+
+You mean like use 2nd layer vaporware as an excuse to stall adoption for two plus years all the while arguing as though the puny 1MB block size limit was some sort of critical unchangeable holy number?";3;0;False;jessquit;dlij9dr;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+2nd layer solutions, as there will be many, will be opt in. Many are open source and governless like Bitcoin. I'm sure some will come out and not have the users best interests. Hopefully we will weed those out quickly.;2;0;False;Linrono;dliou8k;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Care to explain? ;4;1;False;lmf4o;dlihepo;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+You're telling me a node can verify a transaction without the signature of the sender? How do you work that out?;1;1;False;audigex;dliphhw;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+With RES (Reddit Enhancement Suite) you get a 'source' button on the bottom of each post - easy copy-paste!;5;0;False;FutileDandelion;dlhyo0w;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Thank you. I'm just about to take a vacation and will ping you when I get started. ;1;0;False;Adrian-X;dlivaiu;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+More whiney bitches than elitist pricks.;-1;0;False;Warfrog;dlhzbbo;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+">[**UNBOXING A QUANTUM COMPUTER! – Holy $H!T Ep 19 [11:58]**](http://youtu.be/60OkanvToFI)
+
+> [*^Linus ^Tech ^Tips*](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) ^in ^Science ^& ^Technology
+
+>*^2,876,248 ^views ^since ^Jul ^2017*
+
+[^bot ^info](/r/youtubefactsbot/wiki/index)";1;0;False;youtubefactsbot;dliehx4;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+If you really need to be that cautious, a quick 30-second look at their user page should tell you everything you need to know.;1;0;False;anthson;dlhxfl6;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I'm a software engineer and I don't understand half this shit either. However, I won't down vote someone for asking questions, I agree that's counterproductive. ;2;1;False;crypto_lyfe_boyee;dlic2yy;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"We're not talking about some troll comments getting removed, here. We're talking about a well-documented gestapo-like effort to mass manipulate thought. That's not ""strong moderation.""";1;1;False;anthson;dlj1328;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+">What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""
+
+It was designed to fix transaction malleability (but only for SegWit transactions, not legacy) with the intention of never needing to hard fork. Because of this, its very sloppy and leaves a lot to be desired. But guess what, we have hard forks already. If it was a hard fork upgrade it would be much better and a lot of people wouldnt have issues with it. Many see it as Core's way to retain control of the development and build their side chains like Liquid where all the fees go to them, not miners.
+
+>What are transaction malleability/quadratic hashing, why are small blockers so concerned with the two (and always both brought up side by side)?
+
+This is when you alter an existing transactions signature. There are multiple solutions to this and SegWit is one. Child-pays-for-parent transactions is also a current way to avoid this. Some also believe transaction malleability is a feature to prevent tons of side chains from splitting up bitcoin into hubs using intermediaries. The fact is you can use bitcoin now without worry and there are ways to prevent and detect malleated transactions. This is a politicized point to support SegWit.
+
+>Who are these people everyone speaks of? I feel like I need a master roster. How can a new person care what Jihan Wu says if they have no idea who he is or why what he says is important?
+
+Eh? He is a miner who supports bit blocks. He is the CEO of the largest mining hardware manufacturing company for bitcoin. Hard to answer this one without specific questions.
+
+>What's the definition of a second-layer solution, and does Bitcoin Improvement Proposal 141 meet that definition? Or does it fall in a different category?
+
+A patented payments hub that has the potential to be monitored and controlled. Combined with a 1mb cap, you no longer have peer-to-peer transactions in bitcoin since there is no room left on-chain once real adoption occurs.You can build lots of neat features on second layer, but there are also many ways to execute this.
+
+>What's the long-term plan for incentivizing miners to mine? It seems like the ever-reducing reward for solving a block would have to be met with an ever-increasing price of coin or miners will start losing money. And eventually we hit a cap, right? Or is it that we'll always be approaching the cap, but halving the distance we move toward it so we never in effect reach 21 million total coins?
+
+Keeping transactions on chain is critical since hash power secures the network. Once the block reward is gone, the value of bitcoin (assuming success) will be very high and transaction fees will suffice to make revenue. Miners set their minimum transaction fees. This was Satoshis intention. If you take all transactions off chain, miners wont make profit and will move to a competing currency. large blocks allow of many transactions. 
+
+>How fucked are we when some guys at MIT build the first mostly-functional quantum computer? Will we have plenty of time to prepare before that day arrives?
+
+These technological developments dont happen overnight. We will have time to prepare. If there was some quantum computer that could break all encryption tomorrow you would have to worry about a LOT more than just your bitcoin private keys.
+
+>Why did Satoshi disappear? 
+
+The CIA was looking for him because they were onto silk road. Also, creating a currency that can technically remove power (currency control) from governments is not something you want to personally take claim for. Bitcoin doesnt have a leader. Its supposed to be market driven. 
+
+>Why is China so involved in cryptocurrency? Is it just the rich upper class, or are the poor taking advantage of free/subsidized electricity to generate wealth? If it's the latter, why aren't draconian Chinese authorities cracking down?
+
+China has a lot of excess energy that is not used. Its only logical that mining would grow quicker in China. You have Russia now stating they plan to give China competition to balance the mining distribution because they want a new global currency that isnt controlled by the US. Mining is more decentralized than it has ever been. Miner centralization isnt really an issue because the self interest of all involved is a larger valuation for bitcoin. Openly attacking the network would lower its value even for miners. If the Chinese government were to crack down on mining and take control, you could eaisly have a fork and people would rally to support the new chain. Many scenarios are possible. Bitcoin is all about censorship resistance. Look at the resistance to the 1mb cap for example, which was never the intended design for bitcoin going forward.";2;0;False;cdn_int_citizen;dli4ah8;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Great questions. ;2;0;False;midipoet;dlijxmz;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I agree we need a better form of communication to handle everyone's questions.
+
+I seriously think that a wiki format would be better than a forum format. Most of this stuff has been getting said over and over for the past few years - in posts and comments - basically just constantly having to fight against the nutcases at Core / Blockstream / r\bitcoin.
+
+---
+
+> What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad"".
+
+The main problem with SegWit, as I see it, is that it allows removing the signature data from the blockchain - and even allows miners to delete this data. This might sound cool until you remember that Satoshi _defined_ a Bitcoin as a ""chain of digital signatures"" - so getting rid of the signatures would probably seriously damage Bitcoin's security model.
+
+---
+
+> Holy shit! Greg Maxwell and Peter Todd both just ADMITTED and AGREED that NO solution has been implemented for the ""SegWit validationless mining"" attack vector, discovered by Peter Todd in 2015, exposed again by Peter Rizun in his recent video, and exposed again by Bitcrust dev Tomas van der Wansem.
+
+https://np.reddit.com/r/btc/comments/6qftjc/holy_shit_greg_maxwell_and_peter_todd_both_just/
+
+---
+---
+
+Below are a bunch of other posts about SegWit:
+
+
+> Is it me, or does the segwit implementation look horribly complicated.
+
+https://np.reddit.com/r/btc/comments/4tfcal/is_it_me_or_does_the_segwit_implementation_look/
+
+---
+
+> Segwit: The Poison Pill for Bitcoin
+
+https://np.reddit.com/r/btc/comments/59upyh/segwit_the_poison_pill_for_bitcoin/
+
+---
+
+> Segwit is too complicated, too soon
+
+https://np.reddit.com/r/btc/comments/4cou20/segwit_is_too_complicated_too_soon/
+
+---
+
+> Not voting for SegWit is not stalling progress. It will enable better solutions!
+
+https://np.reddit.com/r/btc/comments/5bc2gy/not_voting_for_segwit_is_not_stalling_progress_it/
+
+---
+
+> ""Regarding SegWit, I don't know if you have actually looked at the code but the amount of code changed, including consensus code, is huge.""
+
+https://np.reddit.com/r/btc/comments/41a3o2/regarding_segwit_i_dont_know_if_you_have_actually/
+
+---
+
+> SegWit as a soft fork is just a terrible hack job that let Core keep more control on Bitcoin development . core narrative present SegWit as a solution to two problems: fix malleability and increase capacity ( this, depending on who / when talk). I believe there are simpler solutions for both.
+
+https://np.reddit.com/r/btc/comments/4anbaq/segwit_as_a_soft_fork_is_just_a_terrible_hack_job/
+
+---
+
+> /u/jtoomim ""SegWit would require all bitcoin software (including SPV wallets) to be partially rewritten in order to have the same level of security they currently have, whereas a blocksize increase only requires full nodes to be updated (and with pretty minor changes).""
+
+https://np.reddit.com/r/btc/comments/3ymdws/ujtoomim_segwit_would_require_all_bitcoin/
+
+---
+
+> SegWit false start attack allows a minority of miners to steal bitcoins from SegWit transactions
+
+https://np.reddit.com/r/btc/comments/59vent/segwit_false_start_attack_allows_a_minority_of/
+
+---
+
+> Segwit economics
+
+https://np.reddit.com/r/btc/comments/41lpir/segwit_economics/
+
+---
+
+> Could Segwit Irreversibly Screw Up Bitcoin?
+
+https://np.reddit.com/r/btc/comments/4chy64/could_segwit_irreversibly_screw_up_bitcoin/
+
+---
+
+> /r/bitcoin maliciously censoring opposing views about SegWit
+
+https://np.reddit.com/r/btc/comments/57swfl/rbitcoin_maliciously_censoring_opposing_views/
+
+---
+
+> Why opposing SegWit is justified
+
+https://np.reddit.com/r/btc/comments/5dqeoq/why_opposing_segwit_is_justified/
+
+---
+
+> If Blockstream were truly ""conservative"" and wanted to ""protect Bitcoin"" then they would deploy SegWit AS A HARD FORK. Insisting on deploying SegWit as a soft fork (overly complicated so more dangerous for Bitcoin) exposes that they are LYING about being ""conservative"" and ""protecting Bitcoin"".
+
+https://np.reddit.com/r/btc/comments/57zbkp/if_blockstream_were_truly_conservative_and_wanted/
+
+---
+
+> Normal users understand that SegWit-as-a-softfork is dangerous, because it *deceives* non-upgraded nodes into thinking transactions are valid when actually they're *not* - turning those nodes into ""zombie nodes"". Greg Maxwell and Blockstream are jeopardizing Bitcoin - in order to stay in power. 
+
+https://np.reddit.com/r/btc/comments/4mnpxx/normal_users_understand_that_segwitasasoftfork_is/
+
+---
+
+> Every full node should be able to verify all transactions for itself back to the genesis block. Post SegWit ""soft"" fork, only clients complying with SegWit would be able to do this for UTXOs with SegWit histories. The network is no longer trustless, and its whole raison d'etre gets obliterated.
+
+https://np.reddit.com/r/btc/comments/58mtgz/every_full_node_should_be_able_to_verify_all/
+
+---
+
+";2;0;False;ydtm;dlin35z;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I'm not a new user but I'm also not a programmer and I totally agree with this post. Half the time I have no idea what the hell is going on. ;1;1;False;gone11gone11;dlibqbf;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Respect to everyone helping to give some info and answer the questions here. 
+Of course it's easy to get all shitty and snarky due to not everyone having the same ideas, but it's also good to take a step back, and refrain from throwing the shit to the ones trying to learn. ";1;0;False;gussulliman;dlie6uf;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I would bet on the people that have been exposed to both sides being correct, and the people that only get to hear what one side has to say as being incorrect.;1;0;False;TiagoTiagoT;dli855a;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Videos in this thread: [Watch Playlist &#9654;](http://subtletv.com/_r6t1ttt?feature=playlist)
+
+VIDEO|COMMENT
+-|-
+[Dr. Peter Rizun - SegWit Coins are not Bitcoins - Arnhem 2017](http://www.youtube.com/watch?v=VoFb3mcxluY)|[+4](https://www.reddit.com/r/btc/comments/6t1ttt/_/dlhm8lc?context=10#dlhm8lc) - What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""   In the bitcoin white paper:      We define an electronic coin as a chain of digital signatures.     Segwit segregates the transaction signatures from teh transa...
+[Roger Ver vs Tone Vays at Anarchapulco](http://www.youtube.com/watch?v=gkawrJJZgts)|[+3](https://www.reddit.com/r/btc/comments/6t1ttt/_/dlhu55b?context=10#dlhu55b) - What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""   Please watch this video:     What's the long-term plan for incentivizing miners to mine? It seems like the ever-reducing reward for solving a block would have t...
+[Segregated Witness Explained [Segwit] (Litecoin/Bitcoin)](http://www.youtube.com/watch?v=DzBAG2Jp4bg&t=145s)|[+2](https://www.reddit.com/r/btc/comments/6t1ttt/_/dlhysew?context=10#dlhysew) - Blocks are the data being hashed by miners   By that definition, the signatures are always in the block.  Blocks are also things stored by non-mining nodes, in which case the signature data is optional.   the signature data are not part of this hash ...
+[What is Segwit? Explained To A Child](http://www.youtube.com/watch?v=OFfBRzh9HmU)|[+1](https://www.reddit.com/r/btc/comments/6t1ttt/_/dlhdruc?context=10#dlhdruc) - What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""   Moves signature data out of the block, this has a bunch of good benefits but a lot of people here hate it for mostly political reasons.
+[Quantum Computers Explained – Limits of Human Technology](http://www.youtube.com/watch?v=JhHMJCUmq28)|[+1](https://www.reddit.com/r/btc/comments/6t1ttt/_/dlhqnnc?context=10#dlhqnnc) - Proof of individual concepts of quantum computing exist. A true quantum computer would break all non-quantum encryption effortlessly. You'd essentially have a key to nearly every digital lock in the world and you could solve blocks in seconds. If som...
+[UNBOXING A QUANTUM COMPUTER! – Holy $H!T Ep 19](http://www.youtube.com/watch?v=60OkanvToFI)|[+1](https://www.reddit.com/r/btc/comments/6t1ttt/_/dliehsc?context=10#dliehsc) - http://www.youtube.com/watch?v=60OkanvToFI
+I'm a bot working hard to help Redditors find related videos to watch. I'll keep this updated as long as I can.
+***
+[Play All](http://subtletv.com/_r6t1ttt?feature=playlist&ftrlnk=1) | [Info](https://np.reddit.com/r/SubtleTV/wiki/mentioned_videos) | Get me on [Chrome](https://chrome.google.com/webstore/detail/mentioned-videos-for-redd/fiimkmdalmgffhibfdjnhljpnigcmohf) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/mentioned-videos-for-reddit)";1;0;False;Mentioned_Videos;dliehw6;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"You've gotten few serious answers.
+
+> What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""
+
+Most transactions require digital signatures from the owner to be valid. SegWit moves these signatures to a different part of the data structure that makes up a block. Instead of being nested with transactions signatures are off in their own area.
+
+> What are transaction maleability/quadratic hashing, why are small blockers so concerned with the two (and always both brought up side by side)?
+
+The ID of the transaction is in part based on the signature. There can be multiple valid signatures for a given piece of data, and different signatures would give different IDs for an otherwise similar transaction. Because most transactions refer to previous transaction;s ID that makes things difficult. Further, the signature can be changed by anybody in a way that does not affect its validity but changes its data and therefore the transaction id.
+
+Quadratic hashing means that validating transactions is inefficient and as you add signatures to a transaction you increase the time it takes to validate disproportionately. If an attacker can make it take a long time to validate all their transactions the number of people that can validate them does down. The number of people actually validating that everything is correct decreases.
+
+> What's the definition of a second-layer solution, and does Bitcoin Improvement Proposal 141 meet that definition? Or does it fall in a different category?
+
+Most protocols are designed in layers. See the [OSI model](https://en.wikipedia.org/wiki/OSI_model) for example. It's a protocol that uses the underlying Bitcoin protocol but requires no changes to the Bitcoin protocol itself. Bip141 (segwit) is not a second layer solution, it's a change the the first layer. But that change makes it easier to build other layers.
+
+TCP is one layer of networking but it's harder to use than most developers want to deal with. HTTP was invented as a layer on top of TCP to transport documents and it's a lot easier for people to work with. It uses TCP underneath but handles a lot of other stuff as well.
+
+> What's the long-term plan for incentivizing miners to mine? It seems like the ever-reducing reward for solving a block would have to be met with an ever-increasing price of coin or miners will start losing money. And eventually we hit a cap, right? Or is it that we'll always be approaching the cap, but halving the distance we move toward it so we never in effect reach 21 million total coins?
+
+Transaction fees. Either the amount of transactions needs to go up a ton or the price per transaction does. Or somewhere in the middle.
+
+> How fucked are we when some guys at MIT build the first mostly-functional quantum computer? Will we have plenty of time to prepare before that day arrives?
+
+Bitcoin is quantum safe. Quantum computers don't help with mining at all. The worst they could do is reverse public keys to private keys but they can not reverse hashes to public keys. So as long as you don't reuse addresses there is no issues. If you do, you already have issues and should stop doing that.
+
+> Why did Satoshi disappear?
+
+He started to plan for his 2016 presidential run.";2;2;False;tcrypt;dlhzy0z;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""
+
+The reason you see that is because the debate has been done to death. Most regulars here are tired of talking about it.
+
+Many saw it as little more than a distraction even when it was first announced, and have no energy to re-explain what's ""bad"" about something that was never necessary in the first place.
+
+So we shitpost. ¯\\\_(ツ)_/¯";1;1;False;ArtyDidNothingWrong;dli520t;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+The latter;1;0;False;lmf4o;dlihwzb;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"/r/btc is educating me right now as I read your comment. Is that education you approve of? I read deep into all sorts of comments from many sides, including yours just now. That is /r/btc. How is it that is unhealthy, me reading your comment in /r/btc? There might be false information in this sub, but everyone has a platform to counter that information. Everyone has a voice, here.
+
+Contrast that to /r/bitcoin where moderators delete comments that go against their chosen narrative. They also censor and ban people who point out this censorship. Further, they alter the [subreddit stylesheet](https://i.imgur.com/rIZehzI.png) to hide the fact that censorship is even taking place to begin with. And when the mods of /r/bitcoin can't censor their way out of a problem? They [sort a thread by controversial](https://www.reddit.com/r/Bitcoin/comments/3xr8ql/capacity_increases_for_the_bitcoin_system_bitcoin/) in order to bury opinions with which they disagree.
+
+Can you say anyone over here has done any of that? I've heard your voice here. Do you think you'd ever get the same fair chance to hear mine over there?";2;1;False;anthson;dlics1f;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"See that's what Core wants. They don't want new people coming here to get information. They want those people ""learning"" over at /r/bitcoin's highly-controlled, censored echochamber. If people suspect every curious person of being a plant troll shill, they're giving the Core social engineering machine EXACTLY what they want.";2;0;False;anthson;dlicj0j;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Someone who might want to a) track the history of their own coins and transactions in a more private way than SPV gives you, and b) help relay transactions, might want to keep some pruned version of the blockchain. They may not need all the signatures. At any rate, the point is that they have the choice to do so. The main fear I hear around here is that somehow all the signature data will vanish completely from the network; that *nobody* will be keeping it. Since a lot of economic nodes have the incentive to do so, that's just FUD.";1;0;False;scientastics;dli8r1l;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Strong moderation sometimes is needed, and usually creates some collateral damage. I don't like it either.;1;1;False;jaumenuez;dlidqpz;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"r/bitcoin censors any discussion of scaling because they know that in a free and open discussion about scaling, continuing to increase the block size will quickly emerge as the obvious logical solution to the scaling ""Issue.""
+
+I use """" because it is not an issue at all, we've actually had 3 consecutive block size increases in the past and they all worked great. We got from one penny to $3600 per coin with this scaling method. I think we should continue it.";0;1;False;poorbrokebastard;dlhvg8y;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+">You guys hate people saying ""Bitcoin isn't for people living off $7 a day.""  Do you really think people who live off that little money have time to research and buy into your intellectual club? Does a person who lives off SEVEN DOLLARS a day have the time to parse through what a post like this actually means?
+
+Seems you really don't know much about the various lives of those around the world living off $7 a day.  Maybe they have no time because they're a Bangladeshi making 80c an hour, or maybe they have loads of time because they're an underemployed Albanian making $2 an hour.";1;0;False;ZombieTonyAbbott;dlid8gt;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Holy reading Batman;1;0;False;tazmanrising;dligjwx;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Quantum computers could break elliptic curve cryptography but SHA256 hashing is not known to be broken by it.;1;0;False;dskloet;dliai8y;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> The genesis block, mining power, and longest chain still define what Bitcoin is to me, and that's not Bitcoin Cash.
+
+Within the universe (aka domain, if you prefer that word) of any given bitcoin-like cryptocurrency, the genesis block, mining power, and longest chain define that currency. These rules do not apply to different universes. So you can have a Bitcoin within the Bitcoin Core universe, and you can have a Bitcoin within the Bitcoin Cash universe. And perhaps you will also have a Bitcoin within the Bitcoin Segwit2x universe. Each of these exist independently of the others.
+
+Once you get used to the idea that names need to be unique only within their own universe (aka domain, if you prefer that word), everything falls in place.
+
+This is not so different from having many cities called Springfield.";1;1;False;ray-jones;dlhxbsx;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I get what you're saying and mostly agree, but that elitism shouldn't ever be in used reply to a person less educated than yourself asking an honest question.
+
+You don't even have to explain, just provide a link to a prior explanation you gave. Or let someone else do it (we are a community, after all). The problem comes about when people assume the question is from a shill/troll trying to get a dig in, then they downvote an honest question and respond with hostility. Or they downvote simply because the person isn't in the know with the cool kids. That stuff absolutely has to stop.";2;0;False;anthson;dlhwfn0;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Bullshit.
+
+The concept was always that fees will supplement the block reward.
+
+Lots of small fees = incentive for miners.
+
+";3;1;False;WippleDippleDoo;dlijqn3;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I think this post has shown there are enough lurkers who will band together and support any moves to bridge the gap between casual observer and hardcore crypto aficionado.;1;0;False;anthson;dlice8s;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Still no idea what's going on aside from basics like the events and non personal history of Bitcoin. Hard fork = github forks for me lol. ;1;0;False;ScoopDat;dlibcz8;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Seriously. I read the history and I decided to support r/btc over r/bitcoin, BCH over BTC. But this sub has very rude unprofessional people trolling. If you raise any legit concern or question, they call you a troll. I feel very unwelcome visiting this sub.
+
+Mods please take some action on people who are trying to make your sub look bad.";1;0;False;shwekhaw;dliayui;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Its also a nightmare for returning users.;1;0;False;f_bastiat;dli54dj;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I've noticed alot of young-first time buyers in localbitcoins. I'm kinda worried they are gonna get burned buying into this ""bitcoin thing"" as the FOMO and the price action gets all these attention.  But when they realize it costs them $6 to do anything with the $500 of bitcoin they just bought, its not a particularity useful bit of technology they got on board with.   Without utility there is no value? ";1;0;False;barnz3000;dli4em1;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Completely agree. The amount of people who laughed at people with their coins on coinbase during the split was sickening. Had it ever occurred to them that they either knew nothing but leaving it in a ""bank"" or hadn't even heard of the hard fork?";1;0;False;jkrushal;dli3p7f;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"If you're just a user of bitcoin, you should likely go for whatever chain gives you fast confirmations with the lowest fee and has acceptance from the merchant you wish to pay.
+
+The discussions here are somewhat political owing to the inherent mix of  technical/economic functionality of the coin. If you wish to dive in, that's great, but you'll need to invest quite a bit of time to get familiar with the technicals and the economics to understand the discussion. I doubt that a glossary of terms will help much, should you take that plunge.
+
+";1;0;False;zeptochain;dlhzq9v;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"""Cock sucker"" is a universal dig. You can aim it at gay, straight, male, female. I'm no Ian McShane, but I felt it best represents this sub's attitude toward Core. So I used it.
+
+Sorry it got your butt hurt.";3;1;False;anthson;dlhwvgx;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"First, get a wallet setup.  There are a dozen choices, try this link:
+
+https://bitcoin.org/en/choose-your-wallet
+
+Then, checkout  coinatmradar.com ...
+
+Find a local Bitcoin ATM and go out the ATM and put the $20 in.  You will get a small fraction of a Bitcoin sent to your wallet.
+
+It's kind of like buying a lottery ticket, but better odds.  /s";2;1;False;Turner777;dli7yb0;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Buy from somebody you know. At that scale almost every other option too inefficient.
+
+Alternatively, get the Mycelium wallet and use the built-in local trader.";1;0;False;ray-jones;dlhugxj;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Depending on your location, two of the easiest ways would be through localbitcoins or Coinbase.;1;0;False;mccoyster;dlhx6pd;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> With all your acronyms, technojargon, tounge-in-cheek trolling, and general uppity snooty elitism, new users have no idea what the FUCK is going on. I've been a new user here for almost a year, and I still have only half an idea what the fuck is going on.
+
+t
+
+> Ask me about transaction maleability and I'm likely to look at you just as stupid as if you asked me about quadratic hashing
+
+t
+
+> It's clear the small-blockers are adopting authoritarian (communist/fascist) propaganda and misinformation campaigns, while big-blockers take a free-speech libertarian approach to discussion.
+
+t
+
+> Those fuckers can't control us any more.
+
+t
+
+> even if the folks here have picked the right side.
+
+Lol, you have a very strong opinion of the topic for someone that as you said, can't even understand half of it. I wouldn't be that confident if i were like you and not able to understand the key of the past debate.
+
+EDIT: Ignore all the 't' reddit wouldn't split the quotes for some reasons.";1;0;False;Seccour;dlhyp01;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Actually, your post made me realize that people who did not follow Bitcoin in the past 6+ years proplbably have no idea what I'm usually talking about. :D;1;0;False;WippleDippleDoo;dlhyn0k;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> What does Segwit actually do? Only info on that I've seen here is ""it make bitcoin bad""
+
+Essentially it takes the ""signature"" out of the main part of the block, shrinking it.
+
+Pre-fork, there was a 1mb block, which could hold roughly a couple of thousand transactions every 10 minutes.
+
+Each transaction is, at the most basic level, a ""from"" address (public key), a ""to"" address (public key), an amount, and the biggest part, the signature. Essentially, the signature is the proof that the person who is sending the transaction, owns the private key that relates to the ""from"" address. Explaining the signature in detail is probably out of scope here, but the basic concept is that it's the ""encrypted"" transaction, encrypted with the private key. Because of the way the keys work, anyone with the public key (like us, because we can see the transaction) can decrypt the signature with the public key, proving it was encrypted with the private key. If you don't already understand this, let me know and I'll try to explain it in a bit more detail.
+
+Unfortunately these signatures are big - about 2/3 of the total block. SegWit, at it's most basic, takes these signatures out of the main ""block"" and attaches them to a ""witness"" section. The idea is that not everyone needs to be able to verify every transaction: so if you just want to trust that the network has verified it and use the raw transaction data, you can run a lightweight node without them. This has a result that for lightweight nodes, a SegWit 1MB block has the capacity equivalent to a 3-4MB block.
+
+I won't get into why that's a good or bad thing here, since you didn't ask. There are various reasons to consider it both, though. See Transaction Malleability below though, which does relate to it
+
+> Can we get an acronym master list with short definitions for things?
+
+Probably a bit long for this reply, but good idea
+
+> What are transaction maleability/quadratic hashing, why are small blockers so concerned with the two (and always both brought up side by side)?
+
+These are brought up together because they're closely related. Remember that signature we make above? Well it turns out that it's actually possible sometimes for one transaction to potentially have two valid signatures: that's okay when authorizing transactions, because you can only make either with the private key (so it's not a security flaw in terms of me stealing your money)
+
+The problem comes because it means I, as the sender of the transaction, could change my signature later to another, completely valid signature, but one that is different to the first. It would still authorize the transaction, but it's different to the original.
+
+So why does that matter? Well, in Bitcoin, the Transaction ID (literally, the code that identifies the transaction) is not numbered like 1, 2, 3... instead it's created from a hash of the transaction details. *Including* the signature. See why this is a problem yet? If I change my signature, the transaction changes. That is transaction malleability: the transaction is ""malleable"" - it can be changed.
+
+Within the basic bitcoin chain this is fine, because the transactions are still valid with the new signature: but if you try to build a service on top of bitcoin that, for example, you will likely use the TX ID to identify the transaction (I mean, that's the entire idea of it). If someone can change the TX ID later, that makes it much harder to build applications on top of Bitcoin: especially second-layer payment applications. Again, I won't discuss here whether this is a good or bad thing
+
+> What's the long-term plan for incentivizing miners to mine? It seems like the ever-reducing reward for solving a block would have to be met with an ever-increasing price of coin or miners will start losing money. And eventually we hit a cap, right? Or is it that we'll always be approaching the cap, but halving the distance we move toward it so we never in effect reach 21 million total coins?
+
+Short answer, transaction fees.
+
+Alternate short answer: we could move to a Proof of Stake system. This is a bit in-depth to discuss here, but TL;DR it means instead of mining, you ""mine"" with a wallet. Instead of the work costing electricity (the current method of discouraging cheats, because it costs you money to cheat), if you try to cheat then the coins in your wallet are confiscated/destroyed. It's an interesting concept for the future.
+
+> What's the definition of a second-layer solution, and does Bitcoin Improvement Proposal 141 meet that definition? Or does it fall in a different category?
+
+BIP141 doesn't create a second layer solution, but by removing transaction malleability it makes them easier for the reasons mentioned.
+
+A second layer solution/application is, essentially, a way of processing transactions OFF chain into fewer big transaction, and then only putting that final transaction on the blockchain. The idea is essentially to reduce the number of transactions on the blockchain.
+
+The problem for many people is that they see second layer as being corporate/controlled systems for companies to profit from, rather than part of a decentralized blockchain. The simplest fact for me is that they are probably inevitable - the real question is whether they're handled in the *spirit* of Bitcoin, or whether they just become ""VISA on the Bitcoin Blockchain"" and ""PayPal Sidechains"" etc, with the same old companies profiting off us
+
+> How fucked are we when some guys at MIT build the first mostly-functional quantum computer? Will we have plenty of time to prepare before that day arrives?
+
+Rather, and absolutely. The first quantum computers will only be able to do a few things. Frankly, I'm not convinced they'll appear in my lifetime.
+
+> Why did Satoshi disappear?
+
+No idea, nor does anyone else. Most likely he was either too busy to continue in a lead role, or my preferred option, let go of the pseudonym and continued working on Bitcoin as ""himself"" as just another guy who came along later.
+
+> Why is China so involved in cryptocurrency? Is it just the rich upper class, or are the poor taking advantage of free/subsidized electricity to generate wealth? If it's the latter, why aren't draconian Chinese authorities cracking down?
+
+It's both, although in Bitcoin mostly the wealthy because of the huge costs of BTC mining. Many of the Chinese middle classes (and there are a LOT more of them than you probably think) are involved with ETH and other altcoin mining, though.
+
+Basically, though - cheap labour and no import costs on hardware (most ASICs are built in China), and lots of very cheap hydroelectric power.";24;4;False;audigex;dli13nj;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"here's something on [quadratic hashing](https://bitcoinclassic.com/devel/Quadratic%20Hashing.html)
+
+Btc is built on cryptography so knowing the lingo of hashes and public.private key encryption can help. Btc isn't for non-tech people as much as we want it to be. Not understanding what is happening or computer security has lead to a lot of people getting burnt. Hackers have made btc a major target and new scams come out everyday. It is also easy to make a mistake and lose your coins. I don't see a way for btc be used for the masses without a middleman like coinbase which defeats the purpose of the protocol.";6;1;False;strange_fate;dlhya4a;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+[deleted];1;1;False;;dlhw7w4;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+And what is this sub doing to help new users come to that conclusion easier (regardless if one thinks that is the correct position)? The point OP is trying to make, is new users to bitcoin or reddit-bitcoin might not come to that conclusion for reasons listed. They may even be put off bitcoin because of either the squabble, technical jargon/hurdle, or both.;1;1;False;meeekus;dlhwqji;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I'm not talking about a Bitcoin as a unit of measure within Bitcoin or Bitcoin Cash.  I'm talking about which currency (as they are now distinct) gets to claim the name ""Bitcoin"" without modifiers.";1;0;False;gotamd;dlhybna;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+https://www.youtube.com/watch?v=60OkanvToFI;1;1;False;kaczan3;dliehsc;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Well if it makes you feel better nobody here actually knows what they're doing or what the outcome of their actions will be.  Everyone in crypto is gambling whether they think they are or not.  I'm in the same boat as you as far as dealing with the elitist and self-stroking know-it-all's on these threads.  I hate it but I now it'll never go away.  In the end it all comes down to really believing in what your doing and focusing on your own interpretation of the facts.  I got into investing in cryptocurrency because I thought the technology was amazing and will soon change the world, not to get rich.  People think because they made a few thousand bucks they're expert traders and their advice is worth heeding.  FUCK THAT.  Listening to your gut is the best advice you can get. ;2;0;False;Sandscarab;dlitps1;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Keep reading bro
+";2;0;False;eazy890;dli01ia;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Do you need to know how a combustion engine works to drive a car?
+
+I have taught plenty of people how to use bitcoin with their own wallets, it's not nearly as difficult as you make it out to be.";6;0;False;aquahol;dli2rxf;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> We have absolutely ZERO reason to concern ourselves with the old debates of the past.
+
+Absolutely yes! Just imagine you are back in 2011, you have BCH. It is time for us as a community to work on adoption, because now, once again, it is not arbitrarily strangled by banksters and their whores.
+
+**Exponential growth will make Bitcoin great again!**
+
+So get on making dell, microsoft, steam, expedia etc to accept bitcoin (BCH) again!";2;0;False;FormerlyEarlyAdopter;dliholq;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+it's called do your own research. everything you want to know you can google if you have questions there are many boards. bitcoin is about educating yourself to become financially literate and independent ;2;0;False;platypusmusic;dlidxsp;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Small blockers are not communist and bigblockers are not libertarian. If you try to understand a complex technology using ultra big labels like good/bad guys you will finally get no where. You should learn and think by yourself, not the partisan way ""I'll let r/btc educate me against r/bitcoin""";2;1;False;jaumenuez;dlicj97;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> What's the long-term plan for incentivizing miners to mine? It seems like the ever-reducing reward for solving a block would have to be met with an ever-increasing price of coin or miners will start losing money. 
+
+What a great question. The only answer I've ever gotten was hand-waving and double-talk. I'd love to hear the answer. Satoshi opined that transaction fees alone would sustain them, but that brings up more questions than it settles.
+
+How about this: if Bitcoin's price doubles forever, we won't have any problems until 2140, and by then we'll all be dead. So hop on the ponzi train and don't ask so many questions, brah.";1;1;False;shortbitcoin;dliif7f;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> You guys hate people saying ""Bitcoin isn't for people living off $7 a day."" Do you really think people who live off that little money have time to research and buy into your intellectual club? Does a person who lives off SEVEN DOLLARS a day have the time to parse through what a post like this actually means?
+
+No, they dont have to be on these forums at all as a matter of fact. The majority of people in the developing world have access to a cell phone but no banks or financial services. They dont need to study how something works to use it. Bitcoin Cash can be a game changer for them. People who have a house comparable to a shack - how do they aquire a life savings without being robbed? Simple, private keys. Think bigger my friend.";2;1;False;cdn_int_citizen;dli2sez;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Suggestion
+
+Weekly tech jargon summary stickied on the reddit, possibly pros/cons discussion of said technology, interesting posts and links attached to said sticky, maybe examples of it being implemented by other coins and why they chose it/ did it achieve their goal? etc
+
+Could be used to described things like:
+
+segwit
+colored coins
+lightning network implementations
+Algos like PoS,dPoS , Sha256 and the reasons they were chosen, further info can be linked to in wiki articles.
+
+we could talk about upcoming and current issues that will impact the userbase aswell as the development of bitcoin.
+
+Elegant alternative would be some kind of plugin integrated in the subreddit which would let you however over keywords and get breakdowns on what the terms mean, but I live in hope :D";2;0;False;conall88;dli67pi;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"segreagted witness it just one way (and an abhorrent one from a computer science prospective) to solve the not-currently-an-issue-at-all of tx-mal
+
+
+You appear to not have a strong understanding of the reality of facts. I recommend reading without talking while you learn
+
+Any research would quickly show you that while Satoshi left Gavin in control of Bitcoin, he did this some 6 months after Gavin told ev everyone he was meeting with the CIA. He stopped publically posting shortly after he said wiki8leaks had kicked the hornets nest.
+
+
+It's like all you do is spew misinformation, Either you're hald retarded or you simply hate Bitcoin and don't want it to succeed. But I can't tell which. Grow up, read, learn, think. Do this before you speak more, Please.";3;1;False;TanksAblazment;dlhz5eg;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Bitcoin is really open discussion without a filter (besides censorship). Think of politics in its raw form. Its not pretty. Welcome to decentralization. Also take into account standards are still forming in this space;2;0;False;cdn_int_citizen;dli5bk9;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"**OSI model**
+
+The Open Systems Interconnection model (OSI model) is a conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to their underlying internal structure and technology. Its goal is the interoperability of diverse communication systems with standard protocols. The model partitions a communication system into abstraction layers. The original version of the model defined seven layers.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/btc/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]
+^Downvote ^to ^remove ^| ^v0.24";1;0;False;WikiTextBot;dlhzy6o;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+A glossary of acronyms is hard because it's often contextual. If you have examples I can try to decipher them.;1;0;False;tcrypt;dli0ctv;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Unless he could control or otherwise manipulate a huge percentage of the miners, he wouldn't have the power to rewrite history.;1;1;False;TiagoTiagoT;dli7g0o;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I didn't ask what was bad about it, though. I just wanted to know what it actually does. Thankfully lots of people today have given some great answers.;1;0;False;anthson;dli6sjy;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Corrections:
+
+* Gavin Andresen visited the CIA to give a talk on Bitcoin. It was announced to the world.
+* Segwit code(Bitcoin Core) *only* fixes malleability for Segwit transactions and not for any others. Please be accurate in what you say.
+* Lightning(LN) does *not* exist as a product and has some significant design issues (routing, AML/KYC requirements, security if user is not monitoring chain) unsolved.
+   ";3;0;False;7bitsOk;dli7pcw;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Thanks for this really good explanation!;1;0;False;david340804;dliecw8;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+u/anthson thank you saying what I've been wanting to say for a longtime. Well said. Hell, you ask a question and instead of giving you an answer someone just babbles on about what a stupid question. I'm an older adult with money to put into bitcoin but I was not raised on computers. Computer classes were not even offer in my school until my senior year. I'd like to get away from central banking I'd also like to understand what I'm putting my money into. Thank you,again. ;2;0;False;71583laura;dlhz5tf;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Wow. That was informative. If I want to understand the Bitcoin and its blockchain and the new things coming up with them what would be a good start? 
+Also, a question, if segwit can potentially increase block size by 3-4x why do we have to increase block size to 2 MB?";3;3;False;sourcex;dlicui0;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Thanks a lot, this is great!
+
+I have several follow-up questions though:
+
+>  if you just want to trust that the network has verified it and use the raw transaction data, you can run a lightweight node without them.
+
+Is this why some people say that SegWit poses a security risk?
+
+And since centralisation is the big enemy, in the end, could you expand on what ways one could hurt Bitcoin if the network came to have a significant portion of lightweight nodes?
+
+Overall, I understand that there is no ideal scaling solution proposal for now, is that right?
+
+Once again, thank you guys.";3;1;False;dJe781;dlibmi5;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I'm new to cryptocurrency but it's a super interesting field.  I agree with your point that most the guy on the street is unlikely to understand the workings of a lot of modern mechanisms. Are there any resources you recommend for self study into the technical,side of crypto? ;1;0;False;felixt1011;dliooig;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+I've suspected this too. They make BTC seem unwelcoming and difficult to follow and then push those users to ETH. ;1;0;False;digiorno;dlhurbc;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+7dollars a day is considered good amount of money in other countries. (I had to do it :D);1;0;False;zentrader1;dlih3f5;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Bitcoin is a nightmare for news users, what would you expect?;1;0;False;arretadodapeste;dlihl8u;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"One suggestion to improve this answer: it's somewhat misleading to explain digital signatures in terms of encryption/decryption, even if those terms make for a simpler explanation. There is actually no encryption in Bitcoin. It uses only cryptographic hashes and cryptographic signatures, but no encryption. Client-side wallet encryption does exist in some wallet apps, but that's not part of the Bitcoin network protocol or block format.
+
+The reason it's worth it to avoid mischaracterizing Bitcoin as using encryption is that hiding information is the opposite of what Bitcoin is about. In Bitcoin, all information is open. Everyone has the same copy of the same ledger, and every single bit in the blockchain serves the same purpose for everyone -- either to move funds, to prove that the owner of those funds authorized the move, or to show that a block is valid and complete. Contrast ciphertext, which is worthless noise to anyone who doesn't possess the key to decrypt it. If Bitcoin contained encrypted data, I might have less incentive to store that data in my node. That's not the case, and the result is that everyone running a node has the same interest in preserving the entire blockchain.
+
+There's a political angle, too. Some politicians want to ban encryption or require backdoors in it. That's a bad idea, of course, but even if it happened, it wouldn't affect Bitcoin. (I have never seen a proposal to ban digital signatures. That absolutely would affect Bitcoin. It would be surprising if a politician took such a position.)";2;0;False;sowbug;dlidkyv;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Thanks!;1;0;False;markevens;dlj3uw4;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"yes which is a purely a political argument...
+
+do you realize if you prefix bitcoin address with c most people wont even realize?
+
+**bitcoin already has multiple address formats, one of them hides your public key from quantum attacks.**
+
+**Adding a simple prefix, will not be noticed by users at all, its something for wallet makers.**
+
+Your point is shared by many people unfortunately, and no, it does not move us away from the bitcoin brand name. 
+";1;0;False;Spartan3123;dlhwqgf;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;6sxszs;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"> People who old this view are putting political arguments over user experience which is fundamentally holding back adoption.
+
+I would argue that changing the address and therefore furthering ourselves from the Bitcoin name would also be holding back adoption. As long as Bitcoin Cash pushes itself as the true Bitcoin (because it is), adoption is more likely.";1;1;False;rawb0t;dlhuwcd;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;6sxszs;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+"Just finished tweeting bitpay [here](https://twitter.com/BitPay) 
+
+Plenty of other merchants too. This is _crucial_! Get involved folks. _You_ are going to be the ones that have to do it, not someone else. Tweet merchants, email them, do what it takes. It's up to us.";1;0;False;;dlhyq8x;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;6sxszs;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/
+True Story ;1;0;False;Pretagonist;dlhuin1;Bitcoin Cash believers, can we stop taking the piss out of Corestream and focus on merchant adoption for BCC?;6sxszs;https://www.reddit.com/r/btc/comments/6sxszs/bitcoin_cash_believers_can_we_stop_taking_the/

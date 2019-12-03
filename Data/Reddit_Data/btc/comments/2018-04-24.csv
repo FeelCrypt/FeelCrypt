@@ -1,0 +1,466 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+I see you aren’t privy to German. His name is spelled correctly...;1;1;False;AgregiouslyTall;dxwnwk4;"Roger Ver: ""Dear @reddit, [...] I'll pay you $100,000 USD if you simply appoint a moderator to /r/Bitcoin who supports free speech.""";8d6dtm;https://twitter.com/rogerkver/status/986621892684492800
+God what an embarrassment this guy is. ;1;1;False;gethighthinkbig;dxwj0ea;"Roger Ver: ""Dear @reddit, [...] I'll pay you $100,000 USD if you simply appoint a moderator to /r/Bitcoin who supports free speech.""";8d6dtm;https://twitter.com/rogerkver/status/986621892684492800
+But nobody supports free speech here. You say one slightly negative thing about Bitcoin Cash and you get banned...;1;0;False;psycocharger;dxvzo94;"Roger Ver: ""Dear @reddit, [...] I'll pay you $100,000 USD if you simply appoint a moderator to /r/Bitcoin who supports free speech.""";8d6dtm;https://twitter.com/rogerkver/status/986621892684492800
+Redditor /u/gethighthinkbig has low karma in this subreddit.;1;0;False;trolldetectr;dxwj0ys;"Roger Ver: ""Dear @reddit, [...] I'll pay you $100,000 USD if you simply appoint a moderator to /r/Bitcoin who supports free speech.""";8d6dtm;https://twitter.com/rogerkver/status/986621892684492800
+What do you need to see the logs for? There’s multiple resources to see all of the comments they’ve deleted already;0;0;False;02-20-2020;dxvv8y2;"Roger Ver: ""Dear @reddit, [...] I'll pay you $100,000 USD if you simply appoint a moderator to /r/Bitcoin who supports free speech.""";8d6dtm;https://twitter.com/rogerkver/status/986621892684492800
+"> where he shows 
+
+uh huh.";-1;0;False;nfxcrypto;dxvam01;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"your lying scamshit ver was pumping btrash on cnbc at $8kusd a few months ago.
+
+what's it at now lollolol. sinking.";-17;2;False;nfxcrypto;dxv8eic;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+">My understanding is that when you open a channel to a peer, both you and the peer need to commit as much Bitcoin as you feel will be transacted over the lifetime of the channel. So if I want to sell stuff on EBay, I might expect to see a net positive of several thousand dollars or more over a year.
+
+Ah, I see what you mean. There's a way to receive money on a channel where you were the only one to lock funds: you spend part of it first, that part moves to the other side and you can receive it back as payments.
+
+Otherwise, if you want to be able to receive immediately, the other party has to  lock funds as well. Maybe they can collect extra fees for that, or some type of interest, I don't know. But it doesn't seem like a hard problem to solve. 
+
+>But there are going to be a huge number of nodes, most of which will be small, poorly connected leaf nodes.
+
+Maybe not, since your fees go down if you're better connected because you have more routing choices.
+
+>But I haven't seen anyone claim that they have developed an algorithm that when tested in simulation allows the Lightning Network to function at thousands or tens of thousands of times of the current size.
+
+Well, the current mainnet has 2000 nodes and seems to be working fine with the current algorithm. Improving it is not the priority for now, stability and security are much more important to get right first.
+
+";1;1;False;ric2b;dxvid9z;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+I'll double my money while yours goes up 20 percent. People go to BCH because of money!!! Bwhahaha. Money talks;1;1;False;SirCharles777;dxw8wb1;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Right now? The whole point is to play the long game, isn't it? I don't even have a dog in this fight, but still. BCH looks as if it has been steadily gaining momentum for awhile now.;2;0;False;GlitchSix;dxvr7yu;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"0! + 1! = 2!
+
+quick maths";1;0;False;medieval_llama;dxvihvt;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+">Bcash is fully on board with the client server / master slave model 
+
+I think it's appropriate to say decentralization is a scale and most BCH supporters believe there is plenty of room for larger blocks to provide sufficient decentralization.
+
+That's using some generic terms to describe some unmeasured concepts.  Is ""decentralization"" a fixed number of nodes?  Does global location have any impact?  Do mining pools have much impact?  Is it a ratio of nodes / miners to userbase as measured by X?  What makes node count grow or decline - business incentive to run a node, an overall portion of the userbase, relationship to secure alternatives to full nodes (better SPV makes node count decrease?), bootstrap time vs ongoing costs, miners' needs to stay fully connected to the global mining network....  People fixate on blocksize without really talking much about all of the various tradeoffs.
+
+People also try to polarize the argument by saying anyone that's not entirely satisfied with current constraints must be government plants, or Bitmain spies, or just plain stupid.";1;0;False;Venij;dxvwhqs;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+The issue with the current implementation you describe (bip37) is that it doesn’t scale well. Each time an spv client connects to a miner, the entire chain needs to be scanned from their last connection point to present. This is fixed with the above. In fact I just remembered there is a new protocol put forward called Neutrino. Check it out.;2;1;False;heffer2k;dxvnje0;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"Initial results are promising..
+
+[Bitcoin Unlimited Reveals Gigablock Testnet Performance](https://news.bitcoin.com/bitcoin-unlimited-reveals-gigablock-testnet-performance/)
+
+Only modest bandwidth and hardware is needed.
+
+> Rizun also details an interesting side note during the testing. Rizun explains the propagation time did not depend on the network bandwidth for the given nodes. Moreover, the BU chief scientist says if the bits are calculated per second, they are propagated when the next block is sent at 500 kbits/second.";1;1;False;phillipsjk;dxw250d;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"Ignorance is simply the lack of knowledge, and can be fixed by study and reasoning.
+
+Stupid is wilful ignorance, combined with pride. ";3;1;False;bgrnbrg;dxvcngf;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"> > What is it going to take to get a hub to commit to the possibility of sending me a few hundred dollars over the course of 6-12 months?
+> 
+> They'd be receiving that money simultaneously on another one of their channels, they're not giving you a handout. And they can collect a small fee on that transaction.
+
+This is one area where I might well be missing something... 
+
+My understanding is that when you open a channel to a peer, both you and the peer need to commit as much Bitcoin as you feel will be transacted over the lifetime of the channel. So if I want to sell stuff on EBay, I might expect to see a net positive of several thousand dollars or more over a year. But maybe not. I'm sure that hubs will be more than happy to accommodate buyers, where they can open a channel with little or no contribution on their part. But what business is going to be willing to tie up significant funds in a channel for me, on the off chance that I'll end up receiving a bunch of payments? 
+
+As for the routing comment - I agree that most transaction paths will be quite short, probably 3 to 5 hops or so.  But there are going to be a huge number of nodes, most of which will be small, poorly connected leaf nodes. And even the specific channels between well connected hubs will be somewhat ephemeral. When I want to pay for my alpaca socks, is the solution to finding an adequate (never mind best) route scalable. There are models that might be applicable - TOR's onion routing and/or BGP.  But I haven't seen anyone claim that they have developed an algorithm that when tested in simulation allows the Lightning Network to function at thousands or tens of thousands of times of the current size. And I have heard people with much more network routing experience than myself express doubts. The routing problem is clearly difficult. But it must be solved, as LN depends being able to quickly and efficiently allow transactions to be directed through several unrelated nodes to the destination. ";3;1;False;bgrnbrg;dxvci4j;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Sinking?!;6;1;False;chavwithtache;dxv8907;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"> Stupid is wilful ignorance
+
+perfectly describes btrash and its followers down 90% from its highs.";2;1;False;nfxcrypto;dxvdu1u;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"> Probably with something similar to BGP routing. Occasionally a route will fail because of outdated capacity information but the user will only notice a small delay if a few more routes have to be attempted.
+
+BGP only needs to reconverge when a routers peering status is changed. Summarised IP subnets are shared between neighbours and remain relatively static.
+
+In Lightning Network, peers are learned via other peers and can change at any moment. This is how the LN decentralisation works. Channels are opened and closed between these peers dynamically upon each use. Each channel creation is essentially reconverging the routing table before a transaction can be sent. LN penetration right now is so minuscule, yet transactions are already failing due to routing issues caused by constant, massive reconvergence. 
+
+BGP was designed to be statically connected to its peers without constant neighbour changes and with a relatively static routing table. Sure it receives new routes from those peers constantly, but it is not constantly dropping those peers and routes and looking for new ones. LN is. Without huge changes to the way LN decentralisation works, it can't scale like BGP. It would need to become a centralised layer. 
+
+I'm by no means an LN expert, but I am a senior network engineer that has been working in the DC space for 15 years. LN is a completely different beast to traditional routing protocols that I just can't fathom a solution for; it just can't follow the same fundamentals without centralisation. ";9;0;False;mallocdotc;dxv8ic3;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+[deleted];-9;3;False;;dxvm57f;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+1! + 1! = 2!;1;1;False;davidmanheim;dxvg7gr;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"LOL
+If you haven’t noticed, every single crypto subreddit is better now than in December.
+
+December was horrible.";12;0;False;simplyinsomniac;dxuzr5u;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+It quickly reveals the true amount of shortsightedness. Trust no one, do your own research;10;0;False;LexGrom;dxv8i6k;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Yes this ( https://www.coindesk.com/spv-support-billion-bitcoin-users-sizing-scaling-claim/ ) detailed ananlysis does a great job of enumerated the virtues and downfalls of bloom filtering. The core bottleneck in all this is the serving of the spv clients. At 1gb the disk, cpu, and network speeds price out network participants that aren't well funded enterprises. But as I understand it Bcash is fully on board with the client server / master slave model where there are centralized datacenter miners and then everyone else. This obviously changes the trust model dramatically but it simplifies scaling concerns. ;1;1;False;CONTROLurKEYS;dxvt2a0;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"> Spv clients only need to download blocks they have txs in.
+
+I could be wrong here, but I don't believe they even need that. They request a list of transactions relating to the addresses they own (plus some others they don't, for privacy masking reasons) and their peers provide them the transactions, and the block headers, which they can use to prove the transactions information they were given is correct. So even with 1GB blocks, SPV wallets wouldn't still only need to receive a very small amount of information to function.";6;1;False;chriswheeler;dxvndy2;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+I read the test net research proposal initiative a 3 or 4 years project plan with no guarantee of a successful outcome. Certainly no claims of  market ready product at the end. I think it's valuable research none the less but everyone seems to discuss it like a done deal. ;1;1;False;CONTROLurKEYS;dxvqw39;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"I think you misunderstood the part where he shows he understands it thoroughly, or as well as it can be understood at this time.
+
+That is before it fails, and the reasons it failed become obvious and those turn out to be the part we did not understand. Because the mistake that prevented understanding was the thinking it could work somehow.";3;1;False;SushiAndWoW;dxv8tfk;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+that math doesn't work, if I understand this blurb correctly, 500 kbps will download 1 gb block in 4+ hours. THis is just basic math, what am I missing? ;1;1;False;CONTROLurKEYS;dxw2hcd;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Does someone need a hug?;7;1;False;chavwithtache;dxv8x5x;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+[deleted];2;1;False;;dxvk4pq;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"> I was not aware
+
+not the first time, and won't be the last. who's surprised?  enjoy your crow, turd.";-2;0;False;nfxcrypto;dxvimbg;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+[deleted];1;1;False;;dxwdfgc;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"So did you manage to buy at 0.5? Is that why you are so angry?
+
+Until you dug up that tweet, I was not aware the BCH/BTC ratio ever went above 0.42 or so. I suggest you look into ""dollar cost averaging"" for future investments.
+
+Sorry if my statement about the ATH was misleading in some way.
+";2;1;False;phillipsjk;dxvi6m7;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"> Segwit still does not solve the problem at scale.
+
+lol. wrong.
+
+>Segwit was already activated in december/january
+
+hardly anyone had it implemented.  see conbase only recently getting it up and running. you lose again.
+
+>If you think that everyone using their own alternative blockchain
+
+says the genius promoting lying parasite ver/btrash's own blockchain, currently scamming newcomers into sending their btrash/btc funds to wrong addresses.
+
+
+";0;1;False;nfxcrypto;dxvw1wu;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+but you made an error. own up to your shitcoin.;-4;1;False;nfxcrypto;dxvhof1;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+[deleted];2;2;False;;dxvkhmu;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+I don't day-trade so anomalous spikes are meaningless to me.;4;1;False;phillipsjk;dxvfysk;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"> Firstly, i dont give a shit about Roger. 
+
+of course you don't , because then you'd have to admit you're a fucking hypocrite.  roger scamshit central. scamming newcomers into sending their btrash or btc to the wrong address due to his scamcoin fork lmfao. sup antbleed. sup mtgox lies. sup convicted felon. sup tax dodger. sup proven liar.
+
+>Give me another working alternative
+
+said the clown ducking recent mass segwit adoption. said the clown ducking litecoin/dogecoin that are used more than scam btrash.
+
+";0;1;False;nfxcrypto;dxvjgv2;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"that's quite the backpedal, clown, as wrong as it is.
+
+enjoy it again and state how much your shitcoin has fallen:
+
+https://twitter.com/cnbcfastmoney/status/943291821035319297?lang=en";0;1;False;nfxcrypto;dxvepy7;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"It does not have the same problem, it's not a gossip network. 
+
+Routing can be improved over time, but it needs to not lose people money first, otherwise supporting tons of users is useless if all it ends up doing is generating headlines about how people are losing money. ";1;1;False;ric2b;dxvyrkg;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"> Neutrino
+
+Looks interesting - I suspect there are many improvements which could allow SPV servers (e.g. full nodes) to scale better without the need for the SPV clients to download full blocks.";2;0;False;chriswheeler;dxvnyz9;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+[deleted];2;1;False;;dxvj6wp;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+[deleted];1;1;False;;dxvtrp7;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+yeah I think that article is from a flawed source but their is probably little to report on so early into this multiyear research project. ;1;0;False;CONTROLurKEYS;dxw3yju;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"> Convince people with reasoning and fair arguments. Ad hominem 
+
+hilarious, brought to you by roger scamshit central.  why are you calling out your lead ""dev"" and forum mod? lmfao.
+
+>This should be a war of tech
+
+your ""tech"" devolves around a block size increase for a shitcoin nobody uses anyway.";0;1;False;nfxcrypto;dxvj0ig;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+">Since Bitcoin Cash was never $8kUSD/coin
+
+liar. typical btrash losers, lyin away like usual.  
+
+btrash at 8k LOL:
+
+https://twitter.com/cnbcfastmoney/status/943291821035319297?lang=en";-4;1;False;nfxcrypto;dxvd5jh;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+>Sinking confirmed;-8;0;False;nfxcrypto;dxv957m;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+You're asking if the priority is making sure that the base is stable and won't lose people money? Yes, obviously.;1;1;False;ric2b;dxvnlej;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"That's what I get for just linking to a rando news article.
+
+It maybe that they are only referring to block propagation. Modern Bitcoin implementations send only transaction hashes instead of entire blocks.
+
+We can easily calculate how much sustained bandwidth they will *actually* need.
+
+1000MB/600s -> 1.67MB/s -> about 17Mbps.";1;1;False;phillipsjk;dxw394s;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+[deleted];3;1;False;;dxvh1r3;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"Since Bitcoin Cash was never $8kUSD/coin, you must be talking about Bitcoin-segwit.
+
+https://www.coingecko.com/en/price_charts/bitcoin-cash/usd (select ""max"")
+
+Edit: oops called ""Bitcoin Cash"" ""Bitcoin core"".. how embarrasing.";4;1;False;phillipsjk;dxvb59w;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"someone dumb enough to board the sinking btrash ship doesn't ""understand"" lightning or segwit. surprise!";-14;3;False;nfxcrypto;dxv7mn7;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+That also says up 288% in a day: while Bitcoin-segwit was down 15%. Of course it is going to retrace. My reference was the daily average value (possibly even weighted).;5;1;False;phillipsjk;dxvdqch;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+">I just have doubts about how it will scale
+
+Probably with something similar to BGP routing. Occasionally a route will fail because of outdated capacity information but the user will only notice a small delay if a few more routes have to be attempted.
+
+>How will payments be routed across hundreds of thousands of nodes?
+
+You mean a path that consists of hundreds or thousands of nodes? I don't see why that would ever happen, six degrees of Kevin Bacon and all that, but the process would be similar to how it works with 4 nodes.
+
+>What is it going to take to get a hub to commit to the *possibility* of sending me a few hundred dollars over the course of 6-12 months?
+
+They'd be receiving that money simultaneously on another one of their channels, they're not giving you a handout. And they can collect a small fee on that transaction.
+
+>What's the benefit to the end users?
+
+Instant transactions that are also super cheap. The possibility of streaming money. ";5;2;False;ric2b;dxv11r5;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+This was the best comment I’ve ever read. Thanks for that. I’m probably your only upvote;1;0;False;CyberLegend11;dxvlnki;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"Even a full 32MB block sustained is 1.6TB/yr (about $32/yr) and <0.5Mbps sustained download.
+
+Does that sound like too much loading for you personally? Does that sound like excess loading if you add in safety factors for serving peers? Does that sound like loading that couldn't be supported by a sufficient portion of the network to allow for ""decentralization""?
+
+Does that sound like capacity to allow for network growth? Even consuming BTC network capacity and then growing at historical BTC transaction rates it would be ~4 years of capacity. Does it actually prevent other network improvement activities (batching, Schnoor, other layer 2 efforts)? Does it prevent or depend on future hardware improvements?
+
+Does growth in network userbase also allow for increased node operators?
+
+What is sufficient ""decentralization""?
+";2;0;False;Venij;dxvvfea;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"There is more good posts there.
+ I thought that r/cryptocurrency sub is lost to btc cult, but apparently not. ";35;5;False;MarchewkaCzerwona;dxupoyj;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+SHOTS. FIRED.;8;0;False;ElectronBoner;dxusidm;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+You guys know the next level of shilling is going on over at 4chan right? ;-11;1;False;;dxush6t;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"looks like /u/bitmaincash was almost convinced.
+
+Come to the dark side! We have cookies!
+
+Edit: apparently they got banned in this sub-reddit.";34;0;False;phillipsjk;dxusgf7;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+He's hallucinating thinking 1gb can exist....how do spv clients exist in that scenario whats the solution for that? Has that been tested? By whom? Where's the work? If he's judging what is meritorious by CW standard then yes this project has a lot of merit. By any other standard he's hawking technology that isn't even being developed nor is it near being proven,  in reality like your average ico CEO scammer.;-19;2;False;CONTROLurKEYS;dxv4hg1;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+this post highlights why bch can't win. you admit the goal is to destroy btc, but the crypto community won't stand for that. ;-1;0;False;jerseyjayfro;dxvrcy7;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"The conclusion of the post is completely flawed, /u/MortuusBestia. The complete switch over by hash power is **extremely difficult**, if not outright impossible. Ironically, the reason for this are... fees. Yes, those hated high fees. Here's why.
+
+There are two possibilities for a ""hash migration"". A ""slow"" migration and a ""fast"" migration. In the case of a slow migration, the network will adapt downwards, no problems at all. Just instead of ~2wks, it might be 15-17 days. In the case of a fast migration, though the situation gets more interesting, and we've seen some of that in November last year. What happens is that the txs backlog increases correspondingly fast. And what happens when the txs backlog increases? Fees increase! Which means that the corresponding block reward increases! Hence, miners will not be so keen to switch, especially because the price will never go to $0 immediately. (Unless there's a fundamental protocol flaw discovered, that is.)
+
+Remember when Greg was ""popping champagne""? That's when the fees exceeded the block reward. For one or two blocks, the fees accounted for more than 12.5 BTC. It would happen again. Now assume parity of price - A miner has the option to mine Bitcoin with ~25 BTC reward OR BCH with, say, ~15BCH reward. What will they mine?
+
+&nbsp;
+
+This reason above is one of the fundamental reasons why I support small blocks AND a fee/blockspace market - Network security. Users are, at the end of the day, paying for the network security. Fees are insurance. 
+
+
+
+";0;0;False;DesignerAccount;dxvtahe;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"Over the top
+
+U will see other
+Variants of btc like btc gold go to zero long before";0;0;False;Libertymark;dxut088;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Saved;1;0;False;CairnAvail;dxvgo3a;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+With the creation and implementation of lightning network is it not possible for BCH to go to $0.00? ;-5;5;False;DNACHMAN613;dxux7cp;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Good points accept for the mining bit.;1;0;False;Fount4inhead;dxvhz65;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Epic troll ownage!;0;0;False;rdar1999;dxus33j;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Can someone link to the post so I can grab the actual text and paste some variation of this over and over and over to every Core troll I respond to?;2;0;False;BitttBurger;dxv4wqq;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"https://bitinfocharts.com/comparison/transactions-btc-bch.html#1y
+
+But core has a lot more transactions on it";2;0;False;snissn;dxvh7kn;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+That really is epic. And 1,000% true.;5;0;False;scotty321;dxvdodf;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Quality post right here.;3;0;False;Melancholy_Coins;dxuy08u;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Just got paid some btc. Immediately transferred to bch. ;7;1;False;chockablockchain;dxuy9i5;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Crypto currency prices don't really follow merit and usecase of the coin. Or else BTC would've lost out long before the BCH fork;6;1;False;;dxux4rg;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Epic indeed.;6;0;False;kingvest;dxuu9aa;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+poor Core;5;0;False;H0dl;dxuujzb;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Reading that should scare the shit out of anyone who holds only BTC and scoffs at BCH.;11;1;False;cinnapear;dxv1mjt;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+100 bits u/tippr;1;1;False;unitedstatian;dxvlbqd;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+That's exactly what will happen. It's a Nash equlibrium where miners **want** to preserve status quo, but won't be able to due to profitability ratio shift. When? If u've an answer, u can make a fortune on the spot;8;0;False;LexGrom;dxv8fcr;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"> sold all their BCH immediately after the fork on principle of solidarity.
+
+Ah, the good old strategy of 'all eggs in one basket'.";9;1;False;chriswheeler;dxvmzf2;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+[deleted];-12;3;False;;dxvj3dw;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Yeah sure;2;1;False;Gizmoed;dxvjwrt;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Many of us have been in bitcoin for years, and followed the whole scaling debate. So please, enlighten us to these so called ramifications, ignoring mass usage and high price of course.;12;0;False;heffer2k;dxvksxn;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+" > 2!!
+
+2!! = 2
+
+";10;1;False;WhoaItsAFactorial;dxuxytr;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+I agree with you, but I can definitely appreciate bitmaincash's honest response that consensus alone is an important part of a cryptocurrency.  (It's just hard for many to realize that there are some very loud people in this little ecosystem that are NOT interested in growth of that system);3;0;False;Venij;dxvva4r;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"u/ForkiusMaximus, you've received `0.0001 BCH ($0.153078 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)";1;0;False;tippr;dxvlceb;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+That's the one few good things about /biz/ , they only care about profits.;1;0;False;unitedstatian;dxvl8xv;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+mostly lost. If it were completely lost there is only one thing you can do.;1;0;False;where-is-satoshi;dxv9wut;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Yeah I was surprised how quickly it reverted back to its cynical, slightly more informative state.  Still not as unbiased as it was before 2017, but it's an improvement over December.;8;1;False;Dixnorkel;dxuvns5;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+They are still against BCH mostly (less when rising obviously, they need to shill) but they actually are also against BTC mostly. Isn't not a one vs the other, but more of a fuck either chain my -insert alt- is better anyways.;7;0;False;TheRealMotherOfOP;dxv5luz;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Price rises tend to win over the laggard masses.;26;1;False;ForkiusMaximus;dxv07z3;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+I'm for all those 'pedes' buying into the next bit-connect;5;0;False;ToAlphaCentauriGuy;dxv3v10;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Hi there. Bloom commitment filters can help. Spv clients only need to download blocks they have txs in. They don’t need to store the result. Obv 1gb too big for that today, but once 5g is out 1gb will be a breeze. Also, it’s not strictly necessary unless absolute privacy is essential. Otherwise you can just ask the miner to look up your tx which can be indexed just like in chain explorers. And there’s a tonne of tricks to anonymise this process too. Job done.;3;2;False;heffer2k;dxvledx;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"He is referring to the [Gigablock Testnet Initiative](https://bitco.in/forum/threads/buip065-gigablock-testnet-initiative.2610/)
+
+The whole point of SPV wallets is that you only need to download headers (around 20MB) and transactions your are interested in. SPV wallets were declared ""untrustworthy"" because they don't enforce any specific block-size.
+";7;1;False;phillipsjk;dxvhsfh;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+Lightning will have a hard time competing with BCH for many reasons. It's old and busted, with all kinds of drawbacks that BCH doesn't face.;4;0;False;Anen-o-me;dxuzu0p;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+When the first lightning hub operator gets fined under money transmitter laws in the US it's game over for lightning and core.;5;0;False;ViperfishAU;dxv183o;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"> is it not possible for BCH to go to $0.00?
+
+It is possible.
+
+It is also possible that all the cryptos we know right will go to zero and a new tech will be the new standard.
+
+Enjoy the ride.";3;0;False;celtiberian666;dxvws14;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"If the network can handle it, scaling on-chain is *way* simpler.
+
+For example, your ""node"" receiving funds can be a safe sunk to the bottom of the ocean containing a private key punched into stainless steel. Receiving funds with the Lightning network, on the other hand, requires you to be online.
+";21;0;False;phillipsjk;dxuygjk;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"It's possible.  The question is whether LN will achieve any sort of market penetration.  
+
+I've been an IT nerd for 30+ years, and been closely involved in crypto currencies for 5-6 years, now.  I've read the Lightning Network paper, and I have my doubts.  The best possible interpretation is that I don't understand LN well enough to see how well it will work.  But if I can't follow it, good luck explaining it to the masses.  I can see how the parts work, and I can see that it will work well enough in a test environment.  I just have doubts about how it will scale -- How will payments be routed across hundreds of thousands of nodes?  What is it going to take to get a hub to commit to the *possibility* of sending me a few hundred dollars over the course of 6-12 months?  What's the benefit to the end users?";20;2;False;bgrnbrg;dxuznmp;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+BCHes love BCH;3;1;False;Phucknhell;dxvldr3;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+the situation may have been reversed if the NYA (segwit2x) didn't activate segwit and all the UASFers forked off instead.;30;0;False;11111101000;dxuqgcm;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+They do, but in the long run. In the short run, ignorance, lambos, speculation, manipulation, and who knows what else can affect the markets heavily.;13;0;False;SpiritofJames;dxv8ctv;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+[deleted];11;1;False;;dxuxyo3;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"Money quote by u/bitmaincash in a response there, emphasis mine:
+
+> If lightning can't get widespread use before the next explosion it will be a nail biting moment for people like myself who sold all their BCH immediately after the fork **on principle of solidarity.**
+
+Ouch.
+
+Edit, here's bitmaincash's response in a PM to me:
+
+> I cant respond to you because i'm banned in r/btc, I meant in solidarity to segwit2x. I never wanted to support anything that encouraged a chain split. Then when I was cancelled I was furious.
+
+> Feel free to note this in your post.
+";7;1;False;awemany;dxvj134;/u/MortuusBestia hits on a pitch-perfect way of looking at BCH's value proposition in epic comment on /r/BitcoinMarkets;8ef1hv;https://i.redd.it/u710z4co5qt01.jpg
+"Thank you for using the term ""upgrade""!
+
+I see prominent figures on the community continuing to use the term ""hard fork"" or ""forking"". How foolish.
+
+The public doesn't care how an upgrade mechanism works, just like one's grandmother doesn't care how an email reaches its destination. The world is not filled with tech savvy people. Just because you are tech savvy doesn't mean everyone else is. Call it a ""network upgrade"" or ""update"".";106;7;False;BitcoinIsTehFuture;dxw3gv6;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Don't worry, it's been tested ™;-2;2;False;midipoet;dxwhj3v;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+I am rather worried that these new Segwit and LN forced mods to bitcoin are oversold and do not actually scale the chain. Bitcoin has been working fine until it hit the artificial blocksize limit and these hacky upgrades add a very questionable benefit and it is a travesty the future of bitcoin rests on them exclusively. ;11;1;False;bambarasta;dxwjt0i;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+don't worry, they are not new;7;0;False;FlipDetector;dxwpjoj;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"Humanitarians that want worldwide economic freedom to save lives and lift the developing world out of inequality. 
+
+Really. It's not about profit, at all. ";-3;1;False;midipoet;dxwq3t2;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+You're right, but this sub is for all variants of bitcoin -- it just so happens that bitcoin cash is seemingly one of the best variants out there currently (cheaper/faster than core, prepared to scale 32x more than bitcoin core, to list a few reasons as to why we discuss it here more than the other bitcoin variants.);3;0;False;jayAreEee;dxwnfd8;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Bitcoin is broader term than synonymous for BTC chain;2;1;False;LexGrom;dxwrika;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"Thank you, electrictrain, for voting on trolldetectr.  
+
+This bot wants to find the best and worst bots on Reddit. [You can view results here](https://goodbot-badbot.herokuapp.com/).  
+
+ ***  
+
+^^Even ^^if ^^I ^^don't ^^reply ^^to ^^your ^^comment, ^^I'm ^^still ^^listening ^^for ^^votes. ^^Check ^^the ^^webpage ^^to ^^see ^^if ^^your ^^vote ^^registered!";1;0;False;GoodBot_BadBot;dxwjs9r;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+The one bitcoin sub in which you wont get banned for posting that exact sentence.;11;2;False;Not_Pictured;dxwixr4;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+This bot serves a single purpose which is to amplify the echo.;-1;0;False;matman88;dxwb6uh;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"So edgy.
+
+Sorry, but fork is a specific term for repos and unless they do an actual fork, its not a fork.  bcash separating from core was an actual fork.  bcash updating to a newer major version is not a fork.";-9;3;False;WintendoU;dxwrq1q;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"why should we be prepared? 
+
+we shouldn't prepare for the future.
+
+do these statements sound silly to you? ";3;0;False;siir;dxw8zpf;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+They're scaling for the sake of scaling, not for the sake of usage.;5;1;False;HenryK81;dxwpagb;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"The BTC/BCH fork was intended to create 2 chains. This one is meant and written as an upgrade. Technically miners could mine the ""old"" chain but that's not going to happen barring some catastrophic bugs in the new version. ";11;2;False;infraspace;dxwgp6h;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"> Whats the point ?
+
+The limit should not even be there.
+
+It should be removed completely. Bandwidth & Storage space is growing faster than we can fill it. 
+
+Bitcoin(Cash) can serve whole world. **Sky is the limit**. ";9;1;False;ShadowOfHarbringer;dxwohjh;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+One word: Headroom.;11;1;False;michaelmclees;dxw9kac;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+The block size should be upgraded before it comes ANYWHERE NEAR the limit. Now we have great room for growth.;26;2;False;BitAlien;dxw6z8i;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+It's not about how much is being used right now. It's about making the capacity available for usage down the road. It doesn't mean that on May 15 all of a sudden 32MB blocks will start being full. ;17;1;False;BitcoinXio;dxw9eor;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+The new limit simplifies the code, as 8MB was a purely arbitrary limit.  32MB is (currently) a technical limit based on the serialization format.  So one benefit is simpler code.  Also, the other features in this upgrade (op-code restoration, etc) require a hard fork anyway, so there is literally no downside to removing the arbitrary 8MB limit at the same time.;23;0;False;primitive_screwhead;dxw9prr;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+You mean will you be able to mine one of the chains after the fork? Yes. In reality though nobody will do this as there is overwhelming consensus on the upgrade, so if you mined the abandoned chain you would just be wasting electricity and hemorrhaging money. ;15;3;False;BitcoinXio;dxwdmk0;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"> Is it possible to continue mining the existing chain?
+
+Nothing can stop u from doing that. Won't be profitable";13;1;False;LexGrom;dxwrbrt;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+But do the miners not have a choice in the matter? ;7;2;False;swimfan229;dxwrncq;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+For those who use ABC but are willing to switch for diversity sake, I really like the built-in bandwidth settings in Bitcoin Cash Unlimited. It lets me run a node with no risk of getting lag when gaming or whatever.;10;1;False;Not_Pictured;dxw1jmt;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"This is very important.  This is a version increase, not a hard fork.
+
+No one is going to develop the old version or even do any kind of serious fork of it.  I don't get why devs would even do an actual fork in github instead of just tagging a new release.  If they did a real fork, they would have to move to new github repos to host the fork.";-2;1;False;WintendoU;dxwg12s;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"Forking is a common term in the software community though. I think it's only in crypto that it's gotten a bad rep.
+
+It's a fork because the old one is still available to use/does not cease to exist unconditionally.";2;0;False;;dxwkwfp;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+I'm not keen on assuming that people are too dumb to understand forks. I think there are things much more confusing things in the cryptocurrency space.;3;0;False;taipalag;dxwbwyd;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"Blockchains operate on the consistency and continuity of consensus rules. To call a change that fundamentally breaks consensus rules an 'update' is disingenuous. 
+
+Hard forks can be an 'upgrade' and shouldn't be feared, but it is a critical event. Everyone needs to be aware of the change and consent, otherwise there will be a split. ";41;4;False;DrBaggypants;dxw6eux;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"> Whats the point ?
+
+Effective dynamic cap until protocol limitation is dealt with. There'd be no limit";3;0;False;LexGrom;dxwre0h;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+I won't be surprised either, but I would be surprised if they did it for an extended period of time, as it would just be a money pit. Who knows, most of them have lost their minds. ;9;1;False;BitcoinXio;dxwiifw;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+I switched to Unlimited for the Xthin support.;3;0;False;OverlordQ;dxwg32h;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Next flexible block limit :). Remember it's maximum limit, not a requirement.;5;0;False;ommdb;dxwdilc;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"> In reality though nobody will do this as there is overwhelming consensus on the upgrade, so if you mined the abandoned chain you would just be wasting electricity and hemorrhaging money.
+
+You might be surprised at what people would do. I would not be surprised at all to see people mine the old chain. ";8;3;False;midipoet;dxwhr17;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"> No one is going to develop the old version or even do any kind of serious fork of it.
+
+Assumptions are usually right, right?
+
+http://explorer.bitcoinclashic.io/";1;1;False;glurp_glurp_glurp;dxwrk8q;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"That is false.  A fork is literally branching off into a new repo.  If the code is staying in its current repo and not actually being forked off of master, its not a fork.
+
+You do not call a non-passive update a fork.  They should increase the major version number for non-passive updates.
+
+>otherwise there will be a split. 
+
+Yes, but those splits would be the fork.  The main line being updated to the new version isn't the fork.  No one is going to fork this code, they are going to just update their current master branches to the new version.";-6;1;False;WintendoU;dxwg6g8;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Redditor /u/DrBaggypants has low karma in this subreddit.;-1;7;False;trolldetectr;dxw6fjy;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+[deleted];12;1;False;;dxwa2q5;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"There were some 8mb blocks (or close to it) mined during that test run earlier this year.  Might as well be prepared in case the extra capacity is needed before the next scheduled upgrade in another 6 months. 
+
+edit: Here's one of the 8mb blocks.  link for the lazy
+https://blockchair.com/bitcoin-cash/block/512914
+
+thanks /u/MarchewkaCzerwona";10;1;False;;dxwlygo;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Exactly. Great slide image. ;13;0;False;BitcoinIsTehFuture;dxw41dl;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"I don't understand why do people favor soft forks over hard forks, especially soft-forks that aren't backwards-compatible: ""We'll silently drop all your transactions unless you upgrade, but we made sure your client will accept our blocks, so you can't use the old 'version' anymore"" is somehow preferable to ""Your client will upgrade to the latest version, you can use the old one but the old network will probably die since nobody will be using it"".
+
+EDIT: Some instances of miners and nodes dropping previously valid transactions to force users to upgrade: BIP66, P2SH, BIP12, all were contentious soft-forks that were upheld through a sybil attack that stopped miners from having their blocks propagated.";12;2;False;Okymyo;dxwpbgc;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+BTC was not scaled and usability was hurt;10;0;False;LexGrom;dxwrgv6;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+How does his post have anything to do with bitcoin?;10;1;False;KingJulien;dxwmvaa;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+I'm sure Craig, Jihan, that Bodog guy, and Ver are just looking out for the good of the movement and have no ulterior motives.  Yup, its not they subscribe to any ideologies that put greed and self interest above all other things or anything.  Just a great group of humanitarians!  ;-8;1;False;stos313;dxwn01o;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"Honestly, you just outed yourself as not having done much research on Bitcoin.  If you do your own research, you'll learn the history of how it started and the phases the Bitcoin community went through with all the changes to Bitcoin over the years.  Once you understand the history, you wouldn't think of making this suggestion.  
+
+Suggesting a rename of this sub is akin to a white man in the united states deciding to wear Black Face as a Halloween costume.  Regardless of his intentions... he'll find out pretty quickly that he's being offensive whether he knows it or not.";-2;0;False;Churn;dxwd7w8;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Yeah it's confusing and extremely unprofessional the way this sub is right now;-4;0;False;;dxwaj5l;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Why, it's a Bitcoin sub. Bitcoin Cash is Bitcoin. Boom!;12;2;False;BitcoinXio;dxw4bxi;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Wasn't it a bitcoin sub way before bch was formed? ;9;0;False;Raja_Rancho;dxwmszi;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"> Technically miners could mine the ""old"" chain but that's not going to happen
+
+Definitely not going to happen. Not like that's ever happened before.
+
+http://explorer.bitcoinclashic.io/";0;1;False;glurp_glurp_glurp;dxwrn1r;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Redditor /u/onedeadnazi has low karma in this subreddit.;5;1;False;trolldetectr;dxwcr6u;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"IMO the spike in price was due to positive reception of the upcoming fork.
+
+So it might already be baked in. If everything goes smooth there will probably be another bump, but who knows.";6;0;False;Not_Pictured;dxwjhnp;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"But bitcoin cash is not BTC.
+
+But unfortunately subs can't be renamed. ";20;3;False;2_Genders_I_am_1;dxw98xo;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+This guy Bitcoins;6;0;False;chronoszerohour;dxw4mu9;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Good bot;3;0;False;BitcoinCashKing;dxwqzq2;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Bad bot;6;1;False;electrictrain;dxwjs3r;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+[deleted];-5;2;False;;dxwb0i3;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+The client the SPV wallet is running on needs to be updated, but not the end user wallet as they just follow the SPV wallet. If you run a full node that has a wallet too then yes, you should update it. If you don't know, then I presume you're using an SPV wallet and don't have to worry about it. ;7;0;False;BitcoinXio;dxw9j42;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"> A fork is literally branching off into a new repo.
+
+That is false. A fork is literally an implement with two or more prongs used for lifting food to the mouth or holding it when cutting.
+
+https://i.imgur.com/zNLnlxb.jpg
+
+When you use words, you should try to remember that they can have different meanings in different contexts. Fork in the context of a blockchain's consensus rules has a very specific definition. As does fork in the context of git source control, which is similar, but not identical, to fork in the context of other source control tools.
+
+Failing to realize this makes you sound stupid.";6;1;False;glurp_glurp_glurp;dxwrb3v;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+This simply lays the ground work for the global adoption and mass-scaling for the future, [just as Satoshi envisioned](http://archive.is/L5yvP#selection-3429.0-3431.30).;10;0;False;BitcoinXio;dxwdbzq;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"> What is next? 64mb blocks?
+
+No limit ASAP to close the question";5;1;False;LexGrom;dxwrjql;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+It's an upgrade. It's a shame Blockstream/Core Devs [demonized hard forks](https://imgur.com/a/EXpbO). Also, to be fair, [hard forks are less coercive than soft forks](https://vitalik.ca/general/2017/03/14/forks_and_markets.html). ;60;3;False;BitcoinXio;dxw3ycc;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Yeah, I mean of course they would be willing to put the welfare of others before their own selfish desires.;2;1;False;stos313;dxwqbbd;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+That is a nice feature. While I don't need that feature I am switching to Unlimited to improve diversity.;9;1;False;theBlueBlock;dxw2rea;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Do SPV wallets need to be upgraded this time as well like in the November fork? Perhaps not this time because last time there was a bigger change from EDA to DAA?;3;1;False;j73uD41nLcBq9aOf;dxw5wjs;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+They want to save the world.. stop spreading lies;-4;1;False;midipoet;dxwqhcs;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Might this cause another spike in The price?;2;1;False;tiggertom66;dxwj21v;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+When I see hardfork I think Bitcoin and Bitcoin Cash, what's the difference with this upgrade and does that change anything to the current BCH I currently own?;4;1;False;pattybak3s;dxwfjiz;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+[deleted];-3;4;False;;dxw48gu;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Oh, I mean it is definitely clear given their histories and philosophies.;2;1;False;stos313;dxwqllb;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"I really don't understand this upgrade. Blocks aren't nearly full. Shouldn't you guys be focusing on optimizing the code base instead of just increasing the block size?
+
+I'm all for scaling with bigger blocks. But I feel that energy should be towards optimizing. Increasing block size when blocks start to get fuller. 
+
+What is next? 64mb blocks?
+";5;5;False;flowtrop;dxwd1yh;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+I'm rather worried that these new opcodes are going to be exploitable in some way and the whole chain comes crashing down. Bitcoin Cash has been working fine without them so far, they add a lot more attack surface for questionable benefit.;23;4;False;notR1CH;dxwcpm7;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"my nodes compatibility records:
+
+    4/9: 1 in 20 (5%) on testnet, 3 of ~200 (1.5%) peers on mainnet 
+    4/10: 11 of 61 (18%) on testnet, NB 1 of 61 is 0.17.0 8mb.
+    4/16: 14 of 81 (17%) on testnet, 17 of 165 (10%) on mainnet    
+    4/23: 24 of 109 (22%) on testnet, 22 of 150 (15%) on mainnet
+    4/24: 25 of 113 (22%) on testnet, 28 of 156 (18%) on mainnet
+";6;2;False;jkister;dxw9uf0;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Is it possible to continue mining the existing chain?;12;3;False;BeardedCake;dxwc50w;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+"From my full node, I'm seeing around 65% of nodes I'm connected to are running a version that's ready for the May 15th upgrade.
+
+Comparing this to the Nov 15th upgrade: at the time of the upgrade, I saw that only about 70% of nodes were upgraded. It's funny, because according to the Blockstream/Core narrative, this should have been detrimental to the network. Instead, it wasn't an issue at all for the larger network. The nodes that weren't upgraded simply stopped receiving new blocks. The node operators eventually saw that their node wasn't operating normally, and upgraded it over the coming days. A week after the Nov 15th upgrade, most nodes on the network were upgraded (I still do see some non-upgraded nodes floating around though - I guess some people just forget they're running a full node?).
+
+Bottom line: the network is in great shape for the coming upgrade. We don't need 100% of full-nodes to be upgraded, because almost all remaining nodes will upgrade soon afterward.";15;1;False;timepad;dxwcqry;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Ahh the real bitcoin cash...;0;1;False;onedeadnazi;dxwcqo3;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+In the previous years there was always a lot of focus on a balance of miners. It would be nice to also focus on a balance of clients so warning flags go up if any one client becomes too dominant.;17;1;False;theBlueBlock;dxw1cmd;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+I think it is better to refer to it as an upgrade than a fork lol, less people get their panties in a wad;4;0;False;DevFroggo;dxwho32;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
+Whats the point ? The blocks arent even 1/10 full. Explain the benefit pls;32;9;False;;dxw6apu;Bitcoin Cash is upgrading on May 15 to 32MB max block limit;8el8n7;https://www.reddit.com/r/btc/comments/8el8n7/bitcoin_cash_is_upgrading_on_may_15_to_32mb_max/
