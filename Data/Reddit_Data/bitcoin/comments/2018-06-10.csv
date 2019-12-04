@@ -1,0 +1,471 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+"Don't go before support me😞
+1AvPieEGvSPV47rsUSyjje3k8z2QQoq1Ec";1;0;False;LocecoleBR;e0eobmt;Farewell from the Pineapple Fund;8ieffr;https://www.reddit.com/r/Bitcoin/comments/8ieffr/farewell_from_the_pineapple_fund/
+How much would you have to invest in a machine for it to be powerful enough and profitable? What are the major components? Thanks. ;1;1;False;squidjibo;e0gbjpj;This is Cryptocurrency;8j01gs;https://i.redd.it/t85dnponkix01.jpg
+:) told you so.;4;1;False;CuckedByTRUMP;e0g15mo;Oh no;8pdd8r;https://i.redd.it/7azmglqxsm211.png
+Against what? I love to gamble. I'm not bashing bitcoin, it's a excellent casino. I love to buy coins and sell to suckers at high prices, it's fun. ;2;1;False;Pussbo_Faggins;e0eqn0j;Oh no;8pdd8r;https://i.redd.it/7azmglqxsm211.png
+"> I'm sure they'll be plenty of times you end up on the sucker side of a trade yourself.  
+
+I do, plenty of times, not just in crypto, but I cut my loss every time instead of hoping it's coming back.
+
+>If you do make money I figure the reward is the money itself and bashing in others doesn't make me any happier.   
+
+Making money is great, but one of the sweetest joys is tasting my opponents' salty tears. I look forward to the day I get to dump my coins on a fresh sucker, for the money and the tears.
+
+
+
+";1;0;False;Pussbo_Faggins;e0f6ml6;Oh no;8pdd8r;https://i.redd.it/7azmglqxsm211.png
+"I love to gamble too. That's why I bought a lot under $300.  Most said I was crazy.  But we had nine months from February to October 2015 when Bitcoin just sat there under $300.  
+
+I never sold.  Obviously wish I did.  But no one is ever gonna pick the high and the low everytime.   I'm sure they'll be plenty of times you end up on the sucker side of a trade yourself.  
+
+Maybe someone will be there to rub it in.  If you do make money I figure the reward is the money itself and bashing in others doesn't make me any happier.   ";1;1;False;GolferRama;e0esyfk;Oh no;8pdd8r;https://i.redd.it/7azmglqxsm211.png
+I also predicted the crash down to 5800 and rebound. :) To me, it seems so obvious.;1;1;False;CuckedByTRUMP;e0g2yps;Oh no;8pdd8r;https://i.redd.it/7azmglqxsm211.png
+[deleted];8;0;False;;e0g5byc;Oh no;8pdd8r;https://i.redd.it/7azmglqxsm211.png
+remembered your comment, just had to find the post to see who you were so i can follow your wise words, lol;1;1;False;afksports;e0g2dt0;Oh no;8pdd8r;https://i.redd.it/7azmglqxsm211.png
+Think that we'll see a rebound here, too?;1;1;False;afksports;e0g3mfc;Oh no;8pdd8r;https://i.redd.it/7azmglqxsm211.png
+:) Me and you were right.;1;0;False;CuckedByTRUMP;e0g152a;Oh no;8pdd8r;https://i.redd.it/7azmglqxsm211.png
+Much more than that, there's over 100 word so you can generate new wallet for the rest of your life if you want... crypto puzzle are the best :);1;0;False;P00r;e0eu3cp;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+notdef glyph is U+20BF being the symbol (Unicode) that represents bitcoin ..;3;1;False;Joepdigital;e0evl58;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+While it's generally frowned upon, you can pick your own words for a seed phase.;5;0;False;Pestilence11;e0ek40z;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+I have a question to cryptogreetings. 6 word - TRUST or MUST? I don't think that would be a significant clue!;-3;0;False;Dimitry2020;e0fuak3;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+[deleted];1;3;False;;e0gbdya;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"At this address is big balance BTC: 3Ap6mixhHLmVtH41YHH94Ut4jBfmqRpzgq https://blockchain.info/address/3Ap6mixhHLmVtH41YHH94Ut4jBfmqRpzgQ
+Im declare that the puzzle is hidden mnemonic seed of 12 words that gives access to these funds. WHO CAN REFUTE ME...!";-3;2;False;Dimitry2020;e0g6v9v;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"> Could you give me that seed? 
+
+I can't. because the key will become clear";1;0;False;Dimitry2020;e0fx3c4;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"I think that people should investigate by themselves (that's part of the fun) but there are so many posts that are repeating incorrect information that I want to help a little bit.
+The following information is simplified and may contain errors, if you want the full technical details read the BIPs 
+
+The Address: If an address starts with a 3 it only means it's using the BIP13 P2SH address format. The original purpose was to be able to send BTC to a redeemScript using a short address BIP16. One special case of a redeemScript is multisignature transactions. SegWit BIP141 also uses this format for P2WPKH-nested-in-P2SH and P2WSH-nested-in-P2SH addresses. The only way to know which case it is, is by looking at the transactions from that address. 
+There are no outgoing transactions from the current prize address but there is one from the previous one 3CcxyPhyvyc3S9UuPfu42GNZLvVVV11Uk8, in there you can see that the previous address was P2WPKH-nested-in-P2SH. Although technically the new one could be different I think it's reasonable to assume is of the same type unless there is evidence of the contrary. To check transaction details you can go to https://blockchain.info/rawtx/2ace579f68059dfd8e4b467d98cd866385798c34a1a2263b0e6613045b86c8d8 or better to https://blockchain.info/tx/2ace579f68059dfd8e4b467d98cd866385798c34a1a2263b0e6613045b86c8d8?format=hex and paste the code in http://chainquery.com/bitcoin-api/decoderawtransaction 
+
+Private Key Generation: Now, to spend the BTC you need the private key related to the public key. Technically that is just a number and it could be generated in different ways but a strong possibility in this case is that it has to do with the BIP39 words in the picture, if it is using BIP39 that suggests that is also using BIP32 for generating HD wallets. 
+Since HD wallets can have multiple levels, the BIP43 standarized a purpose level and BIP44 is a specific case of BIP43 with more levels. BIP49 is basically a copy of BIP44 but for P2WPH-nested-in-P2SH addresses so it has a different purpose number to be intentionally incompatible with BIP44 wallets. 
+The site https://iancoleman.io/bip39/ also has a BIP141 tab, the BIP32 and BIP141 tabs generate the same private and public keys for the same derivation path, they just encode the addresses differently.
+All of this is to say that you can't get the purpose number only from the address but BIP49 sounds promising.
+
+Words: Assuming that the solution to the puzzle is a mnemonic sentence using BIP39 words, the sentence can have 3, 6, 9, 12, 15, 18, 21 or 24 words. For every 3 words there is a bit of checksum so for 3 random BIP39 words you have a 1/2 chance that the sentence is valid, for 12 (4 bits of checksum) the chance is 1/16. If the sentence is valid it is converted (using a passphrase if present) to a seed which then can be used to generate the keys using BIP32 (or other methods). Assuming the sentence has 12 words, even if you know the words but not the order, those are around 12!/16 valid sentences (if you are not using the full BIP39 dictionary the number can be different depending on the distribution of the words).
+
+Picture: 
+* There are 116 BIP39 words in total and 50 inside the circle, always including capitalized words. 
+* The frequency to size of the words match (mostly) if you use the version of the whitepaper in http://git.dhimmel.com/bitcoin-whitepaper/, convert it to text and split (add spaces to) some formulas.
+* The font for most of the text is ""Work Sans"" and the lambda symbol uses ""Apple SD Gothic Neo"" but I don't know the font for the ""FULLWIDTH EQUALS SIGN"" and the .notdef glyph.
+
+";15;1;False;bit_popsicle;e0eoakd;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+Hi. I want to share information. When restoring access to the wallet using a mnemonic seed, the previous owner of the wallet does not know that he lost funds! He doesn't receive any messages on his e-mail or phone. The whole history of the transaction restores immediately. Today restored 8 wallets! Balance = 0;-1;1;False;Dimitry2020;e0ftlu5;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+Could you give me that seed? ;1;1;False;spring_bean_java;e0fvjvq;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+[deleted];1;1;False;;e0g9nfg;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+Explain why you have 1 word - WAY, 6 word - NETWORK, and so on?;1;1;False;Dimitry2020;e0g62hg;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+[deleted];0;1;False;;e0fwtyt;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+You're probably right. In our dialogues, a new understanding of the puzzle. We'll move on....:-);1;0;False;Dimitry2020;e0f7q81;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"That's possible, sure. It's incredibly unlikely though, given that BTC is incredibly useful, and cannot simply be killed like a website. 
+
+People have given value to bitcoin. They will be hard pressed to lose that value. Bitcoin will always have use cases. With 3rd gen blockchain, bitcoin will be inter-operable with other services. So even if bitcoin isn't the lead dog, it will still exist and have value. 
+
+Someday it might become novelty only. I expect then for the price to be much higher than it is today.";2;0;False;-0-O-;e0g9tzi;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Previously ATH would not be a moon anymore.
+
+Last ATH before $20k was $1k
+
+Nice scare tactic though.
+";-1;0;False;-0-O-;e0g3qe2;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Dot com bubble was a US only bubble that popped at 1 trillion market cap. 
+
+Crypto is worldwide and has never hit that market cap. Crypto IS a bubble IMO but we haven’t gone high enough for the burst. ";8;3;False;mrtpain;e0fy4pm;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Expound please, I thought 20k -> 6k was supposed to be the bubble popping;3;1;False;ta4lyfebih;e0fysmu;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];-2;1;False;;e0fy4vp;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+*Call vitalik*;2;0;False;shardikprime;e0ga3kt;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Why didn’t you sell it and buy it back when it dropped? That way you have your bitcoin and profit too.;0;1;False;Zenniverse;e0g8o41;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"It was on every news station in 2013 too. Did the ""world"" know about bitcoin then?
+
+Ask people. I ask people regularly. 80% still have never heard of it.";2;1;False;-0-O-;e0g72ct;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"It was on every news station in 2013. I thought that was your qualifier for the world knowing.
+
+I ask people still all the time. Most have no idea what bitcoin is or have never heard of it.";6;1;False;-0-O-;e0g78pb;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Oh bother. ;1;0;False;FallacyDescriber;e0g9jdh;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+He just has a different opinion than you, no need for pity. Do you think that people starting businesses is a bad thing? ;6;2;False;Pazu2;e0g7tj4;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+63% of Americans can't come up with $500 in an emergency;211;9;False;_Untermensch;e0g0733;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Yes and they started with $1000 in Jan 😉;267;5;False;sk_redditer;e0fyzy1;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+You think r/Bitcoin subscribers represent the world's distribution of wealth? ;15;1;False;jazzfruit;e0fz3h5;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I put 24k, my whole savings into Bitcoin when it $12k, I gave 2 btc and I am going to ride this out until my coin gets back to atleast what I paid. I wish I had sold at 20k, but I will definitely sell if it gets to 20k again ;0;1;False;saintsfan;e0g2896;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+There are a lot of professional people in here. If you make 5 to $10,000 a month you probably have more than $100 in crypto if you visit this Reddit. If I had to guess I would say the numbers get pretty small when you start getting above 50000 crypto because if you had that much chances are you've been in since at least 2016 and you sold a lot of it sometime last year. ;19;0;False;racebum;e0g1f1q;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Lol;1;0;False;heyitsamekevin;e0g4lwo;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+rofl the fiat paft cracked me up;1;0;False;fourtys;e0g4qe4;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I'm pretty sure that's the case. But hey, $100 * 856,000 = $85.6 M ;1;0;False;octobitio;e0g57b1;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Why would you think that?;1;0;False;Justtryme90;e0g7arw;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Well if you were following this dog shit of a sub for last few years everyone was chanting about how they were getting in early before the world found out about bitcoin who were going to shoot bitcoin to the moon once they heard about it. 
+
+Last year it was on every news channel globally for months. Was the number one non political topic of conversation I bet. 
+
+So the world found out about it. Pushed it to the sky. And now coming back to earth. 
+
+So I ask again. Who is going to buy the next lost? Martians?";6;2;False;Speaking-of-segues;e0g5vb3;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"The world didn’t know about bitcoin in 2015. 
+
+So no.  No you didn’t. ";11;1;False;Speaking-of-segues;e0g74v0;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I had a few hundred at one point before selling half of it, which is a lot for me considering I’m very young. Definitely not like some of the people on here who have multiple bitcoin though.;1;1;False;Zenniverse;e0g86ew;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I'd wager I could buy and sell you twenty times over between bites of breakfast, punk.;-2;1;False;Marcion_Sinope;e0g4f1c;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I am one of that 90% but only because it was a surprise to me when Robinhood opened up crypto trading in my state so I just took what I had sitting in my account and invested. I plan on doing a lot more later in the year when I have the money to burn.;0;0;False;TheInfinityOfThought;e0g5rt6;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+We need to court more Whales as a community. How about we all independently door knock, drop pamphlets, and shill in the most expensive suburbs of our respective towns and cities? Anybody got contact details for any billionaires?;-1;0;False;;e0g7b60;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"No problem.
+
+But seriously...
+
+I'd wager that I can shoot the balls off a skeeter 3 miles away with a crossbow.";3;0;False;pg3crypto;e0g8nfs;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Don’t be like this ;35;1;False;cp5;e0g3w09;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+If you honestly think that. I pity you. If only you could try hard enough to win the birth lottery and have sociopathic tendencies.;27;5;False;AlwaysNowNeverNotMe;e0g73q2;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+You speak my mind good sir lol;4;0;False;rw333;e0fyjsf;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Usually bank happily lend you money secured against assets. 
+
+If you find one insane enough to use your crypto as security do you think they will value not against the price you bought in at or the current market price. 
+
+I never ended up selling my pets.com stock either. ";7;1;False;Speaking-of-segues;e0g541i;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+so what's the point lol ?;5;1;False;OwnCapital;e0fzath;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+If you bought early enough and made some good money, just get out before it comes down to below your buy point. ;-3;0;False;_Untermensch;e0g0cci;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Ouch bro ;2;0;False;WtfIsRedditAnyWay;e0g1qgk;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+" Be a party of the best and good working cryptocurrency   
+Inbox for details on how to invest with my company all you need is our company";0;0;False;emma1890;e0g78r1;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+The move is still happening. That drop is not a dip. If it dips,  buy at $5k,  if it goes up, it might be the moment bears buy back. ;-2;0;False;iiJokerzace;e0gbe2h;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+*Bodganov, he vought ze dip.*;56;1;False;shardikprime;e0ga2vd;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+You have infact made the loss, you just haven't realized it into cash. ;65;2;False;Somebody__Online;e0g3r4n;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];89;4;False;;e0g1shx;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+This.;1;1;False;strafocat;e0g1p75;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I like the way you think ;1;0;False;;e0g7btr;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Me too, just got 0.15BTC @ $6,689
+
+Let's hope it was near the bottom";33;3;False;Somebody__Online;e0g3wcd;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+He ded.;16;1;False;IrieMars;e0g4q8w;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Agreed. I'm in it for the tech, but I'm also in it for as much bitcoin as I can get;3;0;False;dr_steve_bruel;e0g36x8;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Nope. No it wasn’t. 
+
+It was less than a murmur in 2013. 
+
+In 2017 it was everywhere. 
+
+And your 80% stat is bullshit. 
+
+";5;1;False;Speaking-of-segues;e0g77si;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I think the buy strategy is a bit better;47;3;False;_sj47;e0g109q;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I'm gonna buy everything if it gets to zero;10;1;False;maltese_man;e0fzjh3;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I'm still ahead about 5x and lost money when I panic sold during dips in the past. Just not interested in selling.;10;0;False;Vigilante_Gamer;e0g98s9;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I plan to buy a few hundred thousand bitcoins when it gets down go a penny;25;1;False;saintsfan;e0gbira;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Obviously not. Pity isn't a response I can really control. I could have just not said anything in reply I suppose. But I feel like his comment is so dishonest it demanded a reply. The idea that the rich are purely benevolent is beyond childish.;7;5;False;AlwaysNowNeverNotMe;e0g83a6;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+He also hates Bitcoin, but gotta have them memes right?;14;0;False;rarecoder;e0g1sjn;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+He sure has fun in the meantime though;-3;0;False;;e0g3yx7;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+tfw there is no fiat left;7;1;False;Hanspanzer;e0g85hc;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+It’s June 10;13;1;False;Speaking-of-segues;e0gacng;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Eu lowered leverage of cdf crypto to 1:2 will make a big impact and soon other places will follow, they will kill bitcoins volatility i guess;0;0;False;FireFireoldman;e0g1xwd;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+It's just a scene reference, where he decided not to give up.;9;1;False;1xltP3mgkiF9;e0g3eyg;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+don't let the FUD get you if you are a believer.;-2;1;False;Hanspanzer;e0g88gl;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+It's silly to want the price to go up. What you should want is for more people to start using Bitcoin. If that's not happening, the price isn't going anywhere you want it to.;34;1;False;antonivs;e0g1iw6;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Like it matters what we want...;14;0;False;Infams;e0fxk0f;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"I guess the issue is that no one wants to buy incase the price drops / no one can afford to buy any more than they already have. So this leaves only sellers, and bots.
+
+I haven't made a trade in a week, I used to trade multiple times a day. More profit can be found elsewhere for anyone bothered. ";3;0;False;DivineLawnmower;e0g8bje;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];1;1;False;;e0g05of;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Initiate Chinese FUD.;8;1;False;kvenick;e0g6cpx;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];6;0;False;;e0fzzlq;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"We know the trend for crypto is upward. It has been for 9 years. A few months doesn't change the overall trend.
+
+That being said, we can expect crypto (at least some of them) to do really well and for these prices to seem like (because they are) entry level prices.
+
+The jump can happen in days, as we've seen time and time again.
+
+If you are truly confident in your investment, selling at a loss is the worst thing you can do.";12;4;False;-0-O-;e0g3jhn;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+lol no, that’s not the right way to think;24;1;False;Crabzor;e0g2zd2;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Better than Warren Buffett he invested 80 billion the had 392 dollars.  I heard he's still buying bitconnect.;4;0;False;lizard450;e0g4vdi;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];14;1;False;;e0fzss7;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];2;4;False;;e0g8py6;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];2;2;False;;e0g6l07;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Any day now.;9;0;False;_ferz;e0g4rra;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Lol sorry, if your not sweating the value you have invested I would not sell at a loss either.
+
+It's easy to hold when you didn't over invest";31;1;False;Somebody__Online;e0g42yj;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Past performance is no guarantee of future results. 
+
+Many assets have turning points also. If you want to use past performance why select the last 9 years and not the last 6 months?
+
+The hyper rally last year was most likely due to bitcoin making headlines worldwide and every monkey jumping in thinking that they can’t lose. 
+
+And now they’ve lost. 
+
+Those buyers are gone forevrer. The world knows about bitcoin. Which buyers are going to come in that weren’t there before? Or aren’t in now?";25;2;False;Speaking-of-segues;e0g5aet;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];-2;1;False;;e0ga4pv;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"In some cases it is.
+
+We know the trend for crypto is upward. It has been for 9 years. A few months doesn't change the overall trend.
+
+That being said, we can expect crypto (at least some of them) to do really well and for these prices to seem like (because they are) entry level prices. 
+
+The jump can happen in days, as we've seen time and time again.
+
+If you are truly confident in your investment, selling at a loss is the worst thing you can do.";3;2;False;-0-O-;e0g3ivf;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Oh yeah, this was like extra cash I had when So jut let it ride and haven’t invest anymore ;5;1;False;cp5;e0g44ce;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"That would be two bets you'd lose - the latter of which would give the Wailing Wall a new, deeper meaning for you.
+
+I have a feeling you're an interesting guy and I'd like to share some more theological ideas and perspectives with you. Hope you respond to my PM.
+
+Thanks.";1;0;False;Marcion_Sinope;e0g9rz0;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Fuck you both. I'd wager I can throw a kettle over that house over there.;4;1;False;pg3crypto;e0g73dq;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Something something lambo ;10;2;False;_sj47;e0g40jj;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Or they Started with $5000 in Jan .....friend of a friend haha;3;0;False;FatalFingers;e0g6dyd;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Who cares?  Yes there is more chaff than wheat in life.  Pareto Principle, yadayada.  
+
+I get better conversation from time to time in r/bitcoin than anything from 95% of the people I have face to face contact and 100% of lowest common denominator controlled broadcast media.";0;0;False;TwoEvilDads;e0g9nn1;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"There was no point, it was a joke.
+
+In seriousness, I think the main demographic of r/Bitcoin subscribers are millennials from the US, Canada, and the UK with middle income backgrounds. My best guess is that the average investment from regular commentors is probably around $1k, but it's really hard to judge.
+
+I think r/niceguy subscribers are mostly insecure fucks who find humor and self satisfaction by making fun of psychology damaged pervets. ";12;0;False;jazzfruit;e0g0dmh;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"""redditor for 3 months""
+And already killing em all :'D";26;0;False;;e0g0z27;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"I get your point, sir, and allow me to say that you seem to be a thinker, which is good, because I am German and consider myself to be a thinker, too. But, with regard to this meme: I'm afraid I have to tell you that my opinion differs strongly from yours! Because: The meme DOES make sense, even without having seen the movie! Because the look of his face is telling, and his pose is funny, like some kind of messiah. It speaks for itself. As if the whole situation is the key moment of his life, or at least the key moment of his career. And now the real fun is, if you think all of that transferred to us little Bitcoin hodlers. Imagine little John, 16, owning 0,018 Bitcoin, giving you this messiah pose and ""I'm not fucking selling"". I can see that this is funny even without having seen the movie.
+
+
+You may please reconsider your point of view with regard to my argumentation, kind sir. Thanks.";1;0;False;;e0g9pb7;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+high risk macro trading. business as usual.;-2;0;False;Hanspanzer;e0g8nix;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Lol, I am the reddit 1 percent.;10;0;False;johnhitlerpizza;e0g7xrc;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I have went ahead and set it up to autosell at we 24k, but when it hits 20k if it starts dipping I'll sell ;0;1;False;saintsfan;e0gaejt;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"And that's what is happening.  The whole thing is far from over though. Bitcoin is fine and amazing things are happening in crypto.  
+
+One year return 136%
+Two year return 1054%
+From early 2013 til now.... something in the order of 10,000%";2;0;False;TwoEvilDads;e0g52jz;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+How’d you get 4.5k? Any resources you can direct me to so I can learn to make calls like that?;6;0;False;ta4lyfebih;e0fz39l;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];2;1;False;;e0g2hs5;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I think the lowest it will go is $6k. Based on the past it’s bounced between $6-11k and hasn’t really broken either number.;0;1;False;Zenniverse;e0g95pj;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+So I guess you're in favor of more aggressive taxation?;1;1;False;bellw0od;e0g4qrg;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Probably due to that pesky 1% inhailing 82% of all wealth generated while we're throwing around random figures.;51;1;False;AlwaysNowNeverNotMe;e0g3dti;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Last I read that is 0% in income tax, but effective tax rate would be positive from all other taxes.;18;1;False;jmblock2;e0g9p08;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I couldn't have said it better myself. This is also the reason dud exists. A lot of these Jan fomo investors missed the boat and are pissed they couldn't get rich over night.  The amount of pseudo investors this market has drawn out though.;2;0;False;drstrangerub;e0gaszz;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+What?;3;0;False;64BbuB1aVYPt;e0g3lxx;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+You prick :);3;0;False;viktorknavs;e0g2nd0;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+mental!;1;0;False;CryptoMonki;e0gbj45;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+*Bodganov, he vought ze dip*;47;1;False;shardikprime;e0g9nq5;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+F;1;2;False;Szarkan-;e0g7rf8;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+¿Por qué no los dos? ;8;0;False;GET_OUT_OF_MY_HEAD;e0g2lvw;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Yeah, you do that...
+
+Something something cheap coins, lol.";12;1;False;_ferz;e0g3sb8;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+*Now pooomp eet*;6;0;False;shardikprime;e0g9qyy;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+There is always fiat around. ;5;2;False;richyboycaldo;e0gbbts;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Because it's all about time frame... eh fuck it responding... *""the world knows about bitcoin"".*
+
+Let's pack up boys, it's over!";0;1;False;kvenick;e0g5lz8;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I heard the same exact points in 2015.;0;1;False;-0-O-;e0g6zxv;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Yeah, but the scene had nothing to do with selling or holding. If you've never seen the movie before, but heard of it, and seen this meme, you expect it to be from some heroic point where he decided to NOT SELL when a stock or something was crashing, only to be greatly rewarded for it on the bounce.
+
+I mean, as a ""meme"", it really makes no sense.";5;2;False;camouflage365;e0g4xt7;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+yes that sounds like a sound investment strategy;6;1;False;st8ic;e0g8i4x;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Selling at 2k is a better strategy than selling at 1K. But thats just me.;8;1;False;IrieMars;e0g4pot;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Hold it until you can spend it everywhere by itself. ;16;2;False;Excessive_Imagery;e0g0dhk;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+no you won't because then the FOMO will kick in.;1;2;False;Hanspanzer;e0g8c4h;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];55;2;False;;e0fz5e4;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+There can be multiple bubbles, this won't be the last one but it definitely is one.  Any asset that goes from 1,000 to 20,000 in 1 year is gunna get fucking rekt by bears after the blowoff.;9;1;False;tofur99;e0fywpo;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+altcoins will pop. bitcoin will prevail.;-1;0;False;Hanspanzer;e0g8g5w;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Nah it's going to at least 4.5K, that was just one stage of the after effects of the pop (the blowoff top at 20K was the pin hitting the bubble).;3;1;False;tofur99;e0fz1eh;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+it popped, that's why I used past tense.  I'd use present tense before the blowoff top at 20K happened.;0;1;False;tofur99;e0fyzc8;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I did. That’s what I sold in Feb. I’ll buy back in when it goes down to $3000.;2;1;False;DCEagles911;e0g8z44;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"That's what I did too. Back in early March 2015 I put an extra payday I wasn't counting on into Bitcoin at about $300 per coin. Later that month it was almost $200. I didn't have more money to average down but I didn't want to realize the loss. I just sort of held and forgot about them until early 2017 when I sold 1/5 of my stash to take out double my initial investment. 
+
+Almost all the money I have today is because of buying those few bitcoins back in 2015 lol";19;2;False;Somebody__Online;e0g4lgo;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];3;1;False;;e0g7yxd;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Yeah, I hate that pesky 1% for starting businesses, taking risks, hiring employees, navigating mountains of governmental red tape, and working 80-hour weeks and weekends to ensure their businesses succeed. They're such a plague on society.;-17;3;False;whitslack;e0g6utm;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];1;2;False;;e0gavv8;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Not really, No one outside of current holders have ANY interest in buying more. A new peak was just hit with $7700 and sell offs will continue again and again.;5;0;False;DCEagles911;e0g9b6c;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+the leftovers of the bubble are floating down to the ground, lmao;2;0;False;tofur99;e0g4n29;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];47;5;False;;e0g13wd;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"I am understanding. 
+
+Are you not understanding that the technology can thrive while bitcoin becomes worthless?";0;1;False;Speaking-of-segues;e0g9g22;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Is this actually accurate? Source? If so, very interesting and sad;2;1;False;healthydogo;e0g9vis;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+That's because it is far more difficult to access than stocks. Second, we are all aware of the Dotcom bubble, and thus, are more skeptical of supposed get rich quick schemes. Though, desperate Millennials appear to be driving this bubble.;3;0;False;_Untermensch;e0g0f6o;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];346;23;False;;e0fy15k;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"you should probably have sold at 20k, 16k, 12k, 10k
+
+there's not too much downside left now. 3-4k is possible but it would rebound pretty fast.";4;0;False;Thierr;e0g94p6;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Bulls and Bears both make money. Pigs get slaughtered. ;6;0;False;pgneal3;e0g72yg;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+everybody else is.;2;0;False;End-Effector;e0g5gx6;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I'm either holding or buying at this point.;4;0;False;This_Administration;e0g92ox;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I really don’t get it. Doesn’t everybody want the price to go up? Fucking 🐻/ fud ;12;4;False;robwe2;e0fwxht;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Keep telling yourself that. Becoming a millionaire in the United states is attainable for anyone earning around 50k per year living a frugal lifestyle and prudently investing. ""Inherented"" wealth doesn't even enter the equation.";1;1;False;brizzadizza;e0gbj8s;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Wow so cool. Can't wait for you next blog post;8;0;False;berock212;e0g31n1;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Yes. I think the majority of wealthy people are wealthy due to savvy investment and sound businesses. Sitting on wealth means it's eaten by inflation. Being a moron and wealthy makes you a mark for predators and conmen. Neither of these states are conducive to maintaining wealth in modern economies. ;2;1;False;brizzadizza;e0gbc2n;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Who is ""their"" in your rhetoric, precisely? I can say I enjoyed providing IT services to mortgage lenders up to and slightly through 2008. I can also say that in my experience, the majority of people running the offices I was selling services to were decent caring people and that few of them came from money and still became wealthy during that period. Were they actually sociopaths in disguise? Was paying off my school/credit card debt, employing, housing, and feeding me some clever ruse to make me think they were magnanimous? And even if it was, since I was only relying on their ability to pay my invoice, should I care?";3;1;False;brizzadizza;e0gb3xc;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+The housing bubble had nothing to do with people starting businesses ;3;1;False;Pazu2;e0g9g7s;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+All the bears on Reddit/twitter sold at 19k apparently so not sure who is selling here.;2;0;False;TP43;e0g7181;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+So you think it won’t go up again ?;7;1;False;ryon30;e0g1qs1;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I sold all mine in December and peak in Feb. I feel great about it. It's fun to watch the people who bought it.;-1;1;False;DCEagles911;e0g3elr;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+At he moment we still live in a fiat world. It’s becoming more accepted but in the meantime I’ll exchange it for fiat once it had a acceptable value ;1;0;False;robwe2;e0g1ovq;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+In fact, I'm buying!;1;0;False;buttcoinage;e0g6b8v;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Comment for the day. Unless you believe it is going to 0 you're crazy not to cost average in;1;0;False;racebum;e0g82fy;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+we didn't even hit support line yet and the FUDsters already taking the stage :);1;0;False;Hanspanzer;e0g8k7j;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Also, TBH: I was lucky to do what I did and I did it based on other people losing money. Right now, this subreddit is 850,000 people hoping someone else will buy their stuff. I believe in the idea of Bitcoin, but its current iteration doesn’t work.;1;0;False;DCEagles911;e0g9pgm;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+That explains why email has been totally replaced by sms and instant messengers.;3;1;False;-0-O-;e0g8qk0;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+fcking down price now xD \~5700 € wtf...\^\^ but I got my btc today so I wait for high prices\^\^;3;0;False;blueberrypower;e0g88eg;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Can someone explain this meme to me? I watched WoWS a few months ago, and to my dismay, the movie really had nothing to do with being a good trader or anything like that. It was just about some guy who ran a huge scam/ponzi with a bunch of other people.;9;1;False;camouflage365;e0fzj42;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"I'm mostly asking adults. Some are grandparents but not with cases of dementia. People in their 30s, 40s, 50s more than anything.
+
+And sure, let's go ahead and say the world knows about bitcoin now. Bitcoin. Not ethereum or cardano or stack, omise go, or anything else.
+
+Get real.
+
+The world knew about the internet in 1990. Lmao.";3;2;False;-0-O-;e0g7tjt;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I didn't bring that up, you're confusing my point with his deflections.;1;0;False;AlwaysNowNeverNotMe;e0g9ijt;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"You were working for them and you got paid, what do you want me to do pat them on the back for not enslaving you?
+
+I'm talking about the family homes that were ripped from desperate peoples fingers. Perhaps they shouldn't have been sold to them, but it was obviously a systemic effort.
+
+You were working for / with lackeys, The sociopaths were the people who engineered the crash with the plans of gentrifying entire cities.";2;1;False;AlwaysNowNeverNotMe;e0gbn50;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Didn't check my Delta for a few days, what happened lol?;1;0;False;HyperGamers;e0g9ruc;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I mean I’m still in profit but I just want to hear what you guys think ;1;1;False;ryon30;e0gavwp;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I mean I get what you mean guys but I would risk it to wait I’m still in profit but I would love to see it at 7-10 K again don’t need to gt 20K but I mean just a bit higher ;1;0;False;ryon30;e0gb043;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+It was a bubble, dumbass.;-1;3;False;tofur99;e0fxdny;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Coinrail hack: 2,7 m volume per day exchange destroys over 40 billion dollars in just a few hours. Being in crypto: priceless.;2;0;False;ArtieFishel83;e0g9dvd;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Lol how many of you actually have 1 Btc? Let’s say you do, Even if we moon back to ATH you’ll have 20k lol. Is it even worth it honestly ;3;2;False;heysnookibabe;e0g10vt;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+">The internet is like block chain.
+
+>Bitcoin is just another Dotcom.
+
+Did the first dotcom invent the internet? Also BTC is a protocol not just a node (like a dotcom would be). Do people still use email? ";3;1;False;-0-O-;e0g8h8g;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Down with the sinking ship;2;0;False;jewellui;e0fzvqb;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Meanwhile, the belief that the rich are only wealthy due to birth and circumstance, absolutely AOK. In any event the wealthy don't have to be entirely benevolent to have positive effects on the economy.;14;4;False;brizzadizza;e0g8em5;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+going back to 3k. ;3;1;False;rootbeerspin;e0g8jaa;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Lol every time I sell some it crashes
+
+sorry bois";4;0;False;Xenepa;e0g03gs;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+you will sell at 1000;3;0;False;MANISHERE;e0g07r8;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Never selling ;6;1;False;dthemachine96;e0fx1wt;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"The internet is like block chain. 
+
+Bitcoin is just another Dotcom. 
+
+You’re confusing the technology with the asset. 
+
+";0;1;False;Speaking-of-segues;e0g80o3;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Retail investors yes, the big fish that holds 99% of the worlds wealth havent entered bitcoin yet.;1;0;False;CoinLove87;e0gad7s;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];6;1;False;;e0fwtzc;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Fu** man it’s going to end soon maybe I should sell before it gets to 2K;10;3;False;ryon30;e0fxnj3;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"This is good. 
+Shake the weak hands.";7;0;False;pinkwar;e0g5fwc;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Nobody cares who invented it buddy. 
+
+If they don’t value its use they will sell it. 
+
+And if someone else piggy backs off the technology for their own success bitcoin gets fuck all out of it. 
+
+";1;1;False;Speaking-of-segues;e0g8nxe;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Since the futures markets began, we are under a new kind of special manipulation I've seen in other markets before (like the gold market).  We can expect a bull trap, for example, with the number of weak hands waiting until after the June 6th to jump in.  Once they are shaken out I bet the bull continues.  Basically since the futures markets began, we can expect every move now to be a fake-out.;11;4;False;BigJim05;e0g1ie7;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"75% larger (1222x830) version of linked image:
+
+http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling.jpg
+
+*****
+
+^[source&nbsp;code](https://github.com/qsniyg/maxurl)&nbsp;|&nbsp;[website](https://qsniyg.github.io/maxurl/)&nbsp;/&nbsp;[userscript](https://greasyfork.org/en/scripts/36662-image-max-url)&nbsp;(finds&nbsp;larger&nbsp;images)&nbsp;|&nbsp;[remove](https://www.reddit.com/message/compose/?to=MaxImageBot&subject=delete:+e0fwro0&message=delete)";0;0;False;MaxImageBot;e0fwro0;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+well, not yet :P ;1;1;False;WishKaril;e0g7gcu;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Who are you asking? Babies and demented grandparents?
+
+80%.  Lol. Ok buddy. ";1;1;False;Speaking-of-segues;e0g7pa3;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Nobody cares. You understand that right?
+
+The technology will thrive without a single person owning bitcoin. 
+
+MySpace theoretically invented social media. Who gives a shit. ";0;1;False;Speaking-of-segues;e0g94fq;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Lol at 6800?  Talk to me when they actually try.  Yawn;4;1;False;lizard450;e0g4rwb;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Positive to whom? Did you enjoy their land grab back in 08'?;7;2;False;AlwaysNowNeverNotMe;e0g8pdy;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"IMAP is still used today. You're the one not understanding. Excite used IMAP for email then, gmail uses IMAP for email now.
+
+Myspace didn't invent a protocol. You're not understanding. Myspace is like a single smart contract. Not a whole network protocol.";2;1;False;-0-O-;e0g96uv;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Hold is the worse strategy in 2018;103;3;False;Kotaibaw;e0fwyt2;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+ All banks everywhere will get hit like this. Central Banks are printing trillions more fiat \- and failing \- to paper over the cracks. Safe havens like [~~#~~**Bitcoin**](https://twitter.com/hashtag/Bitcoin?src=hash), [~~#~~**MaxCoin**](https://twitter.com/hashtag/MaxCoin?src=hash) and Gold are the only places to run to preserve wealth. ;-2;0;False;emma1890;e0g7568;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+There’s no way it’s dipping below $6k. (Saying that in hopes that I jinx it and can buy cheap bitcoin);26;5;False;Zenniverse;e0g8m4d;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+All I know is whatever the actual bottom is, you're going to have about 45 seconds to scoop up coins before it instantly pops up 30%. ;28;1;False;paperraincoat;e0g4egk;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"You think that a large percentage of the rich are *not* wealthy due to birth and circumstance? I'd love to see the statistics on people that actually follow the ""pulled out of the poor by the bootstraps"" dream that is getting more and more prohibitive by the day.";4;1;False;greatwhitebuffalo716;e0ga41u;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+[deleted];39;1;False;;e0g2zrk;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Top way to become a millionaire in USA? Inherit money. It absolutely is due to birth and circumstances first, effort and talent second. ;5;1;False;pyropenguin1;e0g9yrx;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+In case you forgot, Jordan Belfort was guilty of fraud running a boiler room scam and lost his fortune ... perhaps another poster child for your stupid hodl tactics?;65;4;False;Squizzonk;e0fxmdc;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"I think this is when your philosophy becomes important. HODL is great and all. 
+
+However, what are we in crypto for? If it’s an investment in your mind, great. HODL all day. However, spending it on goods is not selling. There is nothing wrong with hodl and there is nothing wrong with spending.
+Some times, I do wonder if HODL hurts us. ";7;0;False;raw157;e0g54mm;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+but are you buying?;3;1;False;richyboycaldo;e0g4odw;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Another post for the stupid and shills. 
+
+Good for you, don't sell... nobody cares. See you at 5k with the same post, and perhaps 4k again, etc. 
+
+You are all in it for the technology right? LOL.";51;1;False;_ferz;e0g3wvt;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I am sure market gives a fuck about your 100 $;871;5;False;PuckFoloniex;e0fx1hi;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"My first email address was something@excite.com
+
+Excite is dead. 
+
+Email is alive. ";1;1;False;Speaking-of-segues;e0g8x9f;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+you should buy more actually, that way other can get rid of the bags at a good price.;20;0;False;;e0g2kaf;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"Is excite the backend for IMAP protocol?
+
+Excite is mtgox. BTC is IMAP.";3;1;False;-0-O-;e0g8yxl;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"The one who claimed:  ""Bitcoin's low volatility may force big move"" was correct! =)
+
+But the direction of the move..";69;2;False;MagnusRottcodd;e0fz6be;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Geiz please don't sell either - the real thread title;101;2;False;spin_kick;e0g1da9;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I’m fucking buying;79;2;False;mport1;e0g5f1b;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Not every businessman was born with a silver spoon in his mouth. You have no idea how hard some of us work to get to where we are. Plz don’t let you bias against the “born rich” cause you to hate on anyone whose doing well in business. ;-1;2;False;CryptOG613;e0gboc6;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+I haven’t technically made a loss til I sell ;171;9;False;cp5;e0g05ti;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"I'm buying.
+
+Die rich or die. ";82;2;False;relgueta;e0g2tfp;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+"It actually was on every news station in 2013. I remember because I was here.
+
+80% is my anecdotal result of asking people about bitcoin. It's not bullshit.";5;2;False;-0-O-;e0g7a5h;Nope;8q2gwk;http://www.bitcoininvestr.com/wp-content/uploads/2018/02/leonardo-dicaprio-not-fucking-selling-700x475.jpg
+Dope;1;0;False;RyanDavis124;e0fy6ac;HODL;8pl9zu;https://i.redd.it/a4ouas9fzs211.jpg
+"Sure. Marxist analysis of history being class based and being oppressor and oppressed influenced huge parts of the modern day humanities such as history or political philosophy 
+
+[Quora isnt anywhere close] (https://www.quora.com/What-is-Karl-Marxs-contribution-to-sociology-How-are-these-contributions-still-important-today) to being as informative as a real book, but just please read something about the guy.
+
+";1;1;False;wbb65ype;e0fwmuw;HODL;8pl9zu;https://i.redd.it/a4ouas9fzs211.jpg
+"Lets play a game called ""name that thing of value marx created for society besides his opinions on stealing from the rich"" you go first";1;1;False;;e0fps1x;HODL;8pl9zu;https://i.redd.it/a4ouas9fzs211.jpg
+Right. I guess the socialist monopoly is the one where nobody ever has enough capital to buy, income and everything you buy with income is taxed at ~20%, people die waiting on their shit healthcare to schedule them an appointment with no possibility of a second opinion, Germany makes off like a bandit with the Euro while it makes everything expensive in their EU partner nations, and most importantly everyone is dependent on the government and self-determinism is a thing of the past. God save the queen.;2;0;False;;e0fgwvn;HODL;8pl9zu;https://i.redd.it/a4ouas9fzs211.jpg
+You had one downvote. I think it was Bernie Sanders, he lurks here sometimes.;1;0;False;theGRUMBER;e0fxqz3;HODL;8pl9zu;https://i.redd.it/a4ouas9fzs211.jpg
+">http://www.dickmeister.com/id89.html  
+>  
+>https://www.washingtonpost.com/news/powerpost/wp/2018/05/29/trumps\-orders\-show\-unwavering\-attack\-on\-federal\-unions\-employees/?noredirect=on&utm\_term=.09516f34a6f0
+
+LOL so an employer firing workers is the same as telling them they can't create a collective bargaining group. There's two sides to a negotiation, the employer and the employees. Once again you want to make unions mandatory because that's the only way they work. Socialism is enslavement.
+
+> Your workers cant do shit. You have all the power over them. They can quit, but unless they can afford to be without a job or are able to find a new job they cant quit. 
+
+Oh noooo. You have to work to survive? What horrors! Are you gonna start railing against the evils of entropy next? The employer is just as subservient to his workers. If I don't provide compensation that is competitive to what you can get elsewhere, then I won't get employees! Who the hell cares that I make $30, the workers agreed to $20. If they don't like it, they can renegotiate or find work elsewhere. That's how life works.
+
+> I mean we can look through the other OPEC nations. UAE is really the only good one and with a higher GDP per capita than Venezuela 
+
+And none are about to collapse. Your dishonesty is breathtaking.
+
+> Wow i agree. Its actually insane how you can look at the massive drop in life quality russian males had after the collapse of the soviet union. They were wayyy above america in calorie intake until 1991. 
+
+Read The Gulag Archipelago if you want to know what life was like in soviet russia.
+
+> No. Those are horrible countries. 
+
+Yep, couldn't agree more. And welcome to my ignore list, troll.";1;1;False;;e0eilnr;HODL;8pl9zu;https://i.redd.it/a4ouas9fzs211.jpg
+solid! :);1;0;False;NoLavishness;e0ezquc;HODL;8pl9zu;https://i.redd.it/a4ouas9fzs211.jpg
+">employer firing workers is the same as telling them they can't create a collective bargaining group
+
+If you specifically fire the ones that are in a collective bargaining group then yeah. 
+
+
+>And none are about to collapse. Your dishonesty is breathtaking.
+
+
+Ok so again OPEC includes Algeria, Iraq and Agola. They are pretty close to collapse  
+
+>Read The Gulag Archipelago if you want to know what life was like in soviet russia.
+
+Where did i defend Gulags? I was just pointing out that quality of life was wayy bigger in soviet Russia than western Russia. Calorie intake and life expectancy were way higher than America.   
+
+
+>And welcome to my ignore list, troll.
+
+Lmao i didnt even know reddit had an ignore list. Honestly using ignore lists is the fastest way to become an absolute nerd. Go polish my balls";1;0;False;wbb65ype;e0eki3b;HODL;8pl9zu;https://i.redd.it/a4ouas9fzs211.jpg

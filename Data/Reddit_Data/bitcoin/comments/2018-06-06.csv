@@ -1,0 +1,101 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+1JnpD8Q5cZLfcavuyH4cZAciQ361oL4Si4 spare any BTC for a poor man 😁;1;0;False;2skins;e07w3w2;There are 180 different scenarios where bitcoin go. If any one thing happens remember me i am the first one to predict this;8mq7ll;https://i.redd.it/p79o2hhxql011.jpg
+Told you to stick with doge coin first and only stable coin;1;0;False;TrixieMartie;e06zv8q;Bitcoin 2018: January vs May;8mz6at;https://i.redd.it/xnx7r8f8ts011.jpg
+"I just wanted some program to organize the words.
+Example: put 50 words and organize it in lines of 12 words without repetition.
+and just that the seed test I do by another mechanism.
+
+I just wanted to organize the bip39 words that exist in the image and then separate the valid Seeds";3;2;False;Karasss1979;e07g1ti;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"It's ""Attack 51%""";0;0;False;subvoicer;e072jlk;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"Look for the thread here:
+https://www.removeddit.com/r/Bitcoin/comments/8kk0pa/1_btc_is_hidden_in_this_puzzle_good_luck/?sort=new";2;0;False;AmirisJBrown;e07awbl;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+This should be pretty easy to do in Python but there are 120 billion 12 word combinations from a 50 word pool. And each combination has 480 million possible word orders so you can't do that.;3;0;False;imatwork2017;e07ikxb;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+bip32 allows repetition;3;0;False;andreicon11;e07k2qh;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"Go to [https://blockchain.info/tx/2ace579f68059dfd8e4b467d98cd866385798c34a1a2263b0e6613045b86c8d8?show\_adv=false](https://blockchain.info/tx/2ace579f68059dfd8e4b467d98cd866385798c34a1a2263b0e6613045b86c8d8?show_adv=false)
+
+and click at the bottom right corner show script and coinbase, All the valid signature previous owner and  redeem script are contained inside input script. I don't have time to dig on how it looks but the only way to verify the given address is segwit is through redeems script. The quickest way to check whether the given address is segwit or not is from here [http://segwitchecker.com/](http://segwitchecker.com/). You need to look for a ways to execute input script of a current transaction with previous transaction output script.";3;0;False;kenjirai;e06th3z;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+https://github.com/mcdallas/cryptotools/blob/master/btctools/HD/__init__.py#L27;2;1;False;imatwork2017;e07bbfb;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+This word is a BITCOIN;-1;0;False;subvoicer;e0725qy;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+Golden ratio shit;2;0;False;Sportswala;e06utr7;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+... or just follow these directions, yeah.;1;0;False;AmirisJBrown;e07dhsr;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+thank you! but I have no idea how to run this script. =/;3;2;False;Karasss1979;e07brri;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"Download and install Python 3.6+, clone the project, enter the project directory in your hard drive, shift right-click in the file explorer window, select open powershell window here, type `python`, then in the interpreter type:
+
+    from btctools.HD import check
+    check('my super awesome mnemonic here')
+
+you will get True if it is valid or False if invalid";3;2;False;imatwork2017;e07c3s8;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"If it's a segwit address why are some people suggesting to look at derived path m/49'/0'/0'/0/0. From [https://iancoleman.io/bip39/](https://iancoleman.io/bip39/),  it's derived path starts at m/0/0. Segwit address is Bip141. I'm 100&#37; percent this puzzle address is segwit. I look at it's previous address, they are all segwit. I used this website [http://segwitchecker.com/](http://segwitchecker.com/) ";2;2;False;kenjirai;e06tyys;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+Does anyone know a site or program to put all the words Bip39 and combine in seed of 12 or 24 words to be able to test the valid combinations?;1;2;False;Karasss1979;e0750yt;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"b-money
+Wei Dai
+November 1, 1998
+19981101
+???";1;0;False;mgf15;e08a5cn;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"**20020801 Theory**
+
+Ok so after some thinking I have a preety good idea about what 20020801 is.Here's how I got to my conclusion:
+
+**What is 00212121?**
+
+Ok so everybody should know the 00212121 clue by now,but what does it mean?
+
+If you look at the context of the reply you will notice that OP replied to this comment :""I cant find 20020801 on paper. Maybe is a clue"" with 00212121.I believe that 00212121 can be written as a sum of binary numbers like this:00111111 + 00101010.If you take these numbers and you convert them from binary to text you will get ""?*"".
+
+The way you can look at it is that the guy who made that comment forgot to put a question mark at the end of ""Maybe is a clue"" and OP simply replied ""?*""(you forgot the question mark).
+
+**20020801,19981101,02003501**
+
+Ok so because of that reply we can consider that 20020801 is also a sum of binary numbers after that rule.In this picture we can also find the number 19981101 in the bottom right AND if we take all the q values q=020,q=035,q=01 and we combine them we get a third number 02003501 also ending in 01.You might wonder why 02003501 and not 03502001,well that's because this way it matches the structure of the other numbers and in the picture there's a z=35 between q=020,q=01,suggesting 035 is in the middle.
+
+So now let's break them into binary numbers ordering them like this:02003501,19981101,20020801:
+
+01001101 01001100 00001100 00000100 00000100 
+
+11111101 01110000 01110000 01110000 01110000 01110000 01110000 01110000 01100000	
+
+10010101 10010100 00000100 00000100 00000100 00000100 00000100 00000100
+
+What we have now are 22 binary numbers.
+
+**Entropy values**
+
+So at first i thought maybe these are steps to get the order of the words but after some experimenting i found something preety interesting.
+
+If you look here: https://iancoleman.io/bip39/ you can generate bip39 seeds using entropy.Now,for entropy **we can use  binary numbers**.This is where the perspective changes.We no longer have 22*8 bit binary numbers,now we can look at it as 176 entropy bits.
+
+With these numbers we can generate this 15 word mnemonic seed: *army cage dismiss thought alpha deal scrub asthma gauge protect absurd amount doctor acoustic bean*(with 3 words /32 bits)
+
+**So what is this seed?**
+
+So in my opinion this seed can be used for two things:
+
+1)It's part of the consolation prize
+
+OP mentioned there are some consolation prizes hidden in the puzzle,but I tried it with some common derivation paths and it didn't work.But maybe we also need to find out the derivation path?
+
+2)It's an incomplete 24 word seed
+
+So this seed might also be used for the word indexes.We might be able to pair the word indexes from this seed with words from the picture to find out the order of the 1 BTC seed.But,we only have 15 words so for this to be true it means some bits are still missing from the entropy and must be found in the picture.I got this idea from the ""code easily,attack early"" clue because I have a list of words that has code and attack in it but not easily and early which are paired with them,so it might be a start.
+
+Oh and by the way the number 257 is a word index in the 15 word seed.
+
+So this is preety much all I got this far.You can find my theory on the list of words in my other comment. Keep in mind that english is not my first language so I might sound weird in some places.
+
+Also, shameless donation address,if this helps you: 
+
+15WLaPC566NmU8GDcjVx4cvPswmx3gFZ59
+
+";4;1;False;WowSuchJoke;e085455;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"> m/49'/0'/0'/0/0
+
+is also segwit, because its derived addresses start from 3..";1;0;False;migmxke;e072051;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"There are hunters here that have scripts for you to run on a CPU. But if such a website exists they would be generous in that they would be donating all that processing and electricity for people running such wallet search matches to seeds lol (unless they script it to run on the client side, which over the web that would become insanely slow). If anyone knows of such a charitable website, please let us all know! Otherwise, people who have access to running programs on a CPU will have to do so. All I have is my phone
+
+:(
+
+wich is a pathetic GPU be it rooted or not.";1;0;False;AmirisJBrown;e07ai2m;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"The internet is full of ""How To"" tutorials. It helps a lot if you run stuff on Linux, be it native or as a virtual box. Easiest Linux is the Ubuntu builds imho.";1;0;False;AmirisJBrown;e07c3rc;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"deleted
+
+What did it say?";1;2;False;julscam01;e06o7za;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png

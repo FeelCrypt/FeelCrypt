@@ -1,0 +1,432 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+No, because the signing device never connects to a network.  You physically copy an unsigned transaction as a text file from the network connected computer, to the air-gapped one, open electrum that has your passwords, sign the transaction, copy the signed version to a usb, go back to the network one, load electrum, and broadcast it from there.  A hardware wallet is still connecting to your network connected computer.  It could be doing anything. ;1;1;False;Frogolocalypse;ed9nprj;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+"A trezor also never connects to a network. The exact same process happens when using a trezor. An unsigned transaction is sent to the trezor, the trezor sends the transaction back signed, electrum allows you to evaluate the signed transaction to your heart's content (verifying that it does what you want it to do), and then you broadcast it. 
+
+> A hardware wallet is still connecting to your network connected computer. It could be doing anything.
+
+Even on windows computers newer than 2007, this isn't true. A USB device can't simply execute anything it wants to on your computer. Something has to be using it. So no, it couldn't be doing ""anything"". 
+
+The only loophole I can see is if your main computer *and* your trezor was infected with malware that knew about each other. Such a thing seems so unlikely as to be completely discounted.";1;1;False;fresheneesz;eda5yis;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+"> The assets could be moved into an account that no one has access to (including the third party)
+
+What? What account? Who's storing the assets in that account? Can we please make this concrete? It certainly doesn't sound like you're talking about gold, which would have to be stored and guarded by a 3rd party (if you think that a 3rd party need not be involved). However, even if you're talking about completely information assets, like ownership of stock, this requires trusting that the relevant government jurisdiction will fairly judge your legal case if the company decides to reneg on its stock. This is trust in a 3rd party. This is fundamental to a backed asset.
+
+> Smart contracts can be written upon acquisition of stablecoin to approve a transaction from that account in event A or event B.
+
+The smart contract doesn't matter if you're denied the asset backing when you ask for it.
+
+> how could the government seize something (stablecoin) from you when wallet addresses are anonymous?
+
+The government wouldn't seize the stablecoin, they would seize the asset the stable coin is backed with.";1;0;False;fresheneesz;edc3g5s;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+"> And you clearly don't know how USB works either.
+
+That's a pretty rude way to put it. I don't appreciate that. Of course there's tons of shit about USB I don't understand. But telling me I ""don't know how USB works"" is insulting and not accurate. Your information is interesting, but your tone really makes me want to say ""fuck you"". 
+
+In any case, when you ""copy the signed version to a usb"", you're putting your trust in the manufacturer of that USB stick. So the security is of the same order of magnitude as a hardware wallet. If a maliciously modified hardware wallet can compromise your computer and steal your coins, so can a maliciously modified usb drive. ";1;1;False;fresheneesz;edadvls;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+"You have no idea what the trezor hardware does when you plug it in.  And you clearly don't know how USB works either. 
+
+https://en.wikipedia.org/wiki/Plug_and_play#Current_plug_and_play_interfaces
+
+https://www.wired.com/2014/07/usb-security/
+
+So lol. ";1;1;False;Frogolocalypse;eda6v5y;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+"Also not true. The assets could be moved into an account that no one has access to (including the third party). Smart contracts can be written upon acquisition of stablecoin to approve a transaction from that account in event A or event B.
+
+Also, how could the government seize something (stablecoin) from you when wallet addresses are anonymous? Just like Bitcoin, you don't need to use an exchange.
+
+Pretty much the market cap of Bitcoin is and never will be large enough to escape its ""security"" category (rather than currency), rendering it useless as an everyday currency (must be stable). This is a pretty good case study for why things like the Fed are necessary for stability";1;1;False;apriscott;edbxvh6;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+I don't invest in dollars. I use them as money, holding some out of investments in case of personal emergency. They work shockingly well for this.;1;1;False;acjohnson55;ed9uun3;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+"Apologies accepted. I definitely can see targeting hardware wallets to be more likely to be targetted for bitcoins specifically, but from the perspective of the state, it would make the most sense to only put effort into compromising the most popular devices they can get away with. For example, if the govt was able to compromise Intel's hardware manufacturing process (via bribery, threats, or covert design injection), your air gapped computer could transmit anything it wants via the usb drive (according to the article you sent me). This would be far more effective than trying to compromise trezor or even large companies like Kingston that make usb drives. They could monitor or steal a whole array of things, including bitcoin on air gapped computers (tho not ones on genuinely produced hardware wallets).
+
+So if the target is only Bitcoin, i think you're right that trezor puts a larger target on you. But if the target is anything and everything someone might want to steal, something with a larger customer base would be much more likely to have this problem. In fact, for your process you need to trust both your pc hardware manufacture(s) (including chip designer, motherboard manufacturer, usb port manufacturer, etc) and the usb drive itself. Plus, you can never use that usb drive for this purpose ever again, or you also have to trust that your non air gapped computer hasn't been compromised (defeating the purpose of the air gap). Is it really feasible to buy a new  usb drive anytime you want to withdraw from your cold storage? With trezor, it's a much simpler device with fewer parts and therefore far fewer manufacturers and entities you need to trust.
+
+I guess it all comes down to who you trust for your hardware. Until we can print our own hardware, this will have to be the case.";2;0;False;fresheneesz;edbcyu7;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+Crypto already crashed. But also, we haven't had a full on crisis yet. Just turbulence in the stock market. I hypothesize that decorrelation may hold in a reasonably healthy economy but that it will definitely not in a recession.;1;1;False;acjohnson55;eda1v6a;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+The direct collapse would hurt me but i will get out stronger. The temporary time between mayhem and a new system isn't that long or brutal as people might expect. ;1;0;False;BTCkoning;edalt0c;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+Anyway, so far the crypto market has not been worsened by the falling stocks. In fact some have risen considerably.;1;1;False;ebaley;ed9v7ip;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+"It probably isn't. But you don't know.   Like if the state goes to trezor and says ""by executive order, insert this firmware patch that disables all trezors, and they may redeem their us dollars from us directly"".  Or they just redirect all the funds to different addresses.  And if you are rekt, do you think i will have sympathy for you?  No.  I will laugh at you.  Ha.  Ha ha.   Bahaha.  
+
+If you're not running for own node, you're not using bitcoin : peer-to-peer cash.  Because if you're not running a node, you're not a peer.  You are not an equal.  You require someone else's node infrastructure to access the bitcoin network.  You have inserted a trust requirement into a trustless protocol.  
+
+You think understanding bitcoin and making it work as intended is a cult.  I think you're just not that smart, or you're lazy, and so much so that you think your betters (objectively.  Not a peer, remember?) need to denigrated, in order for you to feel good about your own inadequacies. 
+
+Angry?  Good.  Scared?  No?  You should be.  Fear and anger are great motivators.";1;0;False;Frogolocalypse;ed9oc3c;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+"I'm sorry.  I thought I was talking to [someone else](https://old.reddit.com/r/Bitcoin/comments/abznev/judge_bitcoin_by_yearly_lows_not_all_time_highs/ed9oc3c/?context=3).  Mixed up thread.  Guy insinuates I'm a cultist because I want to run a node, and I thought this was extension of that discussion.  Apologies.
+
+But as to the subject at hand.  By choosing generic devices that never had a specific purpose, and never get used again for another purpose after their usage, you can reasonably be sure that their security isn't breached.  In the case of a device that is specifically designed for managing keys, and signing bitcoin transactions, by compromising the production of that device, or even the firmware upgrade of that device, you are far more likely to be directly targeted.
+
+I'm thinking of it in the ways that i would attack it from the perspective of the state.  I actually expect that this will eventually happen, although years and maybe even decades in the future.  I simply don't trust devices for the reasons I've stated.
+
+Is that your risk profile?  Obviously not.  I'm just explaining the rationale for mine.";2;1;False;Frogolocalypse;edagtu2;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+"The rabbit hole is long. 
+
+https://lopp.net/bitcoin.html";2;0;False;Frogolocalypse;ed9ncxq;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+If the USD collapses, finding your private key will be the least of your worries. I'd hodl beans and ammunition if I felt the need to hedge against USD collapse.;1;1;False;acjohnson55;ed9v3qe;Judge bitcoin by yearly lows, not all time highs.;abznev;https://i.redd.it/3n7l1vlmp3821.jpg
+Don't you mean 6×?;2;2;False;AlphaGamer753;ed9lcmb;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"> If you sold at 18k and rebought at 3k now
+
+Lol what a load of wishful thinking. The only way you do that is to get massively lucky after taking a huge (and stupid) risk. ";1;0;False;fresheneesz;edbjo4r;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"Even if you'd sold at 10k and got back in at 5k you would have been significantly better off.
+
+That being said, if you miss a big rally due to sleeping etc you're screwed.";5;1;False;Mildly_moist;edae88i;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+That’s why you split the difference and just dollar cost average. ;1;1;False;chazysciota;edb1aty;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+its more about having balls of steel you have to be able to sell when its higher than its ever been and then not buy back in as it keeps going up wait until it falls and buy back in while its plummeting in the end you will have more bitcoin but itll be a wild ride to get there and most people chicken out and lose money ;0;5;False;Kins97;ed9wt5t;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Lool;1;0;False;;eda1gss;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+No need to catch the tops and bottoms, just need a rough approximation. When Bitcoin goes parabolic, as it always has, time to sell is near. When it then loses 70-85% of its value, as it always has, time to buy. Whenever an asset goes parabolic in price it will retrace 80%. Hodling is a vastly inferior strategy in comparison.;-2;1;False;Live_Magnetic_Air;edag68e;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Don't stick to these numbers, as you said selling at 15k or 12k and buying back lower at 6-7k would be great , what matters is increasing your holdings , of course there are people who just want to hold which is fine too.;0;1;False;crypto-pirate;edaelak;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"I’ll give a couple more data points:
+
+Bought ~5% post tax earnings per pay from Aug2017 but stopped when price hit $8-9k
+
+The lifestyle choices continued and resulted in savings while I hedl
+
+Resumed buys Nov2018 until present at ~10% post tax, but made some bigger buys with those savings below $3500
+
+Gambling itch is well scratched, you nailed it
+
+I’m a weird guy";2;0;False;the_fuzzpupp;edbwsv0;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+>6><;1;0;False;Luffykyle;ed9ryh7;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Correct.;0;0;False;Devvinitive;edatlir;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"correct, ;)";0;0;False;crypto-pirate;ed9n8ip;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I used those numbers as davincij15 and others still believe btc will go lower than 3k and havent bought back yet btc but the point is to increase your holdings so selling at 15k and buying back at 6k or 8k would greatly increasing your holdings instead of just riding the wave.;1;2;False;crypto-pirate;edae7b3;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"I only ask because of some articles last year regarding repaying customers...
+
+https://thenextweb.com/hardfork/2018/08/24/mt-gox-cryptocurrency-claims/
+
+http://fortune.com/2018/06/22/bitcoin-price-mt-gox-trustee/";5;0;False;TFenceChair;eda8osx;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Thanks...not worried at all.;1;0;False;Astropin;edbce6s;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I wish I sold  at 20k just to buy back low. My only regret but I didn't sell so everything is still gains so no harm I guess;6;0;False;xastey_;ed9ki2n;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+This. ;2;0;False;andycam7;ed9x90h;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"I dunno. I think holding on the way down is harder. Even if you bought at $10 you're going to keep asking why didn't you sell at recent ATHs and buy back in.
+
+Anyway, obviously you should take some profits. No one will still have every single coin they bought years ago.";1;0;False;ebaley;edb0p0f;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"Either you weren't eating much junk food and not gambling with much money, or you hold a lot of bitcoin.. But you said you don't have enough money invested to care.. I can't discern many other outcomes than the first two I laid out from your post, it is a very strange post..
+
+Congrats on the lifestyle improvements that alone makes bitcoin worthwhile even if it continues to slide into the 100s. It might be scratching your gambling itch because it essentially is a long term gamble. Bitcoin is your gambler's  methadone. Nothing wrong with that at all. ";1;1;False;vortex30;edbu4yc;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+so he is still an idiot lol jk :);6;1;False;Hanspanzer;ed9pkd7;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Ive been homeless before a long time ago , i know how to survive it. I do appreciate the suggestion and think its a wonderful idea. ;1;1;False;Desalvo23;edaqltk;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"Hi u/my2sats, thanks for tipping u/mabezard **42** satoshis!
+***
+*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*";1;0;False;lntipbot;edbfsv4;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I recommend people inform themselves and think long and hard before investing.;7;0;False;rattie_ok;edaq3ev;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+99% of people calling themselves an analyst don't understand bitcoin. Don't trust a word they say. Please do some research into bitcoin, it's clear your information is coming from shitty sources. Watch Andreas Antonopoulos. https://youtu.be/l1si5ZWLgy0;2;0;False;fresheneesz;edbklok;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+What value is there to store? You can’t do anything with it besides transfer it. Gold has physical properties that other metals don’t. What can bitcoin do that other cryptos can’t? It needs unique properties.;1;0;False;LolWtfFkThis;edaskto;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+And now I do understand. Bitcoin = Tulips, right?;0;0;False;rattie_ok;edau92c;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"I said Bitcoin was an _asset_, and I'm comparing it to gold, which is the second best asset that can be used as currency so far. Both have flaws.
+
+Bitcoin is super easy to transact in a connected world, you can send 10000 kg worth of gold nearly instantly using Bitcoin, while paying a merely $1 fee. Gold cannot be destroyed, it will survive any downfall of civilization, but good luck transporting 10000 kg of gold from place A to place B.";3;1;False;rattie_ok;edbvi4u;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Eh, no way. 2021 - 2022 is the earliest. One half of the people simply has no more money to spare, and the other half is burned by bear market and doesn't want to hear about Bitcoin ever again (or at least for the next 2 years until the wounds heal).;1;0;False;rattie_ok;edbx10x;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Ahh yea wow I’m dumb;2;0;False;pizzascholar;edad37i;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+But that’s just the value of hype, not real growth. If everyone HODL’d USD, there would be an economic collapse, currency doesn’t work when it’s not in circulation. If bitcoin is going to see any growth, it has to be more ubiquitous as a currency than anther someday maybe tech penny stock;2;1;False;therealskaconut;edaxnq0;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"It'd soar while people are still interested in buying... If there's no/few interested buyers, then it won't soar. In fact, so long as buyers aren't willing to chase it, don't believe it is/can be worth more, then it won't soar if everyone hodls, you'll just see volume drop off a cliff.
+
+It is supply and demand. Just because you cut off supply, doesn't mean price goes up if there is a severe lack of demand for anyone to buy it at prices above say 4000, or whatever that price may be.
+
+Though I agree it'd soar in the short term if suddenly everyone hodled. I'm just saying it does not *have to* and there may be an upper limit where buyers just think ""ya, no... I'm not paying this price.""";2;1;False;vortex30;edb7tck;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Dude it’s so easy! I’ve be buying at the top and selling at the bottom for years! ;27;1;False;David3692;edahlha;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Yea, I wont sell more than half at 30k and no more than 1/4 if we reach 60k.;3;0;False;ilikeyouyourcool;edafp4p;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Yeah, he can't. But even at the time of Gox collapse he claims to have had $300k in bitcoins there, so I'm sure he would've had have some interest in signing up and getting it back. Or he's just bs'ing, that's always a possibility.;5;1;False;ProoM;edasu9l;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+[deleted];2;1;False;;edakw3r;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+thanks captain obvious. ;0;0;False;;ed9t7wi;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"Bitcoin isn't a currency, it's an asset, like cooper or leopard skins. It has it's certain qualities, and that's it. Banks have no desire in stabilizing the price of cooper because it's not a currency.
+
+You can use Bitcoin as currency, though, if you immediately convert it back to fiat/stablecoin or vice versa, so to avoid volatility.";3;1;False;rattie_ok;edbxa4d;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"Sure...but there is never a guarantee that prices will keep bouncing around as much as they have in the past. You say to yourself ""I'm buying back in when it hits 3k""... and then it never hits 3k. It just creeps up and up...you've fucked yourself. ";2;0;False;Astropin;edb46po;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+It was originally intended as a currency. People like you think it's a stock and try to make money off of it, and then get upset when it doesn't increase in price. You'd be better off buying stocks in a company.;4;1;False;peoplearesleeping;edbyfka;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"I disagree. 1 in 10 people using it doesn’t mean they would park all their net worth into it. Probably they will use parts of their savings as Bitcoin. On top of that Bitcoin is not a debt based leveraged system, so it is not like you would be using Bitcoin mortgages, bitcoin car loans etc. therefore we cannot use the adoption models for fiat vis-a-vis for Bitcoin.
+
+Bitcoin was valued at 20K at the time due to greed of get-rich-quick people, not because it was adopted to those levels. That is why we had the pullback. There will be a day when adoption would catch up so bitcoin price would be stable over 20K to justify it but 2017 was not that time. If adoption was the reason like you suggested it would not be going below that level similar to how it doesn’t go below $1000 now, or wasn’t going below $150 few years ago.
+
+To be more specific when you compare bitcoin marker cap you should consider a model based on “narrow money’, not the “broad money” nor the “debt circulation”. Global money supply of narrow money today is $37 trillion. Bitcoin being %5 of it with %10 adoption imho is very realistic.";8;0;False;medatascientist;ed9gq46;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+For years Yeah?;-2;1;False;pjf72;edb2avk;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Satoshi, is that you?;2;1;False;lacksfish;edard20;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Agreed. But FOMO get to most people as soon as signs of a rally happens. Don’t forget about the tax man. Taxes will eat away your fiat, unless of course you don’t bother reporting crypto.;8;1;False;songgiau;eda1ygr;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+But it might keep going up long after you sell and then come down to a point that is still higher than what you sold at. People who sold at $1500 hoping to buy back lower to increase their position and stillwaiting.jpg. ;6;1;False;bitbotbitbot;edagcr1;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+It only happens in BTC...and it's only happened 3 or 4 times in its history. I think someone has been having vivid dreams.;0;0;False;pjf72;edaoe0i;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"Right but do you sell at 10k? Or 20k? Then do you buy back in at 8k? Or 3k? 
+
+Exchanges would be so easy to manipulate if you had a bit of cash. ";2;1;False;Despitefuldick;edabja6;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+He said he's been **buying** at the **top**, and **selling** at the **bottom**. It's a joke. ;2;1;False;yoLeaveMeAlone;edb7ew1;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Yes, how do you know me ? I'm satoshy, inventor of bytcoin.;4;0;False;satoshi_giancarlo;edath5e;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Laws are still grey in regards to digital asset taxes.;0;1;False;teh-monk;eda7bpb;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+thats why you dont sell everything on a whim you gotta hedge your bets ;-1;1;False;Kins97;edah4c2;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+you do what bitbilly on twitter says :p ok but did u see what that other guy said about percentage selling? thats the safest way to do it probably sell some at 10k some at 15 some at 20 everytime it might crash sell a bit right before then do the same thing in reverse going down ;1;1;False;Kins97;edabncl;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+[deleted];-1;1;False;;edb8zwq;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Not if you live in the US.;3;2;False;Astropin;eda7q61;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+No you don't gotta. Investing in bitcoin is an asymmetrical risk. It has enough upside potential as it is, no need to try to increase the upside by trading, when doing so also increases the chance of missing out on some or all of it. ;4;0;False;bitbotbitbot;edaiavf;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Yeah that’s probably the most efficient way, I’m just gonna sit still with mine ;1;1;False;Despitefuldick;edabopz;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Partially because the supply is indeed limited - and, importantly, immutably so.;1;1;False;ebaley;ed9f63s;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Just seemed like you didn't realize that it was a joke ;3;1;False;yoLeaveMeAlone;edb9jgj;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Crypto tax laws are not clear in the US. Send me a .gov link and prove me wrong.;1;1;False;teh-monk;eda9ags;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Depends what you convert the BTC into.;1;0;False;pjf72;edaof2d;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+ya i usually do the same if i had a ton to play with id do more trading but i dont really have play money in large enough amounts for it to be worth doing as fuck ups on my part and fees would mean i barely made anything on a good day ;1;0;False;Kins97;edabs5k;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Supply of stocks is also limited, and yet Enron went belly up, as did many other companies.;1;1;False;;ed9fajt;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Ok, sorry;1;0;False;pjf72;edbazua;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies
+
+If you live in the US I would suggest to ask to a tax accountant or someone who’s job is to report tax for others.
+
+Do not follow advices on internet.";3;0;False;Spykwak;edaam8w;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Obviously not very immutable then.;1;1;False;ebaley;ed9l51u;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+well the balls part wasnt about the price its just about sticking to your guns and not screwing yourself on a trade and there are definitely ways to predict a market like when it went to almost 20k in a few weeks you know its gonna crash because thats a MASSIVE incentive for people to sell;0;1;False;Kins97;edabes4;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"I'm with you on this. I'd take profits when they come progressively, at different price levels. And convert some to fiat. It's comforting to have money at the sidelines even if it ""isn't doing anything"". Because there will be those times when the market gets panicky and prices tumble. Having money ensures we will have more options on what to do.";2;0;False;cendana287;eda9ip0;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"The downfall to this strategy is when an asset is going down, permanently.  
+
+Then you're buying more and more into a losing position, and then they go bankrupt, pay their creditors, and nothing is left for you and the value of your holdings is zero.";3;1;False;Sinai;edc2m4p;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+im not talking about doing the exact top and bottom just whenever it goes up a fuck ton really fast itll 90% of the time drop again and so you just sell and wait til its lower you dont have to buy the exact bottom to make a profit and trying to do so youll fuck yourself up;-5;3;False;Kins97;ed9yhdl;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"That makes no sense. Currency is always in circulation. 
+
+If every current Bitcoiner holder today refused to sell or spend, the price would simply go up until it reached an equilibrium level at which they then would be willing to sell or spend. 
+
+HODLing is what gives Bitcoin its value. Not spenders. ";2;0;False;vakeraj;edbcl88;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+You're entire argument violates the ceteris paribus assumption of economics here. We're discussing HODLing versus selling, but instead you're making an unrelated point about buyers. Can you explain why more HODLers would lead to fewer buyers? There's no evidence for that conclusion.;2;1;False;vakeraj;edbcsns;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Sure you have.;-5;3;False;pjf72;edaobej;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+You did great...congrats.;2;0;False;Astropin;edb5fv0;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+You guys are funny. Say it shoots up to 10k right now (over several days). There is no guarantee it's ever coming back down to 5k. So if you sell when it hits 10 with the plan to buy back in at 5 you may have just fucked yourself. ;7;2;False;Astropin;edb4ipj;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I don't think that means what you think it means. ;1;1;False;Astropin;edb5kpy;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+This is how Wall Street traders convince themselves to try to time the market. Sad thing is, most traders don’t last as long or have as good a return as the long term investors. Sounds great hindsight but in reality it’s extremely difficult to time the top and bottom.;25;3;False;songgiau;ed9xn2q;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"This is why I ladder in and out of positions. Admittedly sometimes I ladder in/out too quickly, but generally it covers me for this.
+
+For instance, sell like 25% when you think we’re near the top of a run / you are happily in profit. If it keeps going, sell another bit. Always a small fraction though. Toggle the percentages as you like, but eventually when it comes back down, you should have some of your position safe still in the asset (so you would have profited with any run), but also now you have fiat or whatever ready to buy the dips. Do the same when buying back in. Not as great of gains, but safer entry/exit on trades of this sort.";8;2;False;WoolyEnt;eda3z0p;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+why they say it takes money to make money, gotta have money to play the game;2;0;False;homanisto;eda4u6e;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"Hah! It’s not about being chicken or ballsy, bitcoins value in exchanges is literally just based on people’s opinions, and I know for a fact that no one can work out how the worlds opinions work out.
+
+Seriously, the true whales, the true big boys, the bitcoin billionaires, they don’t do that day trading nonsense, or if they do it’s just good old market manipulation on a single exchange. Most exchanges have a teeny tiny market cap. 
+
+You’re so far from the truth ";2;1;False;Despitefuldick;eda9ydp;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Easier said than done.;1;0;False;avatarr;eda5692;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+But if you sold at $1700 hoping to get back in lower you would be out most of your bitcoins, maybe forever. If you keep trying to trade the market eventually something like that is VERY likely to happen to you. It is not worth missing out on the potential tremendous upside potential just to have a shot at a little more bitcoin from trading. If you want more go work more and buy it.;6;0;False;bitbotbitbot;edag8xe;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Where u gona find your wallet when ur homeless lol its a goner;1;1;False;bitchcoinboi;edas5lt;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"BUT it wasn't at 3k? Calling the exact top and bottom is a fools errand. Be more realistic. a sell at 15k and buy a 4k would be excellent still. You could look at the major dot coms and be like, ""man if I sold apple at the top and bought back at the bottom I'd be rich"" well no shit Sherlock!!! Saying you could've sold the top and bought the bottom is just stupid.";6;1;False;teh-monk;eda75na;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+What matters is sound money and helping bitcoin become a world currency. Not your fucking dick-shaped lambo.;0;0;False;fresheneesz;edbjvpk;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+its been a goner for a long time. PC fried and the place that had my wallet changed to a different company. I'm not knowledgeable enough with bitcoins to do anything about it;1;0;False;Desalvo23;edasg9b;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"Haha, if only buying stocks was as easy as opening an account on Coinbase and finishing KYC registration.
+
+But what makes something a currency and not an asset class? I think it's the stability and widespread use, and Bitcoin is neither stable nor so widespread to be a currency. 
+
+My main thought experiment is this: if you remove all the speculators and hodlers (which don't treat Bitcoin like a currency), what happens? I suppose Bitcoin would drop to about 2000 - 10000 transactions per day, and the price would be in $100 - $200 range.";2;2;False;rattie_ok;edc0qxl;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"And your scenario 100% eliminates human nature and speculative markets, even as a thought experiment it is totally dumb, but I gave you benefit of the doubt there.. 
+
+It 100% will lead to fewer buyers as the price goes up, due to speculation on what bitcoin is actually worth (you know, the whole reason we went from 3k to 20k and back down to 3k within a year and a half).
+
+My point is that no sellers doesn't *have* to result in prices rising, if buyers become uninterested passed a certain price, then price simply won't move and volume will drop off a cliff. I also acknowledged this isn't gonna happen with bitcoin at this time, that it would go up. But you seem to think it'll skyrocket ""soar"" to, presumably, much higher than 20k? How high exactly is ""soaring""? When I read that I was thinking 50 to 100k? I'm saying that's not necessarily true, at some point buyers will say no way, not without consolidation, and speculators and shorts also would pile in to the sell side. Though I'm sure your imagined scenario also presumes shorts wouldn't exist... Somehow.. 
+
+With other assets too though, you have to understand that demand isn't always existent beyond a certain price. Just because no one is willing to sell, doesn't mean higher prices must follow. It could mean volume drops off a cliff and no price change occurs at all, with a massive gulf between bids and asks. ";2;0;False;vortex30;edbt582;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Woosh;10;0;False;detarrednu;eday7mb;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Do yourself a favor and read that comment again, really slowly. ;5;1;False;yoLeaveMeAlone;edaynkp;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Yeah man, I did too. I now have over 100 millions bitcoins !;0;1;False;satoshi_giancarlo;edap1zv;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+These are people who make a few lucky calls and think they’re geniuses. There’s no talking to them. ;5;0;False;Kaell311;edb8flq;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+i am not talking about doing day trading, more like selling when BTC goes ballistic and buying back when the trend is long term bearish, btc has done these cycles a few times, now is the time to accumulate only;1;0;False;crypto-pirate;edbmca7;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+.;0;0;False;chazysciota;edb5zfw;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+And in here the people who lost doing it don’t post nearly as much. It’s the people who accidentally got lucky who are super vocal. If you have a brain, ignore them. ;2;0;False;Kaell311;edb8pkz;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+The only time it's truly easy to time the top is when a big piece of negative news is released, and you've already been beat by the bots employed by the big traders by the time you've been able to read the headline.;1;0;False;Sinai;edc2g2m;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Or just invest and then move on to find new opportunities, more to life than crypto and staring a tickers;3;0;False;letsbehavingu;edaha0d;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Sure...but trying to predict the top and buy at the bottom is not so easy as you make it sound. If it was we'd all be rich. ;71;8;False;Astropin;ed9v753;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Were all rich in hindsight. There are dozens of stocks/investment oppurtunities right now except you'll never know until it's too late. ;151;3;False;WolfOfPort;ed9ok8m;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"\*raises both paws\*
+
+Just a few more months and I'm moving to Team Buttcoin. BTC in it's current form is a joke.";1;0;False;rattie_ok;edahbsr;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+The past is no guarantee for the future;1;0;False;dathardstyleboi;edavz5h;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+That would suggest we go $106,000 next?;1;0;False;ebaley;edb01dx;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Well, as opposed to many others he made a profit.;1;0;False;hundert;edb0qou;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Greg would have been over $12,000,000 million richer if he had held on till the all time high of $10,000 per btc in 2017;1;0;False;Kindy01;edb519x;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Thanks! Makes sense;1;0;False;Renzokraan;edbepha;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Yikes;1;0;False;ethMonkey;edbq1nf;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+[removed];1;1;False;;ed9uxp1;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I wish I was born trillionare;1;1;False;whyNadorp;ed9wn7c;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Bc is based on wishing. 'nuff said.;0;0;False;;ed9uugu;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+This is what I say about Bitcoin Z as I get lots of people saying it is worthless and to just sell.  So short sighted as so many.  ;0;0;False;immersive-matthew;ed9w3cv;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Even if u had 1700 BTC you can’t w en trade that to FIAT;0;0;False;shanytc;edabkdl;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Id probably kill myself if I had 1700 BTC and sold them that low;0;1;False;antikama;edao696;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Why the HELL would you sell all of something that has so much headroom? Lock profits and sell half if you must, but I just don't understand.;-1;2;False;shadyparadox;eda3ipf;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+If this guy kept even one coin, he’s still wealthy ;-2;2;False;Qwerty177;ed9vpxt;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+To me, for the path to mass adoption, bitcoin needs to flow through people, trade hands.  Without the pizza, or these early traders, we wouldn’t be here today.;35;3;False;BootDisc;ed9x3nn;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Many predicted very high valuations for Bitcoin years ago.;2;1;False;ebaley;edazxol;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+This reminds me the time when internet was great investment and many people invested in myspace. ;2;0;False;AdmiralTypeZeo;edalnq9;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+My 1 btc was worth 26k AUD 13 months ago. I paid 7k for it. It's currently worth 6k so that's my answer. #ultimatesadness;9;0;False;sinoost;eda9f1c;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I have *traded* at those levels. I wouldn't call it selling as it implies I cashed out to fiat. The goal is to never sell but to *spend* Bitcoin and trade it along the way to obtain more.;6;1;False;TheRealMotherOfOP;ed9ff5r;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Except the first is a $408 difference and the second is a $27,200,000 difference;2;1;False;pizzascholar;edaavco;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"Also, remember the ""price"" is as arbitrary as the choice of your decimal placement. In the code there's only satoshis. We got $4 mBTC today with a lightning network growing strong.";2;1;False;mabezard;edahaoj;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+[deleted];1;1;False;;ed9ey6y;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I'd recoup my initial investment and lest the rest ride for a few more decades.;1;0;False;DefiantVerse;ed9qs30;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Sorta the same. Except the part it's not;1;0;False;spesh_three_point_oh;eda8qwy;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+The percentage is the same. Isnt the amount of money which is needed to reach 20k a huge difference? Correct me if im wrong;1;1;False;Renzokraan;edadab8;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+That's not true. If literally everyone HODL'd and refused to sell, the price would soar instaneously.;0;2;False;vakeraj;edaxane;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Not really....maybe 100k;1;0;False;somanyroads;edahnao;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+And what if it subsequently goes to $100,000 as this tweet suggests?;1;1;False;ebaley;edazk5j;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Yep. People have been in it a while, you need to think of the market gains from it. It was rare someone held from the early CPU mining days to $20k. The jumps to $1 and then $10 was a massive surge from the $0.03 and $0.10 entries. Need to think of it in the massive jumps as you said. ;1;0;False;boxxa;edb5nlu;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+talk about a bad beat;1;0;False;cupofjoe619;edav176;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+The amount of money needed to get back to 20k is far greater than 6 cents to 20cents. While crypto is also under much heavier manipulation these days. I see what your saying but it's somewhat misleading.;1;1;False;IllegalAlien333;eda2e25;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I wish I had played the numbers [last week's winning numbers] on the lottery instead of [my wrong guess];1;0;False;hiddentldr;edatzsr;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+" A great way to ride the trend is using only moving averages, put the 55 and 200 EMA on your chart, 
+Buy when the 55 crosses the 200 from under, and go short when the 55 crosses the 200 from above. 
+
+This way you’re not perfectly timing top and bottom but atleast you got confirmation that you are trading into the trends direction. Backtest it on past year chart and see what your profit would have been.";1;0;False;Vinacey;edamuod;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I lost 660 BTC in Mt Gox bust lol;56;3;False;Devvinitive;ed9mne6;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Wish I had bought my 2 BTC @ $10,000 instead of buying them at $20,000, now that they're $3,000! #bitcoin;22;1;False;PM_ME_BTC_PRIV_KEYS;edam1wq;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I may have seen this post 1087982 times;22;0;False;mikeyboy371;ed9odwp;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+This is what happens when you’re in it for the money instead of the technology. ;6;1;False;nowTHATScomedy;eda40h2;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+This actually makes me physically sick ;15;0;False;;ed9qfbf;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"He’s not rich, but at least he’s Crypto Twitter Famous Now. 
+
+Also he sold at $15K to pay off his Student Debts/Loans, so this shows you that some people learn from their mistakes. ";6;0;False;MCMXCVX;edady9r;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+The only thing I sell is fiat;5;1;False;Nafasion;ed9isrl;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Don’t be Greg;4;0;False;Miffers;eda7005;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I sold a bunch of ETH at $4 too 😞 whatever lesson learned hodl at least I traded for some more btc! ;4;0;False;nasneo;eda8i90;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+He probably is still alive :) https://twitter.com/GregSchoen;5;0;False;viktorknavs;edafeaj;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+ye bitcoin over a dollar, outrageous prices!;3;0;False;Cryptoinvestor5062;ed9ghyj;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"I would of necked
+
+I had a few back when they were 300 each";3;0;False;devfrankie;edaccwm;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I wish I played this week's lottery numbers ;2;0;False;spb1;edamx17;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+This describes 99.8% of you. You just don’t know it because none of you can see each other’s bank accounts. ;2;0;False;;edann4x;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Life is like that ;2;0;False;Ibizugbe7;edaofo4;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+He is indeed a hero, a good example ;2;1;False;gabchuks;edaoh8i;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I am big fan of crypto and daily user of BTC, but in the end I think it is dellusion to believe BTC will be only more expensive and likely will end up $100 rather than $100,000.;2;0;False;Deszus;edarnsu;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I dream of buying at 6c but in my deep heart I know I'm nowhere near strong enough to hold to $20k.;2;0;False;UltraSurvivalist;edasavm;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+How many times will this be reposted 🤔;2;0;False;neeks_the_sneek;edaxkja;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Huh? This is stupid post and comparison. Back then it was unthinkable to see crypto gain like that. I remember people losing their minds when Bitcoin hit $20. You can't blame the guy for closing at a certain price.;5;1;False;_ferz;eda3o89;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Iirc This guy stayed in bitcoin and sold around 10k to settle school debt. ;2;0;False;;ed9yf5r;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+RIP;1;0;False;ManyArtichoke;ed9f7zd;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Does anyone have the link to the original tweet? I'd like to give it a retweet;1;2;False;agustinfl;ed9oebi;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Greg, nice;1;0;False;yUnoPOLO;ed9z52p;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+But it took time so wait who’s holding!;1;0;False;DreadknotX;eda1990;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I bought a lot at 12k. Hopefully the prices fall further so that I can save up and buy more and make it one BTC :) ;1;0;False;jogi_nayak;edac69k;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Indeed;1;0;False;devbisht8;edacfkx;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Imagine if he's still holding his BTC until this time, imagine how much he can earn when he bought at $0.6;1;0;False;royal_protector;edagh89;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+dont be a greg;1;0;False;ozgennn;edam1l9;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+imagine how low BTC started, and look at it now;1;0;False;Mountain_Safety;edareri;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I sold at 18k;1;0;False;dezlockas;eda1ptu;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+You fundamentally don't understand the purpose of bitcoin if you think it needs banks and governments to stabilize it.;11;1;False;peoplearesleeping;edbq1gt;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"That's a silly fact though. Sure both are 5x your investment... but what actually matters is how much you bought.
+
+He spent like $100 and sold for roughly $500... making a whopping $400 profit.
+
+Buying even 1 coin at $4k and selling at $20k is a $16,000 profit. Just a slight bit of difference there.
+
+It boggles my mind that people don't realize going from 6 cents to 30 cents is not a huge leap compared to going from $4000 to $20000. It's about scale, not just ""it's the same because it's multiplied the same amount!""
+
+There's a reason TRX is trading at like fractions of a cent difference... because it's worth a whole $0.02 so if it were to suddenly go up to 10 cents someone could have been a millionaire if they bought enough of it at 0.02
+
+That's not really likely to happen though, or everyone would be doing it.";-5;1;False;konidias;ed9okj7;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"you never sold no amount since 2012? my hats off to you then...
+
+How did you overcome the greed to sell in the previous bullruns? or the one last december? ";0;1;False;crypto-pirate;ed9iv49;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"> Bought at $10k
+
+You started your argument with ""I don't understand Bitcoin"" and kept expanding on that. Well done. I would be pissed too.";5;1;False;mulchmeister;edaqid7;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+And it won’t go anywhere if everyone HODL’s;2;1;False;therealskaconut;eda1o7h;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+[deleted];3;2;False;;edas58i;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+You recommend people not investing then? ;3;1;False;OliRigg;edapip8;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Same ratio but several 0's different. Guess you only half listened in class.;0;0;False;pjf72;edao9zl;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"selling doesn't mean converting to fiat(exiting the space),
+
+do you think OGs didn't sell the top to rebuy at the lows?
+
+Like that davincij15 guy who sold at the top last december.
+
+If you sold at 18k and rebought at 3k now this means you just 6X your BTC position
+
+Just holding doesn't increase my positions and i don't care about fiat either.";76;5;False;crypto-pirate;ed9ilij;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Hell I was still buying;1;0;False;umsco226;ed9yuow;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Congratulations on not selling at 20k dude! ;1;1;False;vortex30;edb7za4;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Well in practice it doesn't work that way. Your money would be sitting on gox or bfx with an enormous amount of trust. 8 years of bitcoin erodes the fuck out of that faith. I called 17k as a perfect out but didn't sell myself bc there's no where i trust my money other that my own keys. ;3;0;False;mabezard;edah144;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+He would've bought the same dollar equivalent amount presumably and it would be the same. ;3;1;False;lazerwo1f;edacynt;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+!lntip 42;2;1;False;my2sats;edbfsm6;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Your data is off dude;1;0;False;Kevkillerke;ed9ha9l;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"I'm theory a market can go from $1 to $20k on very, very little $ volume if there is suddenly a massive increase in demand, and barely anyone selling. Can't really measure conclusively how much money would be necessary to move an asset to a certain price due to market dynamics. If there's suddenly no sellers, and lots of buyers willing to pay a lot more, prices can move incredibly quickly on very little $ volume
+
+I mean this rarely happens, something fundamentally needs to change. Think blow out earnings reports, or when a pharmaceutical drug gets approved or maybe is unexpectedly found to cure cancer or something. Those stocks can shoot up 10s or 100s of % on basically no $ volume, simply thanks to sellers not being willing to sell below a certain price, and buyers being willing to buy up to that price. Opposite happens with fundamentally awful news. ";2;0;False;vortex30;edb8xop;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+But who honestly has the balls to hold to 100k? In my experience it's harder hodl on the way up than the way down. ;3;1;False;andycam7;edazrra;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+It’s incredibly misleading when you factor in volume. ;1;0;False;MustBeNice;eda3fjs;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"It’s the same percentage wise, so that a $100 investment in either situation yields the same result. 
+
+Yes, a 1 bitcoin investment in the two different markets greatly differs, but dollar wise, it’s the same. ";7;1;False;real_mark;ed9seah;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+U;-1;0;False;lodobol;edawooa;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"The amount of issued stocks have not changes, so yeah, immutable; it's the market price what changed, not the amount of stocks in circulation.";1;0;False;;ed9lb1o;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"Signing up for that is closed afaik. So correct me if I'm wrong, but he can't file a new claim *now*.
+
+https://www.reddit.com/r/Bitcoin/comments/99w2on/mtgox_civil_rehabilitation_claims_now_open/";2;1;False;lacksfish;edark2v;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Lol;6;1;False;13_letters;eda7737;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Ooooops;1;0;False;the_fuzzpupp;eda5fx6;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"I never said how much bitcoin I have 
+
+I never alluded to how much I make
+
+You are very unaware of my attitudes towards happiness, wealth, and prosperity
+
+I only stated what my average cost per coin is (despite having been a new bitcoiner who started buying Aug 2017)
+
+I also didn’t say anything about throwing all my disposable income into it
+
+I just quit gambling at the casinos and started buying groceries instead of eating shit food “out”
+
+I also smoke less
+
+I used bitcoin to modify unhealthy behaviors of mine and that’s about it
+
+We look at others with our own lenses, but trying to discern who someone is from textual conversation surrounding an opinion is an exercise in futility";2;1;False;the_fuzzpupp;edbaeph;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"Totally agree with you! Too many people are living in the ""what could have been if..."" world.
+
+If you invest in anything and you are happy with your returns after selling it, why should you be less happy now? For me Greg is a winner and shouldnt be laughed about.";2;0;False;Rob___H;edazjtx;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Woooow I’m impressed ;1;0;False;;eda1ekt;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"Bought at $10k, now my Bitcoins are effectively unspendable for about 3 - 5 years. If Bitcoin is $2500 next month, then paying a $100 item with my Bitcoins would actually mean I'll be paying $400 for the same item. Crazy, right?
+
+Someone said stablecoins are the future, I could agree to a point. Bitcoin is nothing more than gold or platinum. It's an asset that's easy to transport and keep, but is extremely vulnerable to nuclear war and Internet disruption. Only stablecoins tethered to ""stable"" currencies such as USD or EUR can be actually used as _currency_. Saying otherwise is just closing your eyes to truth.
+
+And that's why we have bubbles in crypto. For every ATH there's army of people who devoted their existence in getting their revenge for buying at previous ATH. Guys who bought BTC at $1500 in 2014 are the same ones who dumped it in January and February 2018. As more and more people get burned, you have less and less new ones interested in it. And slowly it all goes downhill.
+
+You could say, with usage, Bitcoin's price would stabilize. I'd say no. It will forever stay a speculative asset, reaching a plateau at about $100k - $150k somewhere around 2025 - 2030, then it'll be forgotten as new technologies replace it. 
+
+You could say, but USD lost 99.9% of it's value since 1910. That's true, but it took USD about 100 years to accomplish that. It took Bitcoin **bloody 8 months** to lose 85% of it's value and no signs of recovery yet. How's that for a currency? Far worse than Turkish Lira.
+
+You _need_ institutions, central banks, _big guns_ if you will, to provide stability to an asset and make it a currency. Behind United States Dollar there's a country with a 240+ years old constitution (regardless of who's running the FED). Behind Bitcoin there's only whales, speculators, scammers, Lambo idiots, and people bitching because they bought it too late.";20;7;False;rattie_ok;edagpt5;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+you might be really wrong though;2;0;False;NickWassmer;edam4av;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+I cant help you with your BTC but /r/vandwellers can help you deal with your homeless situation. Its a good resource to show you how you can live in a car / van etc until you get back on your feet (if you do go homeless);1;1;False;antikama;edaq8ja;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+hindsight. it was way more risky back then.;1;0;False;Hanspanzer;edbrogz;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+If I recall correctly, he almost had 1btc leftover, and he sold it at $15k to pay off student loans. ;22;0;False;GhostOfDawn1;eda0aug;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+At least you learned a valuable lesson and won’t make the same mistake twice!;5;0;False;randybobandy47;eda0m0f;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+username checks out.;5;0;False;captain_obvious_here;edam7p1;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Hes a meme, but hes doing fine he says.. He prob bought back at 8 or whatever;14;0;False;Loves2spoogeonurmom;edaav6l;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+">Ergo bitcoin is making me healthier
+
+Loving that conclusion!";3;0;False;lacksfish;edarrbr;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+$3000 = wealthy;7;0;False;Jahmay;eda1xjo;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"40 pounds in four days can’t be healthy! Look after yourself! 
+
+
+
+
+But seriously, well done!";2;1;False;wcranners;eda4a6f;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"You're wrong on so many levels. I'm just going to choose one
+
+> extremely vulnerable to nuclear war and Internet disruption
+
+Most transactions are done with credit card. Bitcoin is not more vulnerable to these things than credit card transactions. And you really think a nuclear war, or *anything* that knocks out the internet, is going to mean we can still use the payment and banking systems we currently use? No. No internet, no bitcoin, no banking, no credit cards, no telephones, no nothing. And is basing what currency you use based on how resilient it is to a nuclear apocalypse really the best criteria? Come on ... That's just ansurd.";2;1;False;fresheneesz;edbl6dd;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Are Mt Gox customers getting BTC that they lost back?;2;2;False;TFenceChair;eda691i;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Wait how do you have so little in bitcoin that you don't care what price it's at, but meanwhile are throwing all your disposable income into it? ;1;1;False;vortex30;edb9bce;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Ouch. Unlucky. :(;1;0;False;Kaell311;edb90jb;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+that is dumping. Keep dumping!;2;0;False;BTC_Forever;edaivki;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"Even the guy himself says it. He’s like I don’t regret anything. And that the recent rally happened 6 years later. 
+
+Bitcoin was basically a Shitcoin back then or at least Shitcoin level. Yes, you can’t blame him, at least he sold and made profits unlike many people. 
+
+
+Its funny how people hunt him down on Twitter and ask him if he’s still alive. ";7;1;False;MCMXCVX;edae26o;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+If that's true and you care about it enough then you're probably getting 120 BTC from their bankruptcy (civil rehabilitation).;7;1;False;ProoM;edajemf;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+"You can search his name on Google to find his twitter, then scroll through his feed, I found it on my computer about an hour ago. Interesting to read his tweets last December when bitcoin broke the 10k barrier.
+
+On phone now, so cba to find it to link";5;0;False;Tinseltopia;ed9srlg;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+https://twitter.com/GregSchoen/status/70261648811761665?s=19;1;0;False;snarkytooth;edabhmj;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+">really though, if you had 1700 BTC why wouldn't you just sell a quarter, or half. Or all but one.
+>
+
+many seem to intuitively dislike the concept of risk averaging. they want to make the best decision which means risking a 100% wrong decision.
+";2;0;False;Hanspanzer;edbr5fd;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+no I want to become rich. I want to experience the difference of being 'poor' (I do not consider myself as actually poor) and rich. if you are born rich, there is nothing special to it.;2;1;False;Hanspanzer;edbre7u;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Don't be like Greg and lack conviction. Time will bless those that got conviction.;2;0;False;sthlmtrdr;ed9e0xc;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+im a week away from homelessness and wish i could find my very first wallet. When bitcoin first came out i have mined some and had like 20  bitcoins.. This would literally change my life;1;1;False;Desalvo23;edaq2gu;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+Hindsight is one hellofadrug;1;0;False;Gabdel1;edafla3;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+F;10;1;False;avatarr;eda5gda;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+His twit had motivated me since 2016;1;0;False;slywalkers;edasy85;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg
+ you will not have to wait that long chief, btc passes 10k and probably over 20+ this year;1;1;False;ethMonkey;edbqc2y;Whenever you doubt yourself, remember this guy.;ackua3;https://i.redd.it/hs9p8g3b6g821.jpg

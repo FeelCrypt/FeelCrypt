@@ -1,0 +1,95 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+">Which eventually will, if it doesn't get backed by something. People are really delusional to not realize this.
+
+I'd love to talk about this, especially since it was one of the earliest arguments but I'd like to ask you to clarify and expand first so that we are on the same page. What exactly do you mean by ""backed?""
+
+>Electronic systems suck and fail constantly.
+
+I think part of this is a confusion based on definition. ""Electronic"" means ""having or operating with components such as microchips and transistors that control and direct electric currents.""
+This is specific to hardware and irrelevant because of redundancy. 
+
+>If you can understand the concepts of security you'd already have agreed on this
+
+Security is a separate topic. Not sure why are you bringing this into hardware failures discussion.
+
+>The best security is to be offline
+
+Ok now you've moved the topic onto security. Sure. But this is a broad topic and you can't make sweeping statements without being specific. For example, the public-private keypairs can be generated completely offline. You can even sign transactions offline to avoid broadcasting certain data.
+
+>Bitcoin can't be offline and work. It literally exists only in the Internet and the Internet only.
+
+This suggests you have a fundamental misunderstanding of how Bitcoin works (or maybe there is a language barrier. Is English your native language?). Fundamentally, a bitcoin does not exist. Just the record of transactions. This absolutely can exist offline. The system, however, cannot operate offline.
+
+The difference is important to realize because a number of things are possible because of how this affects things. For example, the offline keypairs and transaction signing I mentioned above. I can create a keypair, send coin to the public address, then sign a transaction offline and broadcast it later to send coin to another address.
+
+>Therefore, can't be 100% secure. There's my argument.
+
+Yes but secure *in what way*?
+
+>My checkbook and bank information locked away in my safe is incredibly safer than some third party wallet system to hold the fictious currency points worth whatever the last batch of suckers paid for it this week.
+
+I have generated a seed offline and memorized it and placed a copy in my safe. It has never touched the internet. I sent a bitcoin to the address. It now exists only in my safe. Is your bank information still safer?
+
+>The coins themselves now are meaningless and driven by pump activity. 
+
+Congratulations. You've just learned the definition of the word ""speculation."" I absolutely agree with this. It's called a market.
+
+>There has got to be a real use for it, because it's proven its not money. It's garbage at being money. I can't take anyone seriously who believes it's a functional currency.
+
+It's difficult for some people to understand that something can be not very useful in its current state with the current state of the market and users but have future potential. If you can't look at the history of other Internet technologies and draw a comparison, then there really isn't much to say. Differing opinion.
+
+>It's a functional open source journal for activity on the network. I wish the activity on the network was comprised of educational content instead.
+
+I've seen this before. The system is literally perfect money from a technological standpoint but due to lack of use, current social norms and especially a full acceptance of everything the current system of their 1st world country has with regards to banking, they don't see any value. Currency. A record of transactions is *the* perfect and only proven use-case.
+I've seen attempts to shoehorn other uses into ""blockchain technology"" and some have been successful, the majority haven't and most are better suited to a centralized database.
+Yes, even the educational project you speak of. I can't remember the name of it but there is one. Currently it isn't proven and there are many technological issues to solve. If they solve them, that's promising. But it's difficult to deal with something that complex with something so simple and absolute as a blockchain. You either end up with something you didn't want or you make so many compromises that you end up turning your blockchain into a centralized database to meet your needs.
+Counter to that, Ethereum was very successful with their design. They have something and people are discovering uses for it. So far though, its most proven use is, again, as a perfect currency.
+
+>As far as education goes, the younger minds are being spoofed bullshit every day and they haven't lived in a time without their phones being their source of anything and everything about their life.
+
+Indeed. The most important lesson people need to learn is to verify with multiple sources. It's not like before when errors in books were so few that any library source was acceptable.
+
+>I'm sure someone smarter than me will be able to figure out how to use the validity the block chain has to combat the other. Humans are creative.
+
+Blockchain can't verify information. That would still be left to people. The problem would end up being unable to undo verified information years later when it is proven false. I can't see how this would work. Information is a very human and very changing thing. The opposite of blockchain.
+I found it. That project I mentioned. Everipedia. That's the project you are interested in. Or would have been. Since their announcement of ""putting information on the blockchain,"" all they've done is make a token on EOS and use that to incentivize contributions. ie. the only blockchain use is as a currency. They still intend to put the information on the blockchain but nothing so far. Check it out if that interests you.
+
+>I care about its a very cool advancement in information storing. Everything is information, and everything is worth storing for one reason or another. I wish people could see this technology as something else than an infinite pile of money. It doesn't work as money.
+
+This is an interesting statement considering the tens of projects that attempt to do literally what you are describing from decentralized storage, to data, to programming. Are you actually entirely unaware of all of them?
+But there is a reason they all are working as money (or shares/tokens). It's because it works. That use-case has been working since 2009.
+Also, I don't know anyone who sees it as ""piles of money"" since it can't work like that. The whole money aspect is the ability to transact.
+
+>It doesn't work as money.
+
+Then why is every project that's trying to do something else also working as money? Or are you defining money differently? What does Bitcoin not do that you think money should be doing?
+
+>It's been how long in development and nobody is even tolerating the idea of paying for something with it?
+
+Really not sure what to say to this. Have you not been paying attention?
+
+>Not only that, what about 2 months ago a really really old bug was found that no one caught besides one good samaritan that allowed them to double their btc wallet with a single key press?
+
+Ah. We have ourselves an article-title reader. One who reads titles, not articles.
+The issues were twofold and were certainly not something that would allow a person to ""double their btc wallet."" I see you skimmed the title, picking up keywords only.
+
+* The double spend would cause nodes to crash
+* The only circumstance in which someone would be able to double spend is by having enough hash power to mine the block themselves (or luck).
+
+That's my understanding, anyway. The fact remains that it was never exploited.
+Also, in case you have any misgivings about ""good samaritans,"" I suggest you look into what open-source means.
+
+>Get real, if counterfeiting is your main point against pen and paper then what is that? We can't know for sure if the system is already shot itself full of fake coins.
+
+It's an entirely open source project. With an entirely open ledger. Anyone can ""know for sure"" if the system is ""already shot itself full of fake coins.""
+
+>It's an electronic system of everybody's computer working together, on the knowledge electronic systems suck at everything.
+
+Hmm. Maybe you really do mean ""electronic"" rather than ""software."" In which case, please understand that people have spent decades building systems that rely on redundancy, expecting those failures. Bitcoin is the epitome of this. You seem to be assuming if one person's computer fails on the network then that is it for Bitcoin. That is false. For the failure to happen, every single computer in the world would have to fail at the same time. That is redundancy.
+As an aside, you do realize the legacy banking system also runs on ""an electronic,"" right?
+
+>but there is far too much baseless trust in something digital for something far too important.
+I agree. Perhaps you should have a look into our current system. You do realize we aren't on a gold standard anymore, right? You do realize 97% of all fiat money is digital, right? Cash only makes up about 3%
+
+You've got a lot of misunderstandings and I really hope you take the time to look into them, rather than sticking your head in the sand. It's really a good thing to be skeptical but if it's something you find interesting, you should be looking to expand your knowledge of the subject, too. I hope you keep an open mind moving forward.";1;0;False;mokahless;e9k8xv5;10 years ago today... (2008 Oct. 31);9svjcp;https://i.redd.it/a7fykewk6gv11.png
+Well shit, I AM stoned. If the shoe fits, right?;2;0;False;;e9kpx18;A friend who escaped venezuela . . .;9v972w;https://i.redd.it/gxkoic4od3x11.png
