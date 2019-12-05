@@ -1,0 +1,101 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+"I responded to your snarky retort and addressed the use of cellular based ""wireless""   
+     
+>  so in your case you are talking about an even more powerful ""backhaul"" system, copper and/or fiber that is slightly further away.      
+       
+It has nothing to do with past/future until something changes that we can't even imagine yet. ""4G"" in the US or Africa still uses wires, big fat wires that you couldn't drop a ""meshnet"" in to replace them. Just because they are a 1/2 mile or so away rather that 100 feet away doesn't change what the OP said copper/fiber it is the same.
+
+";1;1;False;classicrando;ckyrh5x;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+And yet reading through your quite...extensive post history, and the extraordinarily stupid questions you ask non-stop in all sorts of subs, I'm pretty sure I made an accurate call there.;0;1;False;praeluceo;ckyf83d;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"I didn't know that cellular isn't wireless.
+
+Deploying a meshnet does not need wires at all.  It could be done with many radios.  Radios are cheap now and have improving bandwidth and distance.  Bringing wires into a meshnet would be idiocy.  It's like trying to build cars that run on train tracks.";1;1;False;smartfbrankings;ckyrnuq;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"cellular is a form of wireless between the device and the tower, the tower then has (sometimes several) wires called backhauls. They can be copper or fiber depending on the conditions. So yes, contrary to what people may think cellular networks are only generally wireless for the first portion of the journey that your packet takes through the internet.       
+      
+Cell based wireless can also use microwave or other other wavelength systems for backhaul in certain conditions (those still connect to wires then).  http://www.ciena.com/connect/blog/Cienas-1-Terabit-optical-transport-demo.html        
+       
+>   Deploying a meshnet does not need wires at all. It could be done with many radios.      
+    
+Yes, I know - I said you could not reasonably replace the backhaul for a cell tower with a meshnet (meshnet in current vernacular means wireless)";1;1;False;classicrando;ckyry42;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+You keep thinking that a meshnet will be built with the current infrastructure rather than current technology.;1;1;False;smartfbrankings;ckys025;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+ugh, whatever dude - current technology cannot create a meshnet based internet with anywhere near viable in terms of reach or capacity - I am familiar with both, I ran the aodv routing code from the guy at the nist back when he came out with it in ~2000 - kernel modules, etc. That was before the current meshnet hysteria when they were called ad hoc wireless nets and it was mostly the government who was working on them.;1;1;False;classicrando;ckysaq2;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+So good it looks fake! (it's real btw) ;1;0;False;iwantathink;ckya0tw;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Wireless only takes you 100 feet to a copper wire that goes to the internet through your ISP.;0;1;False;classicrando;ckypi32;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"You are assuming I said tradition wifi routers. 
+
+I get 4G at my house with as much speed as I get from copper (someties more).
+
+Did Africa need a traditional copper infrastructure to get cell phone service for people there?
+
+Thinking in the way of the past is not a way to think of the future.";1;1;False;smartfbrankings;ckyr74e;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"Cool story, bro.
+
+Keep sysadminin.";1;1;False;smartfbrankings;ckysmxa;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"Sorry, maybe the title is confusing. Here they are simply raising their phones with their lights on as a show of solidarity or to take a cool picture. They did this in Kiev as well. The comment about mesh networks is that they used firechat to coordinate where to meet, and the movements of large groups in different parts of the city. 
+
+EDIT: Autocorrect changed ""firechat"" to ""forecast"". Changed it back.";2;1;False;iwantathink;ckya0lv;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"> people were saying it's just too infeasible for anything practical.     
+    
+They are, the OP posted a ""4) Profit!"" scenario, maidsafe and that crap won't replace the internet backbone because they require the internet to work.      
+    
+Firechat uses bluetooth right now, the bluetooth lib on android is worse than the one on iPhone (that is from a real developer who used them for real work). BLE is too new and mostly on iPhones currently all bluetooths old and new built in to phone are not built to support a number of connections as you would see on a denser mesh network. wifi chip and libs on devices have similar problems - they are not made to be APs, they are made to be clients.  ";1;0;False;classicrando;ckyp5h6;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+No, it doesn't.  That's why you need tonnes of people on a meshnet, such as in a city.;1;0;False;;ckycqf0;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Right.  There are many problems, but lots of people are working to solve them.;1;0;False;;ckycsdb;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"2 different types of wireless, so in your case you are talking about an even more powerful ""backhaul"" system, copper and/or fiber that is slightly further away. wifi used by devices (often whenever they can use wifi over cell even moreso now with iOS 8) suffers the limitation I described.     
+    
+Edit: satellites are a red herring in the normal wireless lives of 99.99+% of humanity as far as internet data movement.";1;1;False;classicrando;ckyqkmw;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"People don't understand the relative volumes that are moving around the internet now, it is like saying you can built a water infrastructure for US with shared garden hoses - no.    
+    
+But the backbone topology is not a ""bus"", it is a highly connected graph of ultra large capacity transit.   A fractal mesh of sorts.          
+https://en.wikipedia.org/wiki/MAE-West     ";1;0;False;classicrando;ckypgry;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Wait, there's a cell tower within 100 feet of everywhere I go and every radio station is within 100 feet and satellites are 100 feet as well?  I was unaware that all radio waves had a limitation of 100 feet.  Guess that light coming from the sun 100 feet away is gonna burn me up soon.;1;1;False;smartfbrankings;ckyq7rg;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Me too! Welcome to the wonderful world of figures of speech! Now enjoy the sight of thousands of young people, a new Internet generation, raising up the tools they use to fight oppression. ;-1;0;False;iwantathink;ckxxwpu;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Ditto.;0;0;False;FaceItPoker;ckyfs3x;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"Wouldn't #4 be jamming?
+
+The jamming wouldn't even have to be continuous but just enough to make people miss/lose some percentage of calls/emails/texts to make the network appear unreliable. Not to be a tinfoil hat conspiracist, but the jamming could be intermittent enough such that it would appear that the government wasn't even involved.
+
+Not an expert by any means. Just posting this as a question.";1;0;False;;cky7s9y;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Oh okay , cb means radio? Good to know, thanks;1;0;False;FaceItPoker;ckydl7x;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Counter economics is my favorite synonym, but market action between peers without authority is my understanding of the word.;1;0;False;PhilipGlover;cky8ry4;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"I know what you are trying to say, but as an aside: Have you heard of the [Underhanded C contest](http://underhanded.xcott.com/).  I had the source code, an explanation of what it was ""supposed"" to do, an explanation of the back door that had been coded in and an explanation of how it was done, and it still took me 30 minutes to put together how the program had been subverted.
+
+Of course, I'm not terribly good at C, but you can drive a dump truck though a sizeable piece of code and barely anyone will notice and if you are good you can pass it off as a typo.";1;0;False;tea-drinker;ckxvv9k;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"Human species secret code of conduct happens to state that you don't emphasize your humanity unless you have a reason to.
+There are a ton of other rules, learning them all as an outsider was tough. How's Magrathea this time of the time year?";1;1;False;Kuratius;ckydtrg;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+How do you define Agorism?;1;1;False;otakugrey;ckxy8lx;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Can someone eli5 what is happening in this picture? Are they using the leds to communicate? also what would they be communicating about as they are all in the same place?;1;1;False;Ninja_Fox_;cky81zn;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Looks fake;1;1;False;potatowords;cky49bw;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"Bad news: Beijing isn't going to give you democracy.
+
+Good news: If you download Blockchain onto those shiny screens, maybe you can do something even better than choosing your rulers: controlling your own financial destiny";1;0;False;Spats_McGee;ckxygjk;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+[deleted];1;1;False;;ckxx716;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+It is like yelling - everyone within a certain distance can hear you and others can yell, too.;1;0;False;classicrando;ckypldu;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"I'm going to hijack the top comment here to spread something relevant. Byzantium Linux is a flavor of Linux that is in itself a mesh node. Used on more than one machine and you have a meshnet going. You can have a meshnet going as fast as you can boot Byzantium. 
+
+
+http://project-byzantium.org/about/";2;0;False;otakugrey;ckxy6qu;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+The asian changetip bot.;2;0;False;asldkhjasedrlkjhq134;cky149t;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Sounds interesting!;1;0;False;CeasefireX;cky2xi9;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+https://projectmeshnet.org/;1;0;False;Ninja_Fox_;cky812n;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Ah, thanks that clears it up. ;1;0;False;Ninja_Fox_;ckyab5w;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"This thread has been linked to from elsewhere on reddit.
+
+
+ - [/r/maidsafe] [A good comment that made best of about how crypto software bootstraps the future. Talks maidsafe, meshnets and bitcoin](http://np.reddit.com/r/maidsafe/comments/2i3hzp/a_good_comment_that_made_best_of_about_how_crypto/)
+
+
+*^If ^you ^follow ^any ^of ^the ^above ^links, ^respect ^the ^rules ^of ^reddit ^and ^don't ^vote ^or ^comment. ^Questions? ^Abuse? [^Message ^me ^here.](http://www.reddit.com/message/compose?to=%2Fr%2Fmeta_bot_mailbag)*
+
+";2;0;False;totes_meta_bot;ckyg9h2;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Initially you can just run your games through the existing internet because its unlikely your tf2 match is under threat of being censored and run all http/smtp/irc requests through the mesh net. ;1;0;False;Ninja_Fox_;cky7zb0;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"This is very optimistic, but we heard such claims on the previous ""crypto revolution"", but in reality our crypto Is pretty lousy, as is our anonymity  . 
+
+So we'll see. ";1;0;False;frozen_in_reddit;cky50p7;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Will do, thanks! As you might have guessed mine is but a mildly informed opinion, as it's clear I have nothing to do with the field.;1;0;False;redlightsaber;ckxx4l1;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Maybe you are a troll.;0;1;False;FaceItPoker;ckydkr8;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+It does but even that can only work to a certain density - even 100 nearby radios is hard for a device chipset but to get to 10s of 1000s it gets much harder.;1;0;False;classicrando;ckypnsc;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"The Commercial Council of Magrathea thanks you for your reply. 
+
+";1;0;False;Sevensheeps;ckyes4y;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+Never expected to see this. ;1;0;False;armandstozion;cky0eu9;Bitcoin made The Simpsons intro! Sorry for the potato quality;2hqqnp;http://imgur.com/xmE9ojz

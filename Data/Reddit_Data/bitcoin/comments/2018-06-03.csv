@@ -1,0 +1,58 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+I look at buying Bitcoins to be like buying gold, but for dumb people.;0;0;False;1Dumie4Me;e022efi;Bitcoin Doesn't Give a Fuck.;7yaaz2;https://v.redd.it/ty2y74gawug01
+Yes but depending on passphrase and derivation path, the seed phrase will generate infinity of addresses each one with own private key...;1;2;False;CryptoSatus;e0146x8;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+which one?;1;0;False;DiabolikMind;e01a672;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+What do you mean by removed clue nº8?;0;1;False;Sportswala;e013g3s;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+If you have the seed the BTC would be gone. Unless you don't want it. How long is your seed?;2;1;False;Crypto_Rachel;e00snz1;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"Ooooooh ...
+https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki#generating-the-mnemonic
+
+Took me a while lol, thx for the help :-)";1;0;False;AmirisJBrown;e01ohr0;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+Infinity and beyond one?;1;2;False;Sportswala;e013xv3;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"I've got a list of about 200k valid mnemonics to check if they have the one transaction. 
+If anyone has an already done script and is willing to share it I'm giving 50% in case I'm actually right. PM me. ";0;1;False;s1ur;e01k0we;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"""A professor of Byzantine history at Princeton once said that [John] von Neumann had greater expertise in Byzantine history than he did.""
+source: https://en.m.wikipedia.org/wiki/John_von_Neumann
+
+BitCoin solved the ""Byzantine Generals' Problem"" within distributed computing:
+https://en.m.wikipedia.org/wiki/Byzantine_fault_tolerance";1;1;False;AmirisJBrown;e01uft8;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+Yes;1;0;False;CryptoSatus;e0147be;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"The quote was ""To triumph one must look within. To infinity and beyond. When you are close to home, x marks the spot."" ";1;0;False;Crypto_Rachel;e014bgb;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+He gave a clue that was later erased that said, “when you’re close to home x marks the spot” at the end of the clue. Also referred to as a treasure hunt originally. But I think he erased that clue because right after he made it one step easier like deleting passphrase which is what the x or glyph marked;1;0;False;Crypto4204life;e00is39;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+LOL, true XD;0;0;False;AmirisJBrown;e01msza;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+No, he will be giving you, 50% because he will find it first.;2;1;False;migmxke;e01lzll;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"The right seed will open the right wallet and derivation path. Cryptogreetings did say ""when you have the answer there will be no doubt. It's not easy but it's absolutely possible. ..."" ";4;0;False;Crypto_Rachel;e014j46;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+Yes possible passphrase although cryptogreetings probably took that off. Hence the address change and -1 to negate +1;2;0;False;Crypto_Rachel;e014fas;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+It is a bonus hint that cryptogreetings deleted after posting it. You can find it if you search on previous posts by others that were able to catch it;1;1;False;CryptoSatus;e013vlw;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"""ends with"", plenty of words end with Y: ability, alley, anxiety, etc.";4;0;False;amingilani;e00oq7f;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+Can you please explain why having the seed means BTC would be gone. What do you do with the passphrase and derivation path? If you tell me I will reveal length of seed;1;2;False;CryptoSatus;e013nuu;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+Same -- but try anyway :-);1;0;False;AmirisJBrown;e00izvs;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"Ok,so because I'm out of ideas I'll just share my theory so far and maybe it will help someone.
+
+**The words:**
+
+So for the words I took all the z values from the picture.I was inspired by the clues and I added +1 to all the values,so for z =25 you will have the value 26.I also used the list of all mnemonic phrase words sorted alphabeticaly which you can find on google.So here is what I did:
+
+1)I took all the mnemonic phrase words from the picture
+
+2)I searched (ctrl+f) all of them in the list
+Now with the help of the ""almost open"" clue I noticed that the position in the list of these 2 could be generated if you **PAIR** some of the z+1 values.Example: open is 1242,which can be seen as z=11 +1 paired with z=41+1
+
+EDIT1: so because somebody asked: the z+1 values are like a list of values which can be the first or the second part of the pair,so open which is 55 you have z= 4+1,so the first part of a pair or the second one can be 5,you dont need to have z=4 twice in the pic
+
+
+3)I did this rule for all the words and I got **EXACTLY** 24 matches
+Here is my list of words in random order:
+*come interest grow also frequent coin gold entire define code almost open law allow modify attack add air model aware agree now later access*
+
+
+So this is preety much all I got this far.It might be right,it might be completly wrong,who knows? Keep in mind that english is not my first language so I might sound weird in some places.
+
+Also, shameless donation address,if this helps you: 15WLaPC566NmU8GDcjVx4cvPswmx3gFZ59";5;0;False;WowSuchJoke;e01es3o;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+"Non-Mobile link: https://en.wikipedia.org/wiki/John_von_Neumann
+***
+^HelperBot ^v1.1 ^/r/HelperBot_ ^I ^am ^a ^bot. ^Please ^message ^/u/swim1929 ^with ^any ^feedback ^and/or ^hate. ^Counter: ^188841";1;0;False;HelperBot_;e01uglw;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+" Hi\)  
+https://blockchain.info/payment\_request?address=1B3f2zMPRQTh7JYd3vjSbPYrvNadBk1gNL&message=Reddit&amount=1.00185587 ";-3;0;False;bitcoin228;e01hq5o;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+Well, if you have the right seed phrase, you unlock the private key which gives you access to the funds. From there you can just send them to your own address;1;1;False;Crypto_Rachel;e013q94;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png
+You put the seed into a recovery mode of wallet;1;0;False;Crypto_Rachel;e013st1;1 BTC is hidden in this puzzle. Good luck!;8kk0pa;https://i.redd.it/g4rbvtbiwry01.png

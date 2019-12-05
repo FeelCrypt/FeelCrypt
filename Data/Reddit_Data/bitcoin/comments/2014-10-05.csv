@@ -1,0 +1,21 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+"Wow, thanks a lot for the update. This has been a large unknown to me so it's great having these details.
+
+> The speeds are very slow
+
+Any more specifics on this? How slow is slow? I was under the impression that ham communications are near-instant. 
+
+I was aware that ham radio operators need to be licensed. Although it's not easy to pick up for everybody, I was thinking it may be valuable to have a few of them in every city for city-to-city communications, whereas small routers would be used internally. I wonder what kind of speeds could be sustained for a large amount of people, since city-to-city communications would mean tons of people connecting to a few hubs.
+
+If you look into the MaidSafe project, they're pretty much building decentralized internet, which is incentivized monetarily through a built-in cryptocurrency (whereas Tor and Freenet are not). This means there could be companies and people going out of their way to earn money by providing bandwidth and resources to the network. I wonder how easy it would be for someone to obtain a commercial license in order to provide services for it through ham.";1;1;False;walden42;cl11qha;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+True. ;1;0;False;Thalass;cl0i8ld;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
+"As a CS student I thought your idea was interesting so I called my dad, who has 40+ years of ham radio experience in Europe, Canada, and currently the US. He is constantly building his own antennas, participating in countless world-wide contests, etc. Here's what he said:
+
+There are already ways to transfer data between over a radio signal. See Packet Radio (http://en.wikipedia.org/wiki/Packet_radio) and something anonymous put together (http://www.theregister.co.uk/2014/05/01/anonymous_to_world_go_pirate_radio_for_datacomms/).
+
+The speeds are very slow, and both parties have to be licensed. If you were to make use of this in a meshnet-type system, several problems arise:
+1) All parties have to be licensed (in the US, it's under the FCC.) If you're transmitting unlicensed, you can quickly be shut down and face heavy fines.
+2) If all parties are licensed, they would have to have well-configured, strong hardware, at least to start off with. Building and configuring antennas is a skill learned and practicing over many years. Let's not forget, it can also get expensive. Right now good ham radios and antennas that could support this are not mainstream enough for the average family of four to go out to Best Buy and purchase a 60$ ham radio mesh network kit.
+3) Even if everybody gets licensed and good hardware become mainstream and affordable, the FCC currently does not allow non-commercial parties to encrypt the signals they transmit. That means that we would have to accept that we are sending valuable data in a very vulnerable way. Then again, if it should get big enough, the gov't may be forced to change laws.
+
+I hope that a little experienced insight helps. I know I learned a lot from a half hour phone conversation. ";2;1;False;volfort;cl10q36;Protestors are using using a P2P mesh network (Firechat) in Hong Kong to coordinate and not get shut down. Have you ever seen anything more powerful than this image?;2hwzgk;http://imgur.com/C1yubIf
