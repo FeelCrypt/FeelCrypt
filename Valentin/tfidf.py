@@ -78,7 +78,7 @@ def get_tfidf(textA, textB, max_words):
     #df = pd.DataFrame([tfidfA, tfidfB])
     
     vectorizer = TfidfVectorizer(max_features=max_words)
-    vectors = vectorizer.fit_transform([textA, textB])
+    vectors = vectorizer.fit_transform([str(textA), str(textB)])
     feature_names = vectorizer.get_feature_names()
     dense = vectors.todense()
     denselist = dense.tolist()
@@ -102,19 +102,27 @@ def clean_df(df):
     return df
 
     
-def get_tfidf_words(df, max_words):
-    df = clean_df(df)
-    all_positive_texts = " ".join([df["text"][i] for i in range(len(df)) if df["label"][i] == 1])
-    all_negative_texts = " ".join([df["text"][i] for i in range(len(df)) if df["label"][i] == 0])
+def get_tfidf_words(df, max_words, clean = True):
+    if clean:
+        df = clean_df(df)
+    all_positive_texts = " ".join([df["text"][i] for i in range(len(df)) if df["label"][i] == "1"])
+    all_negative_texts = " ".join([df["text"][i] for i in range(len(df)) if df["label"][i] == "0"])
     
     extracted_words = []
+    cpt = 0
     for i in range(len(df)):
+        cpt+=1
+        clear_output()
+        print(f"{cpt}/{len(df)}")
         idf = []
-        if df["label"][i] == 0:
-            idf = get_tfidf(df["text"][i], all_positive_texts, max_words = max_words)
+        if len(df["text"][i]) > 3:
+            if df["label"][i] == "0":
+                idf = get_tfidf(textA = df["text"][i],textB =  all_positive_texts, max_words = max_words)
+            else :
+                idf = get_tfidf(textA =  df["text"][i],textB = all_negative_texts, max_words = max_words)
+            extracted_words.append(" ".join(list(idf.keys())))
         else :
-            idf = get_tfidf(df["text"][i], all_negative_texts, max_words = max_words)
-        extracted_words.append(list(idf.keys()))
+            extracted_words.append(df["text"][i])
     df["tfidf"] = extracted_words
     
     return df

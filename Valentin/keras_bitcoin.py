@@ -44,9 +44,9 @@ def get_model(texts_train, labels_train, vocab_length, max_sentence_size, epochs
     model.add(Flatten())
     for activation_fun in activations_functions:
         model.add(Dense(1, activation=activation_fun))
-        if activation_fun in dropouts.keys():
-            model.add(Dropout(dropouts[activation_fun]))
-    
+        if activation_fun in dropouts.keys() and len(dropouts[activation_fun]) > 0:
+            model.add(Dropout(dropouts[activation_fun][0]))
+            dropouts[activation_fun].remove(dropouts[activation_fun][0])
     model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['acc'])
     model.fit(texts_train, labels_train, epochs=epochs, verbose=verbose, batch_size=batch_size)
     print(model.summary())
