@@ -17,6 +17,7 @@ import math
 available_activation_functions = ["tanh", "elu", "softmax", "selu", "softplus", "softsign", "relu", "sigmoid", "hard_sigmoid", "exponential", "linear"]
 
 def get_unique_words_count(texts):
+    
     words_set = set()
     for sentence in texts:
         tokenize_word = word_tokenize(sentence)
@@ -28,6 +29,7 @@ def get_above_multiple(num, divisor):
     return math.ceil(num / divisor) * divisor
 
 def get_train_test_data(texts, labels):
+    texts = [str(text) for text in texts]
     vocab_length = get_above_multiple(get_unique_words_count(texts), 10)
     coded_sentences = [one_hot(sentence, vocab_length) for sentence in texts]
     max_sentence_size = max(list(map(lambda sentence : len(word_tokenize(sentence)), texts)))
@@ -38,18 +40,18 @@ def get_train_test_data(texts, labels):
 #model.add(Conv1D(250,3,padding='valid',activation='sigmoid',strides=(2,2)))
 #model.add(Dense(250, activation="softplus"))
 #model.add(Dense(1, activation="sigmoid"))
-def get_model(texts_train, labels_train, vocab_length, max_sentence_size, epochs = 100, batch_size=100, activations_functions = ["sigmoid"], verbose = 0, dropouts = {}):
+def get_model(texts_train, labels_train, vocab_length, max_sentence_size, epochs = 100, batch_size=100, activations_functions = ["sigmoid"], verbose = 0, dropouts = []):
     model = Sequential()
     model.add(Embedding(vocab_length, 20, input_length=max_sentence_size))
     model.add(Flatten())
     for activation_fun in activations_functions:
         model.add(Dense(1, activation=activation_fun))
-        if activation_fun in dropouts.keys() and len(dropouts[activation_fun]) > 0:
-            model.add(Dropout(dropouts[activation_fun][0]))
-            dropouts[activation_fun].remove(dropouts[activation_fun][0])
+        if len(dropouts) > 0 and dropouts[0] > 0:
+            model.add(Dropout(dropouts.pop(0)))
     model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['acc'])
     model.fit(texts_train, labels_train, epochs=epochs, verbose=verbose, batch_size=batch_size)
-    print(model.summary())
+    if verbose:
+        print(model.summary())
     return model
 
 def get_data_to_predict(texts, vocab_length, max_sentence_size):
