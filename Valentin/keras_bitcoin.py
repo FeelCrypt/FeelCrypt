@@ -28,14 +28,18 @@ def get_unique_words_count(texts):
 def get_above_multiple(num, divisor):
     return math.ceil(num / divisor) * divisor
 
-def get_train_test_data(texts, labels):
+def encode_data(texts):
     texts = [str(text) for text in texts]
     vocab_length = get_above_multiple(get_unique_words_count(texts), 10)
     coded_sentences = [one_hot(sentence, vocab_length) for sentence in texts]
     max_sentence_size = max(list(map(lambda sentence : len(word_tokenize(sentence)), texts)))
-    padded_coded_sentences = pad_sequences(coded_sentences, max_sentence_size, padding='post') 
+    padded_coded_sentences = pad_sequences(coded_sentences, max_sentence_size, padding='post')
+    return padded_coded_sentences, vocab_length, max_sentence_size
+
+def get_train_test_data(texts, labels):
+    padded_coded_sentences, vocab_length, max_sentence_size = encode_data(texts)
     texts_train, texts_test , labels_train, labels_test = train_test_split(padded_coded_sentences, labels , test_size = 0.20)
-    return texts_train,texts_test,labels_train,labels_test,vocab_length,max_sentence_size
+    return texts_train, texts_test, labels_train, labels_test, vocab_length,max_sentence_size
 
 #model.add(Conv1D(250,3,padding='valid',activation='sigmoid',strides=(2,2)))
 #model.add(Dense(250, activation="softplus"))
