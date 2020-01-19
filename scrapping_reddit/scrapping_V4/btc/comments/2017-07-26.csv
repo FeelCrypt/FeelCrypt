@@ -1,0 +1,141 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+Segwit is not a blocksize increase. It allows user to separate the signature data from a transaction. If a miner were to only mine Segwit transactions then they would be able to fit more transactions in a single block because the transactions are missing the signature data. However the number of non segwit transactions that can fit remains the same.;8;1;False;SharpMud;dkq92us;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+If the attacker copies the timestamps from blocks that s/he's rewriting the difficulty does not change;1;0;False;Inaltoasinistra;dkqi9rk;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"> then sure why not. 
+
+you're kidding right?  BSCore devs abusing their stewardship to artificially inflate resource reqs so they can sell machines?";2;0;False;H0dl;dkpt39z;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"> SegWit only hampers one method of using ASICboost, the least efficient one. The whole ASICboost story is just misleading propaganda.
+
+Mhm, so it blocks one method, while your B🤡C ""bitcoin""-cash is not blocking even that?";1;1;False;metalzip;dkql2in;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"In. Times of uncertainty you would just wait longer, the attack will be costly and they need to continually spend more as new miners join bcc
+
+It will become economically unfeasible to sustain an attack rather quickly I would imagine, especially if we get Roger and jihan and the miners who want big blocks already on board ";3;0;False;Only1BallAnHalfaCocK;dkqek5d;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"If you can browse the code and understand it at a high level, then you must have some level of engineering mind set. What problem does segwit solve and/or what value does it add? Where has it been quantified?
+
+If s2x is a real compromise, what are dcg and friends gaining from the segwit side of it?";1;1;False;emergent_reasons;dkqjj76;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"BtcoinCash is not ""my"" bitcoin. 
+
+But the fact is that any miner with Bitmain hardware (not just those mining into Jihan's AntPool) could use ASICboost to mine BitcoinCore just as efficiently as BitcoinCash, if it is indeed worth doing it.  So, what is your argument, again?";1;0;False;jstolfi;dkqn8da;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+Segwit is implemented and the blocksize increases to 2MB.;1;0;False;Darkeyescry22;dkpwpv4;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+">Segwit only allows more Segwit transactions.
+
+Tell me more.";6;1;False;norfbayboy;dkq6bg1;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+ETC adjusts difficulty every block, you can't just add hashrate and orphan more than a couple blocks.;3;1;False;realmadmonkey;dkqfj7p;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+[deleted];5;1;False;;dkqhnm8;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"As a lurker, I'm fully aware of r/btc's views of Segwit and the censorship scandal. It's sad that r/bitcoin has been rather biased, but I see a lot of bias in r/btc as well. I try to learn the truth for myself through the arguments of both sides.
+
+Trying to be objective about it and poking around in the code for myself, I have come to the conclusion that a lot, if not all, of the fear of Segwit is really just that-- fear from FUD. The endlessly repeated claim that we only get 1.7x boost in transactions at 4x cost in bandwidth, is a classic example. Only by extreme contortions can you call this true; in the average case, you'll get roughly a 1:1 increase in transactions for the increase in bytes transmitted across the wire and stored in a block. There is a very small overhead but nothing like the claim above. Another unfounded fear is that separating the signatures will cause legal problems down the road. In practice, those signatures will still be available from full archival nodes; and at any rate, these are cryptographic signatures used in the system and were never designed or intended to be compared to legal signatures. This kind of FUD is really tiresome, especially after one sees it debunked and yet repeated breathlessly over and over again.
+Yes, there are similar examples of bogus arguments against big blocks. I see the dangers of big blocks as more a matter of degree, though, depending on the size of the increase. A 2X increase should be safe enough, while allowing us to judge whether it does lead us in a more centralized direction, and this is why I support Segwit2X.";1;1;False;scientastics;dkqdt43;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"I see how you might feel SegWit is not a block size increase because ""Bigger blocks allows more transactions without prejudice. Segwit only allows more Segwit transactions"".
+
+However, which is more prejudice: The bus can accommodate riders of both types, X.. and now type Y...  or the bus can accommodate more type X riders but type Y can still not ride the bus?
+
+I get what you're saying but calling SegWit ""prejudice"" seems backwards. ";0;1;False;norfbayboy;dkqq2jk;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"Thank you for the conversation about it. In this case I think you are underestimating the risk of segwit as a soft fork. Many people like me would have been somewhat ok with it as a hard fork but as it stands it is an unnecessary and large security, economic and I suspect legal risk to bitcoin.
+
+I assert that that support on the big block size is mostly grass roots. The support on the small block and segwit side is mostly manufactured. Assuming that is correct, you can see that people like me believe that ""moderates"" are victims of social engineering of the overton window. We do not support a false compromise when there is still a better option available.
+
+Have you read these?
+- [some segwit risks](https://medium.com/the-publius-letters/segregated-witness-a-fork-too-far-87d6e57a4179)
+- [manufactured support of small blocks and segwit](https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43)";1;1;False;emergent_reasons;dkptqmy;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+C'mon, blockstream owns lots of patents. You're the pot calling the kettle black;2;1;False;Lloydie1;dkqedu1;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+This didn't happen to ETC;1;1;False;Inaltoasinistra;dkq8z78;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+You failed to show the courage to say similar words in that echo chamber. You were afraid of being banned. You only have the courage to attack Bitcoiners.;0;1;False;webitcoiners;dkptfzc;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"Hehe. I owned a large portion of Bitcoin when you did not own 0.1 btc. That showed I could see further and think deeper than you.
+
+Now same things will happen again.";2;0;False;webitcoiners;dkpsxbl;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"Yeah, I think bitcoin's problems stem from two factors:
+
+1. Satoshi being absent.
+
+2. The next best ""leaders"" all work for companies that are trying to 'improve' bitcoin in some way, which creates an incentive to cripple bitcoin.
+
+As far as I know, there isn't anyone on the core Python development team that works for a company who's success is dependent on the GIL being present. If there was, then the GIL debate would be just as slimy as the bitcoin blocksize debate. Also, Guido, being the BDFL, can jut issue his opinion, which then becomes the final word. If satoshi was still around he could end the debate instantly by just making a new release with a higher blocksize.";5;0;False;freework;dkpt4ll;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+Yep, all those hard-working socially well-adjusted devs over at Core are why Bitcoin is scaling so wonderfully. Oh wait. ;2;0;False;micahdjt1221;dkqi2u1;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"
+>Getting serious support for a fork *just after a compromise was reached* is kind of hopeless. 
+
+That may well be true, however,
+
+> If the compromise agreement is broken, there might be a chance again. 
+
+with Segwit there are no take-backsies. It's permanent. So if the compromise is broken, you'll never be able to return to this pre-Segwit moment.";2;1;False;jessquit;dkqhkd5;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"> You were just arguing that blockstream doesn't hold any patents. Now you've changed the argument to say, ""well they do, but they promised they won't do anything bad!""
+
+Not ""promise"", they guarantee it, much as GPL does.
+
+Holding a defensive patent is fine of course. But BitMain does no such promise nor guarantee.";1;0;False;metalzip;dkqjgeq;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+wait and see approach?;1;0;False;FaceMelter55;dkqiw2l;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"""fee market"" is crazy! I agree, bitcoin XXT is the future!!! true Bitcoin will have hundred TB blocks soonish! lots of coffees for you and me! to the mooooooon
+
+:D :D :D";1;0;False;bullco;dkqhay6;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+Bcc isn't an altcoin?;1;0;False;cheekygorilla;dkpthn8;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+Satoshi was 1 dev, what's your point? ;10;2;False;Only1BallAnHalfaCocK;dkqeddw;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"The client is done
+The exchanges are adding it
+DDOS the nodes is futile 
+Hashrate will  match market price";1;0;False;Only1BallAnHalfaCocK;dkqemb2;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+* a fix for ASIC Boost;0;0;False;Always_Question;dkqeeja;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+I'm referring to bitcoin on the current bitcoin network with the current set of consensus rules.  Not an alt-coin on another network, like bitcoin-cash will be.;0;0;False;jratcliff63367;dkpvuwf;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"Greg Maxwell is on record, when asked ""And when will the network adopt the Segwit2x(tm) block size hardfork?"", replied ""_I estimate that will happen at roughly the same time as hell freezing over_.""";2;0;False;;dkr855g;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"
+>with Segwit there are no take-backsies. It's permanent. So if the compromise is broken, you'll never be able to return to this pre-Segwit moment. 
+
+You could at least softfork it out: ""segwit transactions will no longer be accepted after block X. Get your money out before that or it will become unspendable"". With a hardfork, you could also make it anyone-can-spend again.
+
+You'd still have to deal with the trash in the history of the block chain of course, but you might be able to delete most of the validation code (and the witness data) and replace it with a checkpoint (treating the segwit spend transactions as successful anyone-can-spends).";1;0;False;aaaaaaaarrrrrgh;dkqt4c2;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+I have no clue what you are talking about.  Getting banned from where?;1;0;False;jratcliff63367;dkpvt3y;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+Bitcoin is quite different from any other OS project. It's money. So anything is possible.;1;0;False;webitcoiners;dkptb8z;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"I think if Bitcoin Cash gets too small, it's easy to break it irreversible, technically and economically.  
+
+Technically there will be DDoS attacks for sure, and all sorts of 51% stuff if it's too cheap to reach that majority. If the network gets technically unreliable, nobody will use it. And nobody will *start* to use it again, because he alone would have to cope with all the technical shit from nodecount to DDoS protection to stuck transactions or exchanges being out of sync and so on.
+
+Economically, if the price drops too low (let's say around $5) it could be bought out completely by banksters. Hell, even $100mn isn't much in a world where central banks print billions every month. Would you want to use a coin later on when you know some big banks bought 70 or 80% of the supply?
+
+> Well then great I will buy a shit load of them when support will return!
+
+That's exactly where it gets interesting. If enough people support it, the price won't ever drop too far. And network hashrate will go with the price, that's true for every POW coin.
+";6;0;False;mmouse-;dkq2ynw;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+Lol, have you even been paying attention at all?;1;0;False;Dabauhs;dkq922a;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"2x is a politcal move. The supporters are all political actors. 99% of devs are pro-segwit. 
+
+BitcoinABC literaly has 2devs ";4;3;False;mcr55;dkpwjhu;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+As long as it is being traded there is reason to attack it. An attacker can sell coins then undo the transaction, or bet against the price then crash the value with the attack.;3;1;False;realmadmonkey;dkpu4qp;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"People like Trace Mayer are already mocking and make fun of Jihan saying they plan to never have the 2x increase: https://www.reddit.com/r/btc/comments/6plno9/trace_mayer_laughs_at_and_makes_fun_of_jihan_and/
+
+We need to give Bitcoin Cash 100% support now.";3;0;False;cryptorebel;dkqbt4n;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"Gimme a break Roger...FUCK segwitcoin. They are using the same old tactics. 2MB HF will not happen. By that time it will be too late. Move on already.   
+
+/u/memorydealers";2;0;False;Focker_;dkq1bu6;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"> C'mon, blockstream owns lots of patents. You're the pot calling the kettle black
+
+Nope, only defensive patents:
+
+https://blockstream.com/about/patent_pledge/
+
+""under the Defensive Patent License, version 1.1. That means the technology covered by Blockstream's patents is freely available for use without having to pay a licensing fee or risk litigation.""
+
+
+
+";0;1;False;metalzip;dkqh727;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+What are you on about? It's all open source. Any PR on Core can be merged into btc1 and vice-versa.;2;0;False;heffer2k;dkpvkhp;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+Go back a step -- You're completely ignoring that it requires big blocks :);2;0;False;seedpod02;dkqjh5h;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+"I sit here reading comments and think:
+
+1. What % of the people are genuinely delusional?
+2. What % of the people are misguided?
+3. What % of the people are purposefully spreading propaganda?
+4. What $ value each side has committed to pushing their cause?                   -In hash    
+-In trading (liquidity)
+-In promotion 
+-In exchanges
+5. How structured each side is?
+
+There's a nice video of Niall Ferguson. Discussing networks and hierarchies. The reason why networks eventually become part of hierarchies, is that it gives stability and naturally the hierarchies want to adopt the networks into their own realm.
+
+So, despite this all being decentralized, I feel the overall community needs to realise that the hierarchy element is and will always be in full swing, with a set of objective.
+
+This is worrying.
+";2;0;False;Vincents_keyboard;dkq4fxx;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+They're doing it because they want people to settle through their liquid sidechains, which is basically taking the power to settle on layer 1 from the ordinary person.;3;1;False;Lloydie1;dkqkwjo;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement
+Is it even possible for 2x to not activate? I mean if even one miner uses the standard software wouldn't that cause a chain split with the 2x version which will be accepted by nodes running BTC1?;2;0;False;Eirenarch;dkpubgf;If the 2X portion of Segwit2x fails to activate, Bitcoin.com will immediately shift all company resources to supporting Bitcoin Cash exclusively.;6peqwr;https://www.bitcoin.com/public-service-announcement

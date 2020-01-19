@@ -1,0 +1,358 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+Sure, if there were 3,000 r/btc users but if only 1 in 10 clicked like on this then the # is good.  I think that most every member clicked on this post, it would be more than 10% but some folks only log in from time to time and/or have not seen it yet.;1;0;False;Scott_WWS;dqp1s6x;"Evidence that the mods of /r/Bitcoin may have been involved with the hacking and vote manipulation ""attack"" on /r/Bitcoin.";7eil12;https://www.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/
+"theflair has issued a reply - whether or not he debunked anything is subject to opinion - considering that bashco & other r/bitcoin mods are known liars, you have to take anything they say with a grain of salt.
+
+And, you can't really debate them because you're immediately banned if you call them out for their ""un-truths.""";1;0;False;Scott_WWS;dqp1qvk;"Evidence that the mods of /r/Bitcoin may have been involved with the hacking and vote manipulation ""attack"" on /r/Bitcoin.";7eil12;https://www.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/
+also LOL;1;0;False;Scott_WWS;dqp1poq;"Evidence that the mods of /r/Bitcoin may have been involved with the hacking and vote manipulation ""attack"" on /r/Bitcoin.";7eil12;https://www.reddit.com/r/btc/comments/7eil12/evidence_that_the_mods_of_rbitcoin_may_have_been/
+Layer 2 solutions like LN are centralized and also fee restrictive. What’s the value proposition versus a centralized system since Lightning transactions can be censored by the hubs.;1;0;False;Enigma735;dqowdkb;"Mark Cuban: ""It’s going to be very difficult for [BTC] to be a currency when the time and expense of doing a transaction is 100 times what you can do over a Visa or MasterCard, right?”";7gpqfd;https://finance.yahoo.com/news/mark-cuban-bitcoin-collectible-currency-152121444.html
+">I have faith in all of them
+
+If you consider where bitcoin is today, there track record is simply terrible.   So I think your faith is completely misplaced.
+
+Are you aware of the horrible bugs that were found in the Segwit2x code? .... or the seemingly complete lack of understanding of economics and game theory that some of the key members seem to have?    It's -almost- like they are trying to harm bitcoin on purpose. ";1;0;False;davewantsmoore;dqom3y8;"Mark Cuban: ""It’s going to be very difficult for [BTC] to be a currency when the time and expense of doing a transaction is 100 times what you can do over a Visa or MasterCard, right?”";7gpqfd;https://finance.yahoo.com/news/mark-cuban-bitcoin-collectible-currency-152121444.html
+good points;1;0;False;freedombit;dqpf9ck;On major exchanges going down during flash crashes...;7gg5qt;https://i.redd.it/ts2jymopzy001.jpg
+"Cool, we agree, the time frame to scale is the only variable worth discussion.
+
+Lets do some math.
+
+[Here](https://i.imgur.com/KO5iJVu.png) is a graph I made of Bitcoin tx per day, the trend line shows that continuing as it has been (I took transactions from July 2013 to July 2016 so as not to include the artificial limit that 1MB blocks imposes) we will reach 7bn tx/day around 2034.
+
+Moore's Law, assuming it doesn't slow down, doubles around every 18 months, so in the 16 years between now and 2034, there will be 10.6 of these doublings. 
+
+Lets not start with Bitcoins artificially limited 1MB blocks, let's start with BCH 8MB blocks, block #479469 was a full 8BM, and had 37,814 transactions. If all blocks were full, this would be 5.4 million tx per day, 1.15GB per day, 420GB per year. I'm not sure this would run on a raspberry PI, but would still fit rather well into the ""spare hardware I have laying around"" category for a lot of people today.
+
+7 billion tx per day = 48611111 tx per block, that is 1285 times a 8MB block or roughly 10GB per block.
+
+going on 2^ 10.6 increase Moore's Law should provide us as above, that will give us 8MB * (2^10.6) = 12.4GB blocks
+
+So it is plausible that raw block size increase could keep up with the current increase trend in transactions on ""spare hardware"", given Moore's Law continues. There are other improvements that can be made also, better thin blocks, block compression, better multi threaded code etc. On the other hand, 7bn/tx/day IMO is a very low target for 2034, I would expect to see Bitcoins transactions grow much larger, much faster than that if allowed too. I read Alipay hit 1bn/tx/day in 2016 and that's just one payment handler in one country. Micro payments becoming popular could increase that some orders of magnitude. 
+
+Basically, IMO, while it is certainly a real possibility, I myself would not say that I am 100% confident I can run a 7 billion tx/day node when we have 7 billion tx/day. It is for sure not a certainty. ";2;2;False;flat_bitcoin;dqp3ln0;"There never was a ""scaling problem."" The only problem is ""people that don't want Bitcoin to scale.""";7ge27h;https://www.reddit.com/r/btc/comments/7ge27h/there_never_was_a_scaling_problem_the_only/
+Totally agree, until LN is working and shown to be non-centralized, I am not a supporter either (Although I would *like* it to work);2;0;False;flat_bitcoin;dqp49cy;"There never was a ""scaling problem."" The only problem is ""people that don't want Bitcoin to scale.""";7ge27h;https://www.reddit.com/r/btc/comments/7ge27h/there_never_was_a_scaling_problem_the_only/
+true, but it also comes with alot of costs tradeoffs due to it being different.;1;1;False;JonathanSilverblood;dqp46ah;"There never was a ""scaling problem."" The only problem is ""people that don't want Bitcoin to scale.""";7ge27h;https://www.reddit.com/r/btc/comments/7ge27h/there_never_was_a_scaling_problem_the_only/
+Youre more than welcome not to subscribe to that argument. I prioritize changing the world for the better - if commodity hardware will be enough tjat is great, and I hope it will, but my **certainty** that I will still be able to help run the network comes from a full-perspective view.;1;0;False;JonathanSilverblood;dqp5hzf;"There never was a ""scaling problem."" The only problem is ""people that don't want Bitcoin to scale.""";7ge27h;https://www.reddit.com/r/btc/comments/7ge27h/there_never_was_a_scaling_problem_the_only/
+And because I like to stir, devils advocate says that Lightning Network requires ~66MB blocks to do 7bn/tx/day, following the same Moore's Law calculation above, LN will be able to do what on chain block scaling can do in 16 years in only 4.5 :P;1;1;False;flat_bitcoin;dqp3o03;"There never was a ""scaling problem."" The only problem is ""people that don't want Bitcoin to scale.""";7ge27h;https://www.reddit.com/r/btc/comments/7ge27h/there_never_was_a_scaling_problem_the_only/
+Remember that I factor in what kind of hardware I should expect to have to spare when my wealth is raised according to adoption. Today I have modest not too old consumer hardware to spare. I  20 years if we end up with 7bn transactions I expect to have slightly better hardware to spare, say a handful or highpower clusters on then-modern hardware. **to spare**;1;1;False;JonathanSilverblood;dqp45em;"There never was a ""scaling problem."" The only problem is ""people that don't want Bitcoin to scale.""";7ge27h;https://www.reddit.com/r/btc/comments/7ge27h/there_never_was_a_scaling_problem_the_only/
+I don't subscribe to that argument, personally, I don't want only the rich to be able to be part of running the network, regardless if they are old or new money. ;1;1;False;flat_bitcoin;dqp4add;"There never was a ""scaling problem."" The only problem is ""people that don't want Bitcoin to scale.""";7ge27h;https://www.reddit.com/r/btc/comments/7ge27h/there_never_was_a_scaling_problem_the_only/
+Preach!;17;1;False;DoomedKid;dqq0rg1;"Remember: Bitcoin Cash is solving a problem Core has failed to solve for 6 years. It is urgently needed as a technical solution, and has nothing to do with ""Roger"" or ""Jihan"".";7hczcb;https://www.reddit.com/r/btc/comments/7hczcb/remember_bitcoin_cash_is_solving_a_problem_core/
+"This is a ***terrible*** idea! Next, they'll want to calculate SHA256 hashes by hand, and we *all* know where that leads!
+
+https://web.archive.org/web/20131214023224/http://www.coinion.com:80/2013/12/11/child-labor-bitcoin-mines-exposed/";58;5;False;pecuniology;dqpmh43;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"So what is this? Satire from people who don't understand payment channels and instead interpret ""tabs"" as debt based fiat rather than crypto graphic contracts that has nothing to do with credit?";-2;2;False;PoliticalDissidents;dqpv58e;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+Why don't you post CW's technical papers? Thats right his name isn't on anything technical;-1;1;False;CONTROLurKEYS;dqpxoba;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+Centralization! only people with calculators will be able to use Btab. ;26;0;False;Adrian-X;dqpw9y1;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+This is fucking gold;19;1;False;texzone;dqptly5;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"Wrong tool mate.
+The scissors are for the normal operation.
+Forking would be done with a copy machine";24;0;False;rockybeethoven;dqpxdib;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+I'll bring the glue stick!  We can reuse post-its!;16;0;False;Dixnorkel;dqpic9k;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+[deleted];16;1;False;;dqppqar;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+How many more days is the /r/btc hate-session scheduled for? Need to do my schedule for the week;-11;3;False;priuspilot;dqpuj0l;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+I'm gonna store that line but I don't know if I can ever afford to use it;13;1;False;siir;dqpppkm;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"u/raisethelimit, you've received `0.00061696 BCH ($1 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)";4;0;False;tippr;dqpn3o6;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"Sure, if it was about nothing.
+
+It is a good satire for Adam Back as he lies about LN and then suggests a ""tab"" is how to scale.
+
+https://streamable.com/ilh2d";9;0;False;Scott_WWS;dqpoqsl;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"u/raisethelimit, your post was gilded in exchange for `0.00151818 BCH ($2.50 USD)`! Congratulations!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)";3;0;False;tippr;dqprdfr;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"Except that Satoshi predicted all of this and laid out the plans for it.
+
+He predicted that nodes would be run by everyone at first and eventually only by a few miners.
+
+core/blockstream lie to us and tell us that everyone needs a node for the system to work.
+
+Another flaw in your argument is that what is the Core Coin then?  It isn't Bitcoin.  They should give up the name Bitcoin and call it Segwit Improved Coin.
+
+BCH IS Bitcoin.";14;2;False;Scott_WWS;dqpouo6;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+But in practicality what was proposed was a new currency backed by btc which itself backed by fiat ATM? ;1;0;False;LoneSilentWolf;dqpkmyj;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+The iPod started out as a process to more evenly brown toast.;3;0;False;Richy_T;dqpx5cy;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+This is ridicule, not hate. I guess hard for some to understand the difference.;18;0;False;Demotruk;dqpy8kw;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+I dunno, how many more days will you pull fireable effort in your paid shill gig?;7;0;False;;dqpz506;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+No worries about your schedule. Unsub and never worry about it. ;9;0;False;we-are-all-satoshi;dqpxcnf;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+He was being sarcastic.;8;1;False;hodlgentlemen;dqpwdnl;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"> He predicted that nodes would be run by everyone at first and eventually only by **a few** miners.
+
+Not true.  He was expecting ""a hundred thousand miners, maybe less"". ";3;2;False;jstolfi;dqpyase;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"Are you sure?
+
+With so much comedy this week, its hard to tell ;0";5;2;False;Scott_WWS;dqpwhgk;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"That's funny, he must have forgotten to include the part that says "" a hundred thousand miners.""
+
+No matter how you look at it, when you read everything and anything he wrote, it sounds more like BCH than BTC:
+
+""Long before the network gets anywhere near as large as that, it would be safe 
+for users to use Simplified Payment Verification (section 8) to check for 
+double spending, which only requires having the chain of block headers, or 
+about 12KB per day.  **Only people trying to create new coins would need to run 
+network nodes.  At first, most users would run network nodes, but as the 
+network grows beyond a certain point, it would be left more and more to 
+specialists with server farms of specialized hardware.  A server farm would 
+only need to have one node on the network and the rest of the LAN connects with 
+that one node.**
+
+""The bandwidth might not be as prohibitive as you think.  A typical transaction 
+would be about 400 bytes (ECC is nicely compact).  Each transaction has to be 
+broadcast twice, so lets say 1KB per transaction.  Visa processed 37 billion 
+transactions in FY2008, or an average of 100 million transactions per day.  
+That many transactions would take 100GB of bandwidth, or the size of 12 DVD or 
+2 HD quality movies, or about $18 worth of bandwidth at current prices.
+
+**""If the network were to get that big, it would take several years, and by then, 
+sending 2 HD movies over the Internet would probably not seem like a big deal.""**
+
+https://www.mail-archive.com/cryptography@metzdowd.com/msg09964.html";3;1;False;Scott_WWS;dqpyhfb;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"Have you seen this paper, Jorge?  I'd like to hear your thoughts.
+
+https://ledgerjournal.org/ojs/index.php/ledger/article/view/96/67
+
+Dimitri argues with a simple game-theory-based model that basically, bitcoin mining will never be a monopoly, but it will never be highly-decentralized either.  It won't be a monopoly because it will always be profitable for a second player to enter the market, and it won't ever have hundreds of thousands of miners either because the profit margins would become too slim. 
+";3;1;False;Peter__R;dqq01wy;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"The phrase ""that makes total sense"" gave the sarcasm away.";4;0;False;hodlgentlemen;dqpx30y;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"> Are you sure?
+
+Ya I was.  Ill add the ""/s""";3;1;False;BitttBurger;dqpy6ts;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"He said it twice, which should make it almost true:
+
+https://bitcointalk.org/index.php?topic=125.msg1149#msg1149
+
+https://bitcointalk.org/index.php?topic=286.msg2947#msg2947";3;1;False;jstolfi;dqpyqa5;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+no idea what /s is;1;3;False;Scott_WWS;dqpyjpu;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"He says that he never anticipates that there will be more than 100,000 nodes - probably less.  This could mean 100, 1,000, 10,000, 50,000 or less than 100,000.  What he does say is in my post above that initially, there will be many full nodes but in time, there will be few and only run by miners.
+
+In the end, if you compare all of his writings to BTC and BCH you will see that he does not describe BTC + 2nd and 3rd layers + LN + smart contracts.  He clearly states that the block size will increase as there is greater demand.
+
+This worked great for 7 or 8 years and only didn't work once the block sizes bumped the 1mb limit.";4;1;False;Scott_WWS;dqpzwm4;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"Hey, you're the one asking ""what is this?"" We get it. And yeah this satire is writing itself.";5;0;False;ianpaschal;dqpwpqk;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+THAT IS NOT BITCOIN.;3;0;False;Epipow;dqpk6yz;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+Jokes aside, I'm long on post its. I can't imagine a world in which professionals of all walks don't waste ridiculous numbers of post it notes.;7;0;False;ianpaschal;dqpwmb5;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+Someone get a dumb and dumber meme up here ASAP.;5;0;False;Cryptomg;dqpxjbk;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+OK, OK. This is all very amusing but I have a serious question. Do I have to use some kind of official form for these tabs or will the back of an envelope or an old receipt do?;7;0;False;Richy_T;dqpwy8d;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+I'm planning a napkin version. It will have its own fork.;5;0;False;p76ae9;dqpvgwg;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+JUST WENT ALL IN ON POST-ITS! SUPER BULLISH!!!;40;1;False;upekha;dqphf96;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+Someone call the burn unit for /u/adam3us, [he's roasting in here](https://www.youtube.com/watch?v=S4IkNSSk92A);14;0;False;siir;dqppntm;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+Hilarious. Well done;10;0;False;NilacTheGrim;dqpm0rj;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"Haha loving it, count me in!
+
+u/tippr gild";7;1;False;DerSchorsch;dqprc76;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+Bravo! Take a bow.;6;0;False;Drunkenaardvark;dqpr9ec;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+So is it incompetence or malice?  Why did Adam and Greg destroy Bitcoin?;8;3;False;e1618978;dqpqvd1;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"One of my favorite bars in Amsterdam is some 350 years old. It is full of jenever barrels (was originally a distillery), is nice and dark and dingy and has carpets on the tables like my grandparent's coffee table. Very cozy in the winter.
+
+Anyway, the bar keeper, Ronald, keeps track of your tab on a yellow paper pad. When he gets tired and decides to close the bar he counts up how many tick marks your name has, and that's what you pay.
+
+So to all of the naysayers out there, against tabs, I present this story to show the rugged utility and simple elegance of such a system, which has certainly stood the test of time.
+
+Who needs Bitcoin when you have a pad of paper?";13;1;False;ianpaschal;dqpwhpy;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+This is accurate.;10;0;False;somebody3830;dqpjk34;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+This is pure Digital Gold.;19;1;False;apagut;dqpp7mc;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"i'll post this for adam
+
+https://en.wikipedia.org/wiki/List_of_burn_centers_in_the_United_States";9;0;False;MakeTotalDestr0i;dqpquik;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+Epic!;10;0;False;ml_trader;dqpkjzn;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+$1 u/tippr;10;1;False;humboldt_wvo;dqpn2do;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+Quality shit post ;17;1;False;silverminers;dqpo7je;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+Someone quick, make a TAB ERC20 token!;9;0;False;manly_;dqpyso1;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+rofl, well done;39;1;False;we-are-all-satoshi;dqph5p9;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+Genius.;11;0;False;ForkiusMaximus;dqpvouw;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+[deleted];68;4;False;;dqph7zx;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"Anyone who reads White Papers are religious zealots who don't realize that all White Papers immediately become irrelevant to the technology project they describe.  Because that makes total sense. Duhh.
+
+***/s***";12;3;False;BitttBurger;dqpmx2d;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"LOL
+
+Only the tools in the r/bitcoin echo chamber will won't get this.  
+
+It just about sums up the argument of ""store of value,"" or ""digital gold.""  Don't spend it!";5;0;False;Scott_WWS;dqpmf31;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+Uhauhauhauahauahauahaujahauauahauaha;3;0;False;Ivory75;dqppqvy;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+"I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
+
+- [/r/buttcoin] [\[\/r\/btc\] Abstract of Adam Back's whitepaper on the proposed first-and-a-halfth layer for the Bit-Coin-Core payment system](https://www.reddit.com/r/Buttcoin/comments/7hckpq/rbtc_abstract_of_adam_backs_whitepaper_on_the/)
+
+&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*";3;0;False;TotesMessenger;dqpwc9q;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+I almost cried laughing. Thanks for this!;3;0;False;hodlgentlemen;dqpv98j;I found the abstract for Adam Back's forthcoming paper on Blockstream Tabs.;7hau2e;https://i.imgur.com/yrR6N4v.png
+“Right after I told them to just use a credit card instead.  For some reason they didn’t like that, so... tabs”;42;0;False;BitttBurger;dqp166y;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"This is the stupidest thing I have read in a while... how does the economic model work in this one? Which merchant would ever fucking use Bitcoin if they have to provide a collateral; and even if they would, that would mean that half of the BTC supply is wasted on fucking tabs, creating artificial demand.";7;0;False;;dqphzjg;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Username checks out.;18;0;False;BgdAz6e9wtFl1Co3;dqp5ffw;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"I knew you were a moron from the words ""Yeah. Nah."" Funny how core shills have nothing to offer but cute sayings.";9;0;False;kaczan3;dqp70cr;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+[deleted];23;2;False;;dqp4qma;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Why should a merchant need to provide any collateral? The merchant provides the product. They might not even have enough bitcoin to put in an equal amount. That is just a really stupid idea, and it is embarrassing that this is something that is even being discussed. Blockstream is showing us just how retarded their developers are.;51;1;False;SadisticMetal;dqp4nt6;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"Um is all this ""tab"" talk about the lightning network? Cause that's nothing like an IOU on a piece of paper. It's more like an IOU that has a button on it that turns it into cash at any time. Magic internet money";1;2;False;fresheneesz;dqpijy1;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Nice try Fiat;22;1;False;Phucknhell;dqpa9h7;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"But if you use the term Bcash in this "" Bitcoin sub"" you get dowmvoted to oblivion regardless of the merit of your comment.   
+But you're right, there's no censorship here. /s ";-4;2;False;HeyZeusChrist;dqp9d24;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+you can not be serious! ;-15;0;False;garlichead1;dqp4l9t;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+[deleted];3;2;False;;dqpbtk3;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+[deleted];4;2;False;;dqpdr6y;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+interesting idea!;-1;1;False;buyBitc0in;dqphahp;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Interest free tabs;3;0;False;H0dl;dqpaso4;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+**cringe** ok... I had seen the first 30 seconds of that, but turned it off... like watching a puppy drown.  I set through the whole bit this time.;18;1;False;brianddk;dqozrdg;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+They still have the hats, funniest thing I've seen all day.   If I saw them out and about, I'd ask them why they hate ecstasy so much they got a hat.;2;0;False;grateful_dad819;dqpie03;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Addition : he said you might need a local IT expert to keep track of the tab. ;5;1;False;H0dl;dqpal3x;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+[Video](https://www.youtube.com/watch?v=BGfPEZRkn6o&feature=youtu.be);13;0;False;davewantsmoore;dqp7koh;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Got em;-1;0;False;__Cyber_Dildonics__;dqp7i0h;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+All that matters is that you're here, pussy. ;2;0;False;H0dl;dqpaikg;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"This might be useful for a shared expense app with strangers you don't trust.
+
+What other scenarios can you think of? ";2;1;False;dekaru;dqpb91n;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Here comes sugar daddy for his daily whinge;2;0;False;Phucknhell;dqpaay9;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Are these different than lightning channels?;1;0;False;Darkeyescry22;dqpbgr2;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Can we just let him drown please? ;2;0;False;H0dl;dqpas52;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+[deleted];1;1;False;;dqq0fuy;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Then why doesn't the same thing happen in this sub when people refer to bitcoin as bitcore or Segwit coin or any other dumb name?;1;1;False;HeyZeusChrist;dqpavwq;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"So why doesn't downvoting occur when people in this sub call bitcoin ""bitcore"", ""Segwitcoin"" and other dumb things?    ";0;1;False;HeyZeusChrist;dqpcdp3;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+[deleted];2;1;False;;dqpfost;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"I agree about the asset aspect being a side effect of demand and scarcity.  But also security.  Nobody wants to buy a nice plot of land if there are no property laws to protect the ownership.
+
+I don't think an increase to 8MB would bring the network down, but it's a step in the wrong direction.  I also disagree with the urgency for a blocksize increase.  Bitcoin won't be dead in 18 months due to high fees because it doesn't need to function as a currency to thrive.  There's no doubt that enabling better scaling (all things equal) will help it grow, but it's filling a very useful utility to many people as it currently exists.  It's also nonsensical to argue that high fees will destroy it (akin to arguing that nobody will go to a restaurant if it's too crowded).  The fee levels are equalized by market demand.
+
+The only thing that would cause bitcoin to become irrelevant is if some other crypto finds a better scaling solution and becomes more adopted.  There are some interesting projects in this regard (such as the DAG tech of IOTA or Byteball).  I don't find BCH's solution particularly interesting at all however.
+
+Imagine you have a bunch of gold stored in a safe.  Do you want to switch to a smaller, more portable safe which is still fairly secure?  Most people would rather stick with the huge safe which is bolted to the walls of their house.  After all they aren't needing to access that gold all the time, there are other instruments for buying things.
+
+If you feel there is no downside to increasing the blocksize limit, then there's no point in discussing further.  But I do disagree with that assumption.";-1;0;False;panda9228;dqpmuzl;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"> pushed off
+
+as in ""driven away"" and both ""censored and banned""";2;0;False;mtrycz;dqq0blr;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"Transactions with strangers like merchants and customers and vendors and clients and so on that need to enable truly instant transactions. The above example is a simple form; two parties. ";1;1;False;Allways_Wrong;dqq0lyp;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Zero confirmation transactions to permit mass adoption. Who is going to wait around 10 minutes for a confirm/why not use Litecoin?;1;1;False;Allways_Wrong;dqq02kk;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+If we don't cripple ourselves in the same way as the legacy chain we might win. ;6;0;False;etherael;dqp6oc0;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Thank you;6;0;False;H0dl;dqpa8ux;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Nope. It’s all about Blockstream saying people can still use BTC on a daily basis with merchants without having to worry about high fees by keeping a tab with them, then making a single transaction after a certain period. You know, cause we’re living in the future and BTC is definitely helping people move their money easily, without third parties and on the cheap.;4;0;False;quirotate;dqpjifh;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+#justtabbythings;1;0;False;grateful_dad819;dqpi39t;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"Because its not the official name. And downvoted arent censorship.
+
+Call bitcoin on the other sub Blockstreamcoin and expect worse.";6;1;False;PrinceKael;dqpakwu;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"Downvoting is not the same as censorship. 
+
+And the downvoting is precisely for using the term bcash irrespective of the comment. It's like making a valid claim about Italian Americans but using the term guido. ";8;1;False;solled;dqpc7b1;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"> No other crypto subs are like this
+
+No other crypto sub was created like r/btc. Over scaling debate. Blockstream is a huge part of it";1;0;False;LexGrom;dqpr3l7;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"To be fair, /r/btc was created as a protest against the censorship in /r/bitcoin. It's therefore not the same as any other crypto sub.  However, I think you're wrong.  Go and look in /r/bitcoin and an awful lot of the posts there are directly or indirectly attacking Bitcoin Cash.
+
+It's not really a surprise there is lasting animosity.  Bemoaning it is a waste of breath, as with all the Internet -- don't like it?  Don't read it.
+
+In the end, I actually think the competition is a good thing.  It's making both coins stronger (from their own point of view).";1;1;False;kingofthejaffacakes;dqpesc3;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"What do you mean by the ""asset aspect""? The asset aspect in my opinion is a side effect of bitcoin being both in demand and scarce. Those two things are completely by the wayside of the scaling argument. Do you mean security through decentralisation? Like, you worry that bigger blocks = more centralised = easier to bring the network down? From what I've read that's just completely unfounded unless you're trying to run a full node on a raspberry pi or 10 year old PC. Harddrives are already incredibly cheap, and they're getting cheaper all the time. And the ""slippery slope"" argument that once the block size is raised once, it will lead to 1GB blocks in no time at all is just ridiculous and a blatant ""fingers in ears"" kind of excuse. Bitcoin needs a block size increase RIGHT NOW. The developers can keep working on lightning or whatever else might work further down the road, but ""lightning in 18months!!"" doesn't do anything to solve anything until it's actually here. If the developers keep up that kind of stubbornness bitcoin could be dead by the time lightning comes out.
+
+And I don't agree that both sides want it to function as both an asset and a currency. Tons and tons of tweets and reddit comments that prove otherwise (by pro-Core people). Or at the least there's a very vocal group who don't want that who probably fit into one of about three categories: 1. pure hodlers - they don't give a shit about using it, they're just there for the moon and their ""digital gold"". 2. tech purists - they don't give a shit about transactions, they only care about full nodes and want bitcoin to live up to the purest vision of decentralisation possible. 3. profiteers/anti-miners - people who will profit off the market demand for sidechains created as a result of on-chain throttling, or people who just hate miners and want them to lose profitability.";2;1;False;SnoopDogeDoggo;dqpdq0a;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"> If you see /r/btc and BCH as the continuation of the original project
+
+Not exactly. Bitcoin Cash is the continuation of Bitcoin. r/btc is a place for bitcoiners (now both BTC and BCH holders) who were pushed off r/bitcoin over scaling debate which turned into digital civil war long before Bitcoin Cash appeared. Until war is over, r/btc won't stop discussing BTC. The end of war is unclear: it may end with end of existence of PoW Bitcoin Core on current scale (less profitable to mine for prolong period of time) or may end only sometime later when the most prominent ""fighters"" will retire";1;1;False;LexGrom;dqpqu87;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Because /r/btc is a direct result of, and reaction to, /r/bitcoin. There's a lot of anger and frustration about how bitcoin was hijacked. How would you feel if someone came into your home, kicked you out and started living in your home, all the while trashing your belongings and tossing insults at you?;9;0;False;SnoopDogeDoggo;dqpdzck;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+LOL, - Adam Back is now a high class shill. ;3;0;False;Adrian-X;dqpqdvb;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+I mean, a currency I can actually use day to day kind of *is* the future.;3;0;False;jayAreEee;dqp9i4d;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"Everyone wants the same thing.  Both sides *want* it to function as an asset and a currency.  BCH'ers feel that BTC is not giving enough weight to the currency aspect.  BTC'ers feel that BCH is not giving enough weight to the asset aspect.
+
+Personally I feel the asset aspect is far more important, and that 2nd layer solutions for small amounts of money to transact in is completely acceptable.  Not an old-fashion tab obviously, but a more refined and robust network.  Sure it would be great if blockchains scaled infinitely and we could just transact everything in bitcoin forever.  There are good reasons for not simply increasing the blocksize limit.  I hope that you are aware of them even if you are pro BCH.
+
+I have nothing against BCH and am happy there was a fork.  I do wish people would be less partisan about it and make rational points when debating between the two.";-2;1;False;panda9228;dqpcit4;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+😘;16;0;False;Egon_1;dqp607m;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+It’s so classy here. BCash is the future.;-27;6;False;Sugar_Daddy_Peter;dqp5uwz;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"Problem is that now the sub is overfilled with ""bitcoin tab""-memes.  Some of them rather rather funny, but still I believe it's bad for the overall quality of the sub.";2;1;False;tobixen;dqp9vym;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+I'm not normally a fan of memes either and didn't have high hopes for this post to garner many upvotes. Thank you, kind stranger!;3;0;False;darkstar107;dqpdbqm;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"/u/adam3us is not CEO material unfortunately. His work experience seems to be consulting, i.e. he has no experience communicating vision, managing brand, raising capital and other CEO tasks that are mostly non-tech related. In fact, none of the big names in Blockstream are CEO material. They are all techies and like most techies (me included) we think we are the smartest people in the room.
+
+My advice to Blockstream is to find a professional CEO and give Adam a position that he is better suited to such as Chief Scientist (after all, he has done quite a bit of crypto research). 
+
+My other advice is to find a professional product manager to drive their roadmap.
+
+Currently, their products are engineer wishlists such as satellite one-way broadcast and DVEP, which is a ripple/tether knockoff. I realize I don't have full visibility into their opportunities and decision making, but the vision seems fragmented. Are they building sidechains? Lightning? Liquid? Who are the customers? What is the revenue model? All of this looks like they are chasing random ideas that developers dream up instead of being driven by strategic goals. This is a classic case of engineers acting as product managers. Many startups with great talent have died because there was no coherent product/market strategy.
+
+Im bothering to give this advice because it would be a terrible waste of talent to work on random shit that will never be a success. If you don't fix this soon, I will look to poach great talent from your team such as Pieter Wuille and Andrew Polestra when Blockstream starts to sink. 
+";4;1;False;no_face;dqpoy2s;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+[deleted];22;3;False;;dqp7qmw;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+https://www.youtube.com/watch?v=BGfPEZRkn6o&feature=youtu.be;6;0;False;davewantsmoore;dqp7j36;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"Adam Back of blockstream offered a solution to high fees and long confirmation times when dealing with merchants. He suggested that the customer opens a ""tab"" with the merchant, to keep track of what they owe. So basically, don't use bitcoin, use a piece of paper.";108;2;False;SadisticMetal;dqp29ad;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"> BCash
+
+Bitcoin Cash *";6;0;False;r2d2_21;dqp90bk;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"sort by top
+first 7 posts
+7 about bitcoin
+0 about bitcoin cash";-14;2;False;garlichead1;dqp1x9g;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Lol at this sub pretending like increasing block size is  an innovative solution;0;2;False;cryptolegend92;dqpj2nc;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+[deleted];2;5;False;;dqp9f7j;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"You know what the funniest part of this is to me? Ripple does the tab/debt thing today in whatever currency you want to use. 
+
+For years now Blockstream has been trying to turn Bitcoin into a shitty version of Ripple.";2;0;False;chalbersma;dqpc1ed;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Accurate.;2;0;False;localbitecoins;dqp478p;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+I don't understand this;3;1;False;buyBitc0in;dqp69kp;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+The only tabs I'm opening, are soaked in LSD or research chems.;7;0;False;grateful_dad819;dqp9043;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+OK.. second blockstream-tab meme I've seen.  I have no clue... what is a blockstream/bitcoin/lightning tab and why is it funny?;14;3;False;brianddk;dqoyaxn;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"I am usually not a fan of memes in this sub, but this one is too perfect.
+
+gilded";63;3;False;;dqoxzm7;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+The CEO of Blockstream answered a 'question' of his very own 'journalist'.;18;2;False;Shock_The_Stream;dqp4p2o;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+What is a blockchain tab??;44;2;False;Lenny00086;dqoz0w0;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"The CEO of Blockstream said to a a No2X supporter who was expressing concern that bitcoin adoption was suffering as payment service business because cant on-bord new customers because high fees to transact in bitcoin. He asked Adam Back what he should do. 
+
+Adam responded saying, and I paraphrase: you don't actually need to use the blockchain to settle a transaction, you could form a relationship with the merchant and if you both use BTC, start a tab - you could keep track of who owes who and run a tab. 
+
+He finished off the question saying, don't look to us to solve your problems bitcoin is open source you can go fix your own problem. 
+
+In short if Adam was saying Use BCH, a fork of bitcoin that fixes that problem by removing the transaction limit, but obviously I'm paraphrasing and you need to watch the clip to actually believe it. 
+
+https://www.reddit.com/r/btc/comments/7h26zy/adam_backs_tabs_idea_transcript/";51;3;False;Adrian-X;dqozy1t;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+[Transcript ](https://www.reddit.com/r/btc/comments/7h26zy/adam_backs_tabs_idea_transcript/). ;15;1;False;where-is-satoshi;dqozg1x;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+fuck off;-40;3;False;ChohanV2;dqozpal;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+[Check out the video](https://www.youtube.com/watch?v=BGfPEZRkn6o&feature=youtu.be);4;1;False;davewantsmoore;dqp7mo7;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"You gotta keep some ""opposition"" around, to keep the cult from being too obvious.";3;0;False;awemany;dqpb46z;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+So basically... I give you this piece of paper that’s basically an IOU that’s backed by my own BTC (or maybe the amount I think I’ll have in the future... or even you know, some amount that may or may not be there at all) and maybe we can print special papers with fixed numbers that people can use on a daily basis without having to worry about those complex transactions that take forever and maybe we can create companies where people can have their IOUs stored and secured so they don’t have to carry them around at all times. And if it really starts working, we can speak to our governments so they help us with mass adoption and provide us with protection and insurance in case something happens and some evil hacker steals our IOUs. Sounds great, right??;42;2;False;quirotate;dqp842r;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"~~fuck~~ fork off
+
+TFTFY";5;0;False;brianddk;dqp04hw;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+If you don't like tab's just fork off, or join the Bitcoin Cash community, its open and almost free to use. ;21;0;False;Adrian-X;dqozzux;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"This was a staged question that received a pre-determined answer. 
+
+Either that or the NO2X hats were worn as a subterfuge to pretend to be a friendly.";2;0;False;no_face;dqpnssm;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+[deleted];8;1;False;;dqp7nol;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Tab your mother if you want to tab. ;14;0;False;BitttBurger;dqp16jp;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+This is a bitcoin sub. One that isn't censored. ;5;1;False;solled;dqp6vnw;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"this sub it's called r/btc not r/bch, it serves the same purpose of r/bitcoin but actually allows discussions instead of banning dissention.
+
+Of course there's a lot of bitcoin news when a bitcoin developer announces that merchant should use tabs instead of bitcoin...";25;1;False;PKXsteveq;dqp2w0u;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"> is overfilled
+
+Crowd wisdom. The bigger the sub will get, less sophisticated and clean posts and comments will be
+
+> but still I believe it's bad
+
+Upvote and downvote";1;0;False;LexGrom;dqpqnzk;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+It is called Bitcoin Cash. You can say it. BCH is the 'ticker' symbol some exchanges use.;2;0;False;homopit;dqpp89c;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+It's a process of healing.;2;0;False;;dqpdfcy;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"You're asking why we say the things in, uncensored, /r/btc that we would want to say in /r/bitcoin but can't because they would be censored?
+
+Seems like the answer is hidden in the question.";2;1;False;kingofthejaffacakes;dqpbhdk;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+Why do we talk about BTC in r/btc? That's a puzzler, I have to admit.;4;0;False;Richy_T;dqpch7w;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"You sound like a fairly rational person judging by how you worded this comment, so maybe you stand a chance of coming around. This sub is called /r/btc because it is made up largely of the original bitcoin community who were banned from /r/bitcoin, and it existed before bitcoin cash was forked as a place for people to freely discuss how to scale bitcoin. 
+
+Bitcoin cash isn't a divergence from bitcoin - the current project called bitcoin is the divergence. That's not an opinion, that's just what's happened. BCH was a last resort after several years of stonewalling and refusal to cooperate with people who wanted bitcoin to remain a viable currency. Key word there is *remain*. That shows how bitcoin is the divergence, because in refusing to increase the block size, the very fundamentals of how bitcoin is used changed dramatically. The original community (and many newcomers like myself) see bitcoin cash and /r/btc as the continuation of the original community and project, and thus still feel an afinity for the name bitcoin. Even Satoshi's right hand man Gavin Andresen says it himself: [Bitcoin Cash is what I started working on in 2010: a store of value AND means of exchange.](https://twitter.com/gavinandresen/status/929377620000681984)";11;2;False;SnoopDogeDoggo;dqpbv2d;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+"Yeah. Nah. 
+
+*Both* parties put an equal amount of bitcoin into the tab. Transactions occur. At the end the difference is paid out. 
+
+Interestingly either party can take all the money in the tab at any time, it just takes eight hours to clear. And if one party attempts that then the other party can take all the money instantly. Game theory. 
+
+“Tabs” can work on the bch chain too, but with caveats like not being able to automate the functionality of the previous paragraph; don’t sleep with an open channel. ";-30;7;False;Allways_Wrong;dqp49sd;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+I think that image just perfectly sums up the state of bitcoin at the moment.;8;0;False;SnoopDogeDoggo;dqpb3d4;Blockstream party;7h85a6;https://i.redd.it/5iktwu5ffn101.jpg
+A two year old account that's posted only once, and that was a anti-Ver rant isn't likely to be a real person.;1;0;False;1s44c;dqp0rmo;"The story how how Blockstream hijacked Bitcoin is an incredible story of money, lies and greed that becomes more and more relevant to the outside world every day; do you think this sub could get the attention of a Wall Street Journal reporter to write an exposé?";7h0isc;https://www.reddit.com/r/btc/comments/7h0isc/the_story_how_how_blockstream_hijacked_bitcoin_is/
+Who is ridiculing a direct approach?;1;0;False;btc_ideas;dqp8ire;"The story how how Blockstream hijacked Bitcoin is an incredible story of money, lies and greed that becomes more and more relevant to the outside world every day; do you think this sub could get the attention of a Wall Street Journal reporter to write an exposé?";7h0isc;https://www.reddit.com/r/btc/comments/7h0isc/the_story_how_how_blockstream_hijacked_bitcoin_is/
+"sub is run by the same folks as those pulling the strings at blockstream
+
+a two year old could sort it out";1;1;False;Scott_WWS;dqpfu2v;"The story how how Blockstream hijacked Bitcoin is an incredible story of money, lies and greed that becomes more and more relevant to the outside world every day; do you think this sub could get the attention of a Wall Street Journal reporter to write an exposé?";7h0isc;https://www.reddit.com/r/btc/comments/7h0isc/the_story_how_how_blockstream_hijacked_bitcoin_is/
+"You claimed someone said something that it turned out they didn't say. I'd call that a lie but perhaps you weren't brought up well enough to know the difference. Let's just call it an exaggeration then.
+
+State and defend what you believe, that's fine. But don't claim shit that isn't true in order to advance your argument.";1;0;False;1609344;dqpe41k;"The story how how Blockstream hijacked Bitcoin is an incredible story of money, lies and greed that becomes more and more relevant to the outside world every day; do you think this sub could get the attention of a Wall Street Journal reporter to write an exposé?";7h0isc;https://www.reddit.com/r/btc/comments/7h0isc/the_story_how_how_blockstream_hijacked_bitcoin_is/
+My two year old can string together a more coherent argument than you.;0;0;False;1609344;dqpjm5h;"The story how how Blockstream hijacked Bitcoin is an incredible story of money, lies and greed that becomes more and more relevant to the outside world every day; do you think this sub could get the attention of a Wall Street Journal reporter to write an exposé?";7h0isc;https://www.reddit.com/r/btc/comments/7h0isc/the_story_how_how_blockstream_hijacked_bitcoin_is/
+"Let's not be so quick to call someone a sockpuppet...
+
+Not saying youre wrong but just because someone either has little/no karma or account age is low doesn't mean theyre a sockpuppet.";1;1;False;p0179417;dqok5ks;"The story how how Blockstream hijacked Bitcoin is an incredible story of money, lies and greed that becomes more and more relevant to the outside world every day; do you think this sub could get the attention of a Wall Street Journal reporter to write an exposé?";7h0isc;https://www.reddit.com/r/btc/comments/7h0isc/the_story_how_how_blockstream_hijacked_bitcoin_is/
+r/bitcoin is a forum owned by a private company called Reddit which appoints admins and moderators to run it. Bitcoin is a decentralised payments system owned by nobody. You are getting confused between the two.;0;1;False;1609344;dqpdzdv;"The story how how Blockstream hijacked Bitcoin is an incredible story of money, lies and greed that becomes more and more relevant to the outside world every day; do you think this sub could get the attention of a Wall Street Journal reporter to write an exposé?";7h0isc;https://www.reddit.com/r/btc/comments/7h0isc/the_story_how_how_blockstream_hijacked_bitcoin_is/

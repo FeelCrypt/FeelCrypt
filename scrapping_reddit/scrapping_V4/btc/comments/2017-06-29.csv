@@ -1,0 +1,83 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+"> Note also that the formula gives the total number of nodes reachable from the source, including the source node itself. This formula can be proven to be correct by induction.
+
+Ok, i have tried to digest this information this morning, and i understand the logic - i think. 
+
+Does this equation hold is there are hubs? i.e an arbitrary number of nodes that have a (much) greater degree of connections than others. ";1;1;False;midipoet;djjwa2o;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+Yes I have, and feel free to view his [rebuttal to the rebuttal](https://www.reddit.com/r/btc/comments/6k5ptu/more_from_jonald_fyookball_continued_discussion/);1;0;False;BitAlien;djjj8ft;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+A few guys in a room can decide where bitcoin goes, bitcoin is just another USD with a few programmers and miners replacing FED;1;0;False;vattenj;djjm1oh;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+"> There is a basic difference between the important nodes in Bitcoin and in LN.
+
+Yes, i totally understand this - as you detail later on. That was never in doubt in my mind. Give me some credit ;-)
+
+I also understand how you picture the problem of LN efficiency as a problem set with extra dimensions - though i am not sure if all are valid. 
+
+The security issue (hot wallet) seems to have been discredited [here](https://np.reddit.com/r/Bitcoin/comments/6jrmri/lightning_network_increased_centralisation_what/djgpc9m/). 
+
+However, i do understand the channel funding problem - and i am trying to work that out in my head. There is actually great discussion developing on the matter over [here](https://np.reddit.com/r/Bitcoin/comments/6jrmri/lightning_network_increased_centralisation_what/)";1;0;False;midipoet;djk7ohf;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+"There is a basic difference between the important nodes in Bitcoin and in LN.  The important nodes in Bitcoin must have access to lots of hash power and network bandwidth.  However, the nodes themselves don't require lots of capital, as they can be serving a mining pool with many users.  In addition, the amount of resources they require depends on the number of connections and the number of transactions per second the network must handle.  However, these resources don't depend on the amount of bitcoins transacted. There is a limit on transactions per second, but not a limit on bitcoins per second.
+
+In the case of LN, the important nodes have many connections to other LN nodes, whether these be other hubs or user nodes. In addition to bandwidth and computational resources required to handle the LN transactions per second flowing through the them, these nodes need monetary capital in the form of bitcoins in a hot wallet that allows them to establish bi directional payment channels to other nodes. The amount of capital will depend on a complicated way on the number of channels the node supports, the size of the typical LN transaction, and how balanced its users are in terms of flow of funds.  This is a need for bitcoin capital in hot wallets at these hubs makes these hubs fundamentally more expensive than Bitcoin nodes, among other reasons because they need lots of protection against network hackers and armed thugs attempting to gain physical access to the machine.
+
+In addition, on going management will be needed to rebalance the funding of LN hubs, based on estimates of user funds flows. This will require opening and closing new payment channels and funding them, requiring layer 1 transactions.  The ratio of transactions required to keep the LN hubs balanced to the number of bitcoin transactions that the users would have made on a high capacity level 1 network may be small or large depending on how well this job is performance and what the particular pattern of fund flows between the LN users, something that is hard to predict.
+
+Contrast this with the managment of the Bitcoin network.  This network is flat and can be engineered very simply.  The deployment of physical hardware and bandwidth depends primarily on the total capacity of the network in transactions per second.  This is basically a one dimensional optimization problem, and much simpler to accomplish.  In addition, all of the nodes are basically fungable. They all have a copy of the entire transaction history.  If a node is hacked and starts doing crazy things the other nodes will easily detect this and ban the errant node.  The errant node can reboot its history from other nodes.  There is no way that any Bitcoin funds can be stolen by hijacking a node that doesn't keep private keys to hot wallets.  Even full mining nodes do not need to hold private keys, just the public key of their hot wallet which can reside anywhere in the network.  
+
+This is the brilliance of the Bitcoin design.  All of the hardest optimization problems and security problems are essentially eliminated and turned into a very simple requirement for bandwidth and processing to support a replicated broadcast system.  Emphasis is placed on having fast hardware, rather than a very clever design to minimize required computation.";1;1;False;tl121;djk70he;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+"You would have to define ""hub"".  A hub could be any intermediate node on the path between Alice and Bob that is will and funded to route payments as an intermediate node.  By this definition there would be lots of hubs.  If the definition of hub required the existence of very well connected nodes (with large x) and presumably well funded then there would be hubs. 
+
+The formula limits the number of reachable nodes at a given distance.  It doesn't care what you call the intermediate nodes. Obviously the more connected the intermediate nodes are the fewer the hops required.  In the limit of a single central hub, there would be one giant node with connected to all the other nodes and all the other nodes would have only a single connection to the hub.  In this case the central node could reach all others in one hop and the non central nodes could reach each other in two hops.
+
+The equation sets a limit based on the maximum degree allowed for any node.  This limit is only reached if all the nodes have maximum connectivity (except for nodes at the limit of distance). The formula reaches the limit if there is a tree.  If there are alternate paths, then some links are redundant and some of the close in connectivity could be used to add additional nodes.  (This is part of the proof by induction as to the formula.)
+
+There are articles and books on graph theory if this stuff interests you.  It's something that network architects, like me, had to learn.
+";1;1;False;tl121;djk5fx1;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+"> So layer 1 will only be for important transactions,
+
+Have you ever heard of substitute goods? 
+
+>and regular users have to be moved to layer 2 for their coffee purchases.
+
+coffee is not the issue, coffee is just first world ignorance, a way of saying 80% of the global population shouldn't be allowed to save in bitcoin because you know - coffee. 
+
+btw. if bitcoin was only ever used for coffee it would be orders of magnitude bigger than it is today. 
+
+Bitcoin is designed in such a way that the first few decades (the boot strap stage) transactions are almost 100% subsidized to distribute the coin base. 
+
+It's worth noting that the block reward diminishes to 0 in about 120 years so it's a little premature limiting capacity to drive up fees when we have a block subsidy that is good for the next 10 - 20 years. 
+
+> This is how we achieve both scalability and censorship resistance
+
+nonsense   you don't achieve censorship resistance, by limiting on chain transactions. you ge tteh opposite centralization.  the desired outcome is many p2p transactions users interactions with users, not a band full of banks settling with each other. 
+
+>it's probably how Satoshi would solve the scalability issue if he were around.
+
+I don't think so: 
+
+>>The current system where every user is a network node is not the intended configuration for large scale.  That would be like every Usenet user runs their own NNTP server.  The design supports letting users just be users.  The more burden it is to run a node, the fewer nodes there will be.  Those few nodes will be big server farms.  The rest will be client nodes that only do transactions and don't generate. - [Satoshi](https://bitcointalk.org/index.php?topic=532.msg6306#msg6306)
+
+btw a full node does PoW, a relay node won't ever be more than a home PC should the block size be limited to 32MB * 10 Min. ";1;0;False;Adrian-X;djjxl65;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+"> People who study distributed systems note that these systems often reach a particular type of equilibrium state, namely total and complete gridlock. 
+
+Ok, we need to get this straight - are we talking decentralised or distributed. We all know the LN will be decentralised, with centralised hubs within the network, but with no single centre. This is the way Bitcoin is now already. Do we agree on this?
+
+> Handwaving that an added number of connections will solve these problems is nothing but a case of ""wishing won't make it so"". 
+
+I am not handwaving for an added number of connections. I am handwaving that the hubs (which already exist in today's Bitcoin) will change the mathematics completely, when modelling the network. 
+
+> These applications motivated new fields of applied mathematics.
+
+I completely agree. That is why mathematics like that used here, should be discounted. It is simplified, and extremely reductionist, and does not model what LN will actually be. 
+
+> Unfortunately, the LN developers and promoters do not seem to be aware of the challenges they face.
+
+I cannot comment on this, as i don't know. 
+
+";1;1;False;midipoet;djjw4az;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+"> There are articles and books on graph theory if this stuff interests you
+
+It doesn't interest me that much! I had to understand qualitative implications and affordances of topologies from a social sciences perspective (yes, soft science if you will) for my own studies, but the maths is where my understanding breaks down. 
+
+Having said that, i understand what you have described, and it seems to correlate with my own knowledge of how a decentralised network (with some nodes having a much greater degrees of connection than others) will operate. The more 'hubs', the less hops required, and thus, the 'easier' it is to find a route through the network. 
+
+[This paper](http://bitfury.com/content/5-white-papers-research/whitepaper_flare_an_approach_to_routing_in_lightning_network_7_7_2016.pdf) was shared to me by a contributor to the LN project. The ideas for the routing mechanisms are interesting. ";1;0;False;midipoet;djk5yh4;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
