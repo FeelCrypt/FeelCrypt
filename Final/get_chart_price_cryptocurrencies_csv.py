@@ -1,4 +1,4 @@
-# Get bitcoin price
+# get bitcoin price in csv format
 
 import requests
 import json
@@ -11,38 +11,21 @@ from datetime import date
 def get_csv_crypto_prices(currency="BTC"):
     currentTimeStamp = int(t.time())
     url=f'https://min-api.cryptocompare.com/data/v2/histoday?fsym=BTC&tsym=USD&allData=true'
-    urllib.request.urlretrieve(url, 'btc.json')
-    f = open('btc.json')
-    data = pd.read_json(f)
-    btc_csv = data.to_csv('btc.csv')
-    df = pd.read_csv('btc.csv')
-    df = clean_csv(df)
-    btc_data = df['Data']
-    btc_list = pd.Series(btc_data.iloc[0])
-    btc_list = btc_list[0]
-    btc_list = btc_list.replace("\'","\"")
-    btc_res = json.loads(btc_list)
-    btc_res = pd.DataFrame(btc_res)
-    del btc_res['open']
-    del btc_res['high']
-    del btc_res['low']
-    del btc_res['conversionSymbol']
-    del btc_res['conversionType']
-    del btc_res['volumefrom']
-    del btc_res['volumeto']
+    btc_json = requests.get(url).json()
+    btc_json_data = btc_json['Data']['Data']
+    for i in range(len(btc_json_data)):
+        del btc_json_data[i]['open']
+        del btc_json_data[i]['high']
+        del btc_json_data[i]['low']
+        del btc_json_data[i]['conversionSymbol']
+        del btc_json_data[i]['conversionType']
+        del btc_json_data[i]['volumefrom']
+        del btc_json_data[i]['volumeto']
+    df_btc = pd.DataFrame.from_dict(btc_json_data)
     dates = []
-    for time in btc_res['time']:
-        dates.append(date.fromtimestamp(time))
-    btc_res['date'] = dates
-    del btc_res['time']
-    btc_res = btc_res.rename(columns={"close":"priceBTC","date":"dateMidnight"})
-    btc_res.to_csv(f'chart_price_{currency}.csv',index=False)
-	
-def clean_csv(df):
-    del df['Unnamed: 0']
-    del df['Message']
-    del df['Type']
-    del df['RateLimit']
-    del df['HasWarning']
-    df = df.drop([0, 2, 3])
-    return df
+    for i in range(len(btc_json_data)):
+        dates.append(date.fromtimestamp(btc_json_data[i]['time']))
+    df_btc['dateMidnight'] = dates
+    del df_btc['time']
+    df_btc = df_btc.rename(columns={"close":"priceBTC"})
+    df_btc.to_csv(f'chart_price_{currency}.csv',index=False)
