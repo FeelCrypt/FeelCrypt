@@ -1,0 +1,184 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+It can be deflationary but it could never rival BTC’s store value simply based on the network effect. ;1;2;False;THE_JERKSTORE4;dpbegxu;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+I own equal amounts of both man. ;1;1;False;THE_JERKSTORE4;dpbmt4u;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+"Segwit as a core concept restructures transactions to move the ""what's happening?"" data and the ""who authorized that?"" data into two separate piles. That's it. That can be done by any client as part of how transactions they create are structured.
+
+The benefits of having the clear delineation of ""here's where the actions stop and the verification begin"" mean the algorithm for figuring out transaction size can just count the two parts separately (which is the ""block weight"" concept that was added), and it introduced the possibility of a new type of node behavior that's not as light as a light client (it keeps all transactions, not just the ones related to it's addresses), but not as heavy as a full node (after checking the ""who authorized it?"" data to verify it's correct, it only writes the ""action"" data to its local hard drive, saving some space, trusting itself that it only writes valid data into it's own database), in addition to marking it very clear which transactions are distinct (have different ""actions""; which is the ""transaction malleability"" problem). That last one is the one that makes second-layer functionality like Lightning networks able to be done in an easy, trusted manner. So, Segwit itself has no additional fees included in it; it just provides additional hooks/features for other things to utilize it they want.
+
+Since the Segwit-enabled chain now doesn't have ""block size"" but instead ""block weight"", I'd be interested to see if there were options to increase the block weight or the ratio weight different types of transactions get (prioritize old coins moving? Allow the block to be bigger if it's older could?), for a more nuanced capacity increase?";1;0;False;MidnightLightning;dpc7mrz;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+thieving dogs;2;0;False;gheymos;dpbgcpp;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+Worrying, indeed ...;1;0;False;Lotso_Packetloss;dpbfnfs;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+"The transactions are essentially the same (other than the very small number that are segwit on BTC) so it's pretty much a wash.
+
+There will be natural pushback on the block size as adoption continues and there will be greater incentives to generate layer-2 solutions (rather than trying to put the cart before the horse as is happening now). Solutions should happen naturally, not be forced or we end up with farces like Solyndra.
+
+Pre-existing blockchain size *is* an issue, I agree and there are some things that could be done to help with that but it seems that anything that doesn't attempt to push things on to layer 2 (a solution which is currently non-existent) sees very little developer interest.";2;0;False;Richy_T;dpbnowp;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+Sounds like BCH. ;3;0;False;elchucknorris300;dpb98ls;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+"I totally agree that this could be a very big problem. 
+
+I'm just not sure upping the blocksize every time you hit the limit is the way to fix this problem. I hope upping the max blocksize doesn't mean even more spaced is used, because running a full node is already out of reach for normal people. 
+
+Looking at the total block size:
+[154.07 GB](https://bitinfocharts.com/bitcoin%20cash/)
+[164.89 GB](https://bitinfocharts.com/bitcoin/)
+
+If you want maximum decentralization, just using more space doesn't seem the best bet. I can't find out if there is a size difference in average transaction size on BTC vs. BCH. 
+
+
+";1;1;False;neptunDK;dpbjz7t;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+Keep telling yourself that!;1;1;False;monster-truck;dpblhfc;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+When considering the total market cap of Cryptos just passed $200 billion, there is a Huge capacity for grown ;4;0;False;StrokeGameHusky;dpbngp4;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+What is the point of segwit, if not to enable lightning networks? Thanks.;1;1;False;randomqhacker;dpbmsl2;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+I don’t want a store of value.  That’s a ponzy if it is not a physical asset (like gold) or does not have utility.  That’s not a possibility.  If BCH is “the most efficient / secure / lowcost p2p instant payment system“, that means it’s already taking the role as a store of value which “properties just so closely resemble that of physical gold”.  You don’t get it?  You’re going to get crushed with any of your BTC holdings.;4;0;False;monster-truck;dpbl6ds;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+[deleted];1;1;False;;dpbnc6a;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+I’m not saying any crypto will completely disappear, there will always be a small core of fanatics...  I’m saying that the value compared to the main chain will eventually become irrelevant.;1;0;False;monster-truck;dpboir1;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+I guess so :D;1;0;False;dmg36;dpb9jhh;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+As in the number of people that own it?;2;0;False;elchucknorris300;dpbg1at;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+No they can’t.  It’s temporary.  If one is both a store of value and a method of payment and the other is just a store of value (and not a physical asset), one is NOT needed.;1;2;False;monster-truck;dpble5j;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+Yeah, this is where the people that get banned from r/bitcoin end up. Fortunately that's not me yet, but it's still worrying to see so much delusion behind a big part of the bitcoin community ;1;1;False;Pazu2;dpbdymy;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+If there was any accuracy at all, there would be exactly one green car in the picture. I stopped looking for more supporting effort after that fat lie. ;-3;1;False;Coinosphere;dpbau9g;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+Isn't it Blockstream Corporation? That's like a double negative.;0;0;False;HooRYoo;dpbfd38;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+Need to add a few onramps that's queued up for miles with Bitcoin cars waiting to get onto the freeway.  ;6;0;False;samwbc;dpbel71;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+Ok great! Thank you so much for telling me that! What’s a good iOS app for BitcoinCash?;0;0;False;27_myths;dpbdxlq;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+bitcoin legacy is masquarding as bitcoin when bitcoin cash is what bitcoin really is. Can you coexist with an imposter who is trying to steal your life?;3;1;False;Geovestigator;dpbkirs;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+"They collect a toll with their Liquid side chain. Well, theoretically. 
+
+It should really have the people in the toll lane flipping off miners building the road ahead as they get a discount on Segwit.";2;0;False;evilrobotted;dpbllil;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+32 Lanes, Bitcoin Cash is limiting the current natural limit of 32MB for the time being.;2;0;False;IquitosHeat;dpbkc2f;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+The MIT open source license Bitcoin is released under requires you to credit authors when you steal their code. ;1;0;False;;dpbtvpq;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+Thats good i like it a lot!;1;0;False;lorymecs;dpbdb0q;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+A way to improve this graphic would be to have all different types of vehicles in the first BCH section, from bikes to limousines, buses and trucks.;1;0;False;--_-_o_-_--;dpbsi5s;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+"Way too many green cars! (should be 1 or 2)
+
+";1;0;False;polsymtas;dpbqw2b;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+">Pro tip: If you want to have a productive conversation or disagreement with someone, don't start out by immediately calling them by a nickname they previously told you they dislike.
+
+Why would anyone sane waste time with a paid shill. The guy is paid to spread lies to spread certain agenda. I think that line of work is quite immoral. And you whine when someone calls this paid shill ""a fool"" ???
+
+Insane.";1;0;False;Anduckk;dpbg9zx;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+How many transactions can fit into bch block on average? Is it just 8x BTCs limit? I guess I don't see how just upping the blocksize solves scaling issues long term. Doesn't it kind of just kick the issue down the road a bit? ;1;0;False;bender625;dpbp3ol;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+Missing two more line in BCH!!!!! ;1;0;False;Scryptk;dpbkk9d;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+The true Bitcoin. Yes.;0;0;False;evilrobotted;dpbl49p;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+you're getting butthurt over a picture? do you even internet?;1;0;False;gheymos;dpbghzx;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+how?;1;0;False;;dpbg0z3;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+Capacity.;1;0;False;evilrobotted;dpbl6hk;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+You sum it up perfectly.;1;0;False;soup_feedback;dpbhx9y;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+"Except for BTC isn’t free of shady bankers.  Users will be forced to sidechains that will have to conform to KYC/AML laws, aka shady bankers.  If you haven’t noticed the blocksize in BTC has been artificially limited to the point where all of Bitcoins value will have to be averted to sidechains at some point, and Blockstream and it’s sidechain patents is NOT a not for profit company last time I checked.
+
+Just saying, devil is in the details, and looks like you need to do a bit more research.";1;0;False;monster-truck;dpblz96;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+What is Bitcoin cash? Should I mine or invest? ;2;1;False;Sirsyorrz;dpbd39z;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+segregated witness is a step backwards from a technical point of view. Biutcoin cash is everything bitcoin ever claim to be, while the legacy chain is not.;2;0;False;Geovestigator;dpbkka8;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+Zoom zoom!;1;0;False;ILikeBigBlocksBCC;dpbmo57;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+All good, but might be wise to at least “rebalance” your crypto portfolio in fiat terms...  and considering the ratio is 12:1 right now, yours might be a bit heavy on the BTC side.;1;0;False;monster-truck;dpbodr3;Bitcoin cash VS Bitcoin, a shockingly accurate representation;7aj19w;https://i.redd.it/pikogpl67rvz.png
+Nope, **you are not using it** as buying it and not **using** it to buy something or exchange for something else is not using it. How about if you buy a car and just put it into a garage for a few years.... are you using that car for its purpose of transportation? No you're not, so its same shit with currency which Bitcoin is meant to be, remember? Are you really that thick and **you want to continue to keep claiming that you are using it by not using it?**;1;1;False;;dpc3try;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+If you are asking that it means you don't understand the usability of currency. Currency is a unit of trade. To use a currency it means you use it to trade it for some product or service, or another currency. Storing it means not using it.;1;1;False;;dpc435i;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+What do you use to store your fiat savings?;1;1;False;Klutzkerfuffle;dpc47el;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+I am using it as a store of value every day that I use it as a store of value.;1;1;False;Klutzkerfuffle;dpboaru;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+But I get utility by saving BTC. How is that not useful to me?;1;1;False;Klutzkerfuffle;dpc4076;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+DangerousGame9 just found the solution https://www.shiftpayments.com/;1;0;False;CSE1776;dpc2f3r;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+Least my dollar is now worth 4+ instead of .85¢ ;1;1;False;CSE1776;dpbjs2i;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+Maybe one day the world goes crypto. Litecoin is super cheap. As a small business owner I would love to except it but where I live no one even knows about cryptocurrency. It would save me $12,000 a year in merchant fees;1;0;False;CSE1776;dpc0q5h;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+That's why I just buy and HODL. It's a great store of wealth. ;1;0;False;CSE1776;dpbztki;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+"IMO there's no perfect crypto-currency that is capable of substituting the cash.. every of them should be ""fixed"" in a way or another. It will come with time and those ones which will not evolve, will die.";1;0;False;Giusis;dpba9bs;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+That's true, but you are doing the traditional banking system a big favor with that approach.  You use your credit card.  Then you pay some bitcoin transaction fees to send money to gdax.  Then you pay some exchange fees to convert it to dollars.  You send that money to your checking account and use that money to pay your credit card bill.  Then, since you support bitcoin and don't want to reduce your stake, you transfer money from your checking account to your gdax account and, after paying exchange fees, you buy bitcoin.  Then you pay bitcoin transaction fees to send those bitcoin to your ledger.  And it all seems pretty darned pointless.;1;3;False;DangerousGame9;dpbo1n7;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+You do! And they except MasterCard. I'll transfer some Bitcoin over from my ledger to an exchange then to my bank to post the bill. ;1;1;False;CSE1776;dpbf6m0;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+Easy as 12345679...;1;1;False;DangerousGame9;dpbg46f;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+Its just moving the coin to your wallet once. You can't classify that as using it because you are not using/spending them. Using them to pay for something or send coins some place else, would be classified as using it.;1;1;False;;dpbjgh0;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+A wallet? A computer system? What has that got to do with USING the fiat? If I never use fiat for buying anything, then how can I be saying that I am using fiat?;1;0;False;;dpc4oml;BTC just hit $7000;7a9uha;https://i.redd.it/c26cu3qaeivz.png
+"Yes I remember the early discussions focusing on what people thought were the weaknesses. When it was brought up that only a handful of people controlled the repo and that people can be bought or bribed it was always said, ""meh, users and miners are free to run whatever code they want. Anyone can fork the codebase, so nobody can take over Bitcoin by buying off the devs.""
+
+It took a while but I think that this has been proven correct.";128;4;False;jessquit;dpco4jc;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+I don't even understand what is he doing as a core developer? The amount of lines of code he commited to the core is abysmal compared to Gavin. I'm highly doubting his expertise.;8;1;False;;dpcpcc1;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+"Greg, Adam, 
+
+for sure, like there is not even any question to someone who has basic understanding and has researched it.
+
+peter might just be that way, szabo isn't involved in any meaningufl way with bitcoin
+
+
+the 24 or so core devs are replaceable, but they aren't all corrupt, just some of those with commit access.";11;0;False;Geovestigator;dpcmx6r;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+"Maxwell isn't just corrupt - he is the corruptor. 
+
+History will judge all complicit fairly.";15;1;False;Joloffe;dpcngtx;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+The user gets to choose which chain they give their business to.;6;0;False;bchbtch;dpcp20q;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+"Yes, but if you check the contributions he's practically not doing anything substantial, unlike what Torvalds did.
+
+Wtf was Gavin doing by allowing kids to touch bitcoin codebase?";10;1;False;;dpcr6m0;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+What are you talking about?  Clearly SegWitCoin must be what you are referring to.  Here we take Bitcoin like Cash. ;3;0;False;bitcoinballer23;dpcm6wx;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+That implies greg is good at communicating which we know for a fact to be untrue.;4;1;False;Geovestigator;dpcrcvn;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+[deleted];3;2;False;;dpcqc7e;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+"A bit of patience is all that's required. If you think the value is in Bitcoin Cash and this SegWit1x/2x thing will result in a sh*tshow, they can have all the names they want. However, the basic value will reassert, and the correct chain will naturally be called ""Bitcoin""... just... eventually.";41;1;False;zeptochain;dpcmkco;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+"Are you implying Greg, Adam, Todd and even zabo are all corrupt people? Quite an accusation you got there, big boy. You have proofs to back that up?
+
+As core devs, they have all the right to do whatever they want to Bitcoin. This includes milking the blockchain by siphoning the money out and into their own sidechains. This is the norm, the safest, and the cleanest way to earn a living as a premiere developer.
+
+You as a user, on the other hand don't have a say other than run a non-mining wallet to simulate the illusion that you have control. In reality you're just there to use bitcoins, period.";-22;6;False;BitcoinKantot;dpcmr86;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+Sure, it's a fork of the bitcoin core distribution from before Segwit was implemented.;8;0;False;HackerBeeDrone;dpcqrz2;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+"Me too.
+
+Glad the experiment can continue again.";76;1;False;Ant-n;dpcjtaw;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+Is BCH a source fork? Where's the source?;2;2;False;;dpcpztr;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+Damn right. People are part of the system. If they do nothing, it doesn't work. That scared me a little, especially after XT and the others failed to fork. But when network congestion/fees/censorship became unbearable, people reacted, and Bitcoin (with its new ticker BCH) started working again. I'm now 100% confident Satoshi's Bitcoin works. Nothing can stop the honey badger of money when it's hungry.;36;1;False;WiseAsshole;dpcleca;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+"Unfortunately it seems the corrupter party got to keep the name. And the world at large only knows of ""Bitcoin"" when it comes to crypto. ";14;4;False;cr0ft;dpclouc;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+EXACTLY!;3;0;False;baikydog;dpcpsm2;"When I first learned about Bitcoin, people said, ""If the devs ever become corrupt we can just fork the codebase."" I never thought it would happen but that's exactly what did happened.";7astxu;https://www.reddit.com/r/btc/comments/7astxu/when_i_first_learned_about_bitcoin_people_said_if/
+"> What leverage
+
+Destroying competition (now form of digital money) from the inside, as you laid out in a previous comment. ";1;1;False;mtrycz;dpc3g12;rBitcoin moderator confesses and comes clean that Blockstream is only trying to make a profit by exploiting Bitcoin and pushing users off chain onto sidechains;7a54q7;https://www.reddit.com/r/btc/comments/7a54q7/rbitcoin_moderator_confesses_and_comes_clean_that/
+"It doesn’t destroy digital money, it would (assuming they were”successful”) just destroy one instance of it and teach all the others how to not make the same mistakes in the process, to no lasting effect.
+
+Furthermore, it’s not even competition if they don’t want it to be! If blockstream was an evil axa plot all along, they could literally just have bought BTC with their many millions of investment instead and secured their place in the future they’re afraid will materialize.";1;0;False;Karma9000;dpcaukj;rBitcoin moderator confesses and comes clean that Blockstream is only trying to make a profit by exploiting Bitcoin and pushing users off chain onto sidechains;7a54q7;https://www.reddit.com/r/btc/comments/7a54q7/rbitcoin_moderator_confesses_and_comes_clean_that/
+"yeah, sounds just like the video:
+
+If, and if, and maybe, and but, and if...";1;0;False;Scott_WWS;dpcoxpu;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+"Then LN is only good for your friends and family.  Uh, then they could wait an hour for 6 confirms.
+
+LN is supposed to be good for when you're out and you stop at a restaurant.  How will you have anything but a 10 or 20 x intermediary channel to someone who you don't know, never met, never set up an LN contract with?
+
+Wash the video, so many assumptions.  They are years from this if it ever happens: SF Bitcoin Devs Seminar: Scaling Bitcoin to Billions of Transactions Per Day https://www.youtube.com/watch?v=8zVzw912wPo&t=1053s";1;1;False;Scott_WWS;dpcj7gl;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+"Hi, I'd like a cup of coffee and I'd like to pay in bitcoin.
+
+Have you set up your LN wallet and enabled us as a user in your contract?
+
+Uh, no, I was just driving to work.
+
+OK, go stand over there, make the network and when its set up, come back.
+
+Can I just send the BTC you directly?
+
+Sure.  Here's your coffee.";1;1;False;Scott_WWS;dpcj060;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+"If you haven't watched this yet, give it a watch.  These are the devs discussing how it will work.
+
+""Uh, and this guy has to be very rich,"" and ""assuming no one holds the BTC hostage,"" and ""Assuming he sends the coin, however...""
+
+**SF Bitcoin Devs Seminar: Scaling Bitcoin to Billions of Transactions Per Day**
+https://www.youtube.com/watch?v=8zVzw912wPo&t=1053s
+
+Go to 28:15 - ""& if Bob is not paying attention, Carol gets his money for free.""
+
+yeah, that sounds just great.";1;0;False;Scott_WWS;dpcj3ce;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+"You can route channels through channels of people you already have channels with . With only the amount of hops you can reach anyone, just like with tcp/ip in the internet (traceroute)
+
+But that someone could also be someone very well connected , like an exchange or Overstock ";1;1;False;ysangkok;dpclrg2;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+"Watch the video and listen to some of the designers explain it.  They admit that Bob (the hub guy) needs to be, as they say, ""Really rich.""
+
+Lighting is fast.
+
+You have to set these payments up in advance.
+
+In most cases, you just buy a $20 gift card at the company and when it runs out, you buy another.  The WHOLE idea of a LN is that you can walk in to Joe's Cup oh Joe and buy a coffee in 2 mins.  If you have have to set the wallet and payment up in advance...?  then its actually SLOWER than a regular payment.
+
+Listen to these guys, they're talking bout funds getting held hostage and all sorts of other issues.
+
+Most people can barely use a wallet.  Now they have to set a lock date and have multi-sigs?
+
+KISS 
+
+This is not simple.
+
+SF Bitcoin Devs Seminar: Scaling Bitcoin to Billions of Transactions Per Day
+https://www.youtube.com/watch?v=8zVzw912wPo&t=1053s";1;0;False;Scott_WWS;dpcix6v;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+There is no reason why a gui wallet would need to let you do the channel setup manually;1;0;False;ysangkok;dpclnbb;Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball);6jqrub;https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+Says guy who wants to limit miner fee revenue.;1;1;False;SnowBastardThrowaway;dpbb1s1;"Jiang Zhuoer, founder of the world's third-largest mining pool: ""To be honest, I do not care about bitcoin now, bitcoin cash is bitcoin. I earn by mining bitcoin, [selling it] and buying bitcoin cash. We mine for the most profit and buy bitcoin cash.""";7a7947;https://coindesk.com/split-no-split-bitcoin-miners-see-no-certainty-segwit2x-fork
+That's because of the original incentives which they will fail to subvert. Too bad bud. Epic fail. ;1;0;False;H0dl;dpbawxn;"Jiang Zhuoer, founder of the world's third-largest mining pool: ""To be honest, I do not care about bitcoin now, bitcoin cash is bitcoin. I earn by mining bitcoin, [selling it] and buying bitcoin cash. We mine for the most profit and buy bitcoin cash.""";7a7947;https://coindesk.com/split-no-split-bitcoin-miners-see-no-certainty-segwit2x-fork
+more tx = more revenue. ;1;0;False;fakebstreamsatellite;dpbd6na;"Jiang Zhuoer, founder of the world's third-largest mining pool: ""To be honest, I do not care about bitcoin now, bitcoin cash is bitcoin. I earn by mining bitcoin, [selling it] and buying bitcoin cash. We mine for the most profit and buy bitcoin cash.""";7a7947;https://coindesk.com/split-no-split-bitcoin-miners-see-no-certainty-segwit2x-fork
+But segregation doesn't compact the block or make is smaller.  It does, in theory, enable nodes to discard signatures of older blocks, thus saving disk space, but AFAIK this isn't actually implemented.;1;0;False;roybadami;dpbfj8e;"Jiang Zhuoer, founder of the world's third-largest mining pool: ""To be honest, I do not care about bitcoin now, bitcoin cash is bitcoin. I earn by mining bitcoin, [selling it] and buying bitcoin cash. We mine for the most profit and buy bitcoin cash.""";7a7947;https://coindesk.com/split-no-split-bitcoin-miners-see-no-certainty-segwit2x-fork

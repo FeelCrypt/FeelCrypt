@@ -1,0 +1,505 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+Wait, since block values decrease by half every 4 years, and mining difficulty is increasing (and also as more people use Bitcoin) doesn't that mean in a few years, when miners don't earn much from mining, won't they either start charging much higher transaction fees or stop mining? If they're making less and less then what will be their incentive to keep mining in 20 years other than really high transaction fees? ;1;1;False;Zaquarius_Alfonzo;dnyi01b;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Transaction speed depends on how many transactions are waiting in line to get through the bottleneck. Unlike a ""fair"" line, you can waive a $5 bill in the air to get bumped to the front. Speeding things up for everyone requires a change in the way the system works, like making the line wider (increasing the block size).
+
+> So the fees are a kind of deterrent against attacks?
+
+That's definitely one function they serve.";1;0;False;anthson;dnyidtd;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Miners don't set fees, so that's the nice part. Users tack fees on as an extra ""tip"" to incentivize the miner to include their transaction in the next block solved.
+
+And yes, eventually the reward for a solved block will fall below the cost in electricity it takes to solve the block. By that point, a larger user base and MANY more transactions per block will incentivize miners to keep the network going. At least that's the plan.
+
+Also we have these things called difficulty adjustments that are built into Bitcoin Cash. Not sure exactly how it works, but I've read community consensus can change how difficult blocks are to solve. Right now with 60+ Cash blocks being solved per hour, people are clamoring to make the difficulty level higher.";1;1;False;anthson;dnyi9t2;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Okay that makes sense.
+
+So the simplest solution is to (eventually) increase the block size
+
+I just don't understand how the difficulty adjustments affect any of this?";1;1;False;Zaquarius_Alfonzo;dnyisa1;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Remember that number from the video, the one that had to start with a certain number of zeroes? How many zeroes affects how long it takes to guess and check before finding the right SHA-256 hash. Blocks need to be solved fast, but not too fast, and they need to have enough transactions in them to push traffic through even during peak times. The difficulty adjustment helps them get solved faster (or slower), and the block size helps include more transactions per block solved.;1;1;False;anthson;dnyjsy6;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Okay so the difficulty is used to make sure miners aren't solving a block before it's full (or mostly full) by making it take longer to solve so more transactions can be made while that happens;1;1;False;Zaquarius_Alfonzo;dnyk9py;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"I wouldn't say close to full. A full block would ideally be reached only at Black Friday-level capacity. Or in other words, perfect-world scenario is the block (however big it is) can hold just a little over the maximum volume of transactions we can expect in the time it takes to solve a block.
+
+You can see how coding software to make this happen is some tricky business!";1;1;False;anthson;dnykjcp;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Okay that makes sense
+
+Anyway, i was just thinking about those ""second-level"" something (what's it called again?) you were talking about earlier. So basically those are a way of optimizing block usage by turning 5 transactions (A>B>C>D>E>F) into one (A>F) so one block can essentially have way more (individual) transactions without *actually* having more transactions. Is that right? ";1;1;False;Zaquarius_Alfonzo;dnykvav;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Second-layer solutions. And yes, you've got the basic gist!;1;1;False;anthson;dnymskm;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Nice. Thanks for explaining all that. Even though there's still a bunch i probably don't know i feel like i know everything i need to know about Bitcoin to understand how it works. I'll let you know if i have any more questions, but for now i can't think of any.
+
+Thanks";1;1;False;Zaquarius_Alfonzo;dnynexk;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"No problem!
+
+Remember I'm still a new guy, too, and there might be a few things I've oversimplified or just gotten wrong. Question everything =]";1;1;False;anthson;dnynh3f;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> Question everything =] 
+
+Why?";2;1;False;Zaquarius_Alfonzo;dnyo8r6;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"So the fees are a kind of deterrent against attacks?
+
+And why can't they just make it faster (ie 1 minute instead of 10)";1;1;False;Zaquarius_Alfonzo;dnyhaxo;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+You're missing the reason Bitcoin's creator installed the 1mb block limit in the first place. When transactions were nearly free, someone could spam tons of bogus transactions and forever clog up the blockchain with gigabytes of trash data. While a similar attack would be extremely expensive under today's fee market, larger blocks will bring down fees and reduce transaction times. That means it's cheaper to attack the network, so it becomes a balancing act.;1;2;False;anthson;dnygva6;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Thanks this helps a lot (and yeah I'll watch that video now) but what is a node?;1;1;False;Zaquarius_Alfonzo;dnybi26;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Can't we just make a one extra-hard fork into waaay bigger blocks than we need yet?
+
+Then we'd only need to fork once and if we do it soon enough there won't be as many people who have to switch, and as the Bitcoin community grows (which it would be able to do much quicker), the number of people still on the old, dead fork becomes negligible compared to the new soccer of the bigger fork.
+
+Or am I missing something?";1;1;False;Zaquarius_Alfonzo;dnyfva6;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+They keep the full history of transactions and facilitate, uh ... something. I'm not entirely sure how they differ from regular network nodes. Still learning!;1;1;False;anthson;dnyccqw;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+You have to hard fork every time you do it. Hard forks can be contentious and cause issues, and always split the community. Ideally 99% of the community jumps on one fork and leaves the rest behind to die, but that's not always the case.;1;1;False;anthson;dnyf1gn;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+What's wrong with upping the block size?;1;1;False;Zaquarius_Alfonzo;dnyeyu2;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"This thread is a month old. Surprised to see activity. Sides. Well.
+
+The way I see it, there are two conflicting points of view when it comes to the development of Bitcoin. Small-blockers want Bitcoin to be a digital store of value, much like gold is in the physical world. Big-blockers want Bitcoin to replace FIAT currency and operate as spendable cash worldwide, bringing down the reign banking cartels have held for centuries.
+
+Happy to answer anything else, to the best of my ability.";1;1;False;anthson;dnxhhht;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"A lot of people here believe it's an attempt by central bankers to derail cryptocurrency, which is a huge threat to the monopoly on wealth they hold. They'll site Blockstream – the most staunch 1mb Bitcoin development team – being owned/funded by [AXA](https://en.wikipedia.org/wiki/AXA).
+
+Other people think it's because scaling with block size increases just ""kicks the can"" down the road, and we'll have to up the block size every time the network starts reaching capacity. They're not wrong, but nobody has yet provided a working concept solution that addresses the problem (in my opinion) without a hard fork.";1;1;False;anthson;dnydzwo;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+http://memes.ucoz.com/_nw/39/77448186.jpg;1;1;False;anthson;dnyoi43;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Thanks. And i just skimmed the top of all time for anything i could partially understand
+
+What's Fiat currency?
+
+What side is this sub? ";1;1;False;Zaquarius_Alfonzo;dnxjvcx;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"FIAT currency is controlled by central bankers. Decentralization of currency is what Bitcoin is all about, if you read [the paper written by the guy who made Bitcoin](https://bitcoin.org/bitcoin.pdf).
+
+FIAT currency is a shadow on the wall, and those who control the central authority can generate any amount of that currency they wish for themselves or their friends. Bitcoin is different because no one controls the central supply.
+
+This sub is firmly in the big-block category, although you'll find a variety of opinions from all sides of the debate. /r/bitcoin is firmly in the small-block category. You will not find free-flowing exchange of ideas in that sub. They're known to engage in [opinion cleansing](https://www.reddit.com/r/KarmaCourt/comments/5gvqf6/and_now_for_something_completely_different_the/), warping the narrative toward their side of the discussion.
+
+For what it's worth, there are a few smart people who believe the social control is for the greater good. I personally don't trust anyone trying to use authoritarian means to control something I believe to be inherently anti-authoritarian.";1;1;False;anthson;dnxk70q;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Okay i just watched the video and it's extremely helpful, so thanks for that.
+
+It seems to me like 10 minutes is way too long and 2,400 transactions per block is *waaay* to small. So why do they keep is so restrictive? Is there a reason?";1;1;False;Zaquarius_Alfonzo;dnydgq5;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+So what are the pros and cons of each? ;1;1;False;Zaquarius_Alfonzo;dnxkllg;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"#Small block
+
+Small-block logic goes that we should scale slow and without hard-fork methods such as block size increases. It favors second-layer technology that accelerates transactions while removing the signature data from each block. If you want to know how important the signature data is to each transaction, or even WHAT that is, watch [this short 25-minute video](https://youtu.be/bBC-nXj3Ng4). And yes, I'm sorry, 25 minutes is short when it comes to Bitcoin =[
+
+The pros of this strategy are largely in the realm of stabilization. Right now the large-block fork of Bitcoin, called Bitcoin Cash, has a block size EIGHT times the size of the BTC chain. Recently they've been mining mostly-empty blocks to the tune of 50 per hour. It's too fast, rewarding miners for processing blocks that contain zero transactions. This is the scaling problem the small-blockers warned us about.
+
+Meanwhile, the BTC chain is chugging along business as usual. Although, that means high confirmation times and ridiculous fees. Imagine if you had to wait 45 minutes for your Visa to clear so you could go home with tonight's six pack, and the vendor got charged $1.64 just to take your payment. That's where Bitcoin is as ""money"" right now.
+
+#big block
+
+The problem with second-layer solutions is the bottleneck at the on-ramp. If we really want Bitcoin to be used worldwide as a currency free from centralized control, we need it to be readily accessible by even those with rudimentary third-world tech. We're talking people who live of seven dollars a day at the bottom line. The rich and poor alike should have equal access to this revolution in how we think about wealth.
+
+But to have everyone using this improved second layer, we have to get them onto the first layer with just one transaction.
+
+Full Segwit theoretical capacity (on-chain) is 3.7 transactions per second, from what I've researched. Anyone feel free to correct my math. At 3.7 transactions a second, we can only get the entire world population on a second layer after 60 years. And that's ONLY assuming we get everyone on the planet on the main blockhain as fast as possible, 3.7 people per second.
+
+The block size HAS to increase to accommodate the world population, to allow for fast confirmation times, and to facilitate cheap transfer rates. How far this philosophy goes as Bitcoin grows has been a hotly-debated subject.";1;1;False;anthson;dnxl4fk;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Thanks, that explains a lot.
+
+These are the parts i didn't fully understand (ranging from ""i think i got it, but i could be wrong"" to ""the fuck you talking about?""):
+
+
+
+> hard-fork methods **(what)**
+>
+> second-layer technology **(what)**
+>
+> mining mostly-empty blocks **(what is mining, what are blocks, and why are they mostly empty?)**
+>
+> blocks that contain zero transactions. **(I'm guessing this is what you mean when you say empty, but what does this mean?)**
+
+>
+>But to have everyone using this improved second layer, we have to get them onto the first layer with just one transaction. **(What are layers, and why do we have to get them on the first in one transaction and what do you mean by one transaction)**
+>
+>Full Segwit theoretical capacity (on-chain) **(full whatnow?)**
+>
+>3.7 transactions per second, **(is that a lot? What does that mean?)**
+>
+> main blockhain **(is that just a bunch of blocks)**
+>
+>The block size **(still don't know what a block is)**
+
+And again thanks for answering my questions. I know this comment is asking a lot more questions, but I'm probably going to bed now so no rush.
+
+Thanks ";1;1;False;Zaquarius_Alfonzo;dnxlk5g;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> hard-fork methods (what)
+
+Increasing the block size requires a hard fork, which means the nodes upgrading to the new block size have to fork away from those who stay behind. A hard fork is how we split into Bitcoin and Bitcoin Cash several weeks back.
+
+> second-layer technology
+
+Let's say we have four transactions on our main blockchain. A gives B $20. B gives C $20. C gives D $20. D gives F $20. An oversimplified definition of second-layer tech would be a system that takes all five transactions and only runs one – A gives F $20 – on the main blockchain.
+
+> (what is mining, what are blocks, and why are they mostly empty?)
+
+Watch that short video. It's quite entertaining and explains things a lot better and quicker than I can!
+
+> (I'm guessing this is what you mean when you say empty, but what does this mean?)
+
+Again, the video. But basically every miner races to find a ""magic number"" that starts with a certain number of zeros so they can validate a block, which is a group of transactions. If blocks are getting validated quicker than transactions are being requested, miners are getting rewarded for lending the network processing power it doesn't need.
+
+> What are layers, and why do we have to get them on the first in one transaction
+
+The main blockchain IS Bitcoin – a history of transactions going back to the very first. Anything on top of it is a second layer. In order to get to layer two, you have to have a Bitcoin wallet. That's only possible, as I understand it, through the main Blockchain and is limited to 3.7 transactions per second. I'm not super educated in this area, though, so my understanding of the ""why"" may be a bit off.
+
+> Full Segwit theoretical capacity (on-chain)
+
+Segwit is a piece of software that altered the way Bitcoin worked by stripping the signature witness data from each transaction and segregating it. Hence the name segregated witness, or Segwit. Remember how I said the block size was fixed at 1mb, limiting the number of transactions Bitcoin can process? Well Segwit theoretically allows more transactions to fit into 1mb, and it does that by making them smaller through segregating that signature data. This is an on-chain scaling solution proposed by small-blockers, but it requires everyone to be using Segwit wallets in order to function at max capacity.
+
+> 3.7 transactions per second, (is that a lot? What does that mean?)
+
+No, it's not a lot. It causes congestion, which leads to longer confirmation times and higher fees. It Bitcoin's early days, the user base was small enough that this wasn't a problem. Since we mined our first full 1mb block, though, transactions have only been getting slower and fees have climbed from pennies to dollars.
+
+> main blockhain (is that just a bunch of blocks)
+
+It's literally a chain, one right after the other. Watch that video!";1;1;False;anthson;dnyasup;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Well I'm new (like 5 minutes new) what are these ""sides"" you refer to?";1;1;False;Zaquarius_Alfonzo;dnxf910;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+This sounds like good news but i don't know why... what does all this mean? ;1;0;False;Zaquarius_Alfonzo;dnxffc2;Block 479808 has been mined! Difficulty now 7 % of BTC! Bitcoin Cash now 168% more profitable to mine than BTC;6uto68;https://www.reddit.com/r/btc/comments/6uto68/block_479808_has_been_mined_difficulty_now_7_of/
+"Nice. This is a very positive development.
+
+Edit: Wait, this happened well over a month ago and is merely ShapeShift integration (so doesn't get the benefit of low fees, fast transactions)";72;5;False;Ecomadwa;dnxrrx6;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+That link doesn't provide evidence of anything.;-3;0;False;psyketringlowas;dny4gex;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+You clowns are always good for a laugh. Like pouring water on an ants nest, except the ants are retarded.;-11;2;False;codedaway;dnxxuaj;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+as a shitty altcoin? You've won me over;-8;2;False;codedaway;dnxwl9u;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+He's right.;0;0;False;yogibreakdance;dny4fw8;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"Man, you sure are upset over our ""disappointing coin"". Lol. What horse do you have in this race?";2;1;False;MrJkub;dny9pff;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"Ugh, you might as well argue that you are the better cook only because you memorized an old edition of *The Joy of Cooking.*  It gives you no practical experience or knowledge..
+
+
+";-5;1;False;DJBunnies;dnyfcw1;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"Classy! 
+
+http://telegra.ph/Inside-the-Dragons-Den-Bitcoin-Cores-Troll-Army-04-07
+
+For further information on Blockstream sponsored trolling techniques and other underhand censoring activities please contact the people who incite and hide behind this poster: 
+
+Greg Maxwell (Blockstream CTO): /u/nullc , Luke Dashjr (Blockstream , Satellites, raspberry pis): /u/luke-jr , Adam Back (Blockstream 'President'): /u/adam3us 
+";5;0;False;williaminlondon;dnxx1o5;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"It’s fake because it’s is presented as ‘news’
+
+..and they instantly convert the altcoins like BCH, LTC, ETH, XMR to BTC by ShapeShift.";2;1;False;DasDatabase;dny3g34;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Why do you care so much if this is the case? You just like wasting your time? People who don't give two shits about something don't oridinarily waste their time. You fear something, and are taking it out on our community.  ;3;1;False;MrJkub;dny9ava;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"http://telegra.ph/Inside-the-Dragons-Den-Bitcoin-Cores-Troll-Army-04-07
+
+For further information on Blockstream sponsored trolling techniques and other underhand censoring activities please contact the people who incite and hide behind this poster: 
+
+Greg Maxwell (Blockstream CTO): /u/nullc , Luke Dashjr (Blockstream , Satellites, raspberry pis): /u/luke-jr , Adam Back (Blockstream 'President'): /u/adam3us 
+";11;2;False;williaminlondon;dnxwwhv;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+this is how Bitcoin started;13;1;False;H0dl;dnxwjz4;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+You mad bro? Just kidding. We already know the answer.  ;1;1;False;MrJkub;dny96dr;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Lol why am I horrible, it's just an opinion. Bitcoin is the brand, it will never be defeated and every other coin is just trying to steal a little of that light. The people lobbying for it to go one direction or the other is irrelevant because most people don't care about that or don't know about that. They buy into the brand. When the promised day comes Bitcoin will stop be on top always lol you also have to take into account that some of the people using Bitcoin cash got it because of the word Bitcoin. Then when the scammers drop off Bitcoin cash. Too many factors propping it up for now. But the biggest factor that Bitcoin wins all. You can't buy drugs with Bitcoin cash lol;2;0;False;aonemangang;dnygqhz;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"Anything related to price really (which keeps going down with no bump and no end).
+
+And the massive negative effect some exchanges opening to Bitcoin Cash ""claiming"" have caused
+
+How the EDA is yo-yoing, how adoption is not going fast enough if you look at stats, compare to other coins of smaller same size, etc.";-5;1;False;Dunedune;dnxxwao;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+not happy at all, are you? ;1;0;False;MrJkub;dny9kn7;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+As described in the whitepaper? ;6;1;False;knight222;dnyeu92;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+[deleted];2;1;False;;dnxw7ll;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Fake? Why are you throwing that word around?;7;1;False;;dnxy7ye;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Why would you even care is the better question. ;2;0;False;MrJkub;dny9hyv;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"What part of anything that I wrote leads you to thinking I care. These zero effort posts are simply for the enjoyment of reading you guys come up with absurd replies.
+
+Please carry on sugar tits, make me laugh some more. Warms my soul to watch my inbox light up with the hope that it's one of you clowns.";0;0;False;codedaway;dnyajno;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Oh, and you are here to save us all? Lol. ;1;1;False;MrJkub;dny9jmm;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"Nice goalpost shifting. Let me ask again:
+
+Is the original usually less *real* than a late half baked copycat? ";5;1;False;knight222;dnyfkcl;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"I only hold BCH, but very little amounts tbh, so I guess I don't really have a ""horse"" in the race. 
+
+I didn't call BCH a ""disappointing coin"", that's your wording. I like the technology, but the adoption is not there, and I don't want this sub to fall in the same propaganda shithole the other one is, trying to make it seem like there's a continuous instream of adoptions when really it's just month old fucking reposts";3;2;False;Dunedune;dnyau0c;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Okay, now I am certain. Thanks. ;2;0;False;MrJkub;dnyejzf;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"The large majority of people who read it definitely don't know it's old news, just like me.
+
+I hope new people don't get misled thinking it's news. Don't you?";1;1;False;Dunedune;dnyefoa;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Thanks Greg.;3;0;False;rowdy_beaver;dnyaqdv;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+I knew about it and upvoted it too. I hope the new people see it. Don't you?;2;1;False;MrJkub;dnyec8j;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Okay. I'm going to go with my gut here on you, as will others I assume. Thanks for your time today. Have a great upcoming weekend.  ;2;0;False;MrJkub;dnye4bk;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Yeah, I'm a terrible texter. Fat fingers. You're welcome.  ;2;0;False;MrJkub;dnyaq9s;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"Hi, it appears as though you were trying to make a point but failed. Please try again.
+
+Tip: Try not to sound like a complete moron on your next attempt";-5;1;False;codedaway;dny9528;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+The post title is very misleading, implying that it happened now. Wouldn't have had this many upvotes otherwise;1;1;False;Dunedune;dnydywj;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"I'm not forcing something to happen overnight, I'm being realistic about the downtrend of the price.
+
+Also, the ""people said it would be worth $1"" is a big ass strawman, very few people said that, even in the opposing camp";0;1;False;Dunedune;dnydtck;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+your circlejerk is in another subreddit.;8;0;False;Lhos;dnxva2i;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Looks like you have a hard time answering a very simple question. That's ok, I'm not judging you for not being  very smart. ;2;0;False;knight222;dnyi9r8;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+You literally misspelled literally. Thanks for the laugh;1;1;False;codedaway;dny9twi;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"So are you and /u/codedaway actually in the same room? Do they give you proper desks or are you stuck in cubicles? How's the pay? Probably shit but it beats fast food, right?
+
+I just read Ready Player One for the first time and these guys make me think of ""The Sixers""";6;1;False;alwaysAn0n;dny0n6p;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+In addition, he explained why the post was posted again, but I understand that that is asking for too much, and requires empathy. ;1;1;False;MrJkub;dnyb4cp;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Perhaps I inferred something you did not say, but you cannot force patients, and it seems like a lot of people want something to happen overnight when that is not realistic. We are talking about a coin that all of the naysayers said would be worth (if we were lucky), $1. ;1;1;False;MrJkub;dnyb1gv;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"Durr hurr, now let's go back to sending coins to ip addresses.
+
+
+Progress happens regardless of *your* opinions.";0;1;False;DJBunnies;dnyhlzs;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+You are here.  WTF does that make you?;2;1;False;rowdy_beaver;dnyascm;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"You are litteraly describing yourself. 
+
+**literally (lol) ";3;1;False;MrJkub;dny9de0;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"Pay no attention to the man behind the curtain. 
+
+Bitmain Cash is going to moon! /s";-6;1;False;1mystical;dnxylfk;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+https://i.imgur.com/lftkunA.jpg;9;0;False;bitcoincashuser;dnxzgao;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Isn't it obvious? I'm the paying customer that ordered the clowns, except I didn't pay and instead I actually received money for selling your clown money when it was pumped lmao. So thank you twice I guess?;1;0;False;codedaway;dnyddur;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+When it's barely accepted anywhere, upwards is all it can go (or stagnant since it's garbage);-9;3;False;codedaway;dnxvaj2;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"How many times did Amazon accept btc in the last month? The pot calling the kettle black... and at least here the news are not fake.
+
+You sound desperate to denigrate whatever progress Bitcoin Cash makes!? Such a nice person, what are you so afraid of?";11;2;False;williaminlondon;dnxwzui;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Shapeshift accepts...whatever ss does, the retailer accepts by default.;7;0;False;;dnxufqe;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+It's a good start and it will show Overstock how BCH is trending in terms of commerce (upwards hopefully)  ;12;3;False;justgimmieaname;dnxsait;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"""Merely ShapeShift integration"" :'(";40;5;False;evoorhees;dnxzp6e;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Good things? Bitcoin cash is a scam when segwit2x drama is over it's going to be worthless;0;1;False;aonemangang;dnyev37;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"Did u
+Not read ?  It's a ShapeShift integration.   Not a new story and it thus not news.  These bch people are such shill bots. ";1;2;False;BIXBE;dnxwfed;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+2 month old news...;1;0;False;addiscoin;dnxy5qy;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"What's with today ffs, two reposts of old news on the front page. This one is from a month ago:
+
+>https://www.reddit.com/r/btc/comments/6sdglj/overstockcom_now_accepts_bitcoin_cash_via/
+
+Meanwhile actual news that aren't positive for Bitcoin Cash get downvoted. You know what I call this? an echo chamber";-1;1;False;Dunedune;dnxtvoo;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"So if i had private keys before the split, then arent i supoosed to have equal amount of BTC and BCH? If so, doesnt that mean i have ""free"" money to spend? ";1;1;False;CharlyDayy;dnyorte;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"It could be worse! 
+
+/u/tippr $5 - make it rain bch";1;2;False;---Mike----;dnya6qm;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Man I'm glad I bought their stock a couple months ago;1;0;False;;dny8uys;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Wow this is a great news ;1;0;False;Anthony1985;dny6nnk;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"Yeah I tried to use it a while ago with Dash and it's actually pretty bad the transaction timed out before it got through shape shift to their coinbase account so I had to end up just getting a refund and doing it again in Bitcoin.
+
+edit:  It's really too bad they don't get a processor that handles altcoins like coinpayments.net.  They don't have Bitcoin Cash yet, but I suspect they would add it in a hurry if it meant getting Overstock as a customer.";5;0;False;ericools;dnxtvqt;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Shapeshit integration, I can spend any shitcoin at Overstock. +1 for Shapeshift though.;2;1;False;sreaka;dny7evw;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+">During checkout, customers will select their preferred cryptocurrency and submit the order before being prompted to transfer the coins, just as they would with any other digital wallet transaction. Overstock will then use ShapeShift to convert the cryptocurrencies to Bitcoin.
+
+They are accepting bitcoin. Shapeshift is accepting your altcoins, for a fee.
+
+The ""big"" development here is overstock put shapeshift directly on the site.
+
+Overstock is still stocking up on the real bitcoin. Sorry guise.";2;0;False;SnowBastardThrowaway;dny95lv;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+I guess it's slightly easier than dumping it on an exchange. Thanks;2;0;False;CmosRentaghost;dny81gk;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+...and this:   “Overstock will then use ShapeShift to convert the cryptocurrencies to Bitcoin.”;2;0;False;DasDatabase;dnxyws9;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Very cool!;4;0;False;knight222;dnxsdlw;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+click bait title by OP;6;0;False;Logical007;dny25po;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"Title should be:
+“Two months ago Overstock started using ShapeShift to dump altcoins like BCH, ETH, LTC and XMR to get paid in BTC.” ";4;0;False;DasDatabase;dny02qv;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Overstock accepts... Shapeshift.;12;0;False;nicebtc;dnxupno;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+WOW.  Great news.;6;1;False;jonald_fyookball;dnxvavi;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"So the next question would be, when (or if) ShapeShift will start allowing people to pay with Bitcoin Cash or altcoins without requiring them to also pay fees to funnel everything back through the often clogged Bitcoin legacy network?  Can merchants who integrate with ShapeShift change their settings to convert payments received into Bitcoin Cash instead of the old chain?  Seems like that would be the next obvious thing to offer, at least as an option merchants who offer payments via ShapeShift.
+";8;0;False;bitscape;dnxxsat;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"..and litecoin, and ether..
+
+A better title would be ""Overstock now uses Shapeshift.";54;2;False;BigBlackHungGuy;dnxsl20;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Line the dominoes up.... Random thought maybe Dominoes Pizza want in on the action :];2;1;False;onetruefud;dnxryqv;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+why would anyone use bcash shitcoin?;-11;2;False;soul5tice;dnxv6c9;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Yea and they also accept lots of shit coin. What’s your point? ;1;1;False;Themuzzman;dnym4ha;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+You are very sick in your mind too :(;1;0;False;btcnewsupdates;dnyoybq;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+You are a horrible person.;2;1;False;btcnewsupdates;dnyge01;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Yes it’s old fake news..    9 August 2017  ;-8;1;False;DasDatabase;dnxvpj2;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Don't be sad, you guys provide a great service, but to take full advantage of our coin we'll have to move on (for a payment processor) at some point. This will do for now, man, this will do.;8;0;False;imaginary_username;dny91b3;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Hi Eric! I don't see any shapeshift/altcoin options when i check out of Overstock,com. Only Bitcoin. I don't think they have integrated it.;5;0;False;BitcoinPrepper;dnyauij;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+What news isn't positive?;6;1;False;garbonzo607;dnxxkzx;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Yes you do. That Bitcoin Cash is good for, buying things :);2;1;False;btcnewsupdates;dnyp10f;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Thank you :);1;0;False;btcnewsupdates;dnygeya;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"u/btcnewsupdates, you've received `0.01391881 BCC ($5 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://rocketr.net/blog/2017/09/24/bitcoin-cash-a-simplified-explanation/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)";1;0;False;tippr;dnya6vc;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+I am sorry I did not mean to mislead. Only 5% of people subscribed see new posts at any one time and I noticed that many don't know the good things that are happening.;10;0;False;btcnewsupdates;dny7anm;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Even 1xCoin;2;0;False;rowdy_beaver;dnyayb5;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+9 Augustus, not news..;2;1;False;DasDatabase;dnxvr7i;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"Merely another demonstration of Shapeshift's dependence on altcoins for their business model. Without altcoins, Shapeshift doesn't make money here, or really anywhere for that matter. 
+
+And this is why Erik supports 2X. ";-2;0;False;SnowBastardThrowaway;dnyeo09;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Don't forget real Bitcoin.;-9;1;False;DJBunnies;dnxvl77;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"A better title would be ""Overstock started using Shapeshift a month ago""";25;1;False;Dunedune;dnxw3ia;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Now that is something I would make good use of! :P;2;0;False;williaminlondon;dnxshn0;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+Shapeshift is amazing, but it doesn't magically remove the fees and slowness from a merchant whose primary currency is Bitcoin.;47;0;False;Ecomadwa;dnxztum;Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More!;74f4rc;https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum
+"I see your concern, but I see no evidence of a better solution right now. 
+
+Without a provably better solution, it could be better just to wait it out and trust the fundamentals meantime. 
+
+For sure, to date, there's been a great uptake of support for Bitcoin Cash, and that's wonderful, but will take time to convert into user adoption. 
+
+Sadly, the economic agenda of Core development has been demonstrably ignorant of (or intentionally counteracting?) what would enable user adoption, it rather seems to me that the progress as bitcoin as currency has been set back by quite a few years.
+";2;0;False;zeptochain;dnx46uy;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"This does not work. I even recommended this in ABC GitHub. Because it cannot survive 2 weeks when the price pops down. 
+
+I think it can even be done as a soft fork. ";1;0;False;sanket1729;dnxq0u0;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"> Miners chase profit so hard that they readily abandon Core
+
+Even when BCH was more than twice as profitable as BTC, only 50% of miners switched. Oh yeah, so hard.";1;1;False;chrisrico;dnx13uy;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"It's coming. This is the #1 priority in Bitcoin Cash dev and it's being worked on very fervently.
+";2;1;False;NilacTheGrim;dnxohci;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"No, the bitcoin chain is working as intended. People leave and join in mining all the time. 
+
+BCH is working as programmed, but possibly/probably not as intended. This is leading to abuse. 
+
+The difference is you get the maximum amount of bitcoin by just mining as hard as possible 100% of the time, you can maximise your BCH by _not_ mining for periods. 
+
+This only works for BCH as there aren't that many miners, so they can game the system, you cannot do this for bitcoin, if you took 500 petahash off the network, then the block time goes up, but its managed by the difficulty retarget, not by EDA. 
+
+Ironically, I don't believe in BCH, but I've switched to using NiceHash to sell my mining power, during the EDA adjusted periods I'm being paid more in bitcoin.";1;0;False;Crully;dnxpklf;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"That’s the problem.  They could really fuck with Bcash and it doesn’t cost them a damn thing.  
+That’s why power should lie with the users.  ";1;1;False;shortfu;dnyaxrt;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"As I said above its easy to maintain a 2nd chain of BCH with a pittance of hash power due to EDA. Core has a vested interest in making hard forks look as dangerous as possible, and also in seeing Bitcoin Cash fail.
+
+>This is a big reason why many of us involved in Bitcoin don't really care what miners want, because we operate under the assumption that miners are greedy and will do what is in their best interest, not necessarily what is in the best interest of users.
+
+Then you fundamentally fail to understand why Bitcoin works. The entire point is that everyone is supposed to be greedy. 
+
+Greedy miners with tens of millions (if not billions) invested in infrastructure to mine the Bitcoin network will act in the best interests of Bitcoin (which is also in the interests of the users). Miner's success is directly correlated to Bitcoin's.";1;1;False;BigMan1844;dnx2awr;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+[removed];1;1;False;;dnxfkms;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+People have got used to Core dragging their feet over quite simple changes. Everything needs  1 year of planning, 2 years of development and 18 months of carefully planned roll-out now.;1;0;False;Richy_T;dny3r49;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"EDA on top of the old system is a new system in and of it's self. Introducing more EDA mechanisms isn't inherently safer than introducing a new difficulty adjustment mechanism.
+
+Obviously EDA wasn't tested very well to begin with, it's been exploited pretty badly.";2;0;False;XR0CSWV3h3kZWg;dnx8gh7;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+Because its temporary. Unless you're auto switching already you'll miss the party. Hence the need to dampen the swings.;1;0;False;phro;dnx1q5z;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"learn more bout bcash aka bizcoin cash, here
+
+>BitcoinXT, BUnlimited, btc1 - what do they have in common? Usually just 1 guy trying to change Bitcoin-consensus comes with worthy proposals";0;0;False;yogibreakdance;dnxxy2z;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+Good job fighting in the trenches against the trolls.  :);2;0;False;NilacTheGrim;dnxohqy;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"Sorry, you don't get to call everything you don't like FUD. BCH price is swirling down the toilet for a reason, because it's horribly broken. Pointing at another horribly broken platform doesn't make that any better. 
+
+Instead of just pointlessly calling it FUD why don't you show me an explanation as to how another algo could possibly work that doesn't open up some other vulnerability? I'm betting it's not possible to go toe toe with a drastically larger hashrate chain without changing the pow. Not only are these EDA concerns one thing, but the chain is also open to an ever persistent potential for a 51% attack. I fail to see how that can possibly scream safe store of value to anyone.  ";0;1;False;_Mr_E;dnxwqyg;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"I think perhaps it takes too long to kick in, and when it does, it does too much; but it's only too much when the profitability is close to the other chain. Might work better if it starts correcting much sooner, but does so in a much more gradual manner, while still producing the same total amount of change over the same period of time as the original EDA if conditions don't change. And maybe it would be better if it was based on time instead of block count, and symmetrical instead of just downward.
+
+The chain has too little hashrate proportional to how many miners are attracted when the profitability crosses the parity line, and so the difficulty adjustment corrects more than it should when it brings the chain above the parity line; but the adjustment size is reasonable when the parity line isn't crossed.";1;0;False;TiagoTiagoT;dnx3dnp;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+Changing difficulty every block would mean constant 10 minute blocks?  What s the variance?  The change in difficulty would be a response to a difference in hashrate....so a variance of hashrate is met with a variance in difficulty to cancel it out to get a constant 10 minute block.  I do not see an issue here.;1;0;False;mrtest001;dnx4ad9;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+Lol. You guys use too much logic. Their cognitive dissonance heads won’t be able to understand.  ;0;1;False;shortfu;dnyazx8;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"This is what they should have done in regards to ""EDA"": Along with the fork occurring, a one time difficulty decrease should have gone in effect that lowers the difficulty value by a percentage derived from an estimation of hashpower that will appear on the BCH chain. For instance, if it was estimated that 25% of miners will leave BTC and start mining BCH, then the BCH difficulty value should have dropped by 75% with *no other modifications*. No changes to the actual algorithm is needed, just a change to the actual value to correspond to the amount of hashpower they actually have. As long as the estimation is in the right ballpark, it would have been enough to allow the chain to survive.
+
+The way to fix EDA is to revert back to the original difficulty algorithm that satoshi designed.";3;2;False;freework;dnwzyk6;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+Sorry - I FEEL that at 50 blocks per hour it would take 2 hours for 100 blocks to be mined ;2;0;False;BifocalComb;dnyc2cg;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+Couldn't you just use a moving average then?;1;1;False;singularity87;dnxs68f;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"> You're conflating two different concerns. If he had chosen a different number of minutes, he could have likewise adjusted the rewards so that they 'run out of Bitcoin' at whichever date he wanted. Even alt coins that don't 'run out', don't have a limited supply, need determine how fast they want the blocks to come.
+> 
+> The choice of 10 minutes related to how much time a new block took to propagate across the network. If, as he judged, it took per average 1 minute, then it'd mean that per average only 10% of each miner's work would be wasted, which he felt was a good balance of concerns.
+
+Your statement, while being correct, does not invalidate any of my arguments in any way.";1;0;False;ShadowOfHarbringer;dnyc8al;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"The idea is to allow difficulty adjustments without inflating the money supply. Complex, it's true. Perhaps this will be implemented by somebody in a new altcoin. We can then see how well it works.
+";1;0;False;ray-jones;dnx6edi;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"In section 4 of the Bitcoin white paper Satoshi explains how miners accept transactions and mine then into a block based on proof of work. He **then goes on to add:**
+
+> The proof-of-work **also** solves the problem of determining representation in majority decisionmaking
+
+Satoshi is clear here: miners not only vote on transaction ordering but also on everything else, because proof of work is the determinant of validity. 
+
+Miners can choose to make the coin more desirable through beneficial changes, or less desirable through harmful changes, but only a miner can change a rule, as non miners don't create anything either valid or invalid.";1;0;False;jessquit;dnxnfpq;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+">That's the reason why the current EDA algorithm adjusts the difficulty even if no blocks are mined.
+
+No it doesn't.";1;0;False;SpeedflyChris;dnxqz2b;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+It is no urgent to increase the blocksize atm, when BCH can't even have a steady block rate. EDA change is the highest priory right now, otherwise, the users will be scared away, by then bigger blocksize is pointless.;2;0;False;craftercrafter;dnxh2nt;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+">To be fair I don't think satoshi really imagined the multi-coin universe we'd be in today. 
+
+This is true. One area in which it's clear Satoshi hadn't reasoned far enough in advance is development. Satoshi seemed to view developers as a benevolent monopoly and seems to have paid little attention to how easy it would be to capture and subvert a GitHub repo. In fact I think that Satoshi thought he had covered his tracks and was anonymous and would always be the benevolent dictator of the development monopoly.
+
+He also thought that miners would mine according to their perception of their economic interests. Until the beginning of June of this year a plurality of miners thought that larger blocks were in their best interests and a minority thought Segwit was in their best interests, yet miners began mining a Segwit chain in force and are toying around with the large block chain they previously preferred.";1;0;False;jessquit;dnxn3y4;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"You're conflating two different concerns. If he had chosen a different number of minutes, he could have likewise adjusted the rewards so that they 'run out of Bitcoin' at whichever date he wanted. Even alt coins that don't 'run out', don't have a limited supply, need determine how fast they want the blocks to come.
+
+The choice of 10 minutes related to how much time a new block took to propagate across the network. If, as he judged, it took per average 1 minute, then it'd mean that per average only 10% of each miner's work would be wasted, which he felt was a good balance of concerns.";1;1;False;ArisKatsaris;dnxsmof;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+Causing chaos?;1;0;False;;dnxekbo;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+And miners would uniformly mine the chain they can game.;1;0;False;;dnxeiy4;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+[removed];0;1;False;;dnxg8xw;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"They need to make it a html5 game where the player either tries to get more coins over the same amount of time, or crash the chain, by manipulating the ""hashrate""; and collect statistics and stuff to see if anyone figures out a strategy to break the algorithm.
+
+Of course, it needs to include both chains in the simulation, and several price change scenarios.
+
+One possible way of control for both hashrate power and distribution between chains, would be to use the mouse, with the vertical position controlling the total hashrate, and the horizontal position controlling the distribution between chains (with the cursor at the middle of the screen, the hashrate would be distributed 50/50 between the chains).
+
+
+|
+
+If anyone can figure out the cracks in the algorithm, it's gamers.
+
+|
+
+edit: Or maybe a similar setup, but instead of human players, have neural nets and evolutionary algorithms.";1;0;False;TiagoTiagoT;dnx3pjp;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+Perhaps, like update difficulty every block based on the average hashrate over the last 100 blocks? It might work. I'm not sure if nodes would have problems though coming to agreement on what to set difficulty to if they need to calculate it every 10 minutes. ;1;0;False;PoliticalDissidents;dnyljjq;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"You're a moron who is making shit up.
+
+EDA change is being worked on right now.
+
+Jihan and Roger are not against it and are behind it.
+
+Unlike Core/Stream the Bitcoin Cash devs aren't megalomaniacal baby idiots.  They see what the community wants and what is technically the right thing to do and are going ahead and doing it.
+
+Go back to your Core cave and wait out the apocalypse.
+";2;1;False;NilacTheGrim;dnxoimg;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+No, this is FUD.  There are technical solutions and they are being worked on.  ETC and ETH coexist quite well.  Ignore this FUD bullshit.  This isn't the impossibility drive -- it's just engineering a good algorithm.;1;1;False;NilacTheGrim;dnxojne;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+Isn't that the other way around?;1;0;False;TiagoTiagoT;dnx4peo;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+2X took the scamwit poison pill;0;0;False;GibbsSamplePlatter;dnxy6kb;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+">> Set the difficulty based on the average (mean) block time of the last 288 blocks (48 hours worth of blocks at a normal rate).
+>
+>Let's see ... so, the BCH value drops a bit and BTC value increases a bit, BTC gets significantly more profitable than BCH to mine, no miners at all mining BCH ... and BCH is dead.  (yes, there will be miners mining BCH just to keep the chain alive, but no - the algorithm is broken if it relies on this).
+> 
+
+How on earth do you figure that? Any imbalance would be corrected in a few dozen blocks if bch's hashrate fell significantly. It could be even faster than EDA adjustment in a lot of cases.";1;1;False;SpeedflyChris;dnx6hrt;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"> The way to fix EDA is to revert back to the original difficulty algorithm that satoshi designed.
+
+Good idea.";2;0;False;NxtChg;dnxoehj;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"It's not a rush. It's been worked on since mid-August.  You don't know what you're talking about.
+";1;1;False;NilacTheGrim;dnxoksq;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"It will hopefully not create another EDA unless Core somehow manages to subvert this effort and split us into many groups.  Good luck with them doing that while fighting another war on another front against S2X.
+";2;0;False;NilacTheGrim;dnxokbj;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"> That’s why power should lie with the users.
+
+It does. If people don't like something, they don't have to use it. That's how the free market works.";1;0;False;;dnyo0do;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"My 0.02 BCH is that the easiest way to galvanize political support for a fork would be to reuse something already in use proven to work in a hostile multi-chain environment....
+
+...and if not this, then there had better be a *very* compelling reason why not.  Just my opinion.  I'm inclined to support any not-obviously-bad idea, but the path of least friction would seem to be the defensible territory of proven tech.";2;0;False;jessquit;dnxom3p;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+https://i.imgur.com/lftkunA.jpg;1;0;False;bitcoincashuser;dnxzld3;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+I'm inclined to agree here.;2;1;False;jessquit;dnxjqyv;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+Trust?  In miners?  Are you nuts?  ;1;0;False;PremiumFiend;dnx0uli;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+Interesting idea.  But I believe it's wrong.  Say you have 10% of all hashrate, then you should get 10% of all rewards.  With your algorithm, it will not play out that way...instead you will get (I believe 5%).  What that will do to incentives and miners - I have no idea.  But thats a BIG change to everything.;2;1;False;mrtest001;dnx4ii1;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"Jesus Christ, really?
+
+This is a fucking joke. BCH will be dead in a week.";-1;1;False;EvanGRogers;dnx11wp;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+There should never have to be trust... That's why I think the EDA is broken and miners should never control protocol.  ;1;0;False;PremiumFiend;dnxqm9x;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"I think you're right.  I should remove the 2nd ""b"". :)";1;0;False;jimmajamma;dnxb28n;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+I think BCH needs to dump SHA256 for a more decentralized PoW...;2;0;False;basheron;dnxm8km;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+I would say a two-way EDA, down and up.;2;0;False;mmalluck;dnx4hmm;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"> We have much in the works, building as well!
+
+First things first: get the mining difficulty fixed.";1;0;False;EvanGRogers;dnxg38i;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+How disappointing to see this. People followed them to buy BCH now they are the one who exploit and abuse the trust for short term profit.;1;1;False;ZSi2014;dnxhfc0;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+They can't even code up two lines of code that the guy who created Bitcoin already outlined for them.;1;0;False;Richy_T;dny3xo6;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"Totally agree with the notion. Yet, very disappointingly, what we hear from the miners is that they are going to WAIT & SEE. 
+
+https://www.reddit.com/r/btc/comments/74czbc/antpool_viabtc_bitcoincom_btccom_we_need_to_hear/dnxelyu/";1;0;False;ZSi2014;dnxh0ai;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+From a theoretical point of view, if all miners act rationally, can switch chain instantly, and only prioritize short-term profit, there won't be a single block mined on the BCH chain as long as it's more profitable to mine BTC.  That's the reason why the current EDA algorithm adjusts the difficulty even if no blocks are mined.  I think that's a feature it's important to keep.;1;1;False;tobixen;dnxlxee;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+But after this grinding EDA en next reward half we can just double the 21M cap.?    It’s just a number, miners wouldn’t care..;1;0;False;DasDatabase;dnxw3dm;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+I'm not convinced. ;1;0;False;Adrian-X;dnx2f2l;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+Miners chase profit so hard that they readily abandon Core. You're making my point. Oscillations are a problem of EDA. Ideology is clearly not required to attract miners, it is required to keep stability under the current algorithm. The algorithm will be upgraded and you'll be eating your words.;1;1;False;phro;dnx0p1y;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+Ideology is not required to attract miners. It is temporarily beneficial if an ideological miner dampens the effect of clumsy algorithm. Also are you implying that both chains are not working as intended? Otherwise we should see 100% switching.;1;1;False;phro;dnxlwzi;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"Well I agree that's too rapid and frankly I don't think there should be any EDAs and that would lead to Bitcoin Cash just dying off. 
+
+But the objective of Bitcoin Cash it would appear is to not care for what miners think as to weather or not it should exist. As such it needs a means of rapid difficulty reduction to achieve this goal. The only way to the counter act rapid hashrate increase is to make it so difficulty adjusts up just as quickly as it can go down. This way BCH gets to acheive it's objective of never die off regardless of POW and it doesn't get artificially fast block times as a result of difficulty going up as slow as initially intended by Bitcoin. ";1;0;False;PoliticalDissidents;dnx927b;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"I said...
+
+> because we operate under the assumption that miners are greedy and will do what is in their best interest
+
+Then you said...
+
+>Then you fundamentally fail to understand why Bitcoin works. The entire point is that everyone is supposed to be greedy. 
+
+Did I not just say we operate under the assumption that miners are greedy? So what am I failing to understand?
+
+The part where we differ is..
+
+>[miners] will act in the best interests of Bitcoin (which is also in the interests of the users). Miner's success is directly correlated to Bitcoin's.
+
+This is false. Miners will act in their own best interests. In your ideal situation their interests align with the users and the network as a whole, but as BCH has shown us, that isn't necessarily true. We have to assume the miners will act in their own best interest, full stop. The question then is, when do their interests depart from being the same as mine and yours? Well, competing chains that can be mined with the same hardware, where one has a difficulty adjustment they can game for profit is one example as we've seen. Clearly their interest haven't aligned with the users of BCH, otherwise this thread wouldn't exist, nor have they aligned with the users of BTC.
+
+So yes, miners are greedy, but relying on their greed to always align with your/Bitcoin's interests is where *you* seem to fundamentally fail to understand those of us who are critical of the idea that miners = bitcoin.";1;0;False;rslax;dnx35cm;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+No. That is the barrier. ;3;1;False;unvocal_username;dnx3eek;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"> if it has a lower return than the current situation?
+
+Because it won't have a lower return than the current situation if the market is demanding a change to the current situation.";1;0;False;jessquit;dnxq406;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+No matter how the price goes they can EDA the difficulty low enough to make mining worth their while.;1;0;False;;dnxe18p;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"> [M]iners are greedy and will do what is in their best interest, not necessarily what is in the best interest of users.
+
+This is how the game theory behind Bitcoin works. Satoshi Nakomoto realized that miners could not be trusted to act in the best interests of users. That's why he designed a system that relies only on miners acting in their own interest.
+
+The benefit to users is a byproduct of the game theory underlying Bitcoin. There is no assumption anywhere in the original paper that users' ""best"" interests are served, for any reasonable definition of ""best"". 
+";1;0;False;ray-jones;dnx4kox;I think we need an EDA fix before the Nov hardfork;7474tv;https://www.reddit.com/r/btc/comments/7474tv/i_think_we_need_an_eda_fix_before_the_nov_hardfork/
+"Back after the reminder to LOL.
+
+FYI - UASF for SegWit is what ultimately got SegWit activated. ";1;1;False;ctrlbreak;dnyh179;BTC just broke $3000!!!;6rpifz;https://www.reddit.com/r/btc/comments/6rpifz/btc_just_broke_3000/
+"Not sure what do you lol about? 
+
+If uasf were responsible for sw, sw2x wouldn't right right on course with near unanimous support to activate.";1;1;False;redlightsaber;dnym7r9;BTC just broke $3000!!!;6rpifz;https://www.reddit.com/r/btc/comments/6rpifz/btc_just_broke_3000/

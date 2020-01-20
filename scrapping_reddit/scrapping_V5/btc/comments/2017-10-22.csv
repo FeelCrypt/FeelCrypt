@@ -1,0 +1,200 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+As I said, there was no HF in history that made keys backward-incompatible, so I don't know what you want to say.;1;1;False;kixunil;doqc0d8;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+"> Sorry but you’ve fallen for propaganda.
+
+I studied Bitcoin myself enough to understand value of running full node. Hell, I understood it back in 2012 when I started to use Bitcoin. (I'm not filthy rich because I was just playing with small amounts.) There was no reason for propaganda to exist at that time! 
+
+> The idea that you need to run a so-called “full node” to protect yourself from a misbehaving mining majority is nonsense.
+
+In the world without states and similarly powerful entities, you'd be right. Bitcoin was specifically designed to withstand attacks of powerful entities. I'm not protecting against neutral miners, I'm protecting against the government.
+
+Your analogy has few problems: first, running full node isn't too expensive. Second, you think that miners are somewhat more powerful than full nodes. This is not physical world, where power makes sense. This is math. Something false won't become true just because someone powerful says so. Miners could have 100% mining power, yet their block would be considered invalid by my node, if they disobeyed the rules. Thirdly that guy isn't my enemy now, but my enemy will likely bribe him or coerce him into attacking me.
+
+> The idea that we should keep block sizes artificially small to make it cheaper for people to validate everyone else's transactions -- at the cost of making it too expensive for them to even MAKE their own -- is insane.
+
+I guess your priority is Bitcoin being system for small payments. In that case, I suggest you to use PayPal. AFAIK it does this job better right now. (I hope Bitcoin will catch up with LN.) If you want Bitcoin to be resistant to government attacks, you have to make it possible to work even in extreme conditions (censorship, slow Internet ...)
+
+> The average user has absolute ZERO need to run a so-called ""full node.""
+
+Only if you assume average user should be poor. If you have small amount, sure, SPV is enough. But once user wants to buy significant portion of bitcoins, he probably wants to verify they are genuine.
+
+> An SPV client can allow you to verify that the transactions that you care about have been included in a block with valid PoW and grow increasingly confident that this block has been accepted by the network as a whole as you watch it get buried ever deeper under more blocks with valid PoW while remaining the longest chain.
+
+This works well in these cases:
+
+* There are no government attacks.
+* There are no hard forks.
+* If there is a hard fork, you specifically want to use the one with higher hash rate and you somehow know that the hash rate won't change.
+
+Sadly, there is upcoming hardfork and people need to use full nodes to protect themselves because we don't know for sure which fork will have higher hash rate.
+
+> that difference is extremely tiny, if not essentially theoretical,
+
+It's practically the same as with digital signatures. There is almost zero probability that you'll ever see invalid one, but the moment you remove verification code and someone finds out, you'll be attacked.
+
+> Bitcoin's security model has always been explicitly premised on the assumption that the mining majority would be incentivized to be ""honest""
+
+The thing incentivising them to be honest are people verifying that they are. The only way to verify them is via full nodes.
+
+> Moreover, a malicious hash rate majority doesn't need to produce ""invalid"" blocks to defraud users or otherwise completely undermine the network's integrity.
+
+If there is a malicious majority, it'd be much more economical for them to make fake coins if nobody else verified. Since people are verifying, the only attack that they can do is double spend attack.";1;1;False;kixunil;doqbw3z;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+"> If you don't run a node, how do you know an exchange doesn't defraud you? 
+
+wait for one confirmation. the exchange has not deposited BTC to your address until you have a confirmation. 
+
+>Do you know what peer-to-peer means? It means everyone is equal. We don't have to rely on anyone to verify, because we can verify ourselves
+
+Bitcoin is primarily a value exchange network, prioritizing p2p over decentralized value exchange is what you are advocating. 
+
+>>The current system where every user is a network node is not the intended configuration for large scale. That would be like every Usenet user runs their own NNTP server. The design supports letting users just be users. The more burden it is to run a node, the fewer nodes there will be. Those few nodes will be big server farms. - [Satoshi Nakamoto](https://bitcointalk.org/index.php?topic=532.msg6306#msg6306)
+
+The designer of the system explained how it works. if you don't like the design make your own don't come here and say it's broken, because it doesn't match my myopic definition of p2p.";1;1;False;Adrian-X;doqmmxf;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+";-) There could be. but that's all that is important, backwards comparability of software upgrades is not the priority. keeping the keys secure and value stored on the keys in the blockchain. ";1;1;False;Adrian-X;doqn5a3;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+"> Non mining nodes follow valid blocks they don't verify. If they find a double spend they can't do anything. They are not what secures the network.
+
+Depending on how that double spend looks like. If it's miners rewriting history, then you're right. If there's transaction in block that doesn't belong there, they ignore that block. They are no powerless.
+
+If you don't run a node, how do you know an exchange doesn't defraud you? Do you know what peer-to-peer means? It means everyone is equal. We don't have to rely on anyone to verify, because we can verify ourselves.
+
+SPV wallets could accept fake bitcoins (""hard forks"" is the popular name for them today), full nodes never accept them.
+
+Full nodes are the thing incentivising the miners.";1;1;False;kixunil;doqcc7w;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+"The main concern when onboarding a new node is obtaining trust, that is to say, not being spoofed into coming on-line with false data.  This is prevented if the potential new node gets one single hash value correctly, the hash of the most recent block.  Thus it is very hard to spoof a new node.
+
+As to denial of service attacks, that's another matter entirely.  However, this is not the normal scenario when on boarding a new node.  There is always a tradeoff between protecting yourself against denial of service vs. fast and efficient operation.  This is true of just about any network situation, not just bitcoin.
+";1;1;False;tl121;doq4dt0;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+nodes don't need soft forks to be backwards comparable. Just new hard forks need to ensure the keys from nodes that were forked off are backwards compatible. ;1;1;False;Adrian-X;doq52u9;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+"> However, this is not the normal scenario when on boarding a new node.
+
+It's not the normal scenario, because nobody does the verification the way you described. Since potential attackers know they would be unsuccessful, they don't attack in the first place.";1;0;False;kixunil;doqcfdc;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+"Sorry but you’ve fallen for propaganda. The idea that you need to run a so-called “full node” to protect yourself from a misbehaving mining majority is nonsense. An analogy I’ve used before is wearing bulky and expensive arrow-stopping armor (that’s completely ineffective against a bullet) in an attempt to protect yourself from a guy who has a high-powered rifle and isn’t even your enemy.  
+
+The idea that we should keep block sizes artificially small to make it cheaper for people to *validate everyone else's transactions* -- at the cost of making it too expensive for them to even *MAKE their own* -- is *insane*.   
+
+The average user has absolute ZERO need to run a so-called ""full node.""   An SPV client can allow you to verify that the transactions that you care about have been included in a block with valid PoW and grow increasingly confident that this block has been accepted by the network as a whole as you watch it get buried ever deeper under more blocks with valid PoW while remaining the longest chain. SPV doesn't imply *less* security / confidence in the transactions you care about; it simply takes *a bit more time* to achieve a given level of confidence in a particular transaction of interest. (And that difference is extremely tiny, if not essentially theoretical, given how incredibly unlikely it is that you'll encounter an invalid block with valid PoW.)
+
+The only assumption you make when you rely on SPV security is that the mining majority won't accept ""invalid"" blocks.  But Bitcoin's security model has *always* been explicitly premised on the assumption that the mining majority would be incentivized to be ""honest"" and protect the integrity of the network. Moreover, a malicious hash rate majority doesn't need to produce ""invalid"" blocks to defraud users or otherwise completely undermine the network's integrity.
+
+>Many people keeping themselves secure makes it uneconomical for miners to even try to attack.
+
+Not quite. Read [this comment](https://www.reddit.com/r/btc/comments/71yyl1/is_it_really_possible_to_scale_to_billions_of/dnflcaq/).";1;1;False;Capt_Roger_Murdock;doq729a;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+I think I didn't express that clearly. I didn't mean huge (but valid) blocks. I meant Completely invalid data. Making invalid data is free. Bitcoin is unique because it can efficiently distinguish between valid and invalid and make creating invalid data uneconomical. It's more efficient if you reject invalid data right away than when you download it first and verify later.;1;0;False;kixunil;doq9lnd;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+"What you are describing sounds more like eclipse attack to me. What I was referring to is if you use ""download everything first, then verify"" approach, you risk that downloaded data will contain so many invalid transactions that doing anything with it is impractical. If you validate everything during sync, you can immediately reject invalid data (and not even store it).";1;1;False;kixunil;dopphzp;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+"That doesn't seem true. I heard Ethereum just did a very successful hard fork where everyone agreed and so there was no ""other"" chain.
+
+Making fork where keys aren't backward compatible doesn't even make sense and never happened in history of cryptocurrencies and I believe it never will happen.";1;1;False;kixunil;doppkkg;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+"Could you clarify your message? What I read now is contradiction. You write: if no one was verifying then there would be no users. That implies that users are only verifying and those who don't verify are not user. That would mean everyone verifies and that's not true, because SPV wallets (enabling using Bitcoin without full verification) do exist.
+
+My node is not keeping network secure, it keeps myself secure. I don't care how much hashpower miners have, if they mine invalid blocks, I reject those blocks and disconnect from those, who relay them.
+
+Many people keeping themselves secure makes it uneconomical for miners to even try to attack.";1;2;False;kixunil;dopprfr;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+"Bitcoin is supposed to be efficient and robust.  This seems contradictory, and actually is contradictory if people run idiotic single threaded software, which introduces artificial tradeoffs between performance and robustness, thereby creating attack vectors and encouraging denial of service attacks.
+
+The solution to this problem is to take an optimistic solution that remains tolerably efficient in the case of an attack, and changing gears as needed to a more conservative approach when necessary.
+Thus, if the attack vector is a huge block which is extremely inefficient to verify, the approach would indicate parallel validation, so that the huge block gets orphaned, rather than grinding the network to a halt.  (This approach was implemented in Bitcoin Unlimited.)
+";1;1;False;tl121;doq552x;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+"All schemes for bootstrapping a node are subject to DoS as applied to the headers.  If this can be done, then the victim can be put on an outdated chain or put on a chain which does not have the maximum proof of work and hence is not the true chain.  This situation is the same, regardless of the method to obtain the putative blockchain that is being verified. 
+
+ All you need is the correct hash of the tip of a sufficiently recent block chain and you are no longer subject to reaching incorrect conclusions.  You can validate all the block headers and show they are correctly chained and reach this hash. You can validate the content of each block to make sure it matches to the merkle root(s).  You can verify that each transaction is legal as to input coins and output coins and has valid signatures.  You can verify that each input corresponds to a prior output that has not been double spent.  It does not matter where you get the block data.  Of course if you are DDoS'd in the process of getting the block data your verification will not complete.  This will be true no matter how you get this data.
+";1;1;False;tl121;dop6sdf;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+"NOTHING will help you against misconfiguration, bugs and fork events: even if you run a full node there's no guarantee that YOUR node will not be the one misconfigured, affected by the bug or not following the fork.
+
+Moreover, you CAN easily detect these events with both SPV and full: the block time will sharply increase after factoring in DA.
+
+Also, in your extreme situation, the remaining 49% of miners will consider the block invalid, will warn the users about it, will continue mining the valid chain and will isolate colluding miners. The only result will be that colluding miners have lost money.
+
+Even if 100% of full nodes are colluding miners inflating money supply, they have a stronger economic incentive to betray the majority, mine their own valid chain, reveal it later to users and make tons of money.
+
+Security of Bitcoin is NOT built on the presence of full nodes, but on the certainty that mining an invalid block will always end with an economic loss for that miner.
+
+Excluding mining, thare's absolutely no case where you have a disadvantage by using SPV over full node.";1;0;False;PKXsteveq;dopth2n;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+"Miners verify and write transactions to the blockchain. Miners are users with the most invested in the integrity of the network.
+
+Non mining nodes follow valid blocks they don't verify. If they find a double spend they can't do anything. They are not what secures the network.
+
+your node is not securing just you. The miners are securing us all. Only providers who need to ensure they follow the mining consensus need to run a node. Think exchanges payment providers the businesses where you spend your money.
+
+They don't accept fake bitcoin. You don't either but SPV wallets don't accept fake bitcoin either unless the majority of miners are incentivized to double spend.
+
+They're not. They're incentivized to cooperate and be honest. ";1;1;False;Adrian-X;doq4xn6;Since most people seem to have already forgot again what bitcoin was invented for, here is a copy of u/hodlgentlemen's post back then;77bx9m;https://www.reddit.com/r/btc/comments/77bx9m/since_most_people_seem_to_have_already_forgot/
+Bitcoin Cash will go down as an altcoin. I don't know why I need to repeat this, but there is no good reason not to call it Bitcoin v1.0 (or simply Bitcoin). The old one is still in beta and the devs refuse to scale it! People want a better product. If you make a better Bitcoin, they will come.;1;0;False;HaroldBurleson;dopdq3l;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+Thats a vacuous statement and you know it. People aren't buying, selling, or hodling Segwit. They are simply staying committed to the legacy BTC brand, often times without knowing or understanding that they are even making a choice at all.;1;1;False;Fu_Man_Chu;dop87k7;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+"How much will it cost to open up that channel with the pizza company?
+
+Without a blocksize increase assuming Bitcoin was only used to open up lightning network channels we would be waiting in line for approximately 1 year to open up a hub. 
+
+If I had to wait a year to open a channel I will not be opening many channels and would be totally reliant on the one hub I did open up to treat me fairly. I would also have to open up the channel for at least a year, meaning that if I wanted to close the channel, the hub could force me to wait for the entire year before I could get a refund on my money.";1;1;False;SharpMud;dopdocm;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+Don't be so butt hurt about reality.;1;0;False;knight222;dop68ih;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+And your assertion is that the market is aware of the difference, actually understands segwit, and has chosen segwit... As opposed to the more likely issue that the majority if the market is just buying/selling on name recognition only?;1;1;False;Fu_Man_Chu;doppfab;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+"Ya.  These guys in this sub seem to use it interchangeably all the time, confusing people endlessly.  They want to be BTC, but they call it BCC, although really it's BCH.  Most of this sub seems to have lost their asses on this coin (besides the freebies they got from holding real BTC) and so they are awful bitter.
+
+This sub reeks of it.  Hopefully they'll make their money back on other coins.";1;0;False;kingp43x;doq5ch7;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+Core developers have changed Bitcoin from a P2P ecash system to a settlement system by introducing Segwit. Bitcoin Cash devs forked the protocol to keep Bitcoin on its original path of becoming a global P2P ecash system so two incompatible versions were created.;3;1;False;knight222;dop8l1x;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+"> goes against everything Bitcoin stands for.
+
+No it doesn't. Coinbase is a centralized off-chain transaction depot. This is ok. It's not ideal but it's ok. Side chains, lightning networks, whatever, if it's centralized who cares. The core chain is what matters.";1;1;False;berryfarmer;dopdazr;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+"Segwit by itself is not. But the rationale behind segwit was to enable the development of questionably P2P ""layer 2"" solutions that don't even exist outside of concept designs yet.
+
+Also the Segwit developers had to artificially peg the pricing of a segwit transaction at 25% that of a regular transaction to incentivize it's use. I guess it wasn't attractive enough to be used on its own merits.";3;0;False;BeijingBitcoins;dopq0rk;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+How is Segwit different from the P2P system?;1;1;False;HarinderG;dope2ra;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+"First off, if you want to purposefully use an incendiary label such as ""bcash"" then you are playing your hand too openly.
+
+Secondly, Bitcoin Cash forked three months ago and while industry insiders may perceive it as the real, true inheritor of the bitcoin legacy suggesting that the rest of the market even be aware of that dynamic is being purposefully obtuse to suite your obviously pre-arranged narrative.
+
+";1;0;False;Fu_Man_Chu;dop8b7m;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+"Meaning they don't understand that there is full blocks or big block alternatives either so maybe not but once we crash the coin using a segwit exploit/feature/bug I'm certain the will be aware of segwit ;-)";1;0;False;Plutonergy;doppp54;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+Why?;1;0;False;VerlorenesMetallgeld;dopsg6a;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+The gigantic change that segwit offers to the protocol (some even think it kill itself because of segwit) I think it's rather fair to say that big blocks and segwit are just as old.;1;1;False;Plutonergy;dopoqro;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+It will be.;1;1;False;Anen-o-me;dopprlx;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+Read the context. I'm not talking about exchanges. ;-1;0;False;poorbrokebastard;dopdobh;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+Sorry I've seen it used interchangeably with bch for Bitcoin cash so I'm a little confused;1;1;False;KarmaPenny;dopfdf1;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+ASIC boost is 100 irrelevant.;1;0;False;knight222;dop9492;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+"I think the noobs that are getting fooled are the ones entering the market now buying legacy BTC, not realizing how much it's changed from the original vision.
+
+I spend a great deal of time explaining to my clients, for example, why BTC Txs cost so much these days or get stuck in the mempool so often.";2;0;False;Fu_Man_Chu;dop8fm7;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+I didn't nail the max and I still hold a great deal of BCH but I've made more via BCH this quarter than BTC despite the fact that BTC is sucking up all the energy in the market right now.;1;0;False;Fu_Man_Chu;dop8dba;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+Free speech is confusing people? Should we call the ministry of truth to come here and solve this problem?;2;0;False;knight222;dop8nr6;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+"> How much will it cost to open up that channel with the pizza company?
+> 
+
+So all of the sudden you are worried about blockspace? 
+
+In terms of utility, opening a channel will be orders of magnitude cheaper than making a non-lightning txs. 
+
+> Without a blocksize increase assuming Bitcoin was only used to open up lightning network channels we would be waiting in line for approximately 1 year to open up a hub.
+
+100% agreed. Bitcoin will needs blocksize increases after other ways of using blockspace more efficiently are exhausted. 
+
+> 
+If I had to wait a year to open a channel I will not be opening many channels and would be totally reliant on the one hub I did open up to treat me fairly. I would also have to open up the channel for at least a year, meaning that if I wanted to close the channel, the hub could force me to wait for the entire year before I could get a refund on my money.
+
+That would be bad, I fail to see how that is an argument against LN. The scenario you are describing would be much worse without LN. If you want to make an argument that we need 1GB blocks yesterday than make it.";1;1;False;VerlorenesMetallgeld;dopv2ku;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+I don't see either of those phrases anywhere.;2;0;False;;dop45fq;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+">    How much will it cost to open up that channel with the pizza company?
+
+> So all of the sudden you are worried about blockspace?
+
+> In terms of utility, opening a channel will be orders of magnitude cheaper than making a non-lightning txs. 
+
+I have always been worried about blockspace. It is a simple question, no need to get defensive. How much do you think it will cost?
+
+
+>    If I had to wait a year to open a channel I will not be opening many channels and would be totally reliant on the one hub I did open up to treat me fairly. I would also have to open up the channel for at least a year, meaning that if I wanted to close the channel, the hub could force me to wait for the entire year before I could get a refund on my money.
+
+> That would be bad, I fail to see how that is an argument against LN. The scenario you are describing would be much worse without LN. If you want to make an argument that we need 1GB blocks yesterday than make it.
+
+Without LN then increasing the blocksize would be obvious. 
+
+Since we have this magical bullet (LN) that will solve all of the worlds ills and turn Trump back to normal color causing him to be less racist, we don't need to increase the blocksize right? /s
+
+I think we agree with each other. I am not against a LN, but I am against segwit. I would have preferred a simple hard fork that increases the blocksize and removes transaction malleability.";1;1;False;SharpMud;doqh737;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
+"If we do not increase the blocksize then we would likely be opening up a channel once every 5 years or so. This is of course assuming all of the altcoins failed and we were forced to use Bitcoin.
+
+You would open up a channel with a company like Wells Fargo. You would send as much money as you have into a multi signature account with them that would give you a refund in 5-10 years depending on the setting you choose.
+
+Since your employer uses ~~Citibank~~ Citihub and Citihub has a channel with Wells Fargo, he can pay you through the channel he opened up. Your employer transfers a bitcoin to Citihub through his channel with them, they send a bitcoin to Wells Fargo (minus their fee), and Wells Fargo transfers the bitcoin to the channel with you (minus both fees).
+
+No you want to buy pizza. You find that the pizza company uses a local ~~bank~~ lightning hub called My Credit Union (MCU). You transfer a tenth of a bitcoin to Wells Fargo, they transfer a tenth of a bitcoin (minus their fee) to MCU, and MCU transfers a tenth of a bitcoin to Joe's Pizza (minus both fees).
+
+This is how it could work.";2;0;False;SharpMud;dope2hv;How Bitcoin Cash was born.;77rviy;https://i.redd.it/z4w99iudn4tz.jpg
