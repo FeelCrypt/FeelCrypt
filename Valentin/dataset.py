@@ -128,6 +128,18 @@ def get_labeled_dataset(number_of_file = 0, from_date = "2010-01-01", date_inclu
     print("Number of files loaded : ", count)
     return pd.DataFrame(dataset)
 
+def read_today_data(threads, date = None):
+    dataset = {"text" : []}
+    
+    date_now =  moment(date).format("YYYY-MM-DD") if date else moment.now().format("YYYY-MM-DD")
+    for thread in threads:
+        file = f"../Data/Reddit_Data/{thread}/comments/{date_now}.csv"
+        if os.path.exists(file):
+            df = pd.read_csv(file, sep=";")
+            df["body"] = [str(x) for x in df["body"]]
+            dataset["text"].extend(df["body"])
+    return pd.DataFrame(dataset)
+
 def get_LDA_data():
     return pd.read_csv("../Data/LDA_Data/save2.csv", sep=",")
 
