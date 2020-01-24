@@ -1,40 +1,51 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<title>Feelcrypt API</title>
+  <title>Feelcrypt API</title>
 </head>
+
 <body>
 
-<h1>
+  <h1>
+    <center>
+      Bienvenue sur l'API de Feelcrypt
+    </center>
+  </h1>
   <center>
-    Bienvenue sur l'API de Feelcrypt
+    <img src="https://lejournaldeleco.fr/thumb-cache/301ce8b17fa74b30c7de96bc1e8eed5f.jpg"
+      style="width:1200px;height:600px;">
   </center>
-</h1>
-<center>
-  <img src="https://lejournaldeleco.fr/thumb-cache/301ce8b17fa74b30c7de96bc1e8eed5f.jpg" style="width:1200px;height:600px;">
-</center>
 
-<center>
-  <button type="button" onclick="get_pred()">Faire une prédiction</button>
-  <h2></h2>
-</center>
+  <center>
+    <button type="button" onclick="get_pred()">Faire une prédiction</button>
+    <h2></h2>
+  </center>
 
 </body>
 
 <script>
-  function get_pred(){
+  function get_pred() {
     var url = "http://127.0.0.1:8000/get_prediction"
 
-    var req = new XMLHttpRequest();
-    req.responseType = 'json';
-    req.open('GET', url, true);
-    req.onload  = function() {
-      console.log("result")
-      var jsonResponse = req.response;
-      console.log(jsonResponse)
-   // do something with jsonResponse
-    };
-    req.send(null);
+    // var xhttp = new XMLHttpRequest();
+    // xhttp.onreadystatechange = function () {
+    //   if (this.readyState == 4 && this.status == 200) {
+    //     var res = JSON.parse(xhttp.responseText);
+    //     console.log(res)
+    //   }
+    // };
+    // xhttp.open("GET", url);
+    // xhttp.setRequestHeader("Access-Control-Allow-Headers", "*");
+    // xhttp.send();
+    fetch(url).then(function (response) {
+      return response.json();
+    }).then(function (data) {
+      console.log(data);
+    }).catch(function (e) {
+      console.log(e);
+    });
   }
 </script>
+
 </html>

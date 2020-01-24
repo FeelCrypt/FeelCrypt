@@ -59,21 +59,16 @@ def get_model(texts_train, labels_train, vocab_length, max_sentence_size, epochs
     return model
 
 def get_data_to_predict(texts, vocab_length, max_sentence_size):
-    valid_sentences = list(map(lambda sentence : sentence if len(word_tokenize(sentence)) <= max_sentence_size else "", texts))
-    valid_coded_sentences = list(map(lambda sentence : one_hot(sentence, vocab_length), valid_sentences))
+    texts = list(map(lambda sentence : sentence if len(word_tokenize(sentence)) <= max_sentence_size else \
+    " ".join(word_tokenize(sentence)[0:max_sentence_size]), texts))
+    coded_sentences = list(map(lambda sentence : one_hot(sentence, vocab_length), texts))
     
-    return pad_sequences(valid_coded_sentences, max_sentence_size, padding='post'), valid_sentences
+    return pad_sequences(coded_sentences, max_sentence_size, padding='post')
 
 def get_predictions(texts, model, vocab_length, max_sentence_size):
-    to_predict, valid_sentences = get_data_to_predict(texts, vocab_length, max_sentence_size)
+    to_predict = get_data_to_predict(texts, vocab_length, max_sentence_size)
+    preds = model.predict(to_predict)
     
-    predictions_values = model.predict(to_predict)
-    preds = []
-    for i in range(len(predictions_values)):
-        if valid_sentences[i] == "":
-            preds.append(-1)
-        else:
-            preds.append(round(predictions_values[i][0]))
     return preds
 
 # -- ==user_accounts== --

@@ -10,10 +10,8 @@ import moment
 
 values_prct = [-0.02,-0.005, 0.005, 0.02]
 
-bitcoin_chart_file = "./chart_price_BTC.csv"
-
 def get_multi_class_label(values):
-    df_bitcoin_values = pd.read_csv(bitcoin_chart_file)
+    df_bitcoin_values = pd.read_csv("./chart_price_BTC.csv")
     
     length = len(df_bitcoin_values)
     data = {} 
@@ -42,7 +40,7 @@ def get_multi_class_label(values):
     return data
 
 def get_labeled_bitcoin_price():
-    df_bitcoin_values = pd.read_csv(bitcoin_chart_file)
+    df_bitcoin_values = pd.read_csv("./chart_price_BTC.csv")
 
     length = len(df_bitcoin_values)
     data = {} 
@@ -63,7 +61,7 @@ def get_labeled_dataset(number_of_file = 0, from_date = "2010-01-01", date_inclu
     
     limit_year = moment.now().add(years=1).year
     dataset = {"text" : [], "label" : [], "date" : [], "score" : [], "nb_replies" : [], "stickied" : [], "label_m1" : [], "label_m2" : []}
-    directory = "../Data/Reddit_Data/btc/comments/"
+    directory = "../../Data/Reddit_Data/btc/comments/"
     
     max_number_of_files_number = len(os.listdir(directory))
     
@@ -128,6 +126,18 @@ def get_labeled_dataset(number_of_file = 0, from_date = "2010-01-01", date_inclu
         current_date.add(day=1)
         
     print("Number of files loaded : ", count)
+    return pd.DataFrame(dataset)
+
+def read_today_data(threads, date = None):
+    dataset = {"text" : []}
+    
+    date_now =  moment.date(date).format("YYYY-MM-DD") if date else moment.now().format("YYYY-MM-DD")
+    for thread in threads:
+        file = f"../../Data/Reddit_Data/{thread}/comments/{date_now}.csv"
+        if os.path.exists(file):
+            df = pd.read_csv(file, sep=";")
+            df["body"] = [str(x) for x in df["body"]]
+            dataset["text"].extend(df["body"])
     return pd.DataFrame(dataset)
 
 def get_LDA_data():
