@@ -1,0 +1,46 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+Still sweeping...;1;0;False;swishasweetboy;dkmzse8;Guy just did this on live tv;6mut9d;https://i.redd.it/nsokakmrn69z.jpg
+My mistake. The way you use and apply them, paints you as an impecile. Have you read the thread. You were grasping at straws the whole way. But why bother telling you. You're clearly the master debater;1;1;False;;dkn50n6;Hi, my name is Ross Ulbricht;6cp2ql;https://i.redd.it/djb8i3hoh3zy.jpg
+">  impecile
+
+";1;1;False;dtiftw;dkn62px;Hi, my name is Ross Ulbricht;6cp2ql;https://i.redd.it/djb8i3hoh3zy.jpg
+As long as you get the point... You're only further vadilating mine;1;1;False;;dko2c02;Hi, my name is Ross Ulbricht;6cp2ql;https://i.redd.it/djb8i3hoh3zy.jpg
+"> your agurements paint you as an impecile
+
+I couldn't make this up if I wanted to. ";1;1;False;dtiftw;dkmm13i;Hi, my name is Ross Ulbricht;6cp2ql;https://i.redd.it/djb8i3hoh3zy.jpg
+Nice! I see you at the yacht club buddy!;1;0;False;shameless_inc;dkn6v9z;Every GPU's worst nightmare;6mjng5;https://i.redd.it/rkwou70jut8z.jpg
+Ok, I'll try it then.;1;1;False;TheTeaPod;dknbq8e;Every GPU's worst nightmare;6mjng5;https://i.redd.it/rkwou70jut8z.jpg
+Best of luck :);1;0;False;shameless_inc;dkncv30;Every GPU's worst nightmare;6mjng5;https://i.redd.it/rkwou70jut8z.jpg
+"Hey, I use the Nicehash miner since it pays me directly in Bitcoin and it's also pretty easy to use. It has a GUI (but is Windows only).
+
+Just google it, you should be able to get it directly from the Nicehast website.";2;1;False;shameless_inc;dkn6ugp;Every GPU's worst nightmare;6mjng5;https://i.redd.it/rkwou70jut8z.jpg
+"thank you. That article is a bit heavy, but I think I get the gyst. Isn't the problem always going to be that someone finds a cheat?
+
+Having said that, I can see why it's a problem";1;1;False;aviewfromoutside;dkmwqh2;Miners right now.;6otydy;http://i.gifntext.com/XONq3rINt7.gif
+"Massive legions of paid paid reddit posters flooding r/btc is a lie.
+
+asicboost talk like this is the actual propaganda.
+
+https://medium.com/@vcorem/the-real-savings-from-asicboost-to-bitmaintech-ff265c2d305b
+
+";0;0;False;bitsko;dkmu1vh;Miners right now.;6otydy;http://i.gifntext.com/XONq3rINt7.gif
+"I've been loosely following LN developments. Last time I checked, the various competing implementations didn't have a standardised routing algorithm to make it all work.
+
+Apart from that, the economics are a major question mark. The  more hops the more capital needs to be locked and the longer channels have to be open, which leads to centralisation pressure. 
+The network of hubs and merchants still has to be created, which doesn't happen in just a few months.
+
+Then also, what people seem to sweet under the carpet is the end user perspective: Having to worry about how much $$ to lock in the right channel for the right time is quite a hassle for users who just want to make a simple payment.
+
+As far as Core goes, most contributions are made by about a dozen people, quite a few of which who signed the HKA but then made no serious effort to push for the 2mb HF, which was supposed to be implemented 12 months ago already but isn't even on the Core roadmap as of today.
+";1;0;False;DerSchorsch;dkn52tn;Miners right now.;6otydy;http://i.gifntext.com/XONq3rINt7.gif
+Weird that it wouldn't just be hard forked.  But I guess people stand to make money;1;0;False;aviewfromoutside;dkmzgj0;Miners right now.;6otydy;http://i.gifntext.com/XONq3rINt7.gif
+"It is a technique that allows someone to cut a corner when calculating bitcoin's POV algorithm. Some would call it a cheat, others would call or an optimization. [Here's a technical explanation](https://out.reddit.com/t3_64pewz?url=http%3A%2F%2Fwww.mit.edu%2F%7Ejlrubin%2F%2Fpublic%2Fpdfs%2FAsicboost.pdf&token=AQAAooF1WTBxzuZIhRV8oYLOxmO_BckOr3U_HMzvCAENsJ2_ObqQ&app_name=mweb2x) . 
+
+The result is a boost in mining power by whichever companies possess the ability to use the technique. Also, certain updates to the network would make this technique less usable. So there becomes an incentive for users of asicboost to oppose updates, not based on what is good for the network, but on what is good for their own personal intetests.
+
+Many of us are concerned about this because we consider it to be a misalignment of incentives that is harmful for bitcoin's development. ";1;1;False;makriath;dkmwbuh;Miners right now.;6otydy;http://i.gifntext.com/XONq3rINt7.gif
+"If people continue finding ""cheats"", then yes, it would be a big problem.
+
+I would say this is rather unlikely, though, because the current issue isn't a problem with the proof-of-work algorithm itself (it uses SHA-256) but with how the blocker header is put together before it gets fed into the algorithm.
+
+Essentially, this was an error in how bitcoin was designed originally, and could be fixed by a future hardfork if it continues to be problematic.  In the meantime, segwit will be able to address the current issue.";1;1;False;makriath;dkmydd1;Miners right now.;6otydy;http://i.gifntext.com/XONq3rINt7.gif

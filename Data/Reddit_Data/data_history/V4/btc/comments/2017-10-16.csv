@@ -1,0 +1,804 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+Monero had last month. They are natural part of monero, so people just got used to them and no drama so far. ;71;1;False;mWo12;dofnuxv;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Agreed. Although the final story is not in. In case you haven't noticed, we have a major hard fork coming November 18 that could wipe out both SW chains causing a huge rush into BCH as a safe haven. Markets also have this nasty habit of doing head fakes to kill off as many investors as possible on the way up. BCH at 317 and holding. Pretty damn good for a 1.5 month old. ;2;1;False;H0dl;dofzt23;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Except there is, this is about the only sub where people want another hard fork for bitcoin.
+
+Personally I would rather see what lightning network does for bitcoin before the block size is increased, especially when the upgrade hasnt even been completed and tested less than 1 month from the fork.
+
+Hard forks are fine, untested, contentious hardforks without replay protection are not.";4;0;False;;dofxb3a;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+[deleted];3;2;False;;dofr44k;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"I've been in Bitcoin since 2011 and I am a small blocker.
+
+I exist, dumbass.";-6;2;False;trrrrouble;dofsntm;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+[deleted];1;1;False;;dog5cxu;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+deleted  ^^^^^^^^^^^^^^^^0.7605  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/09965);0;0;False;Paedophobe;dofqp1z;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+The EDA is directly profitable for miners, and there is certainly a contigent of the BCH community who will go along with them if they want to keep it. There have been many threads on this very sub arguing that it doesn't need improving.;-3;1;False;andytoshi;dofr3mv;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Yes, I know that people opposed Segwit it *even* as a softfork. That doesn't weaken my point, strengthens it rather.;2;1;False;ArisKatsaris;dofoth6;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Thats a much better post, thanks.
+
+Now the discussion can be about if it should be in bitcoin or not, but I dont really have a preference or the technical background about this to have an informed opinion.
+
+My point was that you cant compare the ease of hardforks in bitcoin and eth (because of different design), dont you agree?";-9;1;False;slashfromgunsnroses;dofocfm;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+What the group is good for ertherium?;1;0;False;lamhocminh;dog05r1;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> the soft fork can never be undone
+
+You can undo it with a hardfork. The HF would forbid output to new SW addresses, but it would still enable spending of existing SW outputs.
+
+> unupgraded clients see them as valid transactions
+
+Miners using old nodes can produce invalid blocks. This is not a problem. If you are mining, you better update the software, and then there is no risk. If you are not a miner, it doesn't matter what you node believe.
+
+> if you try and undo the fork later on, then old segwit transactions can be spent by anyone transacting within that same block
+
+Even if you disable creation of new SW outputs, there is no reason to also enable anyone-can-spend again. Why would you do that?";7;1;False;edtatkow;dogfflt;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Empty argument, no correlation.  This hard fork will be on the BTC chain with no replay protection and there will only be one winner.;4;1;False;DataGuyBTC;dogfxn3;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Technologies like LN do not need to implement anything ON bitcoin, so no consensus is needed on that.
+
+Yes you are technically correct, the issue is infrastructure needs to be built and it won't be unless there is a pressing need. If it's easier to just transact on-chain, no wallet would build L2 interfacing - until it's too late.
+
+
+>I can not understand how it's too much attention that can not be handled.
+
+The power of exponential growth. Bitcoin's growth exponent is far larger than hardware growth exponent. It was kicked off too soon, and Bitcoin simply cannot handle world's transactions on-chain, being a gossip network where every node knows of every single transaction ever made. It needs to offload these off-chain, with the off-chain operating with the same underlying tokens, and where every node doesn't need to know every single transaction in Bitcoin universe. This is what LN attempts to do.";1;1;False;trrrrouble;dogdcn3;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Bitcoin was designed to be contentious. That's one of its best traits.
+
+We should be happy this is happening.
+
+The Constitution failed to truly separate the 3 branches of government - the Executive is essentially everything - but Bitcoin seems to be pulling it off, allowing secession whenever one side feels gypped. ";0;0;False;EvanGRogers;dog737j;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> This is hardly the revolution we'd been hoping for.
+
+Maybe it's not revolution you were hoping for, but it's the one we got. And many people in countries around the world are finding value in it.
+ https://coin.dance/volume/localbitcoins
+
+Maybe you have some pipe dream in your head about how things should be, but that's not the real world. The universe doesn't owe you something else. ";1;1;False;_Mr_E;dogds2t;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"The idea of ""code as law"" has no backing. The entire point of blockchain is **consensus**, not immutability. If everyone in the system agrees to remove something from the blockchain, then it's completely valid, because blockchains aren't about immutability, they're about coming to consensus and agreeing about the state of the blockchain.
+
+I'd agree if the funds were just lost due to user error, but weren't. Someone straight up stole them. We wouldn't put up with that anywhere else in the world, so why would we let a malicious party get away with it on a blockchain? It's not because ""blockchains are immutable!"", because that is **not** the point of blockchains.
+
+> rather than our present system of ""justice"", which ultimately is enforced by guns and nuclear bombs, despite all the blather about democracy.
+
+In this case, ""justice"" was enforced by a direct democracy. There were no guns or nuclear bombs. The majority of people agreed that the thief didn't deserve what they took and that letting the thief keep what they stole would destroy the Ethereum ecosystem, so the majority undid the actions of the malicious party. A minority did decide that the thief earned what he got, which is completely valid and is the reason ETC took <10% of the hashing power. I'm completely fine with ETC existing, but they have <10% the tx volume/market cap for a reason.";5;2;False;flygoing;dogjpfz;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Some Core supporters believe small blocks are integral...
+
+Here is the problem. Why can only *they* determine what is a ""small block""? There were discussions allowing blocks up to 1GB or higher. One of the simplest plans was a one time increase to 20MB, so even SegWit2x where people are pulling out their hair and jumping off bridges is *way* smaller than that. SegWit2x is very small to people who believe blocks should be unlimited.
+
+Then there is the other side of the question. Why is 1-4MB not too big?? What if some people think blocks should be much smaller than that? (Yes, actually some people DO believe that). Why is it that only Core can say EXACTLY what is small and what is big? The truth is they can't. They're just stubborn and unwilling to work reasonably with others. THAT is the real problem.
+
+";7;0;False;acoindr;doghdbl;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"I think its different because he's been gone so long... I don't think his voice would be as dominating to bitcoin as vitaliks is to ethereum. 
+
+My unpopular opinion on the matter? Its easier to hard fork Monero and ethereum because as you said they are centralized but also because the stakes are much lower. Ethereum isn't a world changing currency it's a contract technology... It's value isn't tied to all the really hard problems that bitcoins value is tied too.. same with Monero, it's far too bulky for mass use and will always be niche.
+
+Bitcoin is hard to upgrade because that's important for it's value proposition. It's immutable currency. It's not supposed to be ""upgraded "" because ""upgrades "" is how governments or controlling entities would sell changes to the populace that could undermine bitcoins revolutionary aspects.";-5;1;False;throwawaytaxconsulta;dofr44s;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+I see more development and adoption considering its age;3;0;False;;dog29gh;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Well bitcoin cash had decentralized development, and it went even faster to shit
+
+Bitcoin Cash went faster to a market cap of $5 billion than Bitcoin and Ethereum. You idiot. ";3;0;False;Shock_The_Stream;dogdcne;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+And this is precisely the strategy invoked by core dev in its initial attempts to jam SWSF through years ago and also by the now failed bip9. Yes, we see them for who they are now. ;4;0;False;H0dl;dofturs;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Anyone with half a brain can see that the only idiotic assumption made was the one you gave concluding Satoshi must favor centralized development. ;0;1;False;H0dl;dofuxgj;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Not saying they weren't. I was addressing the specific topic of forks being discussed.;2;1;False;Themaskedshep;dofuaym;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> There will never be consensus to implement L2 on Bitcoin if Bitcoin is scaled on-chain
+
+Technologies like LN do not need to implement anything ON bitcoin, so no consensus is needed on that.
+
+> just check mainstream media. If you see it there, that's too much attention
+
+I think it's a lot of attention, but I can not understand how it's too much attention that can not be handled.
+
+> Bitcoin needed to fly under the radar until L2 was ready
+
+Why? Why can not handle the current attention?
+
+I do not see anything obvious in what you say because you're making nonsensical assumptions.";1;1;False;-Dark-Phantom-;dogcu2l;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+I think they just split the planned HF into two... Right?;4;0;False;d4rkshad0w;dogahmk;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"There was nothing new in that.   It claims that Bitcoin is only valuable as a new asset class to replace gold, and for a variety of reasons pushing Bitcoin to a $7.5B valuation is a terrible idea.
+
+""Truly useful"" to me means as a new substrate for transactions, able to replace a very substantial fraction of transactions.  Bitcoin both don't have the scaling technology, and have a basic structure that is in the way of this (the mining payout structure set up is in the way, and confirmations are *way* too slow.)
+
+I think it is possible for a different coin to grow to actually work for this, though nobody has released one with the appropriate properties.  I don't think it is possible for Bitcoin to grow to do this.
+
+In what way do you consider Bitcoin ""truly useful""?  To me, it seems to have ended up primarily a speculative asset with a bubble structure, and to a small degree something that is used to facilitate some small amount of international money transfers and trade that's otherwise illegal.
+
+This is hardly the revolution we'd been hoping for.
+
+What's the great usefulness that you are thinking about?";1;1;False;eek04;dogajxc;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Okay, first lets dispel this myth that blockstream controls core. It does not. The [last core release](https://bitcoin.org/en/release/v0.15.0.1) had over 90 contributors from all over the globe, with almost all of them having no affiliation with blockstream. The lead maintainer, Wladimir J. van der Laan, who ultimately decides what changes get merged, also does not work for blockstream. You can not provide any reasonable evidence that blockstream controls core, particularly for their own benefit, at the expense of the users. It's a silly conspiracy theory.
+
+Second, a hard fork, specifically for a capacity increase, is literally in the scaling roadmap. So how is it that either core or blockstream (however you wish to conflate the two) is against a hard fork when [over 60 core contributors have endorsed it](https://bitcoincore.org/en/2015/12/21/capacity-increase/)?
+
+From [the roadmap](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-December/011865.html):
+
+> at some point the capacity increases from the above may not
+> be enough.  Delivery on relay improvements, segwit fraud proofs, dynamic
+> block size controls, and other advances in technology will reduce the risk
+> and therefore controversy around moderate block size increase proposals
+> (such as 2/4/8 rescaled to respect segwit's increase). Bitcoin will
+> be able to move forward with these increases when improvements and
+> understanding render their risks widely acceptable relative to the
+> risks of not deploying them.
+
+Your position on this matter is easily debunked with verifiable sources. Yet everyone on this sub, who also believes what you do, chooses to ignore this information. That's why I think this sub is a joke.";7;2;False;fullstep;doganme;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"I do not believe that the corporate 2x attack will succeed.  Just like BCH, it has no economic relevancy.
+
+Even if the majority of miners decide to create this fork (highly doubtful), they will all switch to whichever chain earns them the most revenue.  Based on the futures market, it's abundantly clear this new 2x altcoin is valued at a small fraction of Bitcoin.  Since it doesn't have an EDA style bribery scheme built in, it won't be able to attract miners at all.
+
+Bitcoin is resilient.  It will survive.
+
+Btw, enjoy the BCH price when Coinbase finally gives their customers access...  That's going to be a comical week.";-2;1;False;gizram84;dog3tuq;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Ok, so your position is based on the delusion that everybody that disagrees with you is part of a giant conspiracy. 
+
+No. I don't believe I said that.";7;0;False;1s44c;doftt91;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Blockstream doesn't allow ANY hard forks. Both statements are true.;0;1;False;BitcoinIsTehFuture;dog8kzp;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+It was for the transition to PoS, yet that didn't happen. :);-1;2;False;juscamarena;dogafi9;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Exactly. It forces a hard-fork, and hard forks are a perfect time to add upgrades.
+
+It keeps the community from saying ""let's just not hard-fork, it works good enough the way it is now"".";7;0;False;Symphonic_Rainboom;dog9inx;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Blockstream has been at the forefront of the fuckery since the beginning of this debate back in 2014 when they incorporated. ;8;1;False;H0dl;doftwvp;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> It seems to me that Satoshi envisioned decentralized mining but centralized development.
+
+That's a narrative/conclusion only an  idiotic dev would make ; especially a Core dev who's already in the position of power and wants it to stay that way. ""oh look! Satoshi made centralized decisions back in 2010! Nevermind that he was the only one coding Bitcoin at the time! He must favor core dev! "" ";2;1;False;H0dl;doftowz;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+To be honest, I don't post here that often and support 2x, but you gotta admit the Bitcoin Cash supporters post about blockstream a lot in relation to them fucking up this fork.;0;1;False;Themaskedshep;dofsido;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+^ Needs more doots. ;1;0;False;scoobybejesus;dogmsam;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+The idea behind it, is to force the community/devs to hard fork so they can disable the bomb and make some progress is terms of protocol development. It's like a self set deadline.;6;2;False;d4rkshad0w;dog99n3;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Uh, your title states ""you cannot hard fork to improve things"". That is very different than stating ""hard forks are dangerous"". Had you put the later in your title I wouldn't have responded the way I did.
+
+It seems to me you just admitted that your title contains a lie.";9;1;False;fullstep;dog67sg;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> all scaling options should be pursued with the market choosing which is the better way. 
+
+Agreed.  And we're seeing that in action.  No one wants BCH.  The price has plummeted against Bitcoin, all while Bitcoin is regularly hitting new all-time highs.";1;1;False;gizram84;dofz43e;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Whether you're talking about consensus in computer networks, or general consensus (as in agreement), my statement is accurate.;2;1;False;gizram84;dog9x6i;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Well I'm glad that you're enjoying yourself in this thread meaninglessly insulting me, but I'm not really in the mood to continue this back-and-forth.
+
+Come back when Bitcoin Cash or Segwit2x has had a single hardfork about any issue of contention (difficulty adjustments, malleability fixes, anything) that doesn't cause a new coin and a new chain to split into existence.";1;0;False;ArisKatsaris;dofpvtc;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"There isn't a big group in agreement with Blockstream though, it's all false consensus. The subscriber and active user counts in /r/bitcoin are fake. See the stories in /r/bitcoin about it. Blockstream's marketing arm bought that subreddit and use it as a propaganda channel. Astroturfers are all over /r/btc and seem to be reading from a script, see the stories here about that. The twitter accounts spamming NO2X are fake, see the stories about that too.
+";9;3;False;1s44c;dofqtox;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> It's only a problem because there is such a big group in agreement with them. 
+
+This group was manufactured out of censorship and controlling the discussion. It was all created.";1;1;False;BitcoinIsTehFuture;dog4skb;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Nope. Just a Hard Fork to improve the EDA. Removal is not necessary.
+No one is going to argue that it doesn't need improving so it won't be an issue.";7;2;False;kilrcola;dofnoky;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"No, Core thought they could just make an extremely complex hard fork without explaining it very well. Because either they themselves didn't fully understand it, or they were trying to hide something (How shitty it is? IDK). Which led to them having to make it an even more complex softfork because half the community saw a problem with it. 
+
+Which is what led to the conflict and the stalling.";3;0;False;324JL;dofrnqg;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+You realize that we talk about a hardfork, and that one of the biggest selling points of SegWit was that it increases blocksize without a hardfork?;8;1;False;history_is_happening;dofohe4;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"But you are mistakenly thinking they are un-related. They are *very* related.
+
+https://np.reddit.com/r/btc/comments/76rh5r/when_you_hear_this_contentious_hard_forks_are/";0;0;False;BitcoinIsTehFuture;dog4zs0;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+I don't know how contentious this is - but there is no need for a giant conspiracy to do a sybil attack.  A sybil attack can be done by a very small conspiracy, in many cases a single person.  Finding out how to leverage hashcash to prevent that was the major insight of Satoshi.;9;1;False;eek04;dofr9pp;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Well no. Clearly it didn't... (and you say I'm an idiot!) 
+
+The devs had the foresight that Hardforks were important upgrade devices. And to increase community buy in, they implemented a hardfork schedule (same with monero) and also the ice age system.";12;1;False;steb2k;dofnyb0;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"The Ethereum facebook group is controlled by bitcoin maximalists that hate Ethereum.
+
+https://np.reddit.com/r/ethtrader/comments/6tkfus/is_the_ethereum_facebook_group_hostile_to_ethereum/";1;1;False;zaphod42;dofzzqz;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"The segwit soft-fork however comes at a cost; the soft fork can never be undone. Since segwit transactions use anyone-can-spend transactions so that unupgraded clients see them as valid transactions, it also means that if you try and undo the fork later on, then old segwit transactions can be spent by anyone transacting within that same block.";5;1;False;manly_;doget1k;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Yes, just like the bcash hard fork! Oh wait, had we already forgotten about that one?;-3;1;False;vakeraj;dogfrlt;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> but the AsicBoost thing needs to be fixed,
+
+Asicboost is a relative nonissue.  Despite the claim that it is being used and was blocking segwit, no one has been able to find any statistical evidence that it was ever used.  In fact Maxwell claimed a very specific use of asicboost was prevented by asicboost and therefore was why segwit was being blocked.  I wrote a script that searched across many thousands of blocks for evidence of that specific use and came up with nothing.
+
+Segwit doesn't fix asicboost, it only makes the specific merkle-branch swapping method that Greg suggested was being used un-viable.  I also couldn't find any other evidence of asicboost being used.
+
+Fixing asicboost requires a hardfork.  The segwit2x team has already had discussions on how to fix it in a proper hardfork (later date), and Bitmain already gave their consent for asicboost to be fixed as an olive branch to bring the community together.  Naturally, Core ignored the olive branch.
+
+> Regarding market cap / share, that's not a good measure.
+
+How about transaction volume?  Eth is higher for 81 days straight, not a single miss.  How about [businesses leaving Bitcoin](https://cointelegraph.com/news/bitcoin-fees-chasing-businesses-away-dash-litecoin-benefit)?  Never heard of a business leaving Ethereum for Bitcoin.  How about fullnode count?  Ethereum.
+
+They don't have every metric yet, but the growth should be terrifying to anyone who is a Bitcoin maximalist and is paying attention even a little.  Bitcoin is a network effect; It is bleeding its network effects.";17;0;False;JustSomeBadAdvice;dog3dk8;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+lol;4;0;False;Subalpine;dog9xtr;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Correct. And it only takes one intermediary to encourage the fight between the two.;6;1;False;BitcoinIsTehFuture;dog4evm;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> until it's too late
+
+That assumption of ""too late"" (simple interfacing problem) is better than the increase of the blocks occurs too late, because that has already occurred and the negative effects are now seen.
+
+> being a gossip network where every node knows of every single transaction ever made...
+
+It is necessary to slow the adoption of bitcoin until LN it is created, where each node needs to know the status of each other node in the network, basically a gossip network as well. I do not see the logic, at all.";1;1;False;-Dark-Phantom-;dogem9v;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Many people in countries around the world are speculating in it.  That's the same value as tulip bulbs used to have.
+
+I've not seen any recent data for usage that isn't speculation, and all the data that was in the past showed comparatively small amounts of non-speculation usage.
+
+I'd be really happy to see somebody come up with non-speculative usage; I just haven't seen it apart from what I mentioned.";1;1;False;eek04;dogemn4;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"The philosophy behind Etherum's smart contracts was that the system allowed ""code to be law"".  What happened showed nothing more than mob rule.  If the bug had been in Ethereum itself then it would have been reasonable for the bug in Ethereum to be fixed.  But that's not what happened.  The bug was in the ""contract"" and all the people who lost signed on to the contract.   If they were fools, then they deserved to lose their funds. 
+
+What I saw was that the people in charge of Ethereum did not believe in their own philosophy.  And worse, when they violated their philosophy they did this for their own personal benefit.
+
+It would have been, IMO, a wonderful thing if all those funds had been lost.  It would have made it crystal clear that there was a future for smart contracts and ""code as law"" rather than our present system of ""justice"", which ultimately is enforced by guns and nuclear bombs, despite all the blather about democracy.
+
+";4;1;False;tl121;dogiinv;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Some Core supporters believe small blocks are integral to Bitcoin's censorship resistance. Others just don't want miners to have political control.;2;2;False;kmeisthax;dogg823;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> If Satoshi said to fork to 300 kilobyte blocks today, would everyone do it or would there be a public discussion first?
+
+I'm guessing there'd be public discussion and then everyone would do it regardless of how the public discussion went.";-4;1;False;ArisKatsaris;dofq7q8;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Well bitcoin cash had decentralized development, and it went even faster to shit.;-4;2;False;ArisKatsaris;dog17mx;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Really how a decentralised dev could have forced a contentious soft fork?
+
+You get a portion of the miners (even a minority thereof) to orphan rather than extend the last block if-and-only-if it didn't follow the stricter rules (the softfork).
+
+This has a chance of incentivizing everyone to follow the stricter rules, because if they didn't it would increase the chances of getting their blocks orphaned. 
+
+Different devs can even try to convince different fractions of miners of doing the same with different and perhaps mutually incompatible softfork ideas. And the miners would vote with their hashpower by orphaning or extending blocks. :-)
+
+This differs from a hardfork, because hardforks are a loosening of the rules. Orphaning blocks that *aren't* as strict wouldn't work unless you already had a majority of the hashpower, and then it automatically leads to a split chain, not a gradual conversion of the chain.";-2;2;False;ArisKatsaris;dofssfw;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Well I'm not a ""Core dev"", but sure: I may be an idiotic dev. You've not actually given any arguments to the contrary, though, not a single word by him in favour of decentralized development. If any such exist, I'm not aware of them, feel free to educate me on the subject rather than assume that Satoshi must fucking agree with you.";2;1;False;ArisKatsaris;dofujum;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Are you drunk;4;0;False;Flash_hsalF;dofwze6;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+">Actually it's only a point of contention for coins that (like Bitcoin) are NOT centrally controlled. For coins that are centrally controlled, the central controller can push whatever hardforks they want.
+
+Really how a decentralised dev could have forced a contentious soft fork?";6;1;False;Ant-n;dofsg41;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Maybe you don't :) No as free thinking person;2;1;False;btcnewsupdates;dofxkkk;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"You weren't created.
+
+Your opinion was influenced by social engineering.
+
+Others have been paid to shill.
+
+Same net effect.";1;0;False;BitcoinIsTehFuture;dog5ggk;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"So according to Satoshi there's supposed to be an official version, and according to Satoshi it wouldn't be good if anyone forks that version, and if anyone did fork it Satoshi would be warning people against using it, but according to *you* Satoshi isn't in favour of a ""centralized dev team"".
+
+What would Satoshi be saying if he *had* been in favor of a centralized dev team, do explain that to me? ACTUALLY explain, instead of you know, just insulting and snarking.";5;2;False;ArisKatsaris;dofzsa9;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Yes, the supporters of Greg Orwell's 'developers' who collaborate with the 'mods' of several censored shitholes believe that this sub is a joke. ;-1;1;False;Shock_The_Stream;dogehno;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"An altcoin can start with the necessary parameters to be truly useful; Bitcoin IMO hasn't, and the necessary changes won't happen because the community wouldn't stand for it.";2;1;False;eek04;dofwu3c;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+[deleted];2;1;False;;dofrjpp;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Do you really think that /r/Bitcoin controls Bitcoin? Don't you think it's just a little bit bigger then a subreddit?;2;1;False;_Mr_E;dofw53f;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> I do not see how an on-chain scaling that roughly follows technology can generate that.
+
+Does it follow technology advancement? How can you claim to know what the future holds? As far as I am aware, we are approaching physical limits on CPU manufacturing, to the point that future optimizations will be marginal at best.";1;1;False;trrrrouble;dogadzy;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Who is talking about Marketing? 
+
+This one here:
+
+> People opposed SegWit because it was sold as something it was not
+";3;2;False;ArisKatsaris;dofpk4z;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+I dont know that they wont. I dont either know if it would work for bitcoin, technically sure, but there would still be much discussion of what to put into hardforks.;2;1;False;slashfromgunsnroses;dofr1ec;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Seems like the guy above you agrees that btc and eth are different in that regard also.
+
+Is he paid by the blockstream shilling agency also?";2;2;False;slashfromgunsnroses;dofqqz4;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+I have 14:1 odds on my futures bet.  Feel really good about it, let's chat in 5 weeks.;2;1;False;DataGuyBTC;dogij21;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"If Satoshi had been in favor of a centralized dev team he would have said the following ; personally  attack everyone who doesn't kowtow to your agenda, censor all firms of dissent, form a corporation with lots of funding to hire an attack army, perform only soft forks so you don't lose control,cripple onchain scaling so that Bitcoin doesn't grow too big making your control easier, subvert miner tx fees to weaken PoW and economic forces, perform Sybil attacks like UASF, etc. Did I miss anything? ";4;1;False;H0dl;dog0d56;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Can you read? He warns against *minority* forks, like UASF and SW. Even you should know that Satoshi himself coded several hard forks himself in Bitcoin's evolution. That's to be expected. Why you and Blockstream insist that a centralized dev team is needed is obvious. You think the code is yours just because you are code monkeys. I got news for you ; Bitcoin is a public good accessible for ALL developers with good ideas. Get out of the way of progress. ";6;1;False;H0dl;dog02dz;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Pedaling conspiracy theories without any substantive argument whatsoever.
+
+Look at your post history. All you do is post on rbtc daily. Nowhere else. Do you expect people to believe you're not just a shill account?";7;1;False;fullstep;dogfc9e;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"No.   I don't know whether a substantial fraction of activity is manufactured, but I don't think a majority of it is.  But I also don't think believing a majority is manufactured is *completely* out there, or would require a giant conspiracy - a small one would do.  (And a relatively small fraction of manufactured activity can have an outsize influence on opinion; see what was happening with Unidan and small initial sockpuppeting.";3;0;False;eek04;dofromy;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"At this point, I think bitcoin is so hyped it is controlled by a bunch of random beliefs among people that are only barely literate about the combination of tech, economics and finance that's necessary to understand something like this.  My hope is that an altcoin will arrive that does the necessary things to make cryptocurrency really useful.
+
+(I've been a fan of cryptocurriencies since the 1990s - way before bitcoin arrived - and consider bitcoin the largest single step so far, but not enough to get us to the necessary end point.)
+
+";2;1;False;eek04;dofwbg8;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Well, 1 MB for 8 years is way below what technology advances. The speed of the internet continues to increase exponentially. If you think it can only continue for a few years, perfect, L2 is a few years from being used (supposedly) so why not increase the size of the blocks in the meantime, instead of reaching the top and losing users as already happened several times.;0;1;False;-Dark-Phantom-;dogb8ga;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+So, you don't reject something that is not what was promised to you? Must be easy to fool you;6;1;False;history_is_happening;dofpooo;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Uh, no, hes saying that on an engineering level, Segwit does not accomplish its stated goals. Its an upgrade the does nothing except allow for centralized hubs, aka banks.;4;0;False;5400123;dofu6zc;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"No one knows... But it's been years and there hasn't been one so far, and from the rhetoric isn't looking like there will be ever..its too late for them to backtrack on the no hard fork policy now.
+
+Hopefully s2x succeeds, maybe that'll change. ";3;1;False;steb2k;dofr4yr;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Ethereum And bitcoin have the same hardforking mechanism. POW / majority hashpower.
+
+Ethereum has built on top of this (socially, politically and technologically)  to ensure Hardforks are less contentious. ";4;1;False;steb2k;dofqwsj;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Again you misunderstand the basics. He is referring to the ability of one coin to plan and execute protocol upgrades without contention seen in Bitcoin. Does everything need to be explained to you?;3;0;False;7bitsOk;dofy4xe;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+lol, you clowns, of all assholes, have been the one's to criticize and demonize Satoshi as evil.  how many ways do want to try and twist your manipulations?  big blockists are the one's who've defended his original vision to the detriment of many of us esp around his clearly articulated ideas of increasing the blocksize and removing what he always said was a temporary limit.  you're a asshole thru and thru.;3;1;False;H0dl;dog1tse;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"i gave you several good answers and all you can do is respond with more distortions, lies, and attacks.
+
+the official version will no longer be a centralized core dev.  sorry.";2;1;False;H0dl;dog1vy7;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Ah, so basically you don't have an answer. You need him to be EEEEVIL, like the EEEVIL Blockstream, for him to be in favour of centralized development. Which translates to ""I can't actually answer.""
+
+Well for me, it suffices that he supported having one and only one official version, and that he said he'd discourage anyone from using a non-official version.";1;1;False;ArisKatsaris;dog11iw;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+[removed];1;1;False;;dog0xin;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Look at your post history. All you do is post on rbtc daily. Nowhere else.
+
+Of course I don't post in Core's censored shitholes. ";-1;1;False;Shock_The_Stream;dogflhl;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"By being centralized around 1 person.
+
+If Vitalik gets hit by a bus tomorrow and dies, what happens to ETH? Or is there a second-in-command champion the ETH community will blindly trust?";0;2;False;trrrrouble;dofsxzu;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+How exactly would you expect an altcoin would prevent itself from being controlled by those things? Code can only do so much and the rest is social, there isn't anything an altcoin can do about this. Only time will improve it. ;-1;1;False;_Mr_E;dofwi02;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Because if you do the increase now, that will be the only solution forevermore, because idiots will say ""we've already done this before, it worked, let's just increase again"".
+
+Bitcoin has gotten way too much attention way too soon.";1;1;False;trrrrouble;dogbjfq;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Because if you do the increase now, that will be the only solution forevermore
+
+What do you mean? If you increase the size of the blocks nobody can develop L2 technologies?
+
+> Bitcoin has gotten way too much attention way too soon.
+
+Where are the numbers that show that the attention that bitcoin received so far is too much? Obviously it's too much for 1 MB but not for a couple more.";1;1;False;-Dark-Phantom-;dogbwdy;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Well i'm not sure about that, as I don't follow ETH too closely, but they do have multiple dev teams, and a foundation, and industry working groups, so...yes. I assume things will move on just fine.;1;0;False;steb2k;doft5vc;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+(ignores futures market that shows S2X at 0.15);1;1;False;vakeraj;dogi1ve;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Nonsense, they have all the governance structures sadly lacking in Bitcoin and this is why ETH moves ahead easily on an agreed path. ;1;0;False;7bitsOk;dofy1gs;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+">  is directly profitable for miners, and there is certainly a contigent of the BCH community who will go along with them if they want to keep it. There have been many threads on this very sub arguing that it doesn't need improving.
+
+Can I eat my shoes now?";3;0;False;kilrcola;dofrdky;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+pfff ... everything strengthens your point in your world. People opposed SegWit because it was sold as something it was not and because it was made to prevent a real blocksize-increase.;6;1;False;history_is_happening;dofouo1;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"No. Because (directly repeating myself...) the design didn't magically appear, it was put in place. 
+
+There's no difference between the effort required to implement that design on both projects, one team didn't do it, the other did.";5;1;False;steb2k;dofopgr;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> The HF would forbid output to new SW addresses
+
+Not possible since P2SH-wrappped SW addresses and indistinguishable from any other P2SH adress. Also, a restriction like that would be a SF (and possibly also HF depending on what other improvements you added). :)";5;0;False;btctroubadour;doggkgb;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Lol, “no correlation” because you lost. It’s ok, you’ll just lose again.;-4;1;False;vakeraj;doggcl0;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"you still can't read, can you?  he supported one official version but not a centralized core dev team like Blockstream.  you already lost this argument, dumbass, when you claimed that a centralized dev team should control the official version.  but keep obfuscating and backtracking.  everyone can see that you're an authoritarian jackass.
+
+and fyi, Satoshi placed the 1MB limit under the recommendation from Hal and one other dev, who convinced him it was necessary at the time to protect against dos attacks and that it could easily be removed when the network grew to a larger size; like where we have been for several years now.
+
+get lost, core sympathizer.";3;0;False;H0dl;dog2f0y;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"who said that's what i want?  the game theory is clear to me; when 2x wins and snuffs out the 1x chain, all those current core devs will come sheepishly over to code 2x under Jeff's lead b/c *they have to*.  no one is stupid enough to fall for your posturing that all those self proclaimed cypherpunks have the balls to walk away from all their investments and fiat paychecks given to them by their corporate overlords.  lol.";3;0;False;H0dl;dog2jsl;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> If you increase the size of the blocks nobody can develop L2 technologies?
+
+There will never be consensus to implement L2 on Bitcoin if Bitcoin is scaled on-chain, yes, because people are quite naive en masse.
+
+>Where are the numbers that show that the attention that bitcoin received so far is too much? Obviously it's too much for 1 MB but not for a couple more.
+
+Uhh, just check mainstream media. If you see it there, that's too much attention. I don't see why you need numbers for something so obvious. Bitcoin needed to fly under the radar until L2 was ready, and now? I don't know what's going to happen. I hope L2 goes live soon.";1;1;False;trrrrouble;dogc40n;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> My unpopular opinion on the matter? Its easier to hard fork Monero and ethereum because as you said they are centralized
+
+In what sense is Monero centralized? Development of the reference implementation happens in the open, and due to ASIC-resistance I would expect it has better mining decentralization.
+
+> same with Monero, it's far too bulky for mass use and will always be niche
+
+Out of curiosity, what do you consider ""bulky"" about it? I'm not a Monero fanboy but from what I read it has pretty interesting properties. I found the QT-Wallet very straightforward to use.
+
+";4;0;False;Lazerguns;dofsih0;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Well that's just your opinion. It's been greatly useful and it continues to get more useful all the time. Quite the negative Nancy over here. 
+
+You should probably read this: http://nakamotoinstitute.org/mempool/its-not-about-the-technology-its-about-the-money/. Changing some parameters ain't gonna be enough to overthrow Bitcoin at this point.";0;1;False;_Mr_E;dofxe5l;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"You are throwing insults my way because you have no argument and are afraid of facts.
+
+https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
+> I don't believe a second, compatible implementation of Bitcoin will ever be a good idea.  So much of the design depends on all nodes getting exactly identical results in lockstep that a second implementation would be a menace to the network. 
+
+.
+
+> A second version would be a massive development and maintenance hassle for me.  It's hard enough maintaining backward compatibility while upgrading the network without a second version locking things in.  If the second version screwed up, the user experience would reflect badly on both, although it would at least reinforce to users the importance of staying with the official version.  If someone was getting ready to fork a second version, I would have to air a lot of disclaimers about the risks of using a minority version.  This is a design where the majority version wins if there's any disagreement, and that can be pretty ugly for the minority version and I'd rather not go into it, and I don't have to as long as there's only one version.
+
+.
+
+> I know, most developers don't like their software forked, but I have real technical reasons in this case.
+
+Ooh the importance of sticking with the official version. Official version, so very decentralised.";6;1;False;ArisKatsaris;dofvaku;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+The narrative that all hard forks are bad came from Blockstream. ;3;0;False;H0dl;dofuz4w;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+LOL, everyone with half a brain knows that Van der Laan does everything that the Cyber Terror Officer tells him to do. ;-3;1;False;Shock_The_Stream;dogdv5c;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"You love to make it sound like 2x only involves the major merchants and miners. You totally try to sweep under the rug that they have the full support of the big block community and the thousands who have been banned in r/Bitcoin. The reckoning is here.
+
+That futures market is another demo of corruption at bitfinex. It's biased. Btw, due to repetitive replay attacks, both SW chains are at high risk. Coinbase is just sitting back waiting. All accounts that wanted their money out to sell BCH probably have already done so ; they were warned to do this for months. Depending on the state of BTC after the fork, they may represent the best of all BCH hodlers. ";2;1;False;H0dl;dogc24h;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+It's hard to tell abusive people from deliberate trolls. Not sure which you are yet.;3;1;False;1s44c;doftu70;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+[deleted];-5;1;False;;dofrh2f;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+https://yourlogicalfallacyis.com/black-or-white;0;0;False;trrrrouble;dofu47j;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> People opposed SegWit because it was sold as something it was not
+
+So the people who are e.g. saying that it will cause everyone to lose their coins, that it's unsafe, etc, etc, would have supported it if not for the *marketing*?
+
+I somehow doubt it. But even if that was true, that's a point in favour of Segwit (nothing wrong with Segwit, just with how it was it was sold) and against its opponents (who focus on the idiotic marketing, rather than whether the technology itself is good or bad).";4;1;False;ArisKatsaris;dofoye2;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+But the reality is that bitcoin doesnt have ice age still, so you cant compare. Its trivially true that if bitcoin had a better hardfork system, it would be easier to implement hardforks. But it doesnt have that.;1;2;False;slashfromgunsnroses;dofpbf3;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+There is no correlation because Bitcoin Cash was a planned hard fork with replay protection that did not go for the BTC ticker.  That is exactly the opposite of what will happen in a month.  Segwit2x will upgrade BTC and there is nothing you can do to stop it.;3;1;False;DataGuyBTC;doghl14;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"And yet you still can't fucking dispute a single word I said. Feast on FACTS, you asshole. Satoshi supported having one official version. Satoshi said he'd discourage a non-official version.
+
+And just to make you stew in your rabid insanity some more: Satoshi limited blocksize to 1 MB by himself, without any interest in discussing this decision with others, not with other developers, not with miners. And what's the process he gave for increasing the blocksize? Why he himself increasing it in the code, without again any input from others.
+
+So much for his supposed love of 'decentralized development'. So much for mining hashpower getting a vote.";1;1;False;ArisKatsaris;dog22qn;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Yeah, instead of having a dozen Core developers working independently of the miners, you want a single Segwit2x developer that has been hired by the miners. That's 'decentralization' according to you.;1;1;False;ArisKatsaris;dog2an0;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+I don't have an issue with sticking with a majority version of the code. That has nothing to do with what you just claimed, however, which was having a centralized dev team like Blockstream Core. Logic much? ;1;1;False;H0dl;dofzmfc;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+If this is the extent of your argument, it only serves as further evidence of how much a joke this subreddit is.;8;1;False;fullstep;doge1cl;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> You love to make it sound like 2x only involves the major merchants and miners.
+
+I'm not ""making it sound like that"", that's just reality.  
+
+> You totally try to sweep under the rug that they have the full support of the big block community and the thousands who have been banned in r/Bitcoin
+
+Ok, so the same community that supports BCH?  I'm not too concerned.  That's an insignificantly small number of users that don't represent a large economic position.
+
+> That futures market is another demo of corruption at bitfinex. It's biased.
+
+People like you just need a way to justify in your head why the BT2 token is trading at such a low price.  So you come up with fictitious ways in which it must be ""biased"".  It's called cognitive dissonance.  You can't simultaneously believe that the 2x fork is going to succeed, but also see that the price is trading so low.  So you concoct a fantasy scenario in which the BT2 token must be biased.  It's kind of funny.
+
+The reality is that the [token constraints are not biased at all](https://www.reddit.com/r/btc/comments/763c5q/the_official_ticker_for_bcore_altcoin_has_been/dob67hf/).  The reason why the price is so low is because no one wants 2x.
+
+> Depending on the state of BTC after the fork, they may represent the best of all BCH hodlers. 
+
+The BCH price can't be improved by Coinbase releasing their millions of BCH tokens.  Right now, all of those tokens are essentially being ""held"", as you put it, the ""best of all BCH holders"".  Once Coinbase releases them, at least some of those people will sell.  So the price can only go down.  The only way this scenario doesn't affect the price of BCH is if every single Coinbase BCH recipient continues to hold, without exception.  I think we both realize how unlikely that is.
+
+So the question simply becomes, how many of these new BCH tokens will get dumped on the exchanges?  Only time will tell.";3;1;False;gizram84;dogfdnq;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+No.  But I don't believe all subscribers to /r/bitcoin has a single belief - I believe I am still a subscriber, and I don't have the same belief as the moderators there.;6;2;False;eek04;dofribd;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> I think it makes total sense to first gain independence from direct on-chain scaling before the physical inability to scale causes bitcoin to enter a death spiral (or worse, complete centralization) when it reaches some semblance of adoption.
+
+Where is the math that proves that? I do not see how an on-chain scaling that roughly follows technology can generate that.
+
+On the other hand, waiting for years for L2 was not only obvious what it would generate, the users were suffering the negative effects for a long time.
+
+> I am done with this place
+
+Perfect, go back to the subreddit where no one will discuss your arguments because the answers are all hidden for no reason.";1;1;False;-Dark-Phantom-;dog7txf;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Who is talking about Marketing? Most people rejected SegWit because it was not much enough. This is why SegWit immediately got a strong consensus after it was combined with a 2mb hardfork. But some idiots are campaigning to break this consensus now ... 
+
+Amaury made a nice quote: SegWit is a very complicated way to achieve not so much. That's why it is not what Bitcoin needs at the moment ... or, what Bitcoin needed ... ";4;1;False;history_is_happening;dofp263;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Right now, yes there is a difference - but the real question is WHY is there a difference?
+
+Ethereum didn't start with it, it was added in.
+
+Its not that bitcoin cant have it - the dev team wont implement it.";7;1;False;steb2k;dofpnc4;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+idiot. Bitcoin has a hard fork mechanism built in from the start. Your assigned talking points and lack of knowledge make you unsuited to comment on Bitcoin technology - but it does show how shallow the talent pool is blockstreasm shilling agency ... ;7;1;False;7bitsOk;dofq4jl;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"I am tired of explaining this position and for naivety to win over by pure mass.
+
+Short version
+
+>We should get L2 rolling first, before we can consider upping or removing the limit. First L2, then remove limit. Not first remove limit, then never come up with L2 because increasing the blocksize is easier and ""tested"".
+>I think it makes total sense to first gain independence from direct on-chain scaling before the physical inability to scale causes bitcoin to enter a death spiral (or worse, complete centralization) when it reaches some semblance of adoption.
+
+
+
+Edit: fucking herd behavior downvoting instead of an argument.
+
+I am done with this place. Fuck this.";2;1;False;trrrrouble;dofz6w6;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Well btc has had centralized development and it went to shit.;3;1;False;;dofzgl2;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+">And if they represent a sizeable group, you can't say it's ""out of nothing"".
+
+Well what if it is a small that control most major Bitcoin communication channel?
+
+Suddenly they can appear like they are much large than in reality..";7;0;False;Ant-n;dofvs8f;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Well then you haven't been looking very hard.;1;1;False;_Mr_E;doggziw;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Contentious hard forks are different than hard forks with mass agreement. BTC, a long while back, successfully hard forked without fighting and with major consensus.
+
+Isn't ETH essentially controlled by one person? Also, ETC and ECH had a VERY contentious HF a few years back.
+
+The market will decide on the better currency.";12;7;False;EvanGRogers;dofpxb2;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+So if you mean bandwidth, how much would LN need to be able to send status changes to each node and how does it compare to sending transactions? To clarify, I think that a node in bitcoin is only for companies, not for each user (it would be unrealistic to try that each user have a node, even if all the transactions are moved to LN).;1;1;False;-Dark-Phantom-;dogiyz1;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"The Chinese Mining Cartel stalls segwit adoption for a year and then blame bitcoin-core for how slow segwit adoption is taking at the same time, sounds like a plan if you want to find a reason to do a hostile take over the bitcoin project.
+
+If you really want a future hard fork (Block size increases are in bitcoin core's roadmap) then stop trying to fork, create contention, forcing a hard fork just 3 months after a soft fork which is too rushed.";-2;1;False;ImReallyHuman;dogn2gq;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"I think there has been 5 Monero HF in a little more than a year.
+
+5!";8;3;False;Ant-n;dofsecb;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+It's only a point of contention for centrally controlled shitcoins that push a narrative;13;1;False;funk-it-all;dofo1jt;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Really? Because this sub can't stop posting shit about it.;-4;1;False;Themaskedshep;dofqu80;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"""She's TOO pretty.""";14;1;False;intertron;dofy523;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Yep, and they had found last minute consensus related bugs in one of the clients. Complexity is an issue, but it's not a showstopper
+
+";14;0;False;mcgravier;dofquy7;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Lots of genius behind ethereum. Has to be. The currency of the far future will surely be computational power.;5;0;False;Idtotallytapthat;dogae8n;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"I mean that when I run my node with ports open for a few days at a time, I get something like 70GB uploaded to 1GB downloaded, that's not sustainable if allowed to grow.
+
+Storage also sucks, don't get me wrong, but doesn't present a real a problem as far as I can tell.";1;1;False;trrrrouble;dogiln5;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Well, there are solid reasons to include the bomb.;8;2;False;d4rkshad0w;dog2sro;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+They never said that. Yet it is voted to the top of this subreddit. This subreddit is a joke. ;9;1;False;fullstep;dog00jy;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+">and one cancelled due to lack of consensus
+
+You just showed exactly why bitcoin hasn't planned a hard fork yet.  No proposal has ever gotten consensus. ";0;3;False;gizram84;dofsjg9;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+">They bought big in 2014
+
+Do you have any proof of this? I was unaware of this.";2;0;False;BitcoinIsTehFuture;dog4dm2;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Wow you're right. I must have missed the part where Vitalik pointed and ordered everyone to upgrade their software.;17;1;False;Ranguvar;dofspmw;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Contentious hard Forks are a problem
+
+The problem is that Blockstream create contention out of nothing.";34;2;False;1s44c;dofqejd;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Well **Contentious** *Soft* Forks are even more of a problem. Segwit have led to a split in August and will likely lead to another split in November.
+";7;0;False;Ant-n;dofvpy5;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+I wonder where that came from? Did it magically appear in the code? ;13;1;False;steb2k;dofnu4g;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+now, how do you get consensus when people like you have no problem with the censorship and sanctioned misinfo?;2;2;False;Geovestigator;dofwo7m;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"The thing is:
+
+Blockstream themselves *created* the rift of ""contentiousness"".
+
+They were also the ones who introduced the term ""contentious"" to the scene, accusing all new implementations of it. Remember when they started slinging around the term ""contentious"" like crazy, starting with XT when it was gaining momentum? That's when it began. I had never heard the term in the Bitcoin space before that moment. Then it was like wildfire.
+
+Blockstream, in cahoots with theymos, divided the community with censorship by utilizing theymos' control over discussion platforms, and then *manufactured the rift* between the two sides which they then pointed at in cries of ""contentiousness"". **They created the contentiousness.**
+
+It was all fabricated by one group. I hope we expel them soon.
+
+I think when they are gone and (if) their censorship is no more, both sides can come together once again. But that will require the manufactured and continually upheld rift between both sides to be dissolved. Again: one company is creating this situation. Blockstream. Their name was very aptly chosen.";2;0;False;BitcoinIsTehFuture;dog4ya4;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+The only people making it contentious is Blockstream/Core for no logical reasons. That's why they are getting fired so there will be no more contention.;5;0;False;knight222;dofycj7;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+If Satoshi said to fork to 300 kilobyte blocks today, would everyone do it or would there be a public discussion first? Hard forks and community-oriented consensus can coexist.;16;1;False;frozengrandmatetris;dofq3jp;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"They defined contentious hard forks as 'impossible', and they assigned the right to define 'contentious' to staff and contractors working for Blockstream. 
+
+Other people, not paid by one company, just call it lies and corruption. ";11;0;False;7bitsOk;dofq1mj;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Any restricting of the block size at all is a hostile takeover attempt. 1MB is hardly any different from 2MB. 
+
+";13;1;False;poorbrokebastard;dofw7lc;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+They say you can't make a hard-fork if it's contentious, and they consider every potential hard-fork contentious. So it's essentially the same.;17;0;False;jojva;dofpjnf;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> If Satoshi had stayed and thrown his support to Segwit or any other scaling solution
+
+Segwit is the opposite of scaling. Quadruples the payload and attack vector by just doubling the txs capacity. ";18;4;False;Shock_The_Stream;dofma5t;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Your logical fallacy is, you thought that HF is riskier than SF.
+
+That's one misinformation pushed under censorship. And you are one victim of censorship.";21;1;False;webitcoiners;dofmcqs;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+So is your mom. ;7;0;False;Kain_niaK;dog0tap;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Only on r/btc can you scroll to the bottom to find the only correct answer.;1;0;False;ltblackwater;dog2ubn;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Ethereum is so centralized around 1 guy
+
+Yup, just the other day he showed up to my apartment and broke my legs if I didn't upgrade my node... and I don't even have one! /s";5;0;False;TXTCLA55;dofwdph;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Censorship can help destory consensus when it exists...;7;0;False;Geovestigator;dofwora;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+So, as long as you have no authority to follow, you behave like a stubborn chield and reject everything?;13;1;False;history_is_happening;dofmvz8;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Yes.. that thing you can achieve is called ""progress""";70;1;False;funk-it-all;dofo0vw;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Its the best way to patch in upgrades to the protocol without leaving technical debt behind.;36;2;False;zombojoe;dofo69g;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+but the people ethereum are now all not happy for this h;-9;1;False;lamhocminh;dofrmr6;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> ...L2 doesn't need to broadcast every transaction to all nodes.
+
+Each transaction changes the distribution of the funds in each channel that is used in the path, that information has to be distributed to the other nodes so that they can know if they can use those channels in future transactions.
+
+> I disagree that upper levels need as much decentralization. I consider your desired result to be impossible in reality. Trade-offs must, unfortunately, be made, but the sanctity of L1 must never be compromised.
+
+I also think that, for that reason any second layer technology has to be optional and not be the way to scale bitcoin. Bitcoin has to scale on-chain so that all users can choose between these trade-offs, instead of being forced to use second layers (which would have worse decentralization).";1;0;False;-Dark-Phantom-;dogmu45;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Anyone was receiving phising emails?;2;0;False;ridersonthestorm1;dog3e1q;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"The core developers even have a list of things that should go into the next planned hard fork. They certainly never said that you cannot hard-fork.
+
+Some may say that hostile hard forks are now very difficult or impossible to do successfully. This is reasonable, if you look at the sequence of recent hard fork attempts that all failed to supplant bitcoin.";9;0;False;hgmichna;dofwteh;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Steem is working on hard fork 20, 18 successful hard forks (and one cancelled due to lack of consensus) in less than 2 years.;5;1;False;Demotruk;dofpta5;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Where have they said this statement? Source please.;10;1;False;cryptoceelo;dofwo01;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"They also have a ""centralized"" figure and a built in difficulty bomb. Meaning if they didn't hardfork there wasn't going to really be ETH as the ice age set in.
+
+But yes, hardfork nbd, and more planned down the road.";11;1;False;microgoatz;dofsrj4;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Blockstream and NO2x astroturfers adore Ethereum. They bought big in 2014 and are doing everything possible to Myspace Bitcoin so their Ethereum investments fly past the moon. The plan is working awesomely. 
+
+";2;1;False;Yheymos;dog48zs;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+I think it is true in ethereum's case that it can be hard forked to be upgraded. It is not as true with Bitcoin because of the insanity of that team. Another negative factor toward hard forking Bitcoin is the religious zealotry of the user base. And they tend to be fractious. Bitcoin lacks a strong leader. Say what you want about that being a good thing in the interest of decentralisation. Strong leaders are helpful in any initiative if they are good at what they do.;3;0;False;Dumbhandle;dog3unk;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+No one says hard forks don't work. We just don't want or need one right now for Bitcoin. ;10;0;False;marthor;dogd3ne;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"BlockstreamCore is walking a tightrope. They want people to use LN and future sidechains they've developed, which means pushing users off-chain by artificially limiting capacity. At the same time, both the  LN hub and sidechain networks require larger blocks to work at scale. Without larger blocks they are insecure, overly expensive and users won't want to use them.
+
+This is why they've been so controlling. They want to force users off-chain FIRST and keep them there, and then afterward allow on-chain transactions only for on-boarding people into their privatized network. It's centralization and corruption at its worst. Bitcoin used to be an open source project and BlockstreamCore has tried to hijack it.";13;1;False;Annapurna317;dog0o61;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+The complexity of etherium puts me off the product - but I have plenty of admiration for the community. Hats off to them!;23;3;False;bitcoind3;dofp89p;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Yes but here there was no other coin created. ;8;0;False;-stvnz-;dofy66g;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Monero has had a bunch of hard forks too, I didn't realize it's still a point of contention.  Then again I left the r/bitcoin sub a long time ago... 
+
+edit: word";61;3;False;DeviousNes;dofng0x;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+It's incredible what you can achieve when you don't have to fight an army of astroturfers who decry a network upgrade with large support by exchanges, wallets and miners as a hostile takeover attempt.;196;5;False;LowCarbForTheWin;doflf4u;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Some of us over at Monero know that well enough :);5;0;False;;dog32fg;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Bitcoin was supposed to also. Satoshi provided the sample code for how to do a hard fork prior to blocks becoming full. This was averted by the company Blockstream.;1;1;False;BitcoinIsTehFuture;dog5f5q;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+[deleted];-2;5;False;;dofqcas;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Why waste a hardfork on something stupid like a 2MB increase? Let's get the biggest bang for our buck... if you will. ;1;0;False;Andaloons;dognrak;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Well, eth has a built in hardfork schedule afaik, so its not really comparable.;-20;2;False;slashfromgunsnroses;dofng6r;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+[deleted];-3;2;False;;dofw9l0;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Actually this makes bitcoin special. Every other coins can HF many times nobody care, nobody can hard fork gold and call it gold;-8;0;False;yogibreakdance;dofr4q3;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"No one ever said ""no hard forks ever"". They said no contentious hard forks.
+
+I'm not aware of a blocksize increase proposal that had widespread concensus from all constituencies (users, developers, miners, merchants, exchanges). ";-5;1;False;gizram84;dofsias;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"When Vitalik says something, everyone obeys.
+
+When Jihan says something, some obey.
+
+When Roger says something, some obey.
+
+When Gregory says something, some listen, debate then come up with their own opinions.
+
+When CSW says something, everyone rolls their eyes.
+
+When McAfee says something, everyone can't get the image of him eating a dick out of their minds.
+
+
+This is why hardforks are possible on Ethereum, but contentious on Bitcoin.
+The infrastructure is more hodge podge in Bitcoin, so hardforks would literally stop businesses and create permanent forks all day.";-1;1;False;machinez314;dogc7ff;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+">they say you cannot hard fork to improve things
+
+Citation needed. Oh wait you can't link to anything because they _never said such a thing_.
+";-6;2;False;trilli0nn;dofp6ne;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+You mean Ethereum Core updated with a fork. Yeah, core developers are powerful.;1;0;False;BV5A6cx9NBZU78jDGG3t;dogllyl;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Let me guess, unlike Satoshi, the creator of Ethereum is still around and approved the hardfork, right?
+
+If Satoshi had stayed and thrown his support to Segwit or any other alternative proposal, I bet there wouldn't be much opposition to such either.";-18;3;False;ArisKatsaris;dofm62m;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Of course it is easy to upgrade ethereum, it's centralized. Every centralized coin is easy to hard fork safely.;-2;1;False;Paul_McCuckney;dofwewz;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> how much would LN need to be able to send status changes to each node and how does it compare to sending transactions?
+
+Unfortunately to answer this I would need to come up with numbers, which I can't.
+
+>To clarify, I think that a node in bitcoin is only for companies
+
+I'd say LN nodes are (mostly) going to be run by companies, rarely by users. Although anyone can have one provided they have sufficient capital to lock up in contracts. Bitcoin itself, however, needs to preserve the ability for high-end user-grade hardware to run actual nodes to ensure decentralization.";1;1;False;trrrrouble;dogj8da;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Unfortunately to answer this I would need to come up with numbers, which I can't.
+
+Then why do you say ""One is significantly less resource intensive than the other""?
+
+> Bitcoin itself, however, needs to preserve the ability for high-end user-grade hardware to run actual nodes to ensure decentralization
+
+Why that difference in the two to achieve decentralization?";1;1;False;-Dark-Phantom-;dogjgpw;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> ""One is significantly less resource intensive than the other""?
+
+Because the transactions are spread on a need-to-know basis? Intuitively less traffic.
+
+Sorry I can't give a better answer.
+
+>Why that difference in the two to achieve decentralization?
+
+Preserves the base layer decentralization. Higher centralization on top layer is really not as important as keeping the sanctity of the base layer.";1;1;False;trrrrouble;dogjufo;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Because the transactions are spread on a need-to-know basis
+
+I do not understand what you mean
+
+> Higher centralization on top layer is really not as important as keeping the sanctity of the base layer.
+
+Your argument is that LN does not need as much decentralization as bitcoin, but at the same time you think LN is necessary for bitcoin to be usable as currency. For me that is contradictory, if LN or other second layer technology is an important part of the use of bitcoin then it needs the same level of decentralization.";1;1;False;-Dark-Phantom-;dogljzp;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"I don't know how much network traffic the LN network will need to function (know the status of other LN nodes), but I do know that transaction traffic on both L1 and L2 would be a small fraction of what it would be if it wasn't for L2, given that L2 doesn't need to broadcast every transaction to all nodes.
+
+>if LN or other second layer technology is an important part of the use of bitcoin then it needs the same level of decentralization.
+
+I disagree that upper levels need as much decentralization. I consider your desired result to be impossible in reality. Trade-offs must, unfortunately, be made, but the sanctity of L1 must never be compromised.";1;1;False;trrrrouble;doglv7z;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"ETH is centralized.
+";0;1;False;ayanamirs;dofx6ua;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+What;5;1;False;GLAMOROUSFUNK;dofsrl5;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+With less intensive resources do you mean storage? Or what?;1;1;False;-Dark-Phantom-;dogiacu;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+So you're saying that Ethereum Classic is basically commoditized technical debt?;1;0;False;dabecka;dogll0u;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+[deleted];5;3;False;;dofqpxw;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Exactly.;1;0;False;BitcoinIsTehFuture;dog4r85;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+i heard most of the segwit code was there to make it possible as a soft-fork, can anyone confirm whether that's true?;13;2;False;combatopera;dofrdj7;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+It doesn't even double it... it's a 70% increase in tx capacity, only under the most ideal conditions that probably won't exist in real circumstances, for a 400% increase in data payload. ;11;0;False;BeijingBitcoins;dofnm75;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+un-scaling;7;0;False;squarepush3r;dofnhhw;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Not to metion technical debt;3;0;False;mcgravier;dofr0nq;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Edited to 'alternative proposal' before you posted, because it's not my point whether Segwit is good or bad, my point is that Satoshi wasn't around to support or oppose it, which is what led to the conflict and the stalling.;1;1;False;ArisKatsaris;dofmhsf;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Ask the people who rejected Segwit.;-5;1;False;ArisKatsaris;dofn1jc;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+[deleted];2;1;False;;dofxjf4;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Exactly!
+
+https://np.reddit.com/r/btc/comments/76rh5r/when_you_hear_this_contentious_hard_forks_are/";1;0;False;BitcoinIsTehFuture;dog4yxy;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Yes it did.
+
+Idiot.";-20;1;False;slashfromgunsnroses;dofnv9q;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Sample ice age code? Source?;1;0;False;slashfromgunsnroses;dog8mm1;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Go the Facebook othereum;-2;2;False;lamhocminh;dofw3qz;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Yes the change made by segwit would have been trivial to implement as an HF.;26;1;False;Ant-n;dofsikg;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+The SegWit implementation was planned in two steps. First as a softfork, and then as a hardfork. The advantage of first doing it as a softfork was that you didn't need to do the header refactoring at the same time (which would add more complexity to the fork). This header refactoring can be done later on.;8;1;False;edtatkow;dofshs0;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Good, then I think we can all agree the bankster controlled Blockstream is centralizing Bitcoin and the hard fork upcoming will decentralize BTC properly.;15;1;False;DataGuyBTC;dogfpyq;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+I don't want NAP CONOP Collectivists.;1;0;False;bitsko;dogm19v;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+It's because they want to see Bitcoin cannibalize itself and lose its market dominance.;3;0;False;;dog58q9;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> And yet the most vocal members of that community are UASF hat wearers and Core apologists.
+
+That makes no sense. I just looked into Monero's block size. It apparently has a simple growth mechanism built in (limit based on median of last n blocks, something proposed for Bitcoin long ago), with NO upper limit. That would make those Core supporters big blockers... Which do they want? Small blocks or big blocks? It seems they don't know what they want.";7;1;False;acoindr;dog76q5;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+good argument. ;2;0;False;EvanGRogers;dog2wu3;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"I don't know enough about ETH, but I'd love to learn about it.
+
+Can you give me a brief rundown?
+";1;0;False;EvanGRogers;dog74jc;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> is better than the increase of the blocks occurs too late, because that has already occurred and the negative effects are now seen.
+
+It's better for Bitcoin to become a settlement network for now, yes, in my opinion. De-centralization of control is not going to happen once centralized in the hands of a mining cartel.
+
+>where each node needs to know the status of each other node in the network, basically a gossip network as well
+
+That's not true, in LN it works on a need-to-know basis. Ideally you and your transaction counterpart would be using the same node, in which case no other LN node is aware of your transaction taking place. If there is one hop, then 2 nodes are aware. Two hops, three nodes. Etc.";1;1;False;trrrrouble;doggvvm;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"You don't understand. The DAO hack drained 3.6 million ETH (now valued at almost $1 billion) into the hackers account. The Ethereum Foundation put out an open poll, and the vast majority of token holders voted to fork the network and rollback the hack.
+
+This wasn't ""one person"" controlling the network, it was the entire network coming to consensus to undo a terrible thing. 
+
+Note: Vitalik Buterin doesn't even have control to just fork the network. The overwhelming vote to fork was followed by all the Ethereum client teams (not all of which are run by the Ethereum Foundation) updating their clients to include the fork, and then miners switched to the new version to mine on the pre-hacked chain. E.g. it wasn't Vitalik that undid the hack, it was the vast majority of miners that did it on their own.";6;1;False;flygoing;dogebrf;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Must be subliminal;2;0;False;Flash_hsalF;dofww0i;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+I am a hodler but I don't intend to ever sell. I see the scalability problems as something that puts lower cap on the price compared to what big blocks would provide. I still think that cap is extremely high but as I said I'm in for the long run. I imagine Bitcoin at $30 000 in 5 years and staying there if it is digital gold and 50K in 10 years if it is digital cash (still staying at $30K if it is digital gold).;4;0;False;Eirenarch;dofsrfv;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+It takes 2 to fight;2;1;False;EvanGRogers;dog44ug;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Ethereum should have died along with the hack. Now there's two shitcoins: one that doesn't understand immutability and the other with a large amount of hacked funds. Investors beware.;-18;1;False;BgdAz6e9wtFl1Co3;dog4gnn;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+BTC and BCH are doing just fine after their HF as well. ;2;0;False;midipoet;dofztxf;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"I also don't think a 2mb increase is a big deal, but the AsicBoost thing needs to be fixed, and segwit helps with that, if I'm not mistaken.
+
+Regarding market cap / share, that's not a good measure. Andreas Ant. talked about the issue a few months back.";-10;1;False;EvanGRogers;dog2w0y;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+You *still* haven't mentioned any interesting one.  I've seen some *extremely* minor ones, but they're not at a scale where they matter, like seashells isn't a significant type of currency.;1;1;False;eek04;doghh6c;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> It's better for Bitcoin to become a settlement network for now, yes, in my opinion. De-centralization of control is not going to happen once centralized in the hands of a mining cartel.
+
+I think that's pure exaggeration.
+
+> That's not true, in LN it works on a need-to-know basis. Ideally you and your transaction counterpart would be using the same node, in which case no other LN node is aware of your transaction taking place. If there is one hop, then 2 nodes are aware. Two hops, three nodes. Etc.
+
+I am not an expert in the field but in order to find the best path in a de-centralized network, you need to know the status of each node. [This thread](https://www.reddit.com/r/btc/comments/71i6y3/a_brief_teardown_of_some_of_the_flaws_in_the/) has information about that and other issues about LN.";1;1;False;-Dark-Phantom-;doghurr;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Isn't ETH essentially controlled by one person?
+
+Yeah, I laughed when I read this part. That person has obviously never watched a live stream of an Ethereum Core Dev Meeting. It's usually 30+ of the developers on a call, plus 100s of people just there to watch the live stream.";4;1;False;flygoing;dogdzjc;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Consensus doesn't mean what you seem to think it means here.;2;1;False;Demotruk;dog9q8l;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Let us see what happens when Bitcoin Cash attempts to hardfork themselves. I'm guessing a coin for the people who want to keep EDA and a coin for the people who don't.;-8;1;False;ArisKatsaris;dofmjwl;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+There will be hardforks down the road, but it will be the last resort when it comes to scaling. I dont think you will find any dev who wont say the same.;0;0;False;slashfromgunsnroses;dofrwhy;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+">Contentious hard forks are different than hard forks with mass agreement. BTC, a long while back, successfully hard forked without fighting and with major consensus.
+
+See here's the thing. A handful of developers, and 20 to 30 Reddit fanboys is what you're referring to when you say ""mass agreement"". 
+
+You probably don't realize that. So before you disagree, hear me out:
+
+That particular subgroup was okay with the fork you're referring to.  And it went well because that particular subgroup has control over the repository. 
+
+They decide what gets approved and what doesn't. So if they don't agree, they can create the perception that there's mass disagreement.  And maliciousness. 
+
+What you're seeing ***now*** is actually mass agreement. Major companies with millions of users, large mining groups, and tens of thousands of individual users expressing an opinion. 
+
+Development is centralized in bitcoin.  And it's really unfortunate that the only way to get things done is to create an entirely new development team and an entirely new implementation of the software. 
+
+But that's what happens when somebody holds the repository hostage.";6;1;False;BitttBurger;dog8z66;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> No proposal has ever gotten consensus.
+
+No, it should be: ""no proposal has ever been approved by the Blockstream Politburo.""";10;0;False;btcnewsupdates;dofxhbr;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Contentious hard forks are different than hard forks with mass agreement.
+
+I think the BTC has been taken over by coin holders. They are less interested in progress. Ethereum, on the other hand, has a high focus on improved functionality and scalability. It is not targeted to holders, but to users. Because of that, it is easy to get consensus for protocol upgrades.
+
+And then, if a protocol upgrade turns out to be contentious, what is the problem? Let the market decide!
+
+> Isn't ETH essentially controlled by one person?
+
+If you look into the development meetings for Ethereum, you will see there are a lot of representatives from various stake holders. It is far from a one man show.";31;2;False;edtatkow;dofset8;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Contentious hard forks are different than hard forks with mass agreement.
+
+The thing is: Blockstream themselves *created* the rift of contentiousness. They were also the ones who introduced the term ""contentious"" to the scene, accusing all new implementations of it, starting with XT when it was gaining momentum. Blockstream in cahoots with theymos divided the community with censorship by utilizing theymos' control over discussion platforms, and then *manufactured the rift between the two sides* which they then pointed at in cries of ""contentiousness"".
+
+It was all fabricated by one group.";16;1;False;BitcoinIsTehFuture;dog3z2q;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Note that you are talking about knowing the status of each LN node, while I am talking about every node knowing all the transactions. One is significantly less resource intensive than the other.
+
+I am not claiming that LN resolves all the issues or is a perfect solution.";1;1;False;trrrrouble;dogi1ch;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"`5! = 5*4*3*2*1 = 120`
+
+/r/unexpectedfactorial";13;0;False;A_Wild_Shiny_Mew;dog7tip;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+And yet the most vocal members of that community are UASF hat wearers and Core apologists.;3;2;False;Produktivitaet;dofte73;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+we hard fork every 6 months. if you're going to use monero to push your narrative, at least get the numbers right. ;1;1;False;isrly_eder;dogagf6;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Ethereum is doing just fine after the contentious fork too... we're more than 10x ETC's valuation. ETC is a joke and has been since day one... it just took a while for the dust to clear. I mean, I didn't see any ETC [Hackathons with ~500 Developers this weekend....](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA);28;3;False;HodlDwon;dofwg3m;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"I am part of the potential Ethereum market.  I have decided not to participate, because I consider it to be a centrally controlled cryptocurrency, and that the one person/organization controlling it has operated unethically in regard to the ETC/ECH split, leaving me with no trust.
+";-5;3;False;tl121;dog3m5n;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Actually it's only a point of contention for coins that (like Bitcoin) are NOT centrally controlled. For coins that are centrally controlled, the central controller can push whatever hardforks they want.
+
+Satoshi himself envisioned increasing the blocksize by just personally changing the code, and then informing everyone they needed to update. It seems to me that Satoshi envisioned decentralized mining but centralized development.";28;4;False;ArisKatsaris;dofovrr;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+wtf you saying, troll? ;-3;1;False;BlockchainMaster;dog19ex;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Because people like you keep coming here to remind us of it?;2;1;False;williaminlondon;dofs1tn;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Haha - sometimes I think that. Then I look at events like the DAO and remind myself ""never stick your investments in a crazy"".";10;1;False;bitcoind3;dofzxuc;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"People that have been using it as a lifeboat in countries with failing currencies is not interesting? People have a choice for a form of money that can't be controlled or manpiluted by their government is a minor use? The creation of a money that is truly borderless and allowing frictionless global commerce isn't significant? Of course it's still relatively small, but it's growing rapidly... How else would you expect something as massive as this to play out? We'd all just wake up one day and be using it for everything?
+
+This kind of use has begun skyrocketing in countries that need it, those lbc show a beautiful story. The majority of people buying on lbc are not just doing for speculative purposes, they are buying it because they need it, because it provides another option to do things that were otherwise impossible. If you can't see that then you haven't been paying attention. ";1;0;False;_Mr_E;doghl8a;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+Yes, like what the bitcoin community experienced in terms of blocksize debate for 2+ years.;5;0;False;BitcoinIsTehFuture;dog4mmc;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+[deleted];-2;1;False;;dog6hoh;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> Contentious hard forks are different than hard forks with mass agreement. 
+
+Yes.  There's zero reasons why a simple 2mb upgrade to the network should be contentious in the first place.  Not even Core can make any technical arguments against it, all of their arguments come back to political FUD, most of which originated from them in the first place.
+
+> The market will decide on the better currency.
+
+Yep, and so far this year, the market [has severely punished BTC](https://pbs.twimg.com/media/DALFglbUMAAEre6.jpg:large) for the unbelievable incompetence.
+
+> Isn't ETH essentially controlled by one person? 
+
+No, ETH is free open source software.  Anyone can run any client they choose.  They even have multiple clients to choose from, unlike Core's insistence that there be no other clients.
+
+> Also, ETC and ECH had a VERY contentious HF a few years back.
+
+Not that contentious, 10% of the network stayed behind, and now no one pays attention to ETC.  It has a tiny tiny amount of transaction volume.";24;2;False;JustSomeBadAdvice;dog01sh;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"Where have you been? Sleeping?
+
+Blockstream's ENTIRE modus operandi is the mantra ""hard forks are dangerous"".";6;1;False;BitcoinIsTehFuture;dog4oxt;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+If centralization is progress, I don’t want it.;-15;3;False;vakeraj;dogcfrm;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+And we keep trying to explain to extremists like yourself that community concensus before any changes are made is nearly impossible to achieve given that everyone has different agendas. At this stage of the debate, all scaling options should be pursued with the market choosing which is the better way. ;13;1;False;H0dl;dofu4ad;Just so you guys know: Ethereum just had another successful hardfork network upgrade. Blockstream is wrong when they say you cannot hard fork to improve things.;76olcz;https://www.reddit.com/r/btc/comments/76olcz/just_so_you_guys_know_ethereum_just_had_another/
+"> your bet is fucking retarded. Either bitcoin becomes a reserve currency and I win 100k satoshi or bitcoin is destabilized and you win something about as useful as Zimbabwe dollars
+
+
+By that logic, [so are you](https://xkcd.com/670/)";1;1;False;xiobio;dofbvoe;Julian Assange: My deepest thanks to the US government, Senator McCain and Senator Lieberman for pushing Visa, MasterCard, Payal, AmEx, Mooneybookers, et al, into erecting an illegal banking blockade against @WikiLeaks starting in 2010. It caused us to invest in Bitcoin -- with > 50,000% return.;76ge7b;https://twitter.com/JulianAssange/status/919247873648283653
+"> govt will now be pissed off with BTC and might try controlling it niw
+
+
+now*, and hyuk, like they care. They're making decent headway killing the internet in its current form. Once that's done nothing else will matter.";1;0;False;xiobio;dofb4gs;Julian Assange: My deepest thanks to the US government, Senator McCain and Senator Lieberman for pushing Visa, MasterCard, Payal, AmEx, Mooneybookers, et al, into erecting an illegal banking blockade against @WikiLeaks starting in 2010. It caused us to invest in Bitcoin -- with > 50,000% return.;76ge7b;https://twitter.com/JulianAssange/status/919247873648283653
+"They're called intelligence agencies[.](#this ""comment is on your logic, not your spelling"") ";1;1;False;xiobio;dofbo88;Julian Assange: My deepest thanks to the US government, Senator McCain and Senator Lieberman for pushing Visa, MasterCard, Payal, AmEx, Mooneybookers, et al, into erecting an illegal banking blockade against @WikiLeaks starting in 2010. It caused us to invest in Bitcoin -- with > 50,000% return.;76ge7b;https://twitter.com/JulianAssange/status/919247873648283653
+If you think the crowd is going to agree with 1 MB blocks, you're the one who is sadly mistaken.;2;0;False;Lloydie1;dofmqbj;Julian Assange: My deepest thanks to the US government, Senator McCain and Senator Lieberman for pushing Visa, MasterCard, Payal, AmEx, Mooneybookers, et al, into erecting an illegal banking blockade against @WikiLeaks starting in 2010. It caused us to invest in Bitcoin -- with > 50,000% return.;76ge7b;https://twitter.com/JulianAssange/status/919247873648283653
+If you think Satoshi would rather his paper dictate the future rather than the crowd, you probably don’t understand Bitcoin. ;1;1;False;Sugar_Daddy_Peter;dof8w1j;Julian Assange: My deepest thanks to the US government, Senator McCain and Senator Lieberman for pushing Visa, MasterCard, Payal, AmEx, Mooneybookers, et al, into erecting an illegal banking blockade against @WikiLeaks starting in 2010. It caused us to invest in Bitcoin -- with > 50,000% return.;76ge7b;https://twitter.com/JulianAssange/status/919247873648283653
+Maybe wikileaks has other fish to fry, like hillary clinton, and doesn't keep up with crypto news.  They may have no knowledge of the blockstream takeover.;1;0;False;funk-it-all;doflhfd;Julian Assange: My deepest thanks to the US government, Senator McCain and Senator Lieberman for pushing Visa, MasterCard, Payal, AmEx, Mooneybookers, et al, into erecting an illegal banking blockade against @WikiLeaks starting in 2010. It caused us to invest in Bitcoin -- with > 50,000% return.;76ge7b;https://twitter.com/JulianAssange/status/919247873648283653
+touche ;1;0;False;QconSling3r;doffmha;Julian Assange: My deepest thanks to the US government, Senator McCain and Senator Lieberman for pushing Visa, MasterCard, Payal, AmEx, Mooneybookers, et al, into erecting an illegal banking blockade against @WikiLeaks starting in 2010. It caused us to invest in Bitcoin -- with > 50,000% return.;76ge7b;https://twitter.com/JulianAssange/status/919247873648283653
+"The real contradiction is it's usually the same idiots posting ""why all these different opinions"" as who complain ""wow ur all a hivemind"" when there's general agreement.
+
+
+Usually it's just noise/trolling, but occasionally it's someone legitimately too stupid to graduate from diapers. In either case it's best to just RES mute them.";1;0;False;xiobio;dofb8pk;Julian Assange: My deepest thanks to the US government, Senator McCain and Senator Lieberman for pushing Visa, MasterCard, Payal, AmEx, Mooneybookers, et al, into erecting an illegal banking blockade against @WikiLeaks starting in 2010. It caused us to invest in Bitcoin -- with > 50,000% return.;76ge7b;https://twitter.com/JulianAssange/status/919247873648283653
+If you're going to alter the whitepaper by doing layer two then the ethical path is to create an altcoin;2;1;False;Lloydie1;dof40h7;Julian Assange: My deepest thanks to the US government, Senator McCain and Senator Lieberman for pushing Visa, MasterCard, Payal, AmEx, Mooneybookers, et al, into erecting an illegal banking blockade against @WikiLeaks starting in 2010. It caused us to invest in Bitcoin -- with > 50,000% return.;76ge7b;https://twitter.com/JulianAssange/status/919247873648283653
+"> Crypto is a serious threat to fiat, we all agree on that.
+
+
+I don't agree on that. 
+
+
+The wealthy are the same no matter what medium you're in, and there are plenty of rich people trying to control Bitcoin. Rich people tend to end up coming to an understanding with statists, and statists won't let crypto undercut fiat. The closest it'd ever get is getting subsumed into fiat.
+
+
+The population at large doesn't care and won't blink when crypto is regulated - hell, there's proof of that already. Try operating an exchange without a license, see how much outrage gets generated when you get locked up.
+";1;0;False;xiobio;dofbjvt;Julian Assange: My deepest thanks to the US government, Senator McCain and Senator Lieberman for pushing Visa, MasterCard, Payal, AmEx, Mooneybookers, et al, into erecting an illegal banking blockade against @WikiLeaks starting in 2010. It caused us to invest in Bitcoin -- with > 50,000% return.;76ge7b;https://twitter.com/JulianAssange/status/919247873648283653
+No eth?;0;0;False;ToAlphaCentauriGuy;dofxyvk;Julian Assange: My deepest thanks to the US government, Senator McCain and Senator Lieberman for pushing Visa, MasterCard, Payal, AmEx, Mooneybookers, et al, into erecting an illegal banking blockade against @WikiLeaks starting in 2010. It caused us to invest in Bitcoin -- with > 50,000% return.;76ge7b;https://twitter.com/JulianAssange/status/919247873648283653
+No shit. 😮;1;0;False;;dofbw2g;Julian Assange: My deepest thanks to the US government, Senator McCain and Senator Lieberman for pushing Visa, MasterCard, Payal, AmEx, Mooneybookers, et al, into erecting an illegal banking blockade against @WikiLeaks starting in 2010. It caused us to invest in Bitcoin -- with > 50,000% return.;76ge7b;https://twitter.com/JulianAssange/status/919247873648283653
+"[Image](https://imgs.xkcd.com/comics/spinal_tap_amps.png)
+
+[Mobile](https://m.xkcd.com/670/)
+
+**Title:** Spinal Tap Amps
+
+**Title-text:** Wow, that's less than $200 per \.\.\. uh \.\.\. that's a good deal\!
+
+[Comic Explanation](https://www.explainxkcd.com/wiki/index.php/670#Explanation)
+
+**Stats:** This comic has been referenced 362 times, representing 0.2123% of referenced xkcds.
+
+---
+^[xkcd.com](https://www.xkcd.com) ^| ^[xkcd sub](https://www.reddit.com/r/xkcd/) ^| ^[Problems/Bugs?](https://www.reddit.com/r/xkcd_transcriber/) ^| ^[Statistics](http://xkcdref.info/statistics/) ^| ^[Stop Replying](https://reddit.com/message/compose/?to=xkcd_transcriber&subject=ignore%20me&message=ignore%20me) ^| ^[Delete](https://reddit.com/message/compose/?to=xkcd_transcriber&subject=delete&message=delete%20t1_dofbwme)";1;0;False;xkcd_transcriber;dofbwme;Julian Assange: My deepest thanks to the US government, Senator McCain and Senator Lieberman for pushing Visa, MasterCard, Payal, AmEx, Mooneybookers, et al, into erecting an illegal banking blockade against @WikiLeaks starting in 2010. It caused us to invest in Bitcoin -- with > 50,000% return.;76ge7b;https://twitter.com/JulianAssange/status/919247873648283653
+But only if you're not a german user, right? Why are Kraken/Payward the counterparty for German users? 🤔;1;0;False;JustBenjsTwoCents;dofnya2;As 20m more Tether are issued today, I think it's important for people to know that an unbacked Tether could be a big reason for the recent bitcoin price rise. (x/post);6xpddt;https://www.reddit.com/r/btc/comments/6xpddt/as_20m_more_tether_are_issued_today_i_think_its/
+"yeah. and I'm a talking tree.
+
+deny all you want. 
+
+Heil Core! ";4;0;False;uaf-userfriendlyact;dof1deo;First 1.0001 GIGABYTE block mined and propagated. Congrats Peter R. and the testnet team!;765gji;https://twitter.com/PeterRizun/status/918822307526688770
+Thanks, this is intriguing ;2;0;False;Dense_Body;dogil8v;First 1.0001 GIGABYTE block mined and propagated. Congrats Peter R. and the testnet team!;765gji;https://twitter.com/PeterRizun/status/918822307526688770

@@ -1,0 +1,117 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+"My point is this:  the system can only function with block rewards, the notion that they can be cut in half 10 more times, or be eliminated entirely is preposterous.  
+
+There is no, and cannot every be, a ""happy sustainable endgame"" for any cryptocurrency that I know of.  If there was an exception I'd change colors in a minute and hop right on board, but I've looked around, and all I find are pie-eyed dreamers like yourself.
+";1;1;False;shortbitcoin;dll3p07;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"Thanks for the link to this exchange, it was very informative.  Just for the record, while I think the name calling didn't do either of you any favors, when it comes to the substance of the disagreement, gizram84 was slightly more convincing to me given that it didn't seem like you had a good response to the fact that both your solution and the LN require a middleman, but yours requires a certain level of trust in that middleman.
+
+Now like I said, I'm just slowly trying to educate myself on the fundamentals of various scaling solutions, and frankly I retain a lot of skepticism that Bitcoin can scale and simplify to the point that a normal person can use it without understanding it or putting their faith in a third party.  And it is very likely that I don't have a firm enough grasp of the basics yet to grok either position, but I thought I'd comment anyway to give some feedback on how this looks to one pair of outside eyes. ";1;2;False;dmcgr;dllwy15;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+">  it didn't seem like you had a good response to the fact that both your solution and the LN require a middleman
+
+what exactly do you think my solution is that requires a middleman?  i thought i was arguing against anything that required any middleman, esp LN hubs.";1;0;False;H0dl;dllx3ez;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+"> it didn't seem like you had a good response to the fact that both your solution and the LN require a middleman, but yours requires a certain level of trust in that middleman.
+
+oh, so you're referring to the Changetip part of the debate.  yeah, i don't have a problem depositing small amounts in something like that b/c it's a toy that has tremendous goodwill when tipping ppl that furthers Bitcoin adoption in general.  i don't and never will store coin on any exchange in contrast however.  that's serious business. just like i will never trust a LN HUB that i think will end up being no better than an exchange.  ";1;0;False;H0dl;dlm27b6;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+Your point is utter nonsense.;1;1;False;WippleDippleDoo;dllfhsi;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+No vag licker.  It is a homophobic slur.  Its not appropriate, like the n-word aint.  Got it?;0;0;False;--_-_o_-_--;dll3xzl;This community is a nightmare for new users;6t1ttt;https://www.reddit.com/r/btc/comments/6t1ttt/this_community_is_a_nightmare_for_new_users/
+poisonous trash talk;1;0;False;zeptochain;dlkvll5;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"But... Satoshi's vision... and the paper... these things can never be changed?
+
+Don't you get how contradictory this looks? You want certain changes but not others. Satoshi's vision is great, but it's not the end of history. We can upgrade it and build even greater things on it.";2;0;False;scientastics;dll4z3z;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+Yeah, I'm figuring that Jihan and Roger both hold NEO, so we really should start looking at it's advantages over stupid expensive corrupt Bitcoin.;0;1;False;sreaka;dll11id;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+Bitcoin is obsolete blockchain tech, bolting on Lightning isn't going to be enough to catch up to the tech's current leaders, and the only reason Blockstream has managed to keep juggling these balls is because the general user doesn't know better.;7;1;False;FaceDeer;dlkzovx;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+For the dozenth time **IT WASN'T A ROLLBACK**! ;2;0;False;sjalq;dllehj6;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"A recent example of exactly that situation coming up was the [Parity multisignature wallet hack](https://blog.ethcore.io/the-multi-sig-hack-a-postmortem/). Due to an embarrassingly stupid bug in the Parity muiltisignature wallet, a hacker made off with $32 million worth of Ether - remarkably close to the value that the TheDAO hacker grabbed (though a much smaller percentage of the total market cap). Since there was no time delay, the hacker ran off with the Ether immediately and laundered it off to exchanges and whatnot.
+
+There were no serious calls for a TheDAO-style fork to recover it. I suspect due to a combination of the lack of a grace period and due to having learned hard lessons from the TheDAO fork.
+
+IMO, the existence of Ethereum Classic makes me trust the main Ethereum chain more. It showed the Ethereum userbase that it couldn't get away with that kind of stuff without huge cost, not even under ""ideal"" circumstances.";2;0;False;FaceDeer;dll0dbs;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"No, the Ether was moved from the attacker's child DAO to a ""recovery contract"" that allowed TheDAO token holders to collect their share. That one Ether transfer was the only ""irregular"" state transition, it was done without a valid cryptographic signature. There's even a copy of the recovery contract over on the Ethereum Classic chain, IIRC, since it was put on the blockchain as a normal transaction before the split - it just doesn't have any ETC in it.";2;0;False;FaceDeer;dll036e;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+Faith in control of binary data transmissions. Blockchain in theory is exploitable, so are many other protocols. Human greed will/does have influence on the above.;1;1;False;danknerd;dll1z6h;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+Let's rely on a coin pegged to Vitalik's health. Oh, it's called ethereum lol;1;0;False;xurebot;dlkzubb;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+Im not an expert but, thats what I keep coming back to. BCH is the chain that did not change. BTC changed.;1;0;False;HooRYoo;dll7qb1;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+The dictionary definition doesn't even say censorship can only be done by governments...;1;1;False;aquahol;dlkuabq;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+Heh, that's not a bad way to put it actually.;1;0;False;NilacTheGrim;dllg0ks;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+Anyone who claims Bitcoin's block size limit should stay at 1MB/2MB is either lying or completely incompetent in related fields, you cannot double your car's fuel tank capacity by splitting it in half and call the second one layer 2.;2;2;False;X-88;dll8je5;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"EVERYBODY: Share this video in r/Bitcoin. Don't use the word ""censorship"" because is automoderated";1;0;False;BTC_uy;dlld32u;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"As far as I can tell, the narcissistic dipshits are using censorship as a weapon because it is one of the oldest tricks in the book, and it absolutely works because most people are idiots who don't question anything and need told what to do. Master manipulators like Greg know this, and understands his own power in this realm having done it to Wikipedia before, and I assume other projects that kicked him out. I don't think Greg is stupid, in fact quite the opposite, but he uses his intellect to manipulate people of lower social intelligence instead of building great software and letting that work speak for itself. 
+
+Its unfortunate that they are much better at propaganda and gaslighting strategies than Bitcoin development or building useful products. ";1;1;False;;dllheco;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+Oh -- I need to research is more then.  If that's the case then... I stand corrected.;1;1;False;NilacTheGrim;dllg0d0;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+Same, I have about 25k Eth, that I bought for about $25k, lol;1;0;False;sreaka;dll1m8a;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+What would be the one sentence summary/conclusion of this?;2;2;False;streetparker;dlkviqg;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+A censored dictionary defines censorship as:;1;0;False;HooRYoo;dll7tng;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+aka abandon the ship?;3;1;False;streetparker;dll1da2;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"Certainly seems the easiest option. I personally lost interest in Bitcoin a year or two back, Ethereum seemed to be the place where the most innovation and real ""action"" was going on. But I certainly don't begrudge anyone who chooses to stick with trying to develop Bitcoin further, the recent Bitcoin Cash fork may finally offer the opportunity to bring some life back into Bitcoin development again.";3;0;False;FaceDeer;dll1toq;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"Basically the difficulty bomb and the switch to PoS will bring inflation to between -1% and +2% per year
+";1;0;False;sjalq;dlll2pg;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+">I don't think Greg is stupid, in fact quite the opposite, but he uses his intellect to manipulate people of lower social intelligence instead of building great software and letting that work speak for itself. 
+
+Indeed, he did purposely lies few times to me on Technical question.
+
+I know for sure he can't be trusted and he is manipulative.";1;0;False;Ant-n;dllj3cy;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+Well said. ;1;0;False;Sfdao91;dllltgq;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"Tell yourself whatever helps you sleep at night or getting through those uncomfortable board meetings. Ethereum is coming for your dumb ass. 
+
+How is your ultra-minority fork coming along?";1;0;False;;dllhcy5;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"> as far as I can tell he has never called out attacks on Bitcoin developers
+
+So you need Vitalik to come to the aid of your hurt egos...??  I think he has better things to do and you guys are so smart you should be able to stand up for yourself.  Meanwhile, at the same time you merrily put shit on Vitalik and Eth.  Such as :
+
+> Whatever it talks to prop up the value of his vast quantities of premined coins
+
+Jealous??  Really, why the hell would he say a kind word about you when you and your cronies have spent plenty of time sounding off at Eth and him - you have probably cost a lot of people the opportunity to get into Eth on the ground floor because they listened to your inane rantings and attempted discrediting of it.
+
+>  dishonest descriptions of an immutable world computer which is not immutable nor a ""world computer"".
+
+Says you.  At least they are innovating and there are a lot of big tech interested - who presumably have competent engineers assessing the potential - but you know better.
+
+> Perhaps promote etc or express some loud doubts about the ethics and legaility of the ethereum foundation's actions or about ICOs he's been involved in breaking securities law
+
+From what little I know about it I think Vitalik has stepped back from the ICOs as they used him to give credibility to their floats but did not ask for or take his actual advice.  This is somewhat of a new frontier and it is entirely unsurprising that there are people playing fast and loose.  But you seem to be merely trying to tar Vitalik with the same brush as what might be applied to some of the people pushing the ICOs
+
+> But he's so concerned that rbitcoin's confining bcash posts to a single thread is dire censorship.... ooohkay.
+
+Yes - darn right ooohkay.  Your tactic is to throw mud in return and **not** to answer the statement.  A mature person might have been able to acknowledge Vitalik's fair and reasonable, and might I add, quite understated observation.
+
+It *is* an underhanded tactic to get control of a Bcash forum and then re-label everything about Bitcoin Cash as BCash in order to fool some of the people to going to the wrong forum where BCash is criticized.  This is the same dirty, unethical, nasty tactics that have been in play all along.  **The fact that you don't call it out, can't call it out and won't call it out just shows what a weak character you are**.  Throwing a bunch of nasty comments doesn't make what is happening on r|bitcoin right even if there should be any grain of substance in them.
+
+
+
+
+
+
+
+";2;0;False;papabitcoin;dll68qc;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+Same deal for me. I hold ETH and BCH. BTC is rotten to the core (no pun intended) and regardless of whether it has technical merrit (which I'm sure it does), while its underlying politics are so corrupt it deserves no support.;1;0;False;timmerwb;dll1hgi;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+[deleted];1;1;False;;dll175i;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"> Faith in control of binary data transmissions. Blockchain in theory is exploitable, so are many other protocols.
+
+Unless you can elaborate more, these basically sound like hand-waving gibberish bullshit to me.
+
+> Human greed will/does have influence on the above.
+
+So you think greed is going to take out cryptocurrency (the thing criticised by many clueless individuals as a ""Ponzi Scheme""), when since Day 1 it has been powered by self-motivated greed at every level?
+
+It's designed into Bitcoin to work BECAUSE of greed, everything from the mining incentives to the adoption pattern.  Greed is Bitcoin's biggest ally, which is why it's been so incredibly successful.";1;0;False;Shibinator;dll7wwm;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+There will only be around 20% more Eth than there is now. The supply curve of Eth is very badly misunderstood. ;3;1;False;sjalq;dllek7h;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"I wouldn't worry about inflation, under the current cryptoeconomy coin supply inflation doesn't really matter. Prices are fluctuating largely based on speculation and increased adoption, by the time that settles out Ethereum's going to be on PoS and block rewards will be greatly reduced.
+
+Even gold has a steadily increasing supply over time, and it's not even a predictably increasing supply. One never knows when the next big ore body will be discovered. Someday we might be mining it out of asteroids.";2;0;False;FaceDeer;dlkzwsl;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"When infants are born, they are basically dictated to by parents for a very long time, until they can survive in the real world - it is a necessity. Only time will tell if ETH delivers and ""grows up"" but for now, it is orders of magnitude more preferable to have Vitalik than Bcore's corrupt politics. I believe POW is still being explored - there is no fixed plan or guaranteed delivery.";1;1;False;timmerwb;dll1q04;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"The iflation thing is a load of bull spun up buy those who never bothered to learn about Ethereum.
+
+Just like Bitcoin, Ethereums issuance is goverend by a mechanism that inflates the currency but at a depreciating rate over time.
+
+The only difference between the two is that in the end game Bitocoin's protocol stops at 21 Million as a hard limit, where Ethereum just lets the tail ride out. At that point either currency is just generating a little dust. The last BTC ever created will take *decades*, so the 21 Million limit is kind of useless. Ethereum just lets the dust generation continue, but losses will probably make it deflationary as Vitalik has noted before.
+
+That said, Eth's changeover to purely Proof of Stake later on will change this dynamic depending on how staking works.";1;0;False;;dllh7yn;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"> ultimately
+
+Currently they're working. They're not globally adopted, but they're perfectly useable by an individual user and support billions in commerce.
+
+What do you expect will destroy all usability and value of not only Bitcoin, but every cryptocurrency, permanently and forever?
+
+Surely not ""there's community manipulation on Reddit"", by that metric half the things that exist in the world, everything from political philosophies to sports organisations, are total failures.";1;1;False;Shibinator;dll141r;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
+"Massive preach ... love it
+";1;0;False;BTC_Kook;dllclk1;Vitalik Buterin on /r/Bitcoin censorship;6te1uu;https://youtu.be/uL9VoxCFqT0
