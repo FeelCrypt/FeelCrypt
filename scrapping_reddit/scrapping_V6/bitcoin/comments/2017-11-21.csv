@@ -1,0 +1,45 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+This is now reality!;1;0;False;forsssage;dq4rm3i;This is why I want bitcoin to hit $10,000;7dpypn;https://i.redd.it/fhzsxgcv9nyz.jpg
+"Which developer do you have suggesting this would be trivial?
+
+Mostly the people that speak of  ""adding decimal places"" to Bitcoin have a total misunderstanding  of what is required from a programming standpoint to represent exact real-number decimal quantities including efficient support for all the basic native arithmetic math functions to work with no rounding acceptable  OR didn't understand that as far as the Bitcoin protocol is concerned there is no such thing as  ""1 Bitcoin"",   there are  ONLY base Units called Satoshi,  and 1  Bitcoin is defined  at a higher level to be  10^8  Satoshi.
+
+People who've said ""8 decimal places""   was an arbitrary cut-off in the  user interface, GUI, or something,  just had no idea what they were talking about,   otherwise they'd realize that the proposition: add X  decimal places is equivalent saying that now: ""1 Bitcoin should now  be 10^(8+X) Satoshi"".
+
+Then to re-formulate the base units:  it is necessary that EVERY place any of piece of software previously calculated  1 BTC = 10^8  Satoshi,  the new calculation has to change to  1 BTC = 10^(8+X),     AND  for every transaction BEFORE an agreed Cutoff,   the Base Unit quantities need to be multipled by  10^X    to adjust the number of Satoshis  created from every past and future action  for the new base units.
+
+This also means future mining rewards after the cutoff block number need to be adjusted to be multiplied by 10^X.
+
+The Base Units are commonly represented in the Bitcoin core itself AND in many  3rd party software programs as a  structural **64-bit integer**   int64_t.
+
+Most runtime environments don't have a 128-Bit integer datatype available,  or  N-Bit Integer datatype,  so even if you could just increase the number of bits in the data structure ----  that is a non-trivial set of changes to implementation   just  to restore  the  original Arithmetic logic.
+
+You would have a great gnashing of teeth, as common language implementations don't provide a nice clean way for programmers to do  native arithmetic on 128-bit numbers.    The result will require some custom code  OR use of a 3rd party math library,   and there is a performance cost.
+
+Making a fundamental change to the size in bits of the transaction structure is an even more  problematic issue to deal with;   this  would definitely be an ATYPICAL change.     Most forks and changes  to the Bitcoin protocol have been about changing the **MEANING** or **Interpretation**  of what a valid transaction is,  not changing the binary formats used to send data over the network ---   When the data formats don't actually change - old and new clients   can see that there is a fork;    they may  disagree on  what is valid,  But  they can all still read all the transactions.
+
+Changing this format without creating major instability would require adding versioning to the transaction inputs and output formats in some way,  and getting THAT change to support both the old format and a new future format completely propagated throughout the ecosystem  before  activating usage of a new format and conducting a base units change.
+
+There are multiple major hurdles trying to change the base units.
+
+(1) Sufficiency of demand:   Could you even justify it,  given all the many hours of developer time that will be required for all Wallets and BTC-related software?
+
+(2) Resistance to change by the installed base.    1 Satoshi has already been established to mean a certain value.    Changing the base unit  is going to  invalidate a lot of documentation.
+
+(3) Technical hurdles in formulating and deploying an inherently breaking change  requiring multiple phases of implementation  without  widespread major issues for users (have simultaneous support for old and new data formats fully deployed,  before using the new formats).
+
+Regarding implementation:
+
+If try just shifting the base units without expanding the structure field,  then you'll  run into a problem because  2^64   only has 19 decimal places to play with.
+
+For example: if you want  10^16  Satoshi to become the new base unit,  then you will upset users,  Because it will no longer to possible to transfer more than   1844 Bitcoins in a single transaction output.
+
+The current base unit size allows up to a maximum of  184,467 Million Bitcoins to be transferred within a 64-bit integer;   Realistically,    the most decimal places you could add would be about 5,   because  it's unlikely for  more than 1 Million BTC to be required in a single transaction.
+
+
+";1;1;False;Draco1200;dq57zd7;This is why I want bitcoin to hit $10,000;7dpypn;https://i.redd.it/fhzsxgcv9nyz.jpg
+"Source?
+
+Early developers obviously believed it was not such a daunting task.";1;1;False;PulsedMedia;dq4v5r1;This is why I want bitcoin to hit $10,000;7dpypn;https://i.redd.it/fhzsxgcv9nyz.jpg
+Why stop there? Becoming a Enoch is highly desirable in some sects.;1;0;False;buffalo6693;dq4m7i6;This is why I want bitcoin to hit $10,000;7dpypn;https://i.redd.it/fhzsxgcv9nyz.jpg
+Weeeeee!;2;0;False;dpistachio;dq4dopq;Bitcoinity USD $4000 gif;6tcg99;http://i.imgur.com/TKiAJWX.gifv
