@@ -1,0 +1,25 @@
+body;score;nb_replies;stickied;author;id;post_title;post_id;post_link
+"No need to apologize it's the truth that is lost.
+
+You have not expressing a valid reason for a limited block size. Your concerns don't materializes with an 8MB limit and the centralization that concerns you can't happen at this scale there is not enough demand for 2MB let along 8MB blocks. 6TB HD $200 and 150mb/s internet conscription $45/month.
+
+Anyway bitcoin control has already centralized we effectively have central control of the one ring to rule them all. While everyone is running BS/Core the node count does not represent a robust protocol resistance to change.
+
+People won't run a cheap node to support a banking settlement layer, they'll run a node because they have a direct interest in knowing their transactions in and out are consistent with the network of users of the blockchain. 
+
+The economic incentives to produce small blocks while maximizing profit are enhanced by economics of scale, limiting block size in the face of obvious technical innovation over the past 8 years and technologies that have been developed and new technologies that are currently being optimized for cost effective deployment, is not preventing centralization it's encouraging it.
+
+With greater adoption we get a more diversity in the network, and with more economic participation more economically incentivize individuals will run a node.";3;1;False;Adrian-X;dc17a6h;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;5cue13;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
+"I can understand your frustration. Cencorship sucks.
+But you need to understand that the 1MB blocksize is a great way to
+artificially limit the economies of scale. It's a trade off.
+Without a blocksize limit, bitcoin would have much higher transaction throughoutput but it would also be dramatically centralized. 
+
+Also, please understand that altcoins have lower fees because they are in their early days. They are no more scalable than bitcoin, without having a bigger block size. See monero, it has been spiking in the past. But the ring signatures are bigger in size and it is less prunable. A monero with 1MB blocksize has less throughtput compared to a 1MB bitcoin.
+This sucks. We can't have it all. Zcash is not prunable at all. And people in Ethreum are illusioned that they can do it all in a single turing complete blockchain.
+
+A centralised bitcoin will open the hell gates. Transaction censorship, reduced competition between miners on fees and thus higher fees.
+
+Again, I am sorry the censorship. I can tell you that I am in favor of a suppressed block size, but censorship sucks. We must not tolerate it.
+
+Anyway, there are little things that make me optimistic on the future. ";1;1;False;goxedbux;dc11hb6;John Blocke: A (brief and incomplete) history of censorship in /r/Bitcoin;5cue13;https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43#.e4gz25xy9
