@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Feelcrypt API</title>
+</head>
+<body>
+
+<h1>
+  <center>
+    Bienvenue sur l'API de Feelcrypt
+  </center>
+</h1>
+<center>
+  <img src="https://lejournaldeleco.fr/thumb-cache/301ce8b17fa74b30c7de96bc1e8eed5f.jpg" style="width:1200px;height:600px;">
+</center>
+
+<center>
+  <button type="button" onclick="get_pred()">Faire une prédiction</button>
+  <h2></h2>
+</center>
+
+</body>
+
+<script>
+  function get_pred(){
+    var url = "http://127.0.0.1:8000/get_prediction"
+
+    var req = new XMLHttpRequest();
+    req.responseType = 'json';
+    req.open('GET', url, true);
+    req.onload  = function() {
+      console.log("result")
+      var jsonResponse = req.response;
+      console.log(jsonResponse)
+   // do something with jsonResponse
+    };
+    req.send(null);
+  }
+</script>
+</html>
