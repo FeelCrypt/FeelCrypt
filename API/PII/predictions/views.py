@@ -9,15 +9,37 @@ import json
 import collections
 import moment
 import pandas as pd
-def home(request):
-    """ Exemple de page non valide au niveau HTML pour que l'exemple soit concis """
-    return HttpResponse("""
-        <h1>Bienvenue sur mon blog !</h1>
-        <p>Les crêpes bretonnes ça tue des mouettes en plein vol !</p>
-    """)
+from django.http import FileResponse
+from os import listdir
 
-def accueil(request):
-    return render(request, "predictions/accueil.html")
+
+def home(request):
+    return render(request, "predictions/index.html")
+
+def CSSFiles(request, file=""):
+    return FileResponse(open(f"./predictions/templates/css/{file}", 'rb'))
+
+def JSfiles(request, file=""):
+    return FileResponse(open(f"./predictions/templates/js/{file}", 'rb'))
+
+def Imgfiles(request, file=""):
+    return FileResponse(open(f"./predictions/templates/img/portfolio/{file}", 'rb'))
+
+def VendorJquery(request):
+    return FileResponse(open("./predictions/templates/vendor/jquery/jquery.min.js", 'rb'))
+
+def VendorBoostrap(request):
+    return FileResponse(open("./predictions/templates/vendor/bootstrap/js/bootstrap.bundle.min.js", 'rb'))
+
+def VendorJqueryeasing(request):
+    return FileResponse(open("./predictions/templates/vendor/jquery-easing/jquery.easing.min.js", 'rb'))
+
+def VendorFontAwesome(request):
+    return FileResponse(open("./predictions/templates/vendor/fontawesome-free/css/all.min.css", 'rb'))
+
+def Fontfiles(request, file=""):
+    return FileResponse(open(f"./predictions/templates/vendor/fontawesome-free/webfonts/{file}", "rb"))
+
 
 def get_prediction(request):
 
