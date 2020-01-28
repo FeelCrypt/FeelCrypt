@@ -40,7 +40,6 @@ def VendorFontAwesome(request):
 def Fontfiles(request, file=""):
     return FileResponse(open(f"./predictions/templates/vendor/fontawesome-free/webfonts/{file}", "rb"))
 
-
 def get_prediction(request):
 
     with open('params.json') as json_file:
@@ -52,7 +51,6 @@ def get_prediction(request):
     pred = collections.Counter(preds).most_common()[0][0]
     return JsonResponse({"pred" : int(pred)}, status = 200)
     
-
 def get_prediction_noword(request):
     date = moment.now()
     date_m1 = moment.now().add(day=-1) 
