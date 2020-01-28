@@ -40,7 +40,6 @@ def VendorFontAwesome(request):
 def Fontfiles(request, file=""):
     return FileResponse(open(f"./predictions/templates/vendor/fontawesome-free/webfonts/{file}", "rb"))
 
-
 def get_prediction(request):
     get_chart_price_cryptocurrencies_csv.get_csv_crypto_prices()
     with open('params.json') as json_file:
@@ -54,7 +53,6 @@ def get_prediction(request):
         pred = collections.Counter(preds).most_common()[0][0]
     return JsonResponse({"pred" : int(pred)}, status = 200)
     
-
 def get_prediction_noword(request):
     get_chart_price_cryptocurrencies_csv.get_csv_crypto_prices()
     date = moment.now()
