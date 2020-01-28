@@ -42,18 +42,21 @@ def Fontfiles(request, file=""):
 
 
 def get_prediction(request):
-
+    get_chart_price_cryptocurrencies_csv.get_csv_crypto_prices()
     with open('params.json') as json_file:
         data = json.load(json_file)
 
     loaded_model = pickle.load(open("xgboost_bitcoin_texts.dat", "rb"))
     df = dataset.read_today_data(threads=["bitcoin", "btc"])
     preds = keras_bitcoin.get_predictions(df["text"], loaded_model, data["vocab_length"], data["max_sentence_size"])
-    pred = collections.Counter(preds).most_common()[0][0]
+    pred = -1
+    if len(collections.Counter(preds).most_common()) > 0 and len(collections.Counter(preds).most_common()[0]) > 0:
+        pred = collections.Counter(preds).most_common()[0][0]
     return JsonResponse({"pred" : int(pred)}, status = 200)
     
 
 def get_prediction_noword(request):
+    get_chart_price_cryptocurrencies_csv.get_csv_crypto_prices()
     date = moment.now()
     date_m1 = moment.now().add(day=-1) 
     date_m2 = moment.now().add(day=-2) 
@@ -61,9 +64,7 @@ def get_prediction_noword(request):
     bitcoin_price = dataset.get_multi_class_label([-5, -0.2, 0.2, 5])
 
     data = {"label_m1" : [bitcoin_price[date_m1.format("YYYY-MM-DD")]], "label_m2" : [bitcoin_price[date_m2.format("YYYY-MM-DD")]], "year" : [date.year],	"month" : [date.month], "day" : [date.day]}
-
     df = pd.DataFrame(data)
-
     loaded_model = pickle.load(open("xgboost_bitcoin_date.dat", "rb"))
     pred = loaded_model.predict(df)
 
