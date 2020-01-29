@@ -27,7 +27,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
     <div class="container">
-      <h2 class="text-white">Feel crypt</h2>
+      <h2 class="text-white">Feelcrypt</h2>
       <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button"
         data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
         aria-label="Toggle navigation">
@@ -253,11 +253,12 @@
                 <img class="img-fluid rounded mb-5" src="img/portfolio/CollecteData.png" alt="" />
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Mollitia neque assumenda ipsam nihil, molestias magnam,
-                  recusandae quos quis inventore quisquam velit asperiores,
-                  vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-                  Nam.
+                  Pour la récupération des données, nous avons travaillé sur plusieurs possibilités non-concluantes : 
+                  Twitter (aucune information dans la majoritée des tweets), Bitcoin.fr (pas assez de contenu), 
+                  stocktwits (API payante et énorme difficulté pour scrapper le site)… 
+                  Finalement, nous avons choisi de collecter la donnée du site Reddit. 
+                  Reddit avait l’avantage de proposer un contenu riche, qualitatif et une API gratuite et riche en possibilité. 
+                  Toute la donnée récupérée a été stockée par date dans des csv.
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
@@ -301,11 +302,12 @@
                 <img class="img-fluid rounded mb-5" src="img/portfolio/Nettoyage.png" alt="" />
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Mollitia neque assumenda ipsam nihil, molestias magnam,
-                  recusandae quos quis inventore quisquam velit asperiores,
-                  vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-                  Nam.
+                  Pour le nettoyage des données, nous avons testé énormément de package pour nous permettre de réduire la taille des csv tout en supprimant la data inutile qui risquait de fausser les résultats. Les packages utilisés sont les suivants : 
+                <br>- Stemming et Lemmatize, pour regrouper les mots de la même famille
+                <br>- des dictionnaires, pour supprimer les mots trop et peu présents car ils n’apportent aucunes informations pour différencier les jours
+                <br>- Unigram Tagger : Pour garder seulement les types de mots que l’on veut et qui transmettent une émotion
+                <br>- Manuel : Suppression des commentaires ayant des mauvaises appréciations,…
+
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
@@ -349,11 +351,11 @@
                 <img class="img-fluid rounded mb-5" src="img/portfolio/Traitement.png" alt="" />
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Mollitia neque assumenda ipsam nihil, molestias magnam,
-                  recusandae quos quis inventore quisquam velit asperiores,
-                  vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-                  Nam.
+                  Nous avons traité les données pour faire ressortir seulement les éléments importants de chaque post/journée :
+                <br>- NLTK et Vader : afin de ne garder que les mots qui transmettent une émotion
+                <br>- LDA dont le but est de faire ressortir les sujets principaux de chaque journée
+                <br>- TF-IDF qui fait apparaitre les mots qui différencient un texte d’un autre
+
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
@@ -397,11 +399,10 @@
                 <img class="img-fluid rounded mb-5" src="img/portfolio/Prédiction.png" alt="" />
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Mollitia neque assumenda ipsam nihil, molestias magnam,
-                  recusandae quos quis inventore quisquam velit asperiores,
-                  vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-                  Nam.
+                  Pour la prédiction du modèle, nous avons confronté un algorithme de Deep Learning 
+                  avec un algorithme de Machine Learning : Keras/Xgboost. Nous avons réalisé plusieurs modèles 
+                  et des fonctions de paramétrage automatique pour obtenir les meilleurs résultats. 
+                  En particulier, pour le modèle de Deep Learning pour la création des couches de neurones.
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
@@ -471,6 +472,15 @@
                       </tr>
                     </tbody>
                   </table>
+                  Malgré les tentatives d’optimisation au maximum de l’information contenue dans les 
+                  messages récupérées depuis les réseaux sociaux, nous n’avons jamais réussi à obtenir 
+                  des résultats probants et nous n’avons jamais trouvé une corrélation significative. 
+                  De plus, nous avons réalisé des tests en prédisant le cours de la journée en fonction, 
+                  uniquement, des cours de la veille, de l’avant-veille et la date du jour (voir ligne date) 
+                  et nous obtenons des meilleurs résultats. De plus, nous pouvons voir que notre modèle obtient
+                  des résultats similaires au modèle naïf. 
+                  <br><b>La conclusion de notre projet est qu'il n'y a pas de corrélation entre les messages sur les réseaux sociaux 
+                  et le cours du Bitcoin</b>
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
@@ -514,11 +524,10 @@
                 <img class="img-fluid rounded mb-5" src="img/portfolio/ConstructionSiteWeb.png" alt="" />
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Mollitia neque assumenda ipsam nihil, molestias magnam,
-                  recusandae quos quis inventore quisquam velit asperiores,
-                  vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-                  Nam.
+                  Pour le site web, nous avons travaillé sur la réalisation d’une API Python avec 
+                  le package Django pour pouvoir afficher nos résultats et nous avons avons 
+                  réalisé un site web esthétique et simple pour comprendre les étapes de notre projet
+                   et mieux voir les résultats obtenus.
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
