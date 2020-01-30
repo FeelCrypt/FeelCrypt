@@ -133,7 +133,7 @@ def read_today_data(threads, date = None):
     
     date_now =  moment.date(date).format("YYYY-MM-DD") if date else moment.now().format("YYYY-MM-DD")
     for thread in threads:
-        file = f"../../Data/Reddit_Data/{thread}/comments/{date_now}.csv"
+        file = f"./{thread}/comments/{date_now}.csv"
         if os.path.exists(file):
             df = pd.read_csv(file, sep=";")
             df["body"] = [str(x) for x in df["body"]]

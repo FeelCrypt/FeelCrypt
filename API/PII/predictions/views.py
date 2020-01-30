@@ -10,7 +10,6 @@ import collections
 import moment
 import pandas as pd
 from django.http import FileResponse
-from os import listdir
 
 
 def home(request):

@@ -43,7 +43,7 @@
             <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#dev">Développement</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">About</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">Equipe</a>
           </li>
         </ul>
       </div>
@@ -77,7 +77,9 @@
         <div class="col">
           <h1 class="mb-3" id="pred_value">
           </h1>
-
+          <div class="spinner-border text-light" role="status" id="pred_loader">
+            <span class="sr-only">Loading...</span>
+          </div>
         </div>
         <div class="col" style="text-align: center;">
           <button class="btn btn-outline-light btn-lg btn-block" id="btn_date">Prédiction Dates</button>
@@ -188,7 +190,7 @@
     <div class="container">
       <!-- About Section Heading -->
       <h2 class="page-section-heading text-center text-uppercase text-white">
-        About
+        Notre Equipe
       </h2>
 
       <!-- Icon Divider -->
@@ -253,11 +255,12 @@
                 <img class="img-fluid rounded mb-5" src="img/portfolio/CollecteData.png" alt="" />
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">
-                  Pour la récupération des données, nous avons travaillé sur plusieurs possibilités non-concluantes : 
-                  Twitter (aucune information dans la majoritée des tweets), Bitcoin.fr (pas assez de contenu), 
-                  stocktwits (API payante et énorme difficulté pour scrapper le site)… 
-                  Finalement, nous avons choisi de collecter la donnée du site Reddit. 
-                  Reddit avait l’avantage de proposer un contenu riche, qualitatif et une API gratuite et riche en possibilité. 
+                  Pour la récupération des données, nous avons travaillé sur plusieurs possibilités non-concluantes :
+                  Twitter (aucune information dans la majoritée des tweets), Bitcoin.fr (pas assez de contenu),
+                  stocktwits (API payante et énorme difficulté pour scrapper le site)…
+                  Finalement, nous avons choisi de collecter la donnée du site Reddit.
+                  Reddit avait l’avantage de proposer un contenu riche, qualitatif et une API gratuite et riche en
+                  possibilité.
                   Toute la donnée récupérée a été stockée par date dans des csv.
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
@@ -302,11 +305,15 @@
                 <img class="img-fluid rounded mb-5" src="img/portfolio/Nettoyage.png" alt="" />
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">
-                  Pour le nettoyage des données, nous avons testé énormément de package pour nous permettre de réduire la taille des csv tout en supprimant la data inutile qui risquait de fausser les résultats. Les packages utilisés sont les suivants : 
-                <br>- Stemming et Lemmatize, pour regrouper les mots de la même famille
-                <br>- des dictionnaires, pour supprimer les mots trop et peu présents car ils n’apportent aucunes informations pour différencier les jours
-                <br>- Unigram Tagger : Pour garder seulement les types de mots que l’on veut et qui transmettent une émotion
-                <br>- Manuel : Suppression des commentaires ayant des mauvaises appréciations,…
+                  Pour le nettoyage des données, nous avons testé énormément de package pour nous permettre de réduire
+                  la taille des csv tout en supprimant la data inutile qui risquait de fausser les résultats. Les
+                  packages utilisés sont les suivants :
+                  <br>- Stemming et Lemmatize, pour regrouper les mots de la même famille
+                  <br>- des dictionnaires, pour supprimer les mots trop et peu présents car ils n’apportent aucunes
+                  informations pour différencier les jours
+                  <br>- Unigram Tagger : Pour garder seulement les types de mots que l’on veut et qui transmettent une
+                  émotion
+                  <br>- Manuel : Suppression des commentaires ayant des mauvaises appréciations,…
 
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
@@ -351,10 +358,11 @@
                 <img class="img-fluid rounded mb-5" src="img/portfolio/Traitement.png" alt="" />
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">
-                  Nous avons traité les données pour faire ressortir seulement les éléments importants de chaque post/journée :
-                <br>- NLTK et Vader : afin de ne garder que les mots qui transmettent une émotion
-                <br>- LDA dont le but est de faire ressortir les sujets principaux de chaque journée
-                <br>- TF-IDF qui fait apparaitre les mots qui différencient un texte d’un autre
+                  Nous avons traité les données pour faire ressortir seulement les éléments importants de chaque
+                  post/journée :
+                  <br>- NLTK et Vader : afin de ne garder que les mots qui transmettent une émotion
+                  <br>- LDA dont le but est de faire ressortir les sujets principaux de chaque journée
+                  <br>- TF-IDF qui fait apparaitre les mots qui différencient un texte d’un autre
 
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
@@ -399,9 +407,9 @@
                 <img class="img-fluid rounded mb-5" src="img/portfolio/Prédiction.png" alt="" />
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">
-                  Pour la prédiction du modèle, nous avons confronté un algorithme de Deep Learning 
-                  avec un algorithme de Machine Learning : Keras/Xgboost. Nous avons réalisé plusieurs modèles 
-                  et des fonctions de paramétrage automatique pour obtenir les meilleurs résultats. 
+                  Pour la prédiction du modèle, nous avons confronté un algorithme de Deep Learning
+                  avec un algorithme de Machine Learning : Keras/Xgboost. Nous avons réalisé plusieurs modèles
+                  et des fonctions de paramétrage automatique pour obtenir les meilleurs résultats.
                   En particulier, pour le modèle de Deep Learning pour la création des couches de neurones.
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
@@ -472,15 +480,16 @@
                       </tr>
                     </tbody>
                   </table>
-                  Malgré les tentatives d’optimisation au maximum de l’information contenue dans les 
-                  messages récupérées depuis les réseaux sociaux, nous n’avons jamais réussi à obtenir 
-                  des résultats probants et nous n’avons jamais trouvé une corrélation significative. 
-                  De plus, nous avons réalisé des tests en prédisant le cours de la journée en fonction, 
-                  uniquement, des cours de la veille, de l’avant-veille et la date du jour (voir ligne date) 
+                  Malgré les tentatives d’optimisation au maximum de l’information contenue dans les
+                  messages récupérées depuis les réseaux sociaux, nous n’avons jamais réussi à obtenir
+                  des résultats probants et nous n’avons jamais trouvé une corrélation significative.
+                  De plus, nous avons réalisé des tests en prédisant le cours de la journée en fonction,
+                  uniquement, des cours de la veille, de l’avant-veille et la date du jour (voir ligne date)
                   et nous obtenons des meilleurs résultats. De plus, nous pouvons voir que notre modèle obtient
-                  des résultats similaires au modèle naïf. 
-                  <br><b>La conclusion de notre projet est qu'il n'y a pas de corrélation entre les messages sur les réseaux sociaux 
-                  et le cours du Bitcoin</b>
+                  des résultats similaires au modèle naïf.
+                  <br><b>La conclusion de notre projet est qu'il n'y a pas de corrélation entre les messages sur les
+                    réseaux sociaux
+                    et le cours du Bitcoin</b>
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
@@ -524,10 +533,10 @@
                 <img class="img-fluid rounded mb-5" src="img/portfolio/ConstructionSiteWeb.png" alt="" />
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">
-                  Pour le site web, nous avons travaillé sur la réalisation d’une API Python avec 
-                  le package Django pour pouvoir afficher nos résultats et nous avons avons 
+                  Pour le site web, nous avons travaillé sur la réalisation d’une API Python avec
+                  le package Django pour pouvoir afficher nos résultats et nous avons avons
                   réalisé un site web esthétique et simple pour comprendre les étapes de notre projet
-                   et mieux voir les résultats obtenus.
+                  et mieux voir les résultats obtenus.
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
@@ -561,11 +570,17 @@
     $("#btn_date").on('click', () => get_pred("http://localhost:8000/get_prediction_noword"))
     $("#btn_text").on('click', () => get_pred("http://localhost:8000/get_prediction"))
 
+    $("#pred_loader").hide()
+
     const get_pred = url => {
+      $("#pred_loader").show()
+      $("#pred_value").hide()
       fetch(url).then(function (response) {
         return response.json();
       }).then(function (data) {
         console.log(data);
+        $("#pred_loader").hide()
+        $("#pred_value").show()
         let text = ""
         if (data.pred == 1)
           text = "-5%"
@@ -582,6 +597,8 @@
         document.getElementById("pred_value").innerHTML = text
       }).catch(function (e) {
         console.log(e);
+        $("#pred_loader").hide()
+        $("#pred_value").show()
       });
     }
   </script>
