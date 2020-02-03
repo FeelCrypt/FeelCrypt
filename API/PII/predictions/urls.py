@@ -11,6 +11,8 @@ urlpatterns = [
     path("css/<str:file>", views.CSSFiles),
     path("js/<str:file>", views.JSfiles),
     path("img/portfolio/<str:file>", views.Imgfiles),
-    path('get_prediction', views.get_prediction),
-    path('get_prediction_noword', views.get_prediction_noword)
+    path('get_prediction_texts', views.get_prediction_texts),
+    path('get_prediction_date', views.get_prediction_date),
+    path('train_model_texts', views.train_model_texts),
+    path('train_model_date', views.train_model_date)
 ]

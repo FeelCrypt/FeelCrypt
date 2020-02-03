@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-
-
-# -- ==user_accounts== --
 from numpy import array
 from keras.preprocessing.text import one_hot
 from keras.preprocessing.sequence import pad_sequences
@@ -41,9 +37,6 @@ def get_train_test_data(texts, labels):
     texts_train, texts_test , labels_train, labels_test = train_test_split(padded_coded_sentences, labels , test_size = 0.20)
     return texts_train, texts_test, labels_train, labels_test, vocab_length,max_sentence_size
 
-#model.add(Conv1D(250,3,padding='valid',activation='sigmoid',strides=(2,2)))
-#model.add(Dense(250, activation="softplus"))
-#model.add(Dense(1, activation="sigmoid"))
 def get_model(texts_train, labels_train, vocab_length, max_sentence_size, epochs = 100, batch_size=100, activations_functions = ["sigmoid"], verbose = 0, dropouts = []):
     model = Sequential()
     model.add(Embedding(vocab_length, 20, input_length=max_sentence_size))
@@ -70,5 +63,3 @@ def get_predictions(texts, model, vocab_length, max_sentence_size):
     preds = model.predict(to_predict)
     
     return preds
-
-# -- ==user_accounts== --
