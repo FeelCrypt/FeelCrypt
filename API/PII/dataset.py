@@ -106,10 +106,10 @@ def get_date_labeled_dataset(from_date, to_date, binary = True):
         
     return pd.DataFrame(dataset)
 
-def read_today_data(threads, date = None):
+def read_today_data(threads):
     dataset = {"text" : []}
     
-    date_now =  moment.date(date).format("YYYY-MM-DD") if date else moment.now().format("YYYY-MM-DD")
+    date_now =  moment.now().format("YYYY-MM-DD")
     for thread in threads:
         file = f"./{thread}/comments/{date_now}.csv"
         if os.path.exists(file):

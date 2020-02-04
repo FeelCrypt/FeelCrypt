@@ -13,7 +13,6 @@ import math
 available_activation_functions = ["tanh", "elu", "softmax", "selu", "softplus", "softsign", "relu", "sigmoid", "hard_sigmoid", "exponential", "linear"]
 
 def get_unique_words_count(texts):
-    
     words_set = set()
     for sentence in texts:
         tokenize_word = word_tokenize(sentence)
