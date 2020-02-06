@@ -13,7 +13,8 @@ reddit = praw.Reddit(client_id='BEjar6X3GYV5Vw', \
 
 # Variables de configuration globale
 nb_top_posts = 500  # nombre de posts selectionnés parmi les premiers (limite = 500)
-subreddit_title = 'bitcoin' # Définir le titre du subreddit que l'on va cibler
+subreddit_title = 'bitcoin' # Subreddit bitcoin
+subreddit_title2 = 'btc' # Subreddit btc
 
 # Variables globales
 
@@ -383,10 +384,53 @@ def Delete_all_data():
 #Delete_all_data()
 
 def scrapping_main():
+	###########################################
+	
+	# Traiter sub bitcoin
+	
 	# Récupérer le chemin du dossier contenant le script python
 	script_folder = get_script_dir_path()
 	# Créer un dossier pour le subreddit
 	subreddit_path = create_folder(script_folder, subreddit_title)
+	print(f'subreddit_path : {subreddit_path}')
+	# Vérifier si le dossier comments (chemin relatif) existe, sinon le créer
+	comments_path = create_folder(subreddit_path, 'comments')
+	# Vérifier si le dossier comments_manager_id (chemin relatif) existe, sinon le créer
+	comments_manager_id_path = create_folder(subreddit_path, 'comments_manager_id')
+	# Créer la liste des id des posts à traiter
+	id_todo_path = create_id_todo(subreddit_path)
+	# Créer le fichier pour compter le nombre de commentaires total
+	file_name = 'total_comments_counter.txt'
+	counter_path = subreddit_path + file_name
+	
+	if not os.path.isfile(counter_path):
+		counter_path = create_counter(subreddit_path)
+	# Créer le compteur de commentaires par post, retourné par l'api (dans un fichier csv)
+	print(f'SUBREDDIT PATH AVANT CREER CSV : {subreddit_path}')
+	create_csv(subreddit_path, 'comments_manager_counter.csv')
+	comments_manager_counter_path = subreddit_path + 'comments_manager_counter.csv'
+	print('fonction 7')
+	# Test if csv exists
+	path_to_manager = 'C:\\Users\\Louis\\feelcrypt\\FeelCrypt\\scrapping_reddit\\scrapping_V5\\bitcoin\\comments_manager_counter.csv'
+	counter_csv_exists = os.path.exists(path_to_manager.replace(os.sep, '/'))
+	print("csv exists : " + str(counter_csv_exists))
+
+
+	# Ouvrir la liste de posts pas encore faits
+	with open(id_todo_path) as file:
+		id_todo = file.readlines()
+
+	# Traiter chaque id du fichier todo
+	get_comments(id_todo, comments_manager_id_path, comments_manager_counter_path, id_todo_path, comments_path, counter_path, subreddit_path)
+	
+	############################################# 
+	
+	# Traiter sub btc
+	
+	# Récupérer le chemin du dossier contenant le script python
+	script_folder = get_script_dir_path()
+	# Créer un dossier pour le subreddit
+	subreddit_path = create_folder(script_folder, subreddit_title2)
 	print(f'subreddit_path : {subreddit_path}')
 	# Vérifier si le dossier comments (chemin relatif) existe, sinon le créer
 	comments_path = create_folder(subreddit_path, 'comments')
@@ -417,3 +461,6 @@ def scrapping_main():
 
 	# Traiter chaque id du fichier todo
 	get_comments(id_todo, comments_manager_id_path, comments_manager_counter_path, id_todo_path, comments_path, counter_path, subreddit_path)
+	
+	
+	
