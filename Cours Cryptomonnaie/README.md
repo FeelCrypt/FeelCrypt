@@ -4,15 +4,15 @@ Ce programme permet de récupérer le cours d'une cryptomonnaie sous forme de fi
 
 L'API se trouve sur ce lien :
 
-'''bash
+```bash
 https://min-api.cryptocompare.com/
-'''
+```
 
 La documentation ici : 
 
-'''bash
+```bash
 https://min-api.cryptocompare.com/documentation
-'''
+```
 
 # Utilisation
 
@@ -21,19 +21,19 @@ Le programme s'appelle "get_chart_price_cryptocurrencies_csv.py" et se situe dan
 Le programme permet de récupérer le cours d'une cryptomonnaie.
 
 Pour cela il suffit de faire appel à la fonction :
-'''bash
+```bash
 get_csv_crypto_prices()
-'''
+```
 
 Cette fonction prend un paramètre optionnel qui est la devise (par défaut BTC)
 Changez ce paramètre pour récupérer le cours d'une autre crypto que le BTC
 
 Exemple : 
-'''bash
+```bash
 get_csv_crypto_prices(currency="ETH")
-'''
+```
 
 Le programme renvoie un fichier csv dont le nom est :
-'''bash
+```bash
 chart_price_{inserer_nom_crypto}.csv
-'''
+```
